@@ -1,0 +1,78 @@
+{
+  "pokemonId": 899,
+  "nameKo": "신비록",
+  "nameEn": "wyrdeer",
+  "formKey": null,
+  "types": [
+    "normal",
+    "psychic"
+  ],
+  "roles": [
+    "physical-attacker",
+    "tank"
+  ],
+  "recommendedAbility": "sap-sipper",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "fairy",
+    "normal"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 0
+  },
+  "locale": "ko",
+  "title": "[신비록] 배틀 운용 가이드",
+  "summary": "[intimidate] 또는 [sap-sipper]로 서포트하면서 [megahorn]·[psyshield-bash]로 [물]리 타격을 내는 견고한 [노말]·[에스퍼] 탱커.",
+  "strengths": [
+    "HP 103으로 중반전 내구 확보",
+    "[sap-sipper]로 [풀] 기술 완전 면역 + 공격 상승",
+    "[megahorn]·[psyshield-bash]로 [풀]·[에스퍼] 대체 타점"
+  ],
+  "weaknesses": [
+    "[악]·[고스트]·[벌레] 2배",
+    "스피드 65로 선공 불리",
+    "특수 어태커에게 특방 75가 부족"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "psyshield-bash",
+      "reason": "STAB + 방어 상승 [물]리 [에스퍼]"
+    },
+    {
+      "move": "megahorn",
+      "reason": "[고스트]·[악]·[에스퍼] 견제 [벌레] 타점"
+    },
+    {
+      "move": "earthquake",
+      "reason": "[강철]·[독]·[바위] 견제"
+    },
+    {
+      "move": "body-slam",
+      "reason": "마비 유도 [노말] STAB"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "leftovers",
+      "reason": "HP 103 탱크 플랜의 지속 회복"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "1회성 피통 확보"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[신비록]은 종족값 103/105/72/105/75/65의 [노말]·[에스퍼] [물]리 탱커로, 챔피언스 MA에서는 HP 103과 특성 [sap-sipper] 조합으로 [풀] 타입을 완전 셧다운하는 준내구 어태커 자리를 맡는다. 기본 공격 105에 [psyshield-bash]라는 전용기 수준의 [물]리 STAB를 가진 것이 구조적 강점이다.\n\n## 강점 분석\n[sap-sipper] 특성은 상대가 [풀] 기술([powder] 포함)을 누르는 순간 공격이 한 단계 오르며 데미지를 완전히 무시한다. [spore]·[sleep-powder]·[leech-seed]를 쓰는 팀을 구조적으로 카운터하는 효과다. [psyshield-bash]는 사용할 때마다 방어가 오르는 셋업기 겸용 [물]리 STAB이고, [megahorn]은 [에스퍼] 미러에서 [고스트]·[악] 라인을 직접 찢는 서브 웨폰이다. HP 103 + 방어 72는 [leftovers]와 맞[물]려 중반전 교대 플랜을 완성한다.\n\n## 약점과 대응\n[악]·[고스트]·[벌레] 2배가 뼈아프다. 마스카나의 [knock-off], 드래펄트의 [phantom-force], kingambit의 [sucker-punch] 한 방에 그대로 무너진다. 스피드 65는 상위권 스위퍼보다 한참 느리고, 특방 75로 특수 어태커 상대로는 안정적이지 않다. 교대 예측을 정확히 해야 한다.\n\n## 추천 기술 구성\n[psyshield-bash]는 반드시 채택 — 방어 상승 효과까지 얹혀서 턴마다 실질 내구가 커진다. [megahorn]은 [고스트]·[악]·[에스퍼] 견제 필수 서브, [earthquake]는 [강철]·[바위]·[독] 견제 완벽 매칭이다. 마지막 슬롯은 [body-slam]으로 마비 유도 역할을 더해 후속 아군의 테라·셋업 플랜을 연다. [body-slam] 대신 [throat-chop]으로 [악] 미러 기술을 넣는 선택지도 있다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [leftovers]가 1순위 — HP 103과 맞[물]려 매 턴 지속 회복을 가져간다. [sitrus-berry]는 1턴 기습 회복을 원하는 공격형 세팅에 적합하다. 특성은 [sap-sipper] 고정, [intimidate]는 더블 서포트형에서 검토할 수 있지만 여기서는 [풀] 타입 카운터 가치가 더 크다. 테라스탈은 [악]·[고스트] 약점을 지우는 [페어리], 혹은 STAB 강화와 약점 정리 양쪽이 되는 [노말] 테라가 주력이다.\n\n## 시너지와 파트너\n[신비록]은 느린 탱커이므로 선봉에서 매치업을 가져오는 빠른 피벗([u-turn] 유저)이 필요하다. [악]·[고스트] 약점을 보완할 [페어리]·[격투] 파트너와, 특수 어태커를 받아줄 특수 탱커를 함께 둔다. [풀] 타입 카운터라는 역할을 살리려면 상대 [풀] 스위퍼(breloom·venusaur류)에 맞춰 스위치 인 하는 플랜이 필요하다.\n\n## 운용 팁\n[풀] 기술이 확정되는 턴에 스위치 인 하면 [sap-sipper]로 공격이 오르고 공격 턴까지 덤으로 얻는다. [psyshield-bash]는 상대의 [물]리 어태커 앞에서 최대한 많이 눌러 방어 스택을 쌓고, HP가 50% 이하로 떨어지면 [megahorn]/[earthquake]로 마지막 타격을 노린다. 테라스탈은 [sucker-punch]·[shadow-sneak]가 날아올 것이 확실한 턴에 즉시 [페어리]로 발동한다.",
+  "tags": [
+    "hisui",
+    "normal",
+    "psychic",
+    "tank",
+    "sap-sipper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

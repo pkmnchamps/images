@@ -1,0 +1,78 @@
+{
+  "pokemonId": 697,
+  "nameKo": "견고라스",
+  "nameEn": "tyrantrum",
+  "formKey": null,
+  "types": [
+    "rock",
+    "dragon"
+  ],
+  "roles": [
+    "physical-attacker",
+    "setup-sweeper"
+  ],
+  "recommendedAbility": "strong-jaw",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "dragon",
+    "flying"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 2,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "[Tyrantrum] Battle Guide",
+  "summary": "A [Rock]/[Dragon] physical breaker built a[round] [head-smash] pressure and a 1.5x [strong-jaw] boost on [crunch] and [fire-fang].",
+  "strengths": [
+    "[strong-jaw] applies a 1.5x multiplier to [crunch] and [fire-fang]",
+    "[head-smash] one-shots [Flying] and [Fire] cores that other [Rock] types can't touch",
+    "119 Def and 82 HP [absorb] one neutral physical hit reliably"
+  ],
+  "weaknesses": [
+    "4x [Fighting] weakness — any [close-combat] instantly ends the sequence",
+    "[Ground], [Steel], [Ice], [Dragon], and [Fairy] all land for 2x",
+    "Base 71 Speed leaves [Tyrantrum] slower than most unboosted attackers"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "head-smash",
+      "reason": "The headline [Rock] STAB — [Tyrantrum]'s whole value proposition"
+    },
+    {
+      "move": "dragon-claw",
+      "reason": "Re[coil]-free [Dragon] STAB for safe damage between es"
+    },
+    {
+      "move": "crunch",
+      "reason": "[strong-jaw] turns this into an elite [Ghost] and [Psychic] punisher"
+    },
+    {
+      "move": "dragon-dance",
+      "reason": "Fixes the Speed problem and stacks onto Attack in the same slot"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "Banks survival against the 4x [Fighting] priority matchups"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "Immediate Speed tier without needing a turn"
+    }
+  ],
+  "bodyMarkdown": "## Overview\n[Tyrantrum] is a [Rock]/[Dragon] physical breaker whose entire gameplay loop hinges on [head-smash] re[coil] damage and the [strong-jaw] boost on its biting cove[rage]. With base Attack 121 and Def 119, the raw stat distribution is closer to an old-school wallbreaker than a modern sweeper — it wants one setup turn, and then it wants to swing for the fences.\n\n## Strengths\nAn [adamant]-natured base 121 Attack turns [head-smash] into a genuine one-shot tool against [Flying], [Fire], and [Ice] cores that most [Rock] types can't punish cleanly. The [Dragon] typing on its second STAB means [dragon-claw] also threatens [Dragon] mirrors without re[coil], and [strong-jaw] applies a 1.5x multiplier to [crunch], turning it into a functional [Dark] STAB that eats [Ghost] and [Psychic] pivots. The 119 physical Def and 82 HP give [Tyrantrum] one free physical tank, which is usually the setup window for [dragon-dance].\n\n## Weaknesses & Answers\nThe 4x [Fighting] weakness dominates everything. A [sing]le [close-combat] or [drain-punch] from a priority-less attacker still almost always finishes [Tyrantrum] off, and any unresisted [Fighting] move ends the sequence. [Ground], [Steel], [Ice], [Dragon], and [Fairy] all hit for 2x, so the list of safe switch-ins is short. Base 71 Speed is the structural problem — without a [dragon-dance] boost [Tyrantrum] loses to nearly every offensive answer. Priority alone ([mach-punch], [extreme-speed]) bypasses the setup entirely, and the [head-smash] re[coil] combined with 59 SpD means long games are simply unwinnable.\n\n## Recommended Moveset\n[head-smash] is the STAB main. Its re[coil] is real, but nothing else on the learnset reproduces that damage ceiling. [dragon-claw] is the second STAB, picked specifically because it's re[coil]-free and keeps [Tyrantrum] alive across multiple attacks. [crunch] is the [strong-jaw]-boosted cove[rage] that punishes [Ghost] and [Psychic] switch-ins — it functionally replaces a dedicated [Dark] STAB. [dragon-dance] is the fourth slot because 71 Speed is simply too slow untreated. If the team already provides Speed control, [earthquake] is the alternative cove[rage] for [Steel] and [Fire] pivots.\n\n## Item · Ability · Tera\n[focus-sash] is the default item, banking one hit survived so [Tyrantrum] can either swing back or set up. [choice-scarf] is the faster alternative when [dragon-dance] setup opportunities aren't realistic — it turns base 71 into immediate Speed-tier pressure at the cost of locking into [head-smash]. The ability must be [strong-jaw] — [rock]-head is only a re[coil] fix and costs the biting multiplier. Tera [Dragon] maxes [dragon-claw] and [outrage] damage, and Tera [Flying] is the dedicated answer to the 4x [Fighting] weakness, flipping the most dangerous matchup into a neutral one.\n\n## Teammates & Synergy\nA [Steel] or [Poison] pivot to [absorb] [Fairy] moves is mandatory, as is a [Fighting]-resist answer ([Psychic] or [Fairy] ally). A stealth-[rock] lead makes [Tyrantrum]'s damage ceiling much more reliable, turning 2HKOs into OHKOs against [Flying] and [Fire] pivots. Finally, an [intimidate] user or [fake-out] disruptor buys the [dragon-dance] setup turn against faster offensive teams.\n\n## Play Patterns\nEarly turns are for pressure reads, not direct damage. Only c[lick] [head-smash] when the opponent cannot bring in a [Fighting] [revenge] killer, and only use [dragon-dance] behind a switch or [protect] cover. Save Tera [Flying] for the moment a [close-combat] is telegraphed — that [sing]le flip is often the difference between winning and lo[sing] the match. [Tyrantrum] is a one-setup, two-swing card; overstaying is how it loses.",
+  "tags": [
+    "kalos",
+    "rock",
+    "dragon",
+    "strong-jaw",
+    "physical-breaker"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

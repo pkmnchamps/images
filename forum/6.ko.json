@@ -1,0 +1,82 @@
+{
+  "pokemonId": 6,
+  "nameKo": "리자몽",
+  "nameEn": "charizard",
+  "formKey": null,
+  "types": [
+    "fire",
+    "flying"
+  ],
+  "roles": [
+    "special-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "solar-power",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "fire",
+    "fighting"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[리자몽] 배틀 운용 가이드",
+  "summary": "맑음 아래 [solar-power]로 특공을 1.5배 증폭해 상대 후방까지 태워버리는 [불꽃]·[비행] 특수 스위퍼.",
+  "strengths": [
+    "[solar-power] 맑음 조합으로 실질 특공 160+",
+    "100 스피드로 메타 대부분을 선공",
+    "[air-slash] [풀]죽음으로 변수 창출"
+  ],
+  "weaknesses": [
+    "[stealth-rock] 4배 잔존 피해",
+    "[바위] 4배 약점 + [물]·[전기] 2배",
+    "[solar-power]의 HP 셀프 감소로 지속력 부족"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "fire-blast",
+      "reason": "[solar-power] + 맑음 + [charcoal]이 합쳐지는 최대 화력 [불꽃] STAB"
+    },
+    {
+      "move": "air-slash",
+      "reason": "[비행] STAB + [풀]죽음 30%로 흐름 강탈"
+    },
+    {
+      "move": "focus-blast",
+      "reason": "[바위]·[강철]·[악]을 견제하는 필수 서브"
+    },
+    {
+      "move": "solar-beam",
+      "reason": "맑음 1턴 발사로 [물]·[바위]·[땅] 일괄 정리"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "charcoal",
+      "reason": "[불꽃] 기술 20% 증폭, 와 곱산"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "맑음 외에서도 스피드 우위 확보"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "선공 한 방을 버티고 반격"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[리자몽]은 [불꽃]·[비행] 타입의 고전 특수 스위퍼다. 맑음 팀 축으로 채용되며, 특성 [solar-power]가 발동하면 109의 특공이 1.5배 증폭돼 실질 160대에 도달한다. 100의 스피드로 대부분의 어태커를 앞서고, [비행] STAB의 [풀]죽음 변수까지 얹어 단일 포켓몬으로도 상대 전선을 찢어낼 파괴력을 낸다.\n\n## 강점 분석\n[solar-power] + 맑음 + [charcoal]의 조합은 [fire-blast] 한 방으로 탱커까지 찢어버리는 수준의 화력을 낸다. [불꽃]·[비행] STAB는 [풀]·[벌레]·[페어리]·[격투] 반감에 고르게 찌르는 각도를 만들고, [air-slash]의 [풀]죽음 30%는 확률적 변수로 상대 계산을 흔든다. 100 스피드는 팀 내 스피드 기준점을 한 단계 끌어올려 스피드 컨트롤 부담을 덜어준다.\n\n## 약점과 대응\n[stealth-rock]이 깔려 있으면 진입 한 번에 최대 HP의 50%가 날아간다. 팀에 [stealth-rock] 해제 수단이 없다면 [리자몽] 채용 자체를 재고해야 한다. [바위] 4배 약점 탓에 [stone-edge] 한 방에 기절하는 일이 잦고, [물]·[전기] 2배 어태커에게도 약하다. [solar-power]는 턴마다 HP의 1/8을 자체 소모하므로 장기전 지속력이 떨어진다는 점도 플레이에 반영해야 한다.\n\n## 추천 기술 구성\n[fire-blast]가 주력 STAB이다. [solar-power] + 맑음 + [charcoal]의 3단계 보정이 합쳐져 메타 최상위 탱커도 2방에 녹일 수 있다. [air-slash]는 [풀]죽음 확률과 [비행] STAB 겸용이며, [focus-blast]는 [바위]·[강철]·[악] 견제용 필수 서브다. 마지막 슬롯은 [solar-beam]으로, 맑음 하 1턴 차지 즉발로 [물]·[땅]·[바위] 탱커들을 일괄 해결한다. 팀 컨셉에 따라 [solar-beam] 대신 [thunderbolt]로 교체하는 것도 실전적이다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [charcoal]로 [불꽃] 기술에 20% 추가 배율을 얹는 것이 기본이다. [solar-power] + 맑음 + [charcoal] 삼중 보정은 메타에서 가장 높은 특수 화력 라인 중 하나다. [choice-scarf]로 스피드 축을 잡는 대안과, [focus-sash]로 선공기 보험을 거는 대안도 실전적이다. 특성은 반드시 [solar-power]를 고르고, 테라스탈은 [불꽃] STAB 화력을 더 올리는 불 타입이 기본이다. [격투] 타입 테라로 [바위] 약점을 무효화하는 방어적 옵션도 팀 구성에 따라 유효하다.\n\n## 시너지와 파트너\n맑음 세팅 요원과 [stealth-rock]을 지워주는 [rapid-spin]·[defog] 사용자가 거의 필수다. [리자몽]은 [solar-power] 자체 피해 탓에 짧은 시간 안에 승부를 봐야 하므로, 상대 특수 탱커를 미리 깎아두는 [toxic]·[will-o-wisp] 전략 파트너와 궁합이 좋다. 선봉은 [defog] 가능한 서포터를 앞세우고 [리자몽]은 후속 교대로 진입시키는 것이 기본이다.\n\n## 운용 팁\n맑음 + [stealth-rock] 리무브가 끝난 후 진입하고, HP가 50% 이하로 떨어지면 더 이상 공격하지 말고 빠르게 다른 포켓몬으로 교대한다. [solar-power] 피해 때문에 3턴 이상 머[물]면 자멸이 빨라진다는 것을 유념해야 한다.",
+  "tags": [
+    "kanto",
+    "fire",
+    "sun",
+    "solar-power",
+    "special-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

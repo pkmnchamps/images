@@ -1,0 +1,79 @@
+{
+  "pokemonId": 142,
+  "nameKo": "프테라",
+  "nameEn": "aerodactyl",
+  "formKey": null,
+  "types": [
+    "rock",
+    "flying"
+  ],
+  "roles": [
+    "lead",
+    "physical-attacker",
+    "pivot"
+  ],
+  "recommendedAbility": "unnerve",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "rock",
+    "flying"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "[Aerodactyl] Battle Guide",
+  "summary": "A 130 Speed [Rock]/[Flying] [lead] that guarantees [stealth-rock] and [taunt] both go up on turn one, denying oppo[sing] setup plans.",
+  "strengths": [
+    "130 Speed wins essentially every [lead] race in the format",
+    "[stealth-rock] plus [taunt] shuts down oppo[sing] [lead] setups",
+    "[unnerve] [disable]s oppo[sing] berries passively"
+  ],
+  "weaknesses": [
+    "80/65/75 bulk folds to fast special attackers",
+    "Multiple weaknesses to [Ice], [Electric], [Rock], [Steel], and [Water]",
+    "Only 105 Attack — damage output is [lead]-tier, not breaker-tier"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "stealth-rock",
+      "reason": "Lead-defining hazard setup for team pressure"
+    },
+    {
+      "move": "taunt",
+      "reason": "Shuts down oppo[sing] hazard and setup [lead]s completely"
+    },
+    {
+      "move": "stone-edge",
+      "reason": "[Rock] STAB for cleaner finishing hits"
+    },
+    {
+      "move": "earthquake",
+      "reason": "Cove[rage] for [Steel] and [Electric] walls"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "Guarantees the turn so always goes up"
+    },
+    {
+      "item": "sharp-beak",
+      "reason": "Boosts [Flying] STAB on the offensive build"
+    }
+  ],
+  "bodyMarkdown": "## Overview\n[Aerodactyl] is a [Rock]/[Flying] [lead] whose entire design is built a[round] winning the opening turn of the game. 130 base Speed sits near the top of the format, which means [Aerodactyl] goes first in almost every [lead] mirror, and from there the plan is simple. [Aerodactyl] isn't a breaker or a cleaner, but the tempo it seizes on turn one routinely snowballs into a won mid-game.\n\n## Strengths\nThe Speed tier is the [sing]le most important [strength]. Very few unboosted Pokemon outpace 130 base, so [Aerodactyl] reliably moves first in the all-important opening turn. [taunt] removes the threat of oppo[sing] hazard [lead]s, status spreaders, and [defog] users — the most common turn-one responses [Aerodactyl] would otherwise face. [unnerve] is a minor but nonzero bonus that [disable]s the oppo[sing] Pokemon's berry trigger while [Aerodactyl] is on the field.\n\n## Weaknesses & Answers\n[Aerodactyl]'s 80/65/75 bulk is thin enough that any fast special attacker removes it before the second turn. It's weak to [Ice], [Electric], [Rock], [Steel], and [Water], which means the natural answer pool is large. Damage output is only 105 Attack, which means [Aerodactyl] can't muscle through walls and has to rely on its utility moves.\n\n## Recommended Moveset\n[stealth-rock] is the locked utility slot because that's the reason [Aerodactyl] exists in the lineup. [taunt] is mandatory to prevent the oppo[sing] [lead] from setting its own hazards or status spreading, and the order of those two moves is usually [taunt] first, [rock]s second. [stone-edge] is the [Rock] STAB finisher for when [Aerodactyl] needs to damage something, and [earthquake] covers [Steel] and [Electric] [pivot]s that try to [absorb] the [Rock] move.\n\n## Item · Ability · Tera\n[focus-sash] is the standard [lead] item. [sharp-beak] is an alternate choice for the rare offensive build that wants [brave-bird] or [acrobatics] as the [Flying] STAB instead of the utility plan. The ability should be [unnerve] for the berry shutdown; [rock]-head and pressure are narrow alternatives. Tera [Rock] maxes the [stone-edge] damage, while Tera [Flying] erases the [Ground] weakness and sets up a cleaner follow-up.\n\n## Teammates & Synergy\nThe whole point of [lead]ing [Aerodactyl] is to build tempo for a follow-up breaker. Hazard synergy is valuable: a second hazard setter ([spikes] or [toxic-spikes]) com[pound]s the chip damage that [stealth-rock] starts. A fast [pivot] lets [Aerodactyl] retreat safely after its [lead] turn, and a special wall on the back line covers the biggest defensive weakness left behind.\n\n## Play Patterns\nTurn one [Aerodactyl]'s play is almost scripted. Turn two use whichever move wasn't used on turn one, then [pivot] out before special attackers remove it. [stone-edge] and [earthquake] are finishers for weakened opponents later in the match when [Aerodactyl] enters as a cleanup [pivot]. Save the Tera for a specific defensive swing you can't survive otherwise.",
+  "tags": [
+    "kanto",
+    "rock",
+    "flying",
+    "lead",
+    "stealth-rock"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

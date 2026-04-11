@@ -1,0 +1,78 @@
+{
+  "pokemonId": 143,
+  "nameKo": "잠만보",
+  "nameEn": "snorlax",
+  "formKey": null,
+  "types": [
+    "normal"
+  ],
+  "roles": [
+    "tank",
+    "wall",
+    "physical-attacker"
+  ],
+  "recommendedAbility": "thick-fat",
+  "recommendedNature": "careful",
+  "recommendedTera": [
+    "fairy",
+    "normal"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 10,
+    "def": 0,
+    "spa": 0,
+    "spd": 22,
+    "spe": 0
+  },
+  "locale": "en",
+  "title": "[Snorlax] Battle Guide",
+  "summary": "A 160 HP [Normal]-type special [wall] with [thick-fat] that halves [Ice] and [Fire] damage, combining [tank] and breaker duties in one slot.",
+  "strengths": [
+    "160 HP plus 110 Special Defense is among the best special bulk in the tier",
+    "[thick-fat] halves both [Ice] and [Fire] damage",
+    "110 Attack still hits hard enough to break [wall]s directly"
+  ],
+  "weaknesses": [
+    "65 Defense is low for the body's size — physical breakers hurt",
+    "30 Speed moves last against virtually everything",
+    "[Fighting] weakness is exploited by common priority attackers"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "body-slam",
+      "reason": "[Normal] STAB with a 30 percent paralysis chance"
+    },
+    {
+      "move": "earthquake",
+      "reason": "Cove[rage] for [Steel], [Electric], and [Poison] switch-ins"
+    },
+    {
+      "move": "crunch",
+      "reason": "[Dark] cove[rage] for [Psychic] and [Ghost] [wall]s"
+    },
+    {
+      "move": "rest",
+      "reason": "Full HP [recover]y for long-game sustain"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "leftovers",
+      "reason": "Passive [recover]y stacks with the enormous HP stat"
+    },
+    {
+      "item": "chesto-berry",
+      "reason": "Wakes immediately after a sleep"
+    }
+  ],
+  "bodyMarkdown": "## Overview\n[Snorlax] is a [Normal]-type special [wall] whose 160 HP stat makes it one of the most durable Pokemon. With the [thick-fat] ability active, its two most common special weaknesses. Unlike most [wall]s, [Snorlax] carries a meaningful offensive threat at 110 Attack, so it can function as a hybrid [tank] that both [block]s threats and pressures them back with [body-slam] or [earthquake] on follow-up turns.\n\n## Strengths\nthe 160/110 HP plus Special Defense line makes [Snorlax] the best special [wall] of its era, and [thick-fat] pushes that line even further by halving [Ice] and [Fire] damage. The 110 Attack means [Snorlax] isn't passive. The move pool also supports a [rest] plus [sleep-talk] build, a [curse] setup sweeper build, or a simple four-attack cove[rage] pivot, making [Snorlax] extremely flexible depending on team needs.\n\n## Weaknesses & Answers\nThe 65 Defense stat is the structural problem. Any strong physical breaker. [Ghost] [wall]s also stop the [Normal] STAB completely, forcing [Snorlax] to commit to cove[rage] moves. At 30 Speed, [Snorlax] moves last in every meaningful situation, so priority moves and status effects com[pound] the defensive hole.\n\n## Recommended Moveset\n[body-slam] is the locked [Normal] STAB because the paralysis chance is actively useful as a Speed-control tool. [earthquake] handles [Steel], [Electric], and [Poison] switch-ins that would otherwise [absorb] [body-slam]. [crunch] covers [Ghost] and [Psychic] [wall]s that blank both other attacks. The fourth slot is [rest] for sustained long-game plans; alternative builds swap it for [curse] to turn [Snorlax] into a slow setup sweeper, or [sleep-talk] for the classic [rest] talk build.\n\n## Item · Ability · Tera\n[leftovers] is the default. [chesto-berry] pairs with [rest] to get a one-turn full heal without the sleep downtime. The ability must be [thick-fat]. Tera [Fairy] flips the [Fighting] weakness into a resist and adds [Dragon] and [Dark] resistances on top, while Tera [Normal] maxes [body-slam] damage.\n\n## Teammates & Synergy\nA [Fighting] and [Ghost] answer is required. A physical [wall] that covers the low Defense stat (any bulky [Steel]) creates a defensive core. A fast cleaner on the back line converts the tempo [Snorlax] buys into wins, and a status [absorb]er helps prevent [toxic] stall from wearing [Snorlax] down before [rest] can trigger.\n\n## Play Patterns\nBring [Snorlax] in on predictable special attacks and [absorb] them passively. Attack with the move that matches the incoming switch. Use [rest] when HP drops below 60 percent, since [chesto-berry] only triggers once. For the [curse] build, set up on predicted switches and keep building boosts until [Snorlax] can't be [revenge]-killed. Save the Tera for the moment a [Fighting] move is confirmed.",
+  "tags": [
+    "kanto",
+    "normal",
+    "wall",
+    "thick-fat",
+    "tank"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

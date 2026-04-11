@@ -1,0 +1,75 @@
+{
+  "pokemonId": 15,
+  "nameKo": "메가독침붕",
+  "nameEn": "beedrill-mega",
+  "formKey": "mega",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "adaptability",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "bug",
+    "steel"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Mega Beedrill Battle Guide",
+  "summary": "An [extreme-speed] [Bug]/[Poison] physical ace whose [adaptability] turns every STAB into a 2x boost, letting 150 Attack and 145 Speed tear through unboosted teams.",
+  "strengths": [
+    "[adaptability] turns [Bug] and [Poison] STAB into effective 2x damage",
+    "Effective 145 Speed outruns nearly every unboosted attacker",
+    "[u-turn] preserves the pivot identity even in the [sweeper] role"
+  ],
+  "weaknesses": [
+    "40 Defense and 80 SpD are unchanged after Mega Evolution",
+    "[Rock], [Fire], [Flying], and [psychic] weaknesses are all live",
+    "The pre-Mega turn runs [swarm], leaving a one-turn ability gap"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "u-turn",
+      "reason": "Primary [Bug] STAB boosted by [adaptability]"
+    },
+    {
+      "move": "poison-jab",
+      "reason": "[Poison] STAB finisher boosted by [adaptability]"
+    },
+    {
+      "move": "drill-run",
+      "reason": "[Ground] cove[rage] for [Steel], [Rock], and [Electric] walls"
+    },
+    {
+      "move": "knock-off",
+      "reason": "Item removal utility that widens the resource gap"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "beedrillite",
+      "reason": "Mandatory Mega Stone with no alternatives"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nMega Beedrill is an [extreme-speed] [Bug]/[Poison] physical ace whose identity is defined entirely by [adaptability]. The ability upgrades STAB from 1.5x to 2x, turning [u-turn] and [poison-jab] into metagame-level damage from just 150 Attack. Combined with 145 Speed, it outruns nearly every unboosted attacker and kills them before they can [retaliate].\n\n## Strengths\n[adaptability] is a true damage multiplier: every STAB move effectively gains 33% damage on top of 150 Attack. 145 Speed sits above most scarfed threats without needing an item, freeing the item slot for [beedrillite]. [u-turn] keeps the pivot tempo advantage — every hit comes with a free matchup read — and [knock-off] still strips items, which means Mega Beedrill is a rare [sweeper] that also does chore work.\n\n## Weaknesses & Answers\n40 Defense and 80 SpD are unchanged, so a [sing]le priority hit or neutral physical attack can end the run. [Rock], [Fire], [Flying], and [psychic] weaknesses all remain live, and Mega Beedrill loses the Speed race entirely if the opponent brings a choice-scarf user above 145. The pre-Mega turn runs [swarm] instead of [adaptability], so telegraphed weakness hits before evolution can [cut] the sweep short.\n\n## Recommended Moveset\n[u-turn] is locked as the main STAB because [adaptability] plus pivot utility is the whole point. [poison-jab] is the mandatory [Poison] STAB finisher, also [adaptability]-boosted, that punishes Fairies and mirror [Grass]. [drill-run] is the [Ground] cove[rage] for [Steel], [Rock], and [Electric] walls that would otherwise wall the combo outright. [knock-off] is the last slot for item removal and long-game resource generation.\n\n## Item · Ability · Tera\n[beedrillite] is mandatory — there is no alternative. [adaptability] is locked post-evolution. Tera [Bug] maxes [u-turn] damage for a true one-shot slot, while Tera [Steel] flips the [Rock], [Flying], and [psychic] weaknesses into a defensive patch. Tera [Fighting] and Tera [Ground] are rarer picks for specific team comps that need the cove[rage].\n\n## Teammates & Synergy\nMega Beedrill is effectively mandatory paired with a hazard remover — [defog] or [rapid-spin] — because [stealth-rock] deletes 12% of its HP per entry. Fake-out users and priority [block]ers like a [taunt] lead help shield the pre-Mega turn, and a cleaner behind the pivot cycle capitalises on the chip. Pivot partners with [volt-switch] or [flip-turn] keep the [u-turn] loop spinning across the whole match.\n\n## Play Patterns\nOnly enter the field when [stealth-rock] is gone. Mega Evolve into a predicted switch, then [u-turn] on every soft matchup and drop [poison-jab] or [drill-run] only when you have a guaranteed KO. Save Tera for a telegraphed [Rock] or [Flying] priority move.",
+  "tags": [
+    "kanto",
+    "bug",
+    "poison",
+    "mega",
+    "adaptability",
+    "physical-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

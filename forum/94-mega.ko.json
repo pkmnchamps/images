@@ -1,0 +1,75 @@
+{
+  "pokemonId": 94,
+  "nameKo": "메가팬텀",
+  "nameEn": "gengar-mega",
+  "formKey": "mega",
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "roles": [
+    "special-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "shadow-tag",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "ghost",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[메가팬텀] 배틀 운용 가이드",
+  "summary": "[shadow-tag]으로 상대 교대를 봉쇄하는 170 특공·130 스피드 초고속 스위퍼. 표적 사냥 능력이 메타 최상위권.",
+  "strengths": [
+    "[shadow-tag]으로 상대 교대 봉쇄",
+    "170 특공·130 스피드 최상위권",
+    "[nasty-plot] 후 전 메타 OHKO 범위"
+  ],
+  "weaknesses": [
+    "60/80/95의 여전한 저내구",
+    "[악]·[고스트]·[땅]·[에스퍼] 약점 그대로",
+    "메가 진화 전 1턴 [cursed-body] 공백"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "shadow-ball",
+      "reason": "주력 [고스트] STAB"
+    },
+    {
+      "move": "sludge-wave",
+      "reason": "주력 [독] STAB 피니셔"
+    },
+    {
+      "move": "focus-blast",
+      "reason": "[악]·[강철]·[노말] 견제"
+    },
+    {
+      "move": "nasty-plot",
+      "reason": "스위프 진입용 셋업"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "gengarite",
+      "reason": "메가 진화를 위한 필수 아이템"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[메가팬텀]은 [shadow-tag] 특성으로 상대 교대를 봉쇄하는 메타 최상위 초고속 스위퍼다. 170 특공과 130 스피드의 결합으로 사실상 1대1 구도에서 메타 최상위 결정력을 가지며, [shadow-tag] 덕분에 선택한 상대를 반드시 사냥할 수 있다는 점이 다른 모든 스위퍼와 차별화되는 지점이다.\n\n## 강점 분석\n[shadow-tag]은 메타 최강급 특성이다. 상대가 교대할 수 없으니 팀 특정 탱커를 지워버리는 표적 사냥 플랜이 성립하고, [nasty-plot] 셋업까지 더하면 원하는 대상을 확정으로 제거할 수 있다. 170 특공은 [timid] 보정과 결합되어 메타 최상위 특수 결정력을 내고, 130 스피드는 거의 모든 어태커를 추월한다.\n\n## 약점과 대응\n60/80/95의 내구는 여전히 낮아 priority 유저나 고속 어태커에게는 취약하다. [악]·[고스트]·[땅]·[에스퍼] 2배 약점이 그대로 남아 있으며, 특히 [pursuit] 계열 트래핑에 걸리면 오히려 사냥당한다. 메가 진화 전 1턴은 [cursed-body] 상태라 [shadow-tag]이 비활성이므로, 진화 타이밍에 상대가 교대하면 봉쇄 플랜이 무너진다.\n\n## 추천 기술 구성\n[shadow-ball]을 주력 [고스트] STAB으로 고정하고, [sludge-wave]를 두 번째 STAB으로 둔다. [focus-blast]는 [악]·[강철] 견제용 필수 서브, 마지막은 [nasty-plot]으로 셋업해 표적 사냥 범위를 확정 OHKO로 확장한다. [destiny-bond] 변형은 자폭 플랜에 유용하지만 메인 셋업형에는 [nasty-plot]이 우선이다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [gengarite] 고정이며 대안이 없다. 특성은 메가 진화 후 [shadow-tag]으로 자동 전환된다. 테라스탈은 [고스트] 타입으로 [shadow-ball] 화력을 극대화하거나, [페어리] 타입으로 [악]·[드래곤] 약점을 뒤집는 방어형이 실전적이다. 표적 사냥 상황에서 생존이 필수이므로 방어형 테라가 선호된다.\n\n## 시너지와 파트너\n[메가팬텀]은 표적 사냥 카드이므로, 상대 위협을 먼저 약화시키는 [stealth-rock]·pivot 라인과 묶여 있으면 시너지가 극대화된다. [악]·[에스퍼] 약점 카운터로 [페어리]·[강철] 파트너를 배치하고, priority 방어용 [taunt] 유저도 유용하다. 후속 클리너가 있으면 [메가팬텀]이 벌어둔 턴을 득점으로 연결할 수 있다.\n\n## 운용 팁\n메가 진화는 표적 사냥 직전 타이밍에 맞춘다. 진화 후 [nasty-plot] 1회, 그 다음 턴부터 [shadow-ball]·[sludge-wave]로 목표를 제거한다. [focus-blast]는 상대 [악]·[강철] 탱커가 나올 때만 쓰고, 테라스탈은 약점기 예측 시 즉시 발동한다.",
+  "tags": [
+    "kanto",
+    "ghost",
+    "poison",
+    "mega",
+    "shadow-tag",
+    "special-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

@@ -1,0 +1,82 @@
+{
+  "pokemonId": 553,
+  "nameKo": "악비아르",
+  "nameEn": "krookodile",
+  "formKey": null,
+  "types": [
+    "ground",
+    "dark"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "moxie",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "ground",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[악비아르] 배틀 운용 가이드",
+  "summary": "[moxie] 공격 스택으로 한 번 킬을 가져가면 멈추지 않는 [땅]·[악] [물]리 스위퍼.",
+  "strengths": [
+    "[moxie]로 처형마다 공격 1랭크 누적",
+    "[earthquake] · [knock-off]의 광역 STAB 조합",
+    "92 스피드로 대부분의 내구형 위협 선공"
+  ],
+  "weaknesses": [
+    "[격투]·[풀]·[얼음]·[물]·[벌레] 2배 약점 다수",
+    "[페어리] 타입 상대로 결정력 급락",
+    "[stealth-rock] 데미지 12.5% 누적이 큰 부담"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "earthquake",
+      "reason": "[moxie] 스위퍼의 핵심 [땅] STAB, 광역 고위력"
+    },
+    {
+      "move": "knock-off",
+      "reason": "도구 강탈 + [악] STAB 이중 역할"
+    },
+    {
+      "move": "stone-edge",
+      "reason": "[비행]·[불꽃]·[벌레] 견제용 커버 기술"
+    },
+    {
+      "move": "close-combat",
+      "reason": "[강철]·[노말] 견제 및 [moxie] 스택용 피니셔"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "첫 킬을 확보해 스택을 시작하는 보험"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "스피드 92를 초고속 구간으로 끌어올려 확정 피니싱"
+    },
+    {
+      "item": "soft-sand",
+      "reason": "위력 20% 증폭"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[악비아르]는 공격 117·스피드 92·HP 95라는 균형 잡힌 체급의 [땅]·[악] 피지컬 어태커다. 진짜 가치는 특성 [moxie]에 있다. 킬을 가져갈 때마다 공격 1랭크가 쌓이는 구조라 한 번 탄력이 붙으면 팀 전체를 휩쓸 수 있고, [earthquake] + [knock-off]라는 STAB 조합은 메타 상위권을 거의 전부 찌른다.\n\n## 강점 분석\n[moxie]는 무한 셋업에 가까운 특성이다. [earthquake]로 한 마리만 처리하면 공격이 +1로 증가해 다음 턴에는 웬만한 탱커마저 녹는다. [악] STAB [knock-off]는 도구 강탈 + [에스퍼]·[고스트] 견제 + 초기 위력 65 + 추가 25%로 실질 위력 97짜리 처형기고, [stone-edge]는 [비행]·[벌레] 카운터의 역할을 완수한다. [intimidate] 대신 [moxie]를 택하는 가치는 바로 이 연쇄 스노우볼에 있다.\n\n## 약점과 대응\n[격투]·[풀]·[얼음]·[물]·[벌레]가 모두 2배다. 특히 빠른 [격투]·[물] 어태커(예: 파이어로류, 개굴닌자류)에게 선공을 내주면 [close-combat] 한 방에 정리된다. [페어리] 타입은 [knock-off]와 [earthquake] 모두 반감 이상으로 받아내기 때문에 매치업에서 가장 골치 아픈 상대다. [stealth-rock] 12.5% 피해도 장기전에서 [moxie] 스택을 유지하기 어렵게 만드므로, 진입 전 반드시 해제가 필요하다.\n\n## 추천 기술 구성\n[earthquake]는 [moxie] 스위퍼의 축 기술로 고정, [knock-off]는 두 번째 STAB이자 상대 도구를 벗기는 필수 카드다. [stone-edge]는 [비행]·[불꽃] 견제와 stab 커버 공백 메우기를 담당하고, 마지막은 [close-combat]이 베스트다. [강철]·[노말] 견제가 가능할 뿐 아니라 [moxie] 스택 직후의 결정력 추가 카드가 되어 클리닝 속도를 크게 높인다. [fire-fang]·[thunder-fang]도 후보지만 [close-combat]의 범용성이 더 높다.\n\n## 추천 도구 · 특성 · 테라스탈\n[focus-sash]는 첫 킬을 확정 보장해 [moxie] 스택의 시작을 만드는 데 가장 효율적이다. [choice-scarf]는 스피드 92를 상위 구간으로 올려 [tailwind] 없이도 확정 선공을 가능하게 하며, [moxie] 스택이 몇 번만 붙어도 [choice-scarf] 잠금 패널티가 사라질 정도의 화력을 낸다. [soft-sand]는 [earthquake] 스팸 위주 매치업에서 20% 추가 보정을 준다. 특성은 반드시 [moxie]. [intimidate]는 초반 견제용이지만 후반 클리닝 효율이 [moxie]보다 낮다. 테라스탈은 [earthquake] 결정력을 더 끌어올리는 [땅], 혹은 [격투]·[벌레]·[페어리] 약점을 회피하는 [페어리]가 핵심이다.\n\n## 시너지와 파트너\n첫 킬을 뽑아내기 위한 사전 세팅이 중요하므로, [stealth-rock] 세터나 트릭 교환 카드로 상대 내구 라인을 깎아주는 파트너가 가장 잘 맞는다. [물]·[격투] 약점 보완을 위해 [풀]·[에스퍼] 탱커 혹은 [비행] 저항 [강철] 자원을 같이 두고, [페어리] 카운터로 [독]·[강철] 자원을 반드시 한 장 확보해야 한다. 빠른 피벗을 통해 상처 없이 [악비아르]를 진입시키면 스노우볼 확률이 급상승한다.\n\n## 운용 팁\n초반에는 [악비아르]를 아끼고, 상대 팀의 첫 쓰러짐을 기점으로 진입시킨다. [moxie] 첫 스택을 받기 위해 가장 약한 타겟부터 [earthquake] 혹은 [knock-off]로 처리하고, 이후 2스택부터는 거의 모든 상대를 강제 정리한다. [close-combat]은 방어 랭크 하락 때문에 아껴 쓰고, [stone-edge]의 명중 80은 결정타 전용으로 쓴다. 테라스탈은 첫 스택을 확정짓는 순간, 혹은 [격투]·[벌레] 반격을 무력화해야 할 순간에만 쓴다.",
+  "tags": [
+    "unova",
+    "dark",
+    "ground",
+    "moxie",
+    "sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

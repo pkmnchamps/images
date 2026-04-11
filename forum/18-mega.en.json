@@ -1,0 +1,74 @@
+{
+  "pokemonId": 18,
+  "nameKo": "메가피죤투",
+  "nameEn": "pidgeot-mega",
+  "formKey": "mega",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "roles": [
+    "special-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "no-guard",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "flying",
+    "ground"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Mega Pidgeot Battle Guide",
+  "summary": "A [Flying]-type special [sweeper] whose [no-guard] makes [hurricane] 100% accurate — 135 SpA and 121 Speed put it firmly in the top tier.",
+  "strengths": [
+    "[no-guard] + [hurricane] means 100% accurate [Flying] STAB",
+    "135 SpA breaks special walls in a [sing]le hit",
+    "Speed 121 outruns most unboosted attackers"
+  ],
+  "weaknesses": [
+    "[Rock], [Electric], [Ice] weaknesses with 4x [stealth-rock] damage",
+    "80 SpD is weak to strong special cove[rage]",
+    "Pre-Mega turn runs [big-[peck]s] instead of [no-guard]"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "hurricane",
+      "reason": "[Flying] STAB guaranteed to hit via [no-guard]"
+    },
+    {
+      "move": "heat-wave",
+      "reason": "Mandatory cove[rage] for [Steel], [Grass], and [Bug] walls"
+    },
+    {
+      "move": "u-turn",
+      "reason": "Pivot tempo move for bad matchups"
+    },
+    {
+      "move": "roost",
+      "reason": "Long-game healing to preserve the sweep"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "pidgeotite",
+      "reason": "Mandatory Mega Stone with no [substitute]s"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nMega Pidgeot is a [Flying]-type special [sweeper] whose [no-guard] ability fixes [hurricane] at 100% accuracy. Combined with 135 SpA and 121 Speed, it flips the base form from a plain pivot into a legitimate top-tier special attacker. The plan is simple: Mega Evolve on a predicted switch, [hurricane] the oppo[sing] front line, then clean up with [heat-wave].\n\n## Strengths\n[no-guard] + [hurricane] is the entire identity — [Flying] STAB at 110 BP with perfect accuracy is a game-defining feature by itself. [heat-wave] hits [Steel], [Grass], and [Bug] walls that would resist the STAB, and [u-turn] keeps the pivot utility alive for bad matchups. 121 Speed outruns nearly every unboosted attacker, so Mega Pidgeot effectively dictates the Speed tier.\n\n## Weaknesses & Answers\n[Flying]-type weaknesses ([Rock], [Electric], [Ice]) are unchanged after Mega Evolution, and [stealth-rock] deals 4x damage on every entry — hazard control is mandatory for the team. 80 SpD is not enough to trade blows against strong special attackers, and Mega Pidgeot loses the Speed race to scarfed threats. The pre-Mega turn runs [big-[peck]s] instead of [no-guard], so the accuracy boost is not yet live that first turn.\n\n## Recommended Moveset\n[hurricane] is locked as the primary STAB because [no-guard] turns it into a flawless main attack. [heat-wave] is mandatory cove[rage] for [Steel], [Grass], and [Bug] walls. [u-turn] handles pivot tempo when a bad matchup appears, preserving momentum instead of trading damage. The last slot is [roost] to keep Mega Pidgeot alive through chip damage and extend its time on the field.\n\n## Item · Ability · Tera\n[pidgeotite] is the only item — the Mega Stone is mandatory. [no-guard] is locked after evolution. Tera [Flying] maxes [hurricane] damage for the guaranteed KO slot, while Tera [Ground] flips the [Electric] weakness into immunity and halves [stealth-rock] chip on subsequent entries. Tera [Steel] is a rarer pick that stabilises against [Rock] and [Ice] cove[rage].\n\n## Teammates & Synergy\nMega Pidgeot is hazard-dependent — [defog] or [rapid-spin] support is effectively mandatory. Pair it with a [Ground] partner for the [Electric] weakness and a pivot line ([volt-switch], [u-turn]) that brings it in safely. A cleaner behind Mega Pidgeot converts the chip damage from [hurricane] into KOs, especially on frail frontlines that already [absorb]ed a free hit.\n\n## Play Patterns\nOnly enter the field when [stealth-rock] is gone. Mega Evolve into a predicted switch, then [hurricane] on neutral matchups and [heat-wave] on [Steel] or [Grass] switch-ins. Use [u-turn] to escape unfavorable matchups and Tera on a telegraphed [Electric] or [Rock] move.",
+  "tags": [
+    "kanto",
+    "flying",
+    "mega",
+    "no-guard",
+    "special-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

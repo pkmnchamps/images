@@ -1,0 +1,76 @@
+{
+  "pokemonId": 428,
+  "nameKo": "메가이어롭",
+  "nameEn": "lopunny-mega",
+  "formKey": "mega",
+  "types": [
+    "normal",
+    "fighting"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper",
+    "pivot"
+  ],
+  "recommendedAbility": "scrappy",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "fighting",
+    "normal"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Mega Lopunny Battle Guide",
+  "summary": "A 136 Atk, 135 Speed [Normal]/[Fighting] physical [sweeper] whose [scrappy] lets [return] and [fake-out] punch straight through [Ghost] immunities.",
+  "strengths": [
+    "Base 135 Speed outspeeds almost everything in the unboosted tier without any setup",
+    "[scrappy] removes [Ghost] immunity from STAB [return] and [fake-out]",
+    "[return] plus [close-combat] plus [triple-axel] covers 90% of the metagame"
+  ],
+  "weaknesses": [
+    "65/94/96 bulk folds to super-effective [Psychic], [Fairy], or [Flying] hits",
+    "No native setup move makes finishing a sweep harder than it looks",
+    "[close-combat] drops Def and SpDef by one stage each, opening [revenge]-kill windows"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "return",
+      "reason": "is the STAB [Normal] main that hits [Ghost]s thanks to [scrappy]"
+    },
+    {
+      "move": "close-combat",
+      "reason": "is the [Fighting] STAB that pastes [Rock], [Steel], and [Ice]"
+    },
+    {
+      "move": "fake-out",
+      "reason": "provides the turn-one flinch Mega Lopunny needs to start sweeps"
+    },
+    {
+      "move": "triple-axel",
+      "reason": "covers [Dragon], [Flying], and [Ground] in a [sing]le slot"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "lopunnite",
+      "reason": "Mandatory Mega Stone — no alternative"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nMega Lopunny is the fast version of the base form's plan: 135 Speed and 136 Atk in the [Normal]/[Fighting] combination, with [scrappy] installed to make the whole set ignore [Ghost] immunities. It is one of the few [sweeper]s in the format that does not need a setup move to start a clean — the raw speed tier and STAB cove[rage] carry it by themselves.\n\n## Strengths\nSTAB [return] plus [scrappy] is the unique selling point — no other [Normal] attacker can reliably threaten [Ghost] [pivot]s for full damage. [close-combat] shreds [Rock], [Steel], and [Ice] walls that would [normal]ly [absorb] [return], leaving [Dragon]s and Fairies as the only common resists. 135 Speed matches the Scarf tier of most offensive teams, so Mega Lopunny wins speed races even without a booster. [fake-out] gives it an on-demand tempo turn that most [sweeper]s lack.\n\n## Weaknesses & Answers\nDefenses at 65/94/96 look workable but fold quickly to any super-effective hit — [Psychic], [Fairy], and [Flying] [revenge]-killers end games fast if they come in cleanly. [close-combat] drops Def and SpDef one stage each, which hands back a free [revenge]-kill window to oppo[sing] priority users. The lack of a native setup move means Mega Lopunny has no way to turn one snowball turn into a guaranteed sweep — every KO has to be earned on raw stats.\n\n## Recommended Moveset\n[return] is the [scrappy]-defining main STAB and the [sing]le most important slot on the set. [close-combat] handles the [Rock], [Steel], and [Ice] walls that would otherwise resist [return]. [fake-out] is the tempo tool that buys the first real kill and needs to be kept available for the early game. [triple-axel] is the cove[rage] of choice for [Dragon], [Flying], and [Ground], accepting the 90% accuracy risk because the alternative moves trade away too much cove[rage]. [drain-punch] is a legitimate [substitute] if you want more sustain at the cost of wallbreaking ceiling.\n\n## Item · Ability · Tera\n[lopunnite] is the only legal item — [scrappy] and the stat shift are locked behind Mega Evolution. For Tera, [Fighting] is the primary option because it makes [close-combat] the strongest move on the set and partially mitigates [Fairy] matchups, while Tera [Normal] is the alternative when your plan is [return]-based finishing against [Ghost]-heavy teams.\n\n## Teammates & Synergy\nBring [Fairy] and [Psychic] answers behind Mega Lopunny — a [Dark]-type partner or a [Poison] type covers the two matchups Mega Lopunny cannot break. A [stealth-rock] remover keeps Mega entry cost down, and a slow [pivot] on your team lets [fake-out] land on a softer target. A late-game cleaner completes the core, since Mega Lopunny tends to leave threats at 20-40% HP rather than scoring clean sweeps on its own.\n\n## Play Patterns\nMega Evolve on the entry turn — the 135 Speed tier is the whole plan. Press [fake-out] immediately for tempo and then branch: [close-combat] into [Rock], [Steel], or [Ice], [return] into anything else, and [triple-axel] only against pure [Dragon] or [Flying] walls. Avoid c[lick]ing [close-combat] back-to-back; the defense drops com[pound] and invite priority [revenge] kills.",
+  "tags": [
+    "sinnoh",
+    "normal",
+    "fighting",
+    "mega",
+    "physical-sweeper",
+    "scrappy"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

@@ -1,0 +1,80 @@
+{
+  "pokemonId": 59,
+  "nameKo": "윈디",
+  "nameEn": "arcanine",
+  "formKey": null,
+  "types": [
+    "fire"
+  ],
+  "roles": [
+    "physical-attacker",
+    "pivot"
+  ],
+  "recommendedAbility": "intimidate",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "fire",
+    "fighting"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "[Arcanine] Battle Guide",
+  "summary": "A [Fire]-type physical attacker that uses [intimidate] on entry and patches its Speed tier with [extreme-speed] priority.",
+  "strengths": [
+    "[intimidate] drops oppo[sing] Attack on switch-in",
+    "[extreme-speed] is one of the best priority moves in the game",
+    "90/80/80 balanced bulk supports repeated entries"
+  ],
+  "weaknesses": [
+    "[Rock], [Water], and [Ground] weaknesses; [stealth-rock] chip",
+    "Speed 95 loses to most upper-tier attackers",
+    "[flare-blitz] re[coil] accumulates over long matches"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "flare-blitz",
+      "reason": "Main [Fire] STAB with top-tier damage"
+    },
+    {
+      "move": "extreme-speed",
+      "reason": "Elite priority move to patch the Speed problem"
+    },
+    {
+      "move": "close-combat",
+      "reason": "[Fighting] cove[rage] for [Rock], [Normal], and [Steel] walls"
+    },
+    {
+      "move": "morning-sun",
+      "reason": "Healing utility to offset re[coil] damage"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "charcoal",
+      "reason": "Boosts [Fire] move damage by 20%"
+    },
+    {
+      "item": "leftovers",
+      "reason": "Long-game healing item"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "One-shot healing for key turns"
+    }
+  ],
+  "bodyMarkdown": "## Overview\n[Arcanine] is a [Fire]-type physical attacker that balances [intimidate] utility, [extreme-speed] priority, and reliable 110 Attack damage. 90/80/80 bulk with Speed 95 makes it an attacker that can also [pivot] through tight matchups, and [morning-sun] keeps it alive across long exchanges. Its Champions role blends offensive pressure with defensive support.\n\n## Strengths\n[intimidate] softens incoming physical attackers every time [Arcanine] switches in, rai[sing] its effective bulk without investment. [extreme-speed] is one of the best priority moves in the metagame — it guarantees KOs against weakened cleaners regardless of Speed stat. [flare-blitz] combines 110 Attack, STAB, and [jolly] nature boost to hit for enormous damage on any neutral target. [morning-sun] provides long-game healing that re[coil]-heavy sets otherwise cannot afford.\n\n## Weaknesses & Answers\n[Rock], [Water], and [Ground] 2x weaknesses are common cove[rage], and [stealth-rock] damage limits [Arcanine] reentry frequency. Speed 95 loses to the upper-tier 110+ attackers, so it cannot race dedicated sweepers without priority. [flare-blitz] re[coil] accumulates across the match, and the team needs hazard removal to offset the constant chip.\n\n## Recommended Moveset\n[flare-blitz] is the locked main STAB because the damage ceiling is what makes [Arcanine] threatening. [extreme-speed] is the Speed patch and cleaner move, guaranteeing KOs against faster weakened threats. [close-combat] is the [Fighting] cove[rage] for [Rock], [Normal], and [Steel] walls. [morning-sun] is the last slot to offset [flare-blitz] re[coil]. A [wild-charge] variant adds [Water] cove[rage] at the cost of the healing slot.\n\n## Item · Ability · Tera\n[charcoal] is the default because its 20% boost to [Fire] damage directly scales [flare-blitz] and [extreme-speed] is type-neutral. [leftovers] enables a long-game attrition plan and [sitrus-berry] offers a one-shot [recover]y for critical turns. Ability is [intimidate] — [flash]-[fire] and justified are weaker picks. Tera [Fire] maxes [flare-blitz] damage while Tera [Fighting] flips the [Rock] weakness and boosts [close-combat].\n\n## Teammates & Synergy\n[Arcanine] needs hazard removal ([defog] or [rapid-spin]) to manage [flare-blitz] re[coil] and [stealth-rock] chip. Pair it with [Grass] or [Ground] partners to cover [Water] and [Rock] weaknesses, and use [volt-switch] or [u-turn] [pivot]s to bring it in cleanly. A cleaner behind it capitalises on the chip [extreme-speed] leaves behind.\n\n## Play Patterns\nSwitch in on a predicted physical attack to trigger [intimidate], then [flare-blitz] the weakened target. Use [extreme-speed] to finish faster cleaners, and heal with [morning-sun] once HP drops below 60%. Tera on any telegraphed [Rock] or [Water] move.",
+  "tags": [
+    "kanto",
+    "fire",
+    "physical-attacker",
+    "intimidate"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

@@ -1,0 +1,82 @@
+{
+  "pokemonId": 121,
+  "nameKo": "아쿠스타",
+  "nameEn": "starmie",
+  "formKey": null,
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "roles": [
+    "special-attacker",
+    "pivot"
+  ],
+  "recommendedAbility": "natural-cure",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "water",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "[Starmie] Battle Guide",
+  "summary": "A [Water]/[Psychic] special attacker and spinner with Speed 115 and [natural-cure] — utility plus offensive pressure from one team slot.",
+  "strengths": [
+    "Speed 115 outruns most of the upper metagame",
+    "[natural-cure] heals status on every switch",
+    "[rapid-spin] clears hazards and boosts Speed"
+  ],
+  "weaknesses": [
+    "60/85/85 bulk is fragile against neutral hits",
+    "[Dark], [Bug], [Ghost], [Grass], and [Electric] weaknesses",
+    "100 SpA is a tier below top-tier breakers"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "hydro-pump",
+      "reason": "Main [Water] STAB high-damage move"
+    },
+    {
+      "move": "psychic",
+      "reason": "Secondary [Psychic] STAB for cove[rage]"
+    },
+    {
+      "move": "ice-beam",
+      "reason": "[Ice] cove[rage] for [Grass], [Dragon], and [Flying]"
+    },
+    {
+      "move": "rapid-spin",
+      "reason": "Hazard removal plus a Speed boost"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "leftovers",
+      "reason": "Long-game healing item"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "First-turn insurance"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "Alternative Speed-tier reshape"
+    }
+  ],
+  "bodyMarkdown": "## Overview\n[Starmie] is a [Water]/[Psychic] special attacker that combines offense with utility. Speed 115 sits above most of the upper metagame, [natural-cure] provides free status immunity on every switch, and [rapid-spin] gives the team hazard removal without sacrificing an offensive slot. 100 SpA is a tier below dedicated breakers, but the utility package more than compensates.\n\n## Strengths\nSpeed 115 outruns most unboosted threats, so [Starmie] dictates the Speed tier in most matchups. [natural-cure] is the key utility ability — any status [Starmie] picks up is healed on the next switch, which neutralises [will-o-wisp] and [toxic] strategies. The [hydro-pump] / [psychic] / [ice-beam] combination covers [Grass], [Dragon], [Fighting], and [Ground] threats cleanly, and [rapid-spin] is a one-slot hazard remover plus Speed boost.\n\n## Weaknesses & Answers\n60/85/85 bulk is fragile — any neutral priority or 2x cove[rage] threatens a KO. [Dark], [Bug], [Ghost], [Grass], and [Electric] are all 2x weaknesses, and common cove[rage] moves like [knock-off] also strip [leftovers] value. SpA 100 is a tier below dedicated breakers, so [Starmie] struggles to crack through walls without prior chip. Priority users also shut down the Speed advantage.\n\n## Recommended Moveset\n[hydro-pump] is the locked [Water] STAB for maximum damage. [psychic] is the secondary STAB that handles [Fighting] and [Poison] threats. [ice-beam] covers [Grass], [Dragon], and [Flying] walls that would resist the primary STABs. [rapid-spin] is the last slot for hazard removal and the Speed boost utility. A [thunderbolt] variant exists for heavier [Water] cove[rage] but drops the [ice-beam] cove[rage] slot.\n\n## Item · Ability · Tera\n[leftovers] is the default for the long-game plan and stacks with [natural-cure] utility. [focus-sash] guarantees one setup turn against priority, and [choice-scarf] reshapes [Starmie] into a pure [revenge] killer. [natural-cure] is the best ability — analytic is only viable for pure offense variants. Tera [Water] maxes [hydro-pump] damage, while Tera [Fairy] flips [Dark], [Bug], and [Dragon] weaknesses defensively.\n\n## Teammates & Synergy\n[Starmie] fills the hazard removal and [pivot] role simultaneously, so pair it with setup sweepers that need a clean field. [Fairy] or [Steel] partners cover [Dark] and [Ghost] weaknesses, and a [Ground] partner handles the [Electric] weakness. A priority [block]er helps shield [Starmie] setup turns against [revenge] killers.\n\n## Play Patterns\nLead or enter on turn two, [rapid-spin] on a predicted switch to clear hazards, and fire [hydro-pump] or [psychic] on neutral matchups. Use [ice-beam] on [Grass] or [Dragon] [pivot]s, heal status via [natural-cure] by switching out, and Tera on any telegraphed [Dark] or [Bug] move.",
+  "tags": [
+    "kanto",
+    "water",
+    "psychic",
+    "special-attacker",
+    "spinner"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

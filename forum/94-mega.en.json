@@ -1,0 +1,75 @@
+{
+  "pokemonId": 94,
+  "nameKo": "메가팬텀",
+  "nameEn": "gengar-mega",
+  "formKey": "mega",
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "roles": [
+    "special-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "shadow-tag",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "ghost",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Mega Gengar Battle Guide",
+  "summary": "A top-tier [Ghost]/[Poison] [sweeper] whose [shadow-tag] traps opponents in place. 170 SpA, 130 Speed, and target-killing access make it one of the format most feared cleaners.",
+  "strengths": [
+    "[shadow-tag] prevents opponents from switching",
+    "170 SpA and 130 Speed is top-tier damage and Speed",
+    "[nasty-plot] guarantees OHKO on trapped targets"
+  ],
+  "weaknesses": [
+    "60/80/95 bulk is still fragile against priority",
+    "[Dark], [Ghost], [Ground], and [psychic] weaknesses unchanged",
+    "Pre-Mega turn lacks [shadow-tag] entirely"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "shadow-ball",
+      "reason": "Main [Ghost] STAB with high consistency"
+    },
+    {
+      "move": "sludge-wave",
+      "reason": "[Poison] STAB finisher for [Fairy] targets"
+    },
+    {
+      "move": "focus-blast",
+      "reason": "[Fighting] cove[rage] for [Dark], [Steel], [Normal]"
+    },
+    {
+      "move": "nasty-plot",
+      "reason": "Setup move that doubles SpA"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "gengarite",
+      "reason": "Mandatory Mega Stone with no alternatives"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nMega Gengar is a top-tier [Ghost]/[Poison] [sweeper] defined entirely by [shadow-tag]. The ability prevents opponents from switching, which turns Mega Gengar into a precision weapon that can eliminate specific team threats on demand. Combined with 170 SpA and 130 Speed, it is one of the most dangerous cleaners in the Champions format.\n\n## Strengths\n[shadow-tag] is the best offensive ability in the game — trapping an opponent means Mega Gengar can set up a [nasty-plot] turn and then delete the target with [shadow-ball] or [sludge-wave]. 170 SpA with [timid] nature produces top-tier damage, and Speed 130 outruns nearly every unboosted attacker. The [Ghost]/[Poison] STAB combination only misses on [Dark] and [Steel] pivots, which [focus-blast] handles directly.\n\n## Weaknesses & Answers\n60/80/95 bulk is still fragile — priority moves remain a concern and scarfed attackers above 130 can [revenge]-kill after setup. [Dark], [Ghost], [Ground], and [psychic] 2x weaknesses are unchanged, and [pursuit]-style trapping can flip the target hunting plan against Mega Gengar. The pre-Mega turn runs [cursed-body], which means the trap does not activate until evolution completes.\n\n## Recommended Moveset\n[shadow-ball] is the locked [Ghost] STAB for consistent damage. [sludge-wave] is the [Poison] STAB finisher that handles Fairies. [focus-blast] is the [Fighting] cove[rage] slot for [Dark], [Steel], and [Normal] walls that resist both STABs. [nasty-plot] is the last slot and the setup win condition — one use is enough to guarantee a target KO.\n\n## Item · Ability · Tera\n[gengarite] is mandatory. [shadow-tag] activates post-evolution. Tera [Ghost] maxes [shadow-ball] damage for the cleanest trap-and-kill, while Tera [Fairy] flips [Dark] and [Dragon] weaknesses defensively during the setup turn. The defensive Tera is usually preferred because priority attackers are the biggest threat to the sweep.\n\n## Teammates & Synergy\nMega Gengar wants [stealth-rock] or chip support that widens OHKO ranges after setup — every additional 12% damage makes traps more reliable. [Fairy] or [Steel] partners cover the [Dark] and [psychic] weaknesses, and a [taunt] lead shuts down oppo[sing] priority abusers. A cleaner behind Mega Gengar finishes weakened cores after the trap-and-kill turn resolves.\n\n## Play Patterns\nMega Evolve into a predicted passive matchup, then [nasty-plot] on the trap turn and open with the STAB or cove[rage] move that guarantees the KO. Save Tera for a telegraphed [Dark] or [psychic] move, and never commit to setup against a faster priority user without insurance.",
+  "tags": [
+    "kanto",
+    "ghost",
+    "poison",
+    "mega",
+    "shadow-tag",
+    "special-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}
