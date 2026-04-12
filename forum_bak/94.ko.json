@@ -1,0 +1,81 @@
+{
+  "pokemonId": 94,
+  "nameKo": "팬텀",
+  "nameEn": "gengar",
+  "formKey": null,
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "roles": [
+    "special-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "cursed-body",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "ghost",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[팬텀] 배틀 운용 가이드",
+  "summary": "110 스피드 + 130 특공의 [고스트]·[독] 특수 스위퍼. [nasty-plot] 1회 셋업 후 메타 상위를 쓸어버리는 피니셔.",
+  "strengths": [
+    "110 스피드로 메타 상위권 추월",
+    "[nasty-plot] 1회로 스위퍼 화력 확보",
+    "[cursed-body]로 상대 기술 30% 확률로 봉인"
+  ],
+  "weaknesses": [
+    "60/60/75의 낮은 내구",
+    "[악]·[고스트]·[땅]·[에스퍼] 약점",
+    "선공기에 취약"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "shadow-ball",
+      "reason": "주력 [고스트] STAB"
+    },
+    {
+      "move": "sludge-wave",
+      "reason": "주력 [독] STAB 피니셔"
+    },
+    {
+      "move": "focus-blast",
+      "reason": "[악]·[강철]·[노말] 견제"
+    },
+    {
+      "move": "nasty-plot",
+      "reason": "특공 1회 셋업"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "셋업 첫 턴 보험"
+    },
+    {
+      "item": "life-orb",
+      "reason": "공격 1.3배 화력"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "스피드 축 변형"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[팬텀]은 [고스트]·[독] 타입의 고전 특수 스위퍼로, 130 특공과 110 스피드의 결합으로 메타 상위권에서 꾸준히 실전성을 유지해온 카드다. 숨겨진 특성은 없고 [cursed-body] 단일 특성이지만, 접촉 공격을 받을 때 30% 확률로 상대 기술을 봉인하는 유틸이 장기전에 의외의 변수를 만든다.\n\n## 강점 분석\n110 스피드는 메타 상위권 대부분을 추월하는 수치이며, [nasty-plot] 한 번이면 130 특공이 2배로 뛰어 [shadow-ball]·[sludge-wave]가 확정 OHKO 범위에 들어간다. [고스트]·[독] STAB 조합은 견제 범위가 넓어 [페어리]·[풀]·[격투] 등 주요 어태커를 한 번에 정리할 수 있고, [cursed-body]는 접촉 어태커 견제에 보조 유틸로 기능한다.\n\n## 약점과 대응\n60/60/75의 내구는 낮아 한 방 공격에 취약하고, [악]·[고스트]·[땅]·[에스퍼] 2배 약점이 메타에 흔하다. 특히 priority 유저에게는 [focus-sash] 없이는 셋업 자체가 불가능하다. 스카프 스피드 상위권에게도 추월될 수 있어, 스피드 우위 확인 후 셋업하는 것이 중요하다.\n\n## 추천 기술 구성\n[shadow-ball]을 주력 [고스트] STAB으로 고정하고, [sludge-wave]를 두 번째 STAB으로 둔다. [focus-blast]는 [악]·[강철]·[노말] 견제용 필수 서브로, [팬텀]을 받아내려는 탱커를 직접 찌른다. 마지막 슬롯은 [nasty-plot]으로 셋업해 스위퍼 피니셔 전환을 완성한다. [destiny-bond]·[taunt] 변형도 실전적이다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [focus-sash]가 기본으로, 셋업 첫 턴 보험을 담당한다. [life-orb]는 반동 감수 공격형 변형, [choice-scarf]는 스피드 축 통째 업그레이드 변형이다. 특성은 [cursed-body] 단일이므로 선택지가 없다. 테라스탈은 [고스트] 타입으로 STAB을 유지하거나, [페어리] 타입으로 [악]·[드래곤] 약점을 뒤집는 방어형이 실전적이다.\n\n## 시너지와 파트너\n[팬텀]은 셋업 1턴이 필수이므로 [fake-out] 리드나 피벗 라인과 궁합이 좋다. [악]·[에스퍼] 약점 카운터로 [페어리]·[강철] 파트너를 배치하고, [땅] 약점 카운터로 [비행]·[풀] 파트너를 함께 둔다. 후속 클리너가 [팬텀]의 chip을 득점으로 전환하는 설계가 기본이다.\n\n## 운용 팁\n안전한 턴에 [nasty-plot] 1회, 그 다음 턴부터 [shadow-ball]·[sludge-wave]로 확정킬을 노린다. [focus-blast]는 [악]·[강철] 탱커 진입 시에만 쓰고, 테라스탈은 약점기를 확정으로 맞을 때 즉시 발동한다. [cursed-body] 운이 따라주면 상대 주력기를 봉인해 턴을 벌 수 있으니, 접촉 어태커 상대로는 버티는 플랜을 우선 고려한다. 스카프 스피드 상위권 유저가 상대 팀에 있다면 [focus-sash]를 아껴 priority 카운터로 쓴다.",
+  "tags": [
+    "kanto",
+    "ghost",
+    "poison",
+    "special-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

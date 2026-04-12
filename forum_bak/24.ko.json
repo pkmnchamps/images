@@ -1,0 +1,80 @@
+{
+  "pokemonId": 24,
+  "nameKo": "아보크",
+  "nameEn": "arbok",
+  "formKey": null,
+  "types": [
+    "poison"
+  ],
+  "roles": [
+    "physical-attacker",
+    "setup-sweeper"
+  ],
+  "recommendedAbility": "intimidate",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "poison",
+    "ground"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[아보크] 배틀 운용 가이드",
+  "summary": "[intimidate]로 [물]리 교대 수익을 챙기고 [coil]로 부스트하는 [독] 단일 [물]리 스위퍼.",
+  "strengths": [
+    "[intimidate]로 교대 턴 [물]리 공격 약화",
+    "[coil]로 공격·방어·명중 3중 부스트",
+    "[sucker-punch] 선공기로 스피드 약점 보완"
+  ],
+  "weaknesses": [
+    "[땅]·[에스퍼] 2배 약점 구조",
+    "스피드 80으로 부스트 전에는 후공",
+    "내구 60/69/79로 셋업 여유가 부족"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "gunk-shot",
+      "reason": "고위력 [독] STAB 주력기"
+    },
+    {
+      "move": "earthquake",
+      "reason": "[강철]·[바위]·[전기] 견제 [땅] 서브"
+    },
+    {
+      "move": "coil",
+      "reason": "공격·방어·명중 동시 부스트 셋업"
+    },
+    {
+      "move": "sucker-punch",
+      "reason": "스피드 보완용 [악] 선공기"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "life-orb",
+      "reason": "공격 1.3배 화력 확보"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "첫 한 방 보험용"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "초반 회복 카드"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[아보크]는 [독] 단일 타입의 [물]리 스위퍼로, [intimidate]로 교대 수익을 챙기면서 [coil]로 셋업해 후반 스위프를 노리는 고전적 셋업 스위퍼다. 60/69/79의 내구와 80 스피드는 평범하지만, [intimidate]와 [coil]의 조합이 내구 부족을 보완해 메타 실전성을 만들어낸다.\n\n## 강점 분석\n[intimidate] 특성은 [물]리 어태커 교대 턴에 공격력을 1랭크 떨어뜨려 [아보크]의 내구를 실질적으로 끌어올린다. 여기에 [coil] 한 번이면 공격·방어·명중이 모두 한 단계씩 상승해, 다음 턴부터는 [gunk-shot]의 명중률 걱정 없이 안정적인 화력을 낸다. [sucker-punch]는 스피드 80의 한계를 보완하는 선공기로, 내구형 상대가 아닌 공격형 상대에게 스위프 피니시를 만든다.\n\n## 약점과 대응\n[땅]·[에스퍼] 2배 약점이 뼈아프고, 특히 [earthquake] 연타형 어태커에게는 [coil]을 쌓을 여유가 거의 없다. 60/69/79의 내구로는 한 방에 쓰러질 가능성이 높고, [에스퍼] 스위퍼에게 선공을 내주면 셋업 플랜이 완전히 무너진다. [intimidate] 없이 맨몸으로 받아내는 전선 운용은 금[물]이다.\n\n## 추천 기술 구성\n[gunk-shot]을 주력 [독] STAB으로 고정해 [coil] 이후의 피니셔 화력을 낸다. [earthquake]는 [강철]·[바위]·[전기] 견제용 필수 서브로, [독] STAB이 통하지 않는 [강철] 벽을 뚫는다. [coil]은 셋업 슬롯의 핵심이며, 공격·방어·명중을 모두 올려 한 번만 쌓아도 스위퍼 자격이 생긴다. 마지막 슬롯은 [sucker-punch]로 스피드 약점 보완과 피니셔 역할을 동시에 수행한다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [life-orb]가 기본으로, 공격력 1.3배 보정을 받아 확정킬 범위를 크게 늘린다. [focus-sash]는 셋업 첫 턴 보험용, [sitrus-berry]는 HP 50% 구간 회복 카드로 중반 루프에 쓴다. 특성은 [intimidate]가 기본이며 shed-skin·[unnerve]는 호환성이 떨어진다. 테라스탈은 [독] 타입으로 STAB 화력을 올리거나, [땅] 타입으로 [에스퍼] 약점 제거 + [earthquake] 강화 시너지를 노린다.\n\n## 시너지와 파트너\n[아보크]는 셋업이 필수이므로 상대 스위치를 강제할 수 있는 피벗([u-turn]·[volt-switch])과 궁합이 좋다. [에스퍼] 약점 대응으로 [악] 타입 파트너를 한 장 배치하고, [땅] 약점 카운터로 [비행]·[풀] 타입을 함께 두면 진입이 훨씬 안정적이다. [stealth-rock] 유저와 묶어 코일 부스트 후 확정킬 범위를 넓히는 설계도 실전적이다.\n\n## 운용 팁\n[intimidate] 진입으로 상대 공격력을 떨어뜨린 뒤 [coil]을 한 번 쌓고, 그 다음 턴부터 [gunk-shot]·[earthquake]로 스위프를 시작한다. [sucker-punch]는 HP가 부족한 상대에게만 사용하고, 테라스탈은 [에스퍼] 약점기를 확정으로 맞을 때 즉시 발동한다.",
+  "tags": [
+    "kanto",
+    "poison",
+    "physical-sweeper",
+    "coil"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

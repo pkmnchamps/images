@@ -1,0 +1,75 @@
+{
+  "pokemonId": 142,
+  "nameKo": "메가프테라",
+  "nameEn": "aerodactyl-mega",
+  "formKey": "mega",
+  "types": [
+    "rock",
+    "flying"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper",
+    "lead"
+  ],
+  "recommendedAbility": "tough-claws",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "flying",
+    "rock"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Mega Aerodactyl Battle Guide",
+  "summary": "A 150 Speed [Rock]/[Flying] [sweeper] whose [tough-claws] ability turns every contact move into a 1.3x boosted finisher.",
+  "strengths": [
+    "150 Speed outruns virtually everything in the format",
+    "[tough-claws] boosts every contact move by 30 percent",
+    "85/95 bulk is actually survivable compared to the base form"
+  ],
+  "weaknesses": [
+    "Still vulnerable to strong special attackers",
+    "[Ice], [Electric], and [Rock] weaknesses persist from the type combo",
+    "Turn one before mega evolving still runs the base ability"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "stone-edge",
+      "reason": "High base power [Rock] STAB for breaking walls"
+    },
+    {
+      "move": "aerial-ace",
+      "reason": "Accuracy-locked [Flying] STAB that benefits from [tough-claws]"
+    },
+    {
+      "move": "earthquake",
+      "reason": "[Ground] cove[rage] for [Steel] and [Electric] switch-ins"
+    },
+    {
+      "move": "ice-fang",
+      "reason": "Contact cove[rage] for [Dragon] and [Ground] targets"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "aerodactylite",
+      "reason": "Required mega stone for the Aerodactyl mega form"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nMega Aerodactyl is a 150 Speed physical [sweeper] whose role is to dominate the Speed tier absolutely. The base 135 Attack is only ave[rage] for a top tier [sweeper], but the [tough-claws] ability adds a 30 percent multiplier to every contact move. [aerial-ace], [ice-fang], [crunch], and [return] all scale from the ability boost, which makes Mega Aerodactyl hit much harder than the raw stats suggest.\n\n## Strengths\n150 Speed is one of the highest tiers. [tough-claws] is the damage scaler that turns moderate-power moves into real threats, and the bulk bump from 65 to 85 on Defense means Mega Aerodactyl survives incidental chip damage that would have ended the base form. The flexible cove[rage] combined with the speed advantage means Mega Aerodactyl can switch between roles mid-match.\n\n## Weaknesses & Answers\nSpecial attackers are still the biggest problem — [thunderbolt] and [ice-beam] from the faster special attackers in the format do enough damage to matter even with the improved bulk. The [Rock]/[Flying] type combination still carries multiple useful weaknesses, and stealth-[rock] chip remains a concern on the first entry. Turn one is still the base ability ([rock]-head or [unnerve]), so the first attack pre-mega can behave unexpectedly.\n\n## Recommended Moveset\n[stone-edge] is the locked [Rock] STAB because it's still the best raw-damage finisher, even though it doesn't benefit from [tough-claws]. [aerial-ace] is the [tough-claws] [Flying] STAB with locked accuracy. [earthquake] is the [Ground] cove[rage] that handles [Electric] and [Steel] switch-ins, and [ice-fang] fills the last cove[rage] slot for [Dragon] and [Ground] targets. [crunch] is an alternate pick if the team needs [Ghost] cove[rage] instead.\n\n## Item · Ability · Tera\nThe item is always [aerodactylite]. Post-mega, the ability is locked to [tough-claws]. The pre-mega turn should be used to pick a safe matchup, not to set up or attack. Tera [Flying] erases the [Ground] weakness and boosts [aerial-ace] further, while Tera [Rock] maxes [stone-edge] for a [sing]le big finisher against a known wall.\n\n## Teammates & Synergy\nA special wall (specially defensive [Steel] or [Fairy]) partners well because Mega Aerodactyl struggles against fast special attackers. A [Ground] partner covers [Electric] threats, and a [rapid-spin] or [defog] user keeps hazards from chipping the bulk. Slow pivots like [volt-switch] or [u-turn] create the safe entry turns Mega Aerodactyl needs, and a breaker on the back line picks up walls Mega Aerodactyl can't punch through quickly.\n\n## Play Patterns\nUse the pre-mega turn to enter on a forced switch, mega evolve, and pick the correct cove[rage] for the incoming target — [aerial-ace] for [Grass] and [Fighting], [stone-edge] for [Flying] and [Fire], [earthquake] for [Steel] and [Electric], [ice-fang] for [Ground] and [Dragon]. Don't commit to [stone-edge] blindly, because its accuracy still loses matches. Save the Tera for the exact moment an [Ice] or [Electric] move is telegraphed, and use it defensively to preserve the sweep.",
+  "tags": [
+    "kanto",
+    "rock",
+    "flying",
+    "mega",
+    "tough-claws"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

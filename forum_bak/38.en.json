@@ -1,0 +1,80 @@
+{
+  "pokemonId": 38,
+  "nameKo": "나인테일",
+  "nameEn": "ninetales",
+  "formKey": null,
+  "types": [
+    "fire"
+  ],
+  "roles": [
+    "special-attacker",
+    "support"
+  ],
+  "recommendedAbility": "drought",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "fire",
+    "grass"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "[Ninetales] Battle Guide",
+  "summary": "A [Fire]-type special attacker whose [drought] ability sets sun automatically — the anchor of any sun-based team composition.",
+  "strengths": [
+    "[drought] sets sun on entry automatically",
+    "Speed 100 outruns most of the mid-upper metagame",
+    "[nasty-plot] converts the [support] role into sweeper damage"
+  ],
+  "weaknesses": [
+    "[Rock], [Water], and [Ground] weaknesses are common",
+    "73/75/100 bulk leaves little setup room",
+    "Loses the win condition when sun is erased"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "flamethrower",
+      "reason": "Main [Fire] STAB with high consistency"
+    },
+    {
+      "move": "solar-beam",
+      "reason": "One-turn [Grass] cove[rage] under sun"
+    },
+    {
+      "move": "nasty-plot",
+      "reason": "Setup move that doubles SpA for the sweep"
+    },
+    {
+      "move": "will-o-wisp",
+      "reason": "Burn utility against physical attackers"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "heat-rock",
+      "reason": "Extends sun duration to eight turns"
+    },
+    {
+      "item": "leftovers",
+      "reason": "Long-game healing item"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "Setup-turn insurance"
+    }
+  ],
+  "bodyMarkdown": "## Overview\n[Ninetales] is a pure-[Fire] special attacker whose identity revolves a[round] its hidden ability [drought] — it sets sun on entry, anchoring any sun-based team composition. In Champions, it pairs directly with [chlorophyll] sweepers like Venusaur, and its own offense is strong enough to sweep when [nasty-plot] is active.\n\n## Strengths\n[drought] is the root of the team plan. Under sun, [flamethrower] damage goes up by 50% and [solar-beam] becomes a one-turn move, which gives [Ninetales] a full cove[rage] kit from a [sing]le slot. Speed 100 outruns most of the mid-upper metagame, and [nasty-plot] converts the [support] role into a real finisher. [will-o-wisp] is a bonus utility slot that weakens physical attackers to preserve bulk.\n\n## Weaknesses & Answers\n[Rock], [Water], and [Ground] weaknesses are all common cove[rage], and [stealth-rock] chips 25% on every entry. 73/75/100 bulk leaves no room for setup [mist]akes, and the whole team plan collapses when oppo[sing] weather — rain, sand, snow — overwrites sun. The team must carry a dedicated answer to oppo[sing] weather setters to preserve the plan.\n\n## Recommended Moveset\n[flamethrower] is the locked STAB for consistent sun-boosted damage. [solar-beam] becomes a one-turn finisher under sun, providing mandatory cove[rage] for [Water], [Ground], and [Rock] switch-ins. [nasty-plot] is the setup slot that turns [Ninetales] into a sweeper, and [will-o-wisp] is the utility slot for long-game physical attacker weakening. A [hex] variant that pairs burn with [Ghost] damage is a niche alternative.\n\n## Item · Ability · Tera\n[heat-rock] is the default item because it extends sun from five to eight turns, which is the difference between a [sing]le sweep and a full team plan. [leftovers] is the self-sufficient alternative, and [focus-sash] provides setup insurance. Ability must be [drought] — [flash]-[fire] is only a niche pick. Tera [Fire] maxes [flamethrower] damage and Tera [Grass] boosts [solar-beam] for a decisive cove[rage] pick.\n\n## Teammates & Synergy\n[Ninetales] exists to enable [chlorophyll] partners like Venusaur — that pairing is effectively automatic. [Ground] or [Grass] partners cover the [Rock] and [Water] weaknesses, and a [taunt] lead or pivot line answers oppo[sing] weather setters. The team also needs a dedicated hazard remover because [Ninetales] hates [stealth-rock] chip on every entry.\n\n## Play Patterns\nLead [Ninetales] to activate [drought], then either pivot out to bring in a [chlorophyll] sweeper or stay in for a [nasty-plot] sweep if the matchup is safe. Use [will-o-wisp] on any physical attacker entering the field, and Tera on a telegraphed [Rock] or [Water] move.",
+  "tags": [
+    "kanto",
+    "fire",
+    "sun",
+    "drought"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

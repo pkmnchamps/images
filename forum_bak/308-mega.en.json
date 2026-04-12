@@ -1,0 +1,74 @@
+{
+  "pokemonId": 308,
+  "nameKo": "메가요가램",
+  "nameEn": "medicham-mega",
+  "formKey": "mega",
+  "types": [
+    "fighting",
+    "psychic"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "pure-power",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "fighting",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 2,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Medicham-Mega Battle Guide",
+  "summary": "A [Fighting]/[Psychic] wallbreaker whose [pure-power] doubles an already strong attack stat for ridiculous effective damage.",
+  "strengths": [
+    "[pure-power] roughly doubles an already strong 100 base attack",
+    "[Fighting]/[Psychic] STAB combo hits most of the metagame neutrally",
+    "[high-jump-kick] one-shots the majority of tanks"
+  ],
+  "weaknesses": [
+    "60/85/85 defensive line folds to any clean hit",
+    "[Ghost], [Fairy], and [Dark] switch-ins are everywhere",
+    "Priority attackers and choice-scarf users outpace it easily"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "high-jump-kick",
+      "reason": "Primary [Fighting] STAB that converts [pure-power] into instant KOs"
+    },
+    {
+      "move": "zen-headbutt",
+      "reason": "[Psychic] STAB that punishes [Poison], [Fighting], and [Fairy] switch-ins"
+    },
+    {
+      "move": "ice-punch",
+      "reason": "Cove[rage] for [Flying], [Dragon], and [Ground] pivots"
+    },
+    {
+      "move": "thunder-punch",
+      "reason": "Targets bulky [Water] and [Flying] switch-ins trying to wall the STABs"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "medichamite",
+      "reason": "Mandatory mega stone for"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nMedicham-Mega is the textbook [pure-power] wallbreaker — a [Fighting]/[Psychic] attacker whose effective attack roughly doubles the moment it mega-evolves. Base 100 attack plus [pure-power] lands at roughly 400 effective attack, and base 100 Speed keeps it relevant in the Champions meta. The plan is simple: mega-evolve on entry, one-shot the first wall, and pivot out before a scarfer cleans it up.\n\n## Strengths\nAfter mega-evolution the effective attack easily rivals choice-band users without locking into a move. [high-jump-kick] by itself erases most [Steel], [Normal], and [Fighting] tanks that try to wall it, and [zen-headbutt] [round]s out the STAB to crack [Poison] and [Fairy] pivots. [ice-punch] and [thunder-punch] handle [Dragon], [Flying], and [Water] switch-ins trying to [counter]-pick the STAB combo. Base 100 Speed outruns every common bulky threat in the tier without relying on paraphernalia.\n\n## Weaknesses & Answers\nThe 60/85/85 bulk is paper thin. Any priority user or choice-scarf pivot can [revenge]-kill Medicham-Mega cleanly, and the [Fighting]/[Psychic] chart leaves it helpless against [Ghost], [Fairy], and [Dark] walls that aren't already crumbling. [high-jump-kick] carries a hard punish on miss, so scout [protect] and [Ghost] switch-ins before committing. Turn one before mega-evolving is also dangerous because the original telepathy ability does nothing for the defensive profile.\n\n## Recommended Moveset\n[high-jump-kick] is the locked [Fighting] STAB because its damage after [pure-power] is the entire point of the build. [zen-headbutt] is the required second STAB that cracks [Poison] and [Fairy] cores trying to check the [Fighting] move. [ice-punch] is mandatory cove[rage] for [Dragon], [Flying], and [Ground] pivots, and [thunder-punch] [round]s out the set by punishing bulky [Water] and [Flying] switches. Some builds swap in [drain-punch] for longer games or [psycho-cut] for safer crit-friendly chip.\n\n## Item · Ability · Tera\n[medichamite] is the only legal item — mega evolution auto-locks [pure-power] and boosts both offensive stats. A [jolly] nature maximises Speed to win same-tier 100s mirrors, and the Tera choice is usually [Fighting] to juice [high-jump-kick] even further, or [Fairy] to flip [Dark] and [Dragon] cove[rage] and [block] oppo[sing] priority abilities.\n\n## Teammates & Synergy\nSpeed control partners such as [tailwind] users or [sticky-web] leads let Medicham-Mega outrun scarfers entirely. Pair it with a [Dark] or [Steel] partner to answer the [Ghost]s and Fairies that wall it, and run a [healing-wish] teammate to guarantee a second wave of pressure after the first cycle. [fake-out] leads are also great, because they buy the turn needed to mega-evolve safely.\n\n## Play Patterns\nMega-evolve on the entry turn every time — there is no scenario where delaying [pure-power] is correct. Scout [Ghost] switches before committing [high-jump-kick], and line up Tera for the first predicted [Ghost] or [Dark] move. Once Medicham-Mega drops below 50% HP, prefer to pivot or sack it to a [healing-wish] partner rather than double-down on risky 50/50s.",
+  "tags": [
+    "hoenn",
+    "mega",
+    "fighting",
+    "psychic",
+    "pure-power"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

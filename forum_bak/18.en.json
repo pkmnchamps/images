@@ -1,0 +1,81 @@
+{
+  "pokemonId": 18,
+  "nameKo": "피죤투",
+  "nameEn": "pidgeot",
+  "formKey": null,
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "roles": [
+    "pivot",
+    "support"
+  ],
+  "recommendedAbility": "big-pecks",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "flying",
+    "steel"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 2,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "[Pidgeot] Battle Guide",
+  "summary": "A [Normal]/[Flying] utility [pivot] with Speed 101, [roost], and [defog] — the skeleton of a physical [pivot] core.",
+  "strengths": [
+    "Unboosted Speed 101 [pivot]s cleanly through mid-tier attackers",
+    "[defog] clears hazards without burning an offense slot",
+    "[roost] + [u-turn] keeps HP stable through long [pivot] loops"
+  ],
+  "weaknesses": [
+    "[Rock], [Electric], and [Ice] weaknesses; 4x [stealth-rock] damage",
+    "80 Attack gives weak finishing power against walls",
+    "Ability choices are all mediocre competitively"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "brave-bird",
+      "reason": "[Flying] STAB main move accepting re[coil]"
+    },
+    {
+      "move": "u-turn",
+      "reason": "Pivot bug move that preserves tempo"
+    },
+    {
+      "move": "roost",
+      "reason": "Long-game healing that offsets re[coil]"
+    },
+    {
+      "move": "defog",
+      "reason": "Team hazard removal utility"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "leftovers",
+      "reason": "Long-game healing with synergy"
+    },
+    {
+      "item": "sharp-beak",
+      "reason": "Boosts damage"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "One-shot healing for critical early turns"
+    }
+  ],
+  "bodyMarkdown": "## Overview\n[Pidgeot] is a mid-Speed [Normal]/[Flying] utility [pivot] that brings Speed 101, [roost], and [defog] to a [sing]le slot. Its stats are plain and its damage output is low, but the ability to handle hazard control and [pivot] tempo from one team slot gives it a legitimate home on balance cores in the Champions format.\n\n## Strengths\nUnboosted 101 Speed sits above a lot of the mid-tier metagame, which keeps [u-turn] [pivot]ing reliable. [defog] is the utility that pays rent — any offense team that wants to avoid [stealth-rock] chip appreciates a dedicated remover. Combined with [roost], [Pidgeot] can manage its HP turn after turn, and [brave-bird] re[coil] is directly undone by the healing slot.\n\n## Weaknesses & Answers\n[Normal]/[Flying] carries [Rock], [Electric], and [Ice] weaknesses all at once, and the 4x [stealth-rock] damage is punishing without a dedicated remover already on the field. 80 Attack struggles to break walls, and none of the three abilities are truly competitive — [big-[peck]s] is the best choice because it prevents [intimidate] and Defense drops. Lean on [pivot] positioning instead of trying to break through bulk.\n\n## Recommended Moveset\n[brave-bird] is the main [Flying] STAB because a committed damage slot still matters even on a [pivot] set. [u-turn] is the core [pivot] move that keeps team tempo alive. [roost] is mandatory [recover]y to offset [brave-bird] re[coil] and enable the long-game plan. The last slot is [defog] for hazard control — it reduces the whole team dependency on a separate remover. [heat-wave] and [hurricane] variants exist but the utility set is stronger here.\n\n## Item · Ability · Tera\n[leftovers] is the default item because the [roost] + [leftovers] combo maximises long-game healing. [sharp-beak] is the offensive variant that turns [brave-bird] into a real attack slot, and [sitrus-berry] is the one-shot heal choice. Ability stays [big-[peck]s] to prevent Defense drops. Tera [Flying] preserves STAB damage, while Tera [Steel] flips the [Rock] and [Ice] weaknesses into resistances.\n\n## Teammates & Synergy\n[Pidgeot] is a glue [pivot] and [defog] user, so it pairs with [Ground] or [Steel] tanks that [soak] physical attacks from the other side of the board. A [Ground] partner covers the [Electric] weakness, and a [wish] user behind [Pidgeot] extends the long-game healing plan. Setup sweepers behind the [u-turn] loop gain safe entries on free turns.\n\n## Play Patterns\nLead [Pidgeot] into a predicted passive matchup to start the [defog] + [u-turn] loop, then [roost] to [recover] before cycling again. Use [brave-bird] only on guaranteed KOs to minimise re[coil] accumulation, and Tera on any telegraphed [Rock] or [Electric] attack.",
+  "tags": [
+    "kanto",
+    "flying",
+    "pivot",
+    "defog"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

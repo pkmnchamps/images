@@ -1,0 +1,78 @@
+{
+  "pokemonId": 858,
+  "nameKo": "브리무음",
+  "nameEn": "hatterene",
+  "formKey": null,
+  "types": [
+    "psychic",
+    "fairy"
+  ],
+  "roles": [
+    "special-attacker",
+    "trick-room"
+  ],
+  "recommendedAbility": "magic-bounce",
+  "recommendedNature": "quiet",
+  "recommendedTera": [
+    "fairy",
+    "water"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 2,
+    "spa": 32,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "ko",
+  "title": "[브리무음] 배틀 운용 가이드",
+  "summary": "[magic-bounce]로 설치기를 튕겨내고 트릭룸 아래 특공 136을 뽑아내는 [에스퍼]·[페어리] 나커.",
+  "strengths": [
+    "특성 [magic-bounce]로 [stealth-rock]·도발·상태이상 반사",
+    "특공 136과 [에스퍼]·[페어리] STAB로 광역 견제력 확보",
+    "스피드 29라 [trick-room] 환경에서 최상위 선공"
+  ],
+  "weaknesses": [
+    "[강철] 2배 + [독] 2배, [고스트] 2배의 3중 약점",
+    "[물]리 내구 57/95에 [u-turn]·[knock-off]에 약함",
+    "트릭룸이 지워지면 즉시 템포 상실"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "psychic",
+      "reason": "특공 136을 살리는 [에스퍼] STAB 메인"
+    },
+    {
+      "move": "dazzling-gleam",
+      "reason": "더블에서 광역 [페어리] STAB"
+    },
+    {
+      "move": "mystical-fire",
+      "reason": "[강철] 견제 필수"
+    },
+    {
+      "move": "trick-room",
+      "reason": "스피드 29 라인을 역전시키는 필드 세팅"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "mental-herb",
+      "reason": "트릭룸 세팅 턴의 도발·신음 대책"
+    },
+    {
+      "item": "leftovers",
+      "reason": "버티기 + 장기전 회복"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[브리무음]은 종족값 57/90/95/136/103/29의 [에스퍼]·[페어리] 특수 어태커로, 챔피언스 MA에서는 [trick-room] 기반 팀의 전용 스위퍼이자 설치기 파훼 전문가 역할을 맡는다. 핵심은 특성 [magic-bounce] — [stealth-rock], 도발, 상태이상, 고랑 훅 같은 간접 수단을 전부 되돌려 보낸다.\n\n## 강점 분석\n특공 136은 더블에서도 상위권 수치이고, [에스퍼]·[페어리] STAB는 [독]·[격투]·[악]·[드래곤]을 한 번에 묶는 역할 조합이다. 스피드 29가 치명적 단점처럼 보이지만 [trick-room] 아래에서는 오히려 최상위 선공 라인이 되어 [quiet] 성격으로 스피드를 더 낮추는 세팅이 정석이다. [magic-bounce]는 선봉 [stealth-rock] 유저를 그 자리에서 벌주는 특성으로, 상대 선봉 구성을 무너뜨리는 억지력이 크다.\n\n## 약점과 대응\n[강철] 2배·[독] 2배·[고스트] 2배로 3중 약점을 끼고 있어 gholdengo·corviknight·타부자고 같은 [강철] 어태커에게 일방적으로 밀린다. [물]리 내구도 HP 57에 불과해 [knock-off]·[u-turn] 한 방에 교대 플랜이 깨질 수 있고, 트릭룸이 지워지면 스피드 29의 약점이 그대로 드러난다. 선공기를 가진 [고스트]도 주의 대상이다.\n\n## 추천 기술 구성\n메인 STAB는 [psychic] 고정, 더블이라면 [dazzling-gleam]으로 광역 [페어리] 타격을 추가한다. 세 번째 슬롯의 [mystical-fire]는 gholdengo·마기라스·metagross 등 [강철]·[에스퍼] 내구조를 녹이는 필수 견제기이고, 네 번째 슬롯은 [trick-room]으로 팀 전체의 스피드 축을 뒤집는다. 싱글 환경이라면 [dazzling-gleam]을 [psyshock]으로 교체하는 선택지도 있다.\n\n## 추천 도구 · 특성 · 테라스탈\n[mental-herb]는 트릭룸 세팅 턴에 도발·[encore]를 막는 1회성 보험으로 실전성이 높고, [leftovers]는 [magic-bounce]로 설치기를 튕겨내며 장기전으로 갈 때의 회복 수단이다. 특성은 반드시 [magic-bounce]를 선택한다. 테라스탈은 [페어리]로 STAB를 강화하거나, [강철]·[독] 약점을 지우는 [물] 테라로 내구 플랜을 완성하는 두 방향이 유효하다.\n\n## 시너지와 파트너\n트릭룸 세터로 [브리무음]을 쓰는 팀은 뒤에 저속 고화력 [물]리/특수 어태커(예: 마기라스·crawdaunt 타입 혹은 무거운 [물]리 에이스)가 필수다. [강철]·[독]·[고스트]를 커버할 [격투]·[땅] 타입 파트너를 최소 하나 넣어야 하고, 선공기 유저([shadow-sneak]·[sucker-punch])를 견제할 [페어리]·[격투] 서포터도 함께 둔다. 상대 트릭룸 되걸기 유저에 대응할 [imprison] 혹은 [taunt] 카드가 팀에 있으면 이상적이다.\n\n## 운용 팁\n선봉에 [브리무음]을 넣어 1턴째 [trick-room]을 걸고, 2턴째부터 특공 136으로 두들겨 패는 것이 기본 플랜이다. [magic-bounce]가 있으니 상대가 [stealth-rock]·[taunt]·[spore]를 칠 것 같으면 오히려 교대하지 말고 버텨서 반사를 노린다. 트릭룸이 끝나기 직전 턴에는 [psychic] 대신 [mystical-fire]로 [강철] 라인을 먼저 정리해 후속 아군의 길을 뚫어준다.",
+  "tags": [
+    "galar",
+    "psychic",
+    "fairy",
+    "trick-room",
+    "magic-bounce"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}
