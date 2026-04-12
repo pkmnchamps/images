@@ -1,0 +1,43 @@
+{
+  "teamId": "PC30",
+  "title": "Kokoro's Aerodactyl Chandelure Team",
+  "owner": "aotobj98",
+  "fullName": "Bingjie Wang",
+  "pokepaste": "https://pokepast.es/47a4a221b0951f16",
+  "linkToSource": "https://x.com/aotobj98/status/2041948092128497962?s=20",
+  "dateShared": "2026-04-08",
+  "pokemon": [
+    "aerodactyl-mega",
+    "basculegion",
+    "conkeldurr",
+    "clefable",
+    "chandelure",
+    "kingambit"
+  ],
+  "samples": [
+    "Chandelure @ Focus Sash\nAbility: Flash Fire\nLevel: 50\nEVs: 32 HP / 25 SpA / 1 SpD / 8 Spe\nModest Nature\n- Shadow Ball\n- Trick Room\n- Heat Wave\n- Protect",
+    "Basculegion (M) @ White Herb\nAbility: Adaptability\nLevel: 50\nEVs: 6 HP / 28 Atk / 32 Spe\nAdamant Nature\n- Last Respects\n- Aqua Jet\n- Wave Crash\n- Protect",
+    "Kingambit @ Black Glasses\nAbility: Defiant\nLevel: 50\nEVs: 24 HP / 25 Atk / 1 Def / 1 SpD / 15 Spe\nAdamant Nature\n- Swords Dance\n- Sucker Punch\n- Kowtow Cleave\n- Protect",
+    "Aerodactyl @ Aerodactylite\nAbility: Unnerve\nLevel: 50\nEVs: 21 HP / 21 Atk / 1 SpD / 23 Spe\nJolly Nature\n- Rock Slide\n- Protect\n- Tailwind\n- Dual Wingbeat",
+    "Conkeldurr @ Black Belt\nAbility: Iron Fist\nLevel: 50\nEVs: 32 HP / 30 Atk / 1 Def / 3 SpD\nAdamant Nature\n- Drain Punch\n- Thunder Punch\n- Mach Punch\n- Protect",
+    "Clefable @ Sitrus Berry\nAbility: Unaware\nLevel: 50\nEVs: 32 HP / 14 Def / 20 SpD\nCalm Nature\n- Follow Me\n- Helping Hand\n- Moonblast\n- Protect"
+  ],
+  "comments": {
+    "teamOverview": "[aerodactyl-mega]를 메인 메가로, [chandelure] [trick-room] + [conkeldurr] [iron-fist] 트릭룸 물리 어택커를 결합한 듀얼 스피드 모드 파티.",
+    "keyStrategies": [
+      "[aerodactyl-mega] [tailwind] 고속 모드 or [chandelure] [trick-room] 저속 모드 선택",
+      "[conkeldurr] [iron-fist] [drain-punch]·[mach-punch]·[thunder-punch] 주먹기 보정",
+      "[clefable] [unaware] + [follow-me] 타겟 유도 + [helping-hand] 화력 보조",
+      "[kingambit] [defiant] + [swords-dance] 적층 + [basculegion] [last-respects] 후반 마무리"
+    ],
+    "pokemonNotes": {
+      "aerodactyl-mega": "고속 물리 메가. [tailwind] 스피드 지원 + [rock-slide] 광역 + [dual-wingbeat] [flying]. [unnerve] 열매 차단.",
+      "chandelure": "[flash-fire]로 [fire] 면역 + 화력 상승. [trick-room] 저속 모드 세터 + [heat-wave] 광역 + [shadow-ball] [ghost]. [focus-sash] 1회 생존.",
+      "conkeldurr": "[iron-fist]로 주먹기 1.2배. [drain-punch] 회복 공격 + [mach-punch] [fighting] 선공기 + [thunder-punch] [water]·[flying] 견제. [black-belt] [fighting] 보정. [trick-room] 아래 저속 스위퍼.",
+      "clefable": "[unaware]로 상대 적층 무시 + [follow-me] 타겟 유도 + [helping-hand] 아군 화력 1.5배 + [moonblast] 자체 화력. [sitrus-berry] 내구.",
+      "kingambit": "[defiant] + [swords-dance] 적층 + [kowtow-cleave] 필중 + [sucker-punch] 선공기. [black-glasses] [dark] 보정.",
+      "basculegion": "[adaptability] [water] STAB 2배 + [last-respects] 후반 누적 화력 + [wave-crash] 고위력 + [aqua-jet] 선공기. [white-herb] 하락 무효."
+    },
+    "verdict": "[aerodactyl-mega]의 고속 [tailwind]과 [chandelure]의 [trick-room]이라는 정반대 스피드 모드를 갖춘 듀얼 모드 파티다. [conkeldurr]는 [trick-room] 아래에서 [iron-fist] 보정 [drain-punch]로 회복하면서 공격하는 저속 탱커형 스위퍼로, [mach-punch] 선공기까지 있어 [trick-room] 종료 후에도 마무리가 가능하다. [clefable]의 [unaware] + [follow-me]는 상대 적층을 무시하면서 아군 어택커를 보호하는 최적의 서포터이며, [helping-hand]로 화력까지 보조한다. [basculegion]의 [last-respects]는 아군이 쓰러질수록 화력이 올라가 후반 마무리에 강력하다. [chandelure]의 [flash-fire]는 [fire] 공격을 흡수하여 오히려 화력이 올라가는 카운터 특성이다. 약점으로는 [dark] 타입에 [chandelure]가 약하고, [conkeldurr]의 스피드가 [trick-room] 없이는 부족하다. 종합적으로 고속·저속 양 모드에서 강한 유연한 듀얼 스피드 파티다."
+  }
+}

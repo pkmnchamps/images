@@ -1,0 +1,43 @@
+{
+  "teamId": "PC17",
+  "title": "KURO's Blastoise Pelipper Team",
+  "owner": "f_kc56",
+  "fullName": "Masayoshi Kuroo",
+  "pokepaste": "https://pokepast.es/e466c9ea74393352",
+  "linkToSource": "https://x.com/f_kc56/status/2041855353965703376?s=46",
+  "dateShared": "2026-04-08",
+  "pokemon": [
+    "blastoise-mega",
+    "pelipper",
+    "sneasler",
+    "sinistcha",
+    "kingambit",
+    "garchomp"
+  ],
+  "samples": [
+    "Blastoise @ Blastoisinite\nAbility: Rain Dish\nLevel: 50\nEVs: 1 HP / 1 Def / 32 SpA / 32 Spe\nModest Nature\n- Water Spout\n- Water Pulse\n- Ice Beam\n- Protect",
+    "Pelipper @ Choice Scarf\nAbility: Drizzle\nLevel: 50\nEVs: 1 HP / 32 SpA / 32 Spe\nTimid Nature\n- Hurricane\n- Weather Ball\n- U-turn\n- Tailwind",
+    "Sinistcha @ Kasib Berry\nAbility: Hospitality\nLevel: 50\nEVs: 31 HP / 32 SpA / 2 SpD\nModest Nature\n- Matcha Gotcha\n- Life Dew\n- Rage Powder\n- Trick Room",
+    "Sneasler @ Focus Sash\nAbility: Poison Touch\nLevel: 50\nEVs: 32 Atk / 1 Def / 32 Spe\nJolly Nature\n- Close Combat\n- Dire Claw\n- Rock Slide\n- Protect",
+    "Garchomp @ Lum Berry\nAbility: Rough Skin\nLevel: 50\nEVs: 32 Atk / 1 SpD / 32 Spe\nJolly Nature\n- Dragon Claw\n- Earthquake\n- Rock Slide\n- Protect",
+    "Kingambit @ Black Glasses\nAbility: Defiant\nLevel: 50\nEVs: 32 HP / 32 Atk / 1 Def / 1 SpD\nAdamant Nature\n- Kowtow Cleave\n- Sucker Punch\n- Iron Head\n- Protect"
+  ],
+  "comments": {
+    "teamOverview": "[blastoise-mega]를 메인 메가로 [pelipper] [drizzle] 비 축과 결합한 비 파티. [water-spout] 풀HP 고위력기를 축으로 빠르게 공격하고, [kingambit]·[garchomp]이 물리 서브 어택커를 담당한다.",
+    "keyStrategies": [
+      "[pelipper] [drizzle] + [blastoise-mega] [water-spout] 비 아래 풀HP 150위력 광역 특수 공격",
+      "[pelipper] [choice-scarf]로 고속 선공 [hurricane] 비 필중 + [u-turn] 안전 교대",
+      "[sneasler] [focus-sash] + [poison-touch]로 접촉기 중독 + [rock-slide] 광역 flinch",
+      "[kingambit] [defiant] [intimidate] 카운터 + [garchomp] 물리 서브 어택커"
+    ],
+    "pokemonNotes": {
+      "blastoise-mega": "비 아래 [water-spout] 풀HP 150위력 [water] 광역기가 핵심. HP 관리가 중요. [water-pulse] 안정 서브 + [ice-beam] [dragon]·[grass] 견제. [rain-dish]로 비 아래 매턴 HP 회복.",
+      "pelipper": "[drizzle] 비 전개 + [choice-scarf]로 고속 운용. [hurricane] 비 필중 + [weather-ball] [water] 140위력 + [u-turn] 교대 + [tailwind] (스카프라 후속 선출 시).",
+      "sneasler": "[poison-touch]로 접촉기 중독 확률. [close-combat] + [dire-claw] 물리 + [rock-slide] 광역 flinch. [focus-sash] 1회 생존.",
+      "sinistcha": "[hospitality] 교대 회복 + [trick-room] 저속 모드. [rage-powder] 타겟 유도 + [life-dew] 회복. [kasib-berry]로 [ghost] 1회 반감.",
+      "garchomp": "[lum-berry]로 상태이상 1회 해제. [earthquake] 광역 + [dragon-claw] [dragon] + [rock-slide] 광역 flinch. [jolly] 최속.",
+      "kingambit": "[defiant] [intimidate] 카운터 + [kowtow-cleave] 필중 + [sucker-punch] 선공기 + [iron-head] [steel]. [black-glasses] [dark] 보정."
+    },
+    "verdict": "[blastoise-mega]의 [water-spout]이 이 팀의 상징적 무기다. 비 아래 풀HP 상태에서 [water-spout]은 150위력 [water] 광역기로, 상대 양쪽 포켓몬에게 막대한 피해를 준다. [rain-dish]로 비 아래 매턴 HP를 회복하여 [water-spout] 위력 유지를 돕는다. [pelipper]를 [choice-scarf]로 운용해 초반부터 고속 [hurricane]으로 공격하거나 [u-turn]으로 빠르게 교대하는 기동성이 있다. [sinistcha]의 [trick-room]은 [blastoise-mega]가 스피드가 부족할 때 저속 모드로 전환하는 옵션이 된다. [kingambit]과 [garchomp]은 비 시너지 없이도 독립적으로 강한 물리 어택커로, 비가 끊겨도 화력 유지가 가능하다. 약점으로는 [blastoise-mega]가 HP를 잃으면 [water-spout] 화력이 급감하고, [grass]·[electric] 타입에 비 축 포켓몬 다수가 약하다. [pelipper]가 [choice-scarf]라 기술 고정이 되어 유연성이 떨어지는 점도 있다. 종합적으로 [water-spout] 초반 폭발력에 집중한 속공형 비 파티다."
+  }
+}

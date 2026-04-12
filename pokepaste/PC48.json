@@ -1,0 +1,43 @@
+{
+  "teamId": "PC48",
+  "title": "sasisu's Kangaskhan Kommo-o Team",
+  "owner": "sasisu_memo",
+  "fullName": "Mao Harada",
+  "pokepaste": "https://pokepast.es/ee54189bc5fef0e7",
+  "linkToSource": "https://x.com/sasisu_memo/status/2042154004130750854?s=20",
+  "dateShared": "2026-04-08",
+  "pokemon": [
+    "kangaskhan-mega",
+    "incineroar",
+    "volcarona",
+    "milotic",
+    "sinistcha",
+    "kommo-o"
+  ],
+  "samples": [
+    "Kangaskhan (F) @ Kangaskhanite\nAbility: Scrappy\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nAdamant Nature\n- Double-Edge\n- Sucker Punch\n- Fake Out\n- Protect",
+    "Incineroar @ Chople Berry\nAbility: Intimidate\nLevel: 50\nEVs: 32 HP / 15 Atk / 11 Def / 1 SpD / 7 Spe\nAdamant Nature\n- Flare Blitz\n- Throat Chop\n- Parting Shot\n- Fake Out",
+    "Sinistcha @ Sitrus Berry\nAbility: Hospitality\nLevel: 50\nEVs: 32 HP / 8 Def / 26 SpD\nCalm Nature\n- Matcha Gotcha\n- Life Dew\n- Rage Powder\n- Protect",
+    "Volcarona @ Charti Berry\nAbility: Flame Body\nLevel: 50\nEVs: 32 HP / 29 Def / 5 Spe\nBold Nature\n- Overheat\n- Struggle Bug\n- Rage Powder\n- Tailwind",
+    "Kommo-o @ Leftovers\nAbility: Soundproof\nLevel: 50\nEVs: 11 HP / 1 Def / 20 SpA / 2 SpD / 32 Spe\nModest Nature\n- Clanging Scales\n- Aura Sphere\n- Clangorous Soul\n- Protect",
+    "Milotic @ Lum Berry\nAbility: Competitive\nLevel: 50\nEVs: 32 HP / 21 Def / 1 SpA / 12 Spe\nBold Nature\n- Icy Wind\n- Scald\n- Life Dew\n- Helping Hand"
+  ],
+  "comments": {
+    "teamOverview": "[kangaskhan-mega]를 메인 메가로, [kommo-o] [soundproof] [clangorous-soul] + [milotic] [competitive] + [volcarona] [quiver-dance] 적층 어택커 다수 편성.",
+    "keyStrategies": [
+      "[kangaskhan-mega] [scrappy]로 [ghost]에 [normal]·[fighting] 기술 적중 + Parental Bond 2연타",
+      "[kommo-o] [soundproof] + [clangorous-soul] 전 능력치 상승",
+      "[milotic] [competitive] [intimidate] 카운터 + [volcarona] [quiver-dance] 적층",
+      "[sinistcha] [trick-room] 저속 모드 옵션"
+    ],
+    "pokemonNotes": {
+      "kangaskhan-mega": "[scrappy] → 메가 Parental Bond. 메가 전 [scrappy]로 [ghost] 타격 가능. [adamant] 풀 공격·스피드. [fake-out] + [double-edge] + [drain-punch] + [sucker-punch].",
+      "kommo-o": "[soundproof] + [clangorous-soul] + [clanging-scales] 광역 + [aura-sphere]. [leftovers] 회복.",
+      "milotic": "[competitive] [intimidate] 카운터. [scald] 화상 + [icy-wind] 스피드 하락. [lum-berry] 상태이상 해제.",
+      "volcarona": "[flame-body] 접촉 화상 + [quiver-dance] 적층. [charti-berry] [rock] 반감. HP·물방 내구 투자.",
+      "sinistcha": "[hospitality] 교대 회복 + [trick-room] + [rage-powder]. [sitrus-berry].",
+      "incineroar": "[intimidate] + [fake-out] + [parting-shot] + [flare-blitz]. [chople-berry] [fighting] 반감."
+    },
+    "verdict": "[kangaskhan-mega]의 Parental Bond 2연타 + 적층 어택커 다수가 핵심인 파티다. [kangaskhan-mega]는 메가 전 [scrappy]로 [ghost] 타입에 [fake-out]이 적중하는 장점이 있고, Parental Bond로 모든 공격이 2연타가 되어 추가 효과 발동률이 높다. [kommo-o]·[volcarona] 2마리가 적층 스위퍼로 기능하여 상대에 따라 적층 대상을 선택할 수 있다. [milotic]의 [competitive]는 [incineroar]의 [intimidate]와 합쳐 상대 [intimidate] 사용 시 특공이 올라가는 카운터이며, [sinistcha]의 [trick-room]은 [kangaskhan-mega]의 스피드가 부족할 때 저속 모드 전환 대안이다. 약점으로는 [fighting] 타입에 [kangaskhan-mega] 약하고, [rock] 타입에 [volcarona] 4배. 종합적으로 2연타 + 다중 적층 + [trick-room] 옵션의 공격적 파티다."
+  }
+}

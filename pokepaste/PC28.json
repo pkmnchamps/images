@@ -1,0 +1,43 @@
+{
+  "teamId": "PC28",
+  "title": "alcana's Charizard-Y Kingambit Team",
+  "owner": "alcana_10906",
+  "fullName": "Kiwamu Endo",
+  "pokepaste": "https://pokepast.es/afb6d3030eceb66b",
+  "linkToSource": "https://x.com/alcana_10906/status/2041897343533175261?s=46&t=WmXEnVa3rTSw0P9A0n6S3Q",
+  "dateShared": "2026-04-08",
+  "pokemon": [
+    "charizard-mega-y",
+    "incineroar",
+    "gyarados",
+    "venusaur",
+    "kingambit",
+    "garchomp"
+  ],
+  "samples": [
+    "Kingambit @ Black Glasses\nAbility: Defiant\nLevel: 50\nEVs: 26 HP / 32 Atk / 1 SpD / 7 Spe\nAdamant Nature\n- Kowtow Cleave\n- Sucker Punch\n- Low Kick\n- Protect",
+    "Charizard @ Charizardite Y\nAbility: Blaze\nLevel: 50\nEVs: 20 HP / 14 Def / 17 SpA / 15 Spe\nModest Nature\n- Heat Wave\n- Weather Ball\n- Solar Beam\n- Protect",
+    "Venusaur @ Focus Sash\nAbility: Chlorophyll\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Leaf Storm\n- Sludge Bomb\n- Sleep Powder\n- Protect",
+    "Incineroar @ Sitrus Berry\nAbility: Intimidate\nLevel: 50\nEVs: 32 HP / 18 Def / 14 SpD / 2 Spe\nCareful Nature\n- Flare Blitz\n- Throat Chop\n- Fake Out\n- Parting Shot",
+    "Garchomp @ Choice Scarf\nAbility: Rough Skin\nLevel: 50\nEVs: 16 HP / 32 Atk / 1 Def / 1 SpD / 16 Spe\nAdamant Nature\n- Dragon Claw\n- Earthquake\n- Stomping Tantrum\n- Rock Slide",
+    "Gyarados @ Lum Berry\nAbility: Intimidate\nLevel: 50\nEVs: 32 HP / 12 Def / 20 Spe\nJolly Nature\n- Waterfall\n- Ice Fang\n- Thunder Wave\n- Taunt"
+  ],
+  "comments": {
+    "teamOverview": "[charizard-mega-y] [drought] 햇살 코어에 [venusaur] [chlorophyll] + 더블 [intimidate]([incineroar]·[gyarados])를 결합한 방어적 햇살 굿스터프.",
+    "keyStrategies": [
+      "[charizard-mega-y] [drought] + [venusaur] [chlorophyll] 배속 햇살 코어",
+      "[incineroar] + [gyarados] 더블 [intimidate]로 상대 물리 화력 연속 하락",
+      "[gyarados] [thunder-wave] 마비 + [taunt] 봉쇄 + [ice-fang] [dragon] 견제",
+      "[kingambit] [defiant]로 자체 [intimidate] 시너지 이중 카운터 방지"
+    ],
+    "pokemonNotes": {
+      "charizard-mega-y": "[drought] 햇살 메인 특수 어택커. HP·방어·특공·스피드 균형 배분 내구형.",
+      "venusaur": "[chlorophyll] 배속 + [sleep-powder] 잠재우기 + [leaf-storm] + [sludge-bomb]. [focus-sash] 1회 생존.",
+      "gyarados": "[intimidate] 물리 디버프 + [thunder-wave] 마비 + [taunt] 봉쇄 + [ice-fang] [dragon]·[grass] 견제. [lum-berry] 상태이상 해제.",
+      "incineroar": "[intimidate] + [fake-out] + [parting-shot] 서포트. [sitrus-berry] 내구.",
+      "kingambit": "[defiant]로 상대 [intimidate]에 공격 상승. [kowtow-cleave] 필중 + [sucker-punch] 선공기 + [low-kick] [steel] 미러 견제. [black-glasses] [dark] 보정.",
+      "garchomp": "[choice-scarf] 고속 기습. [earthquake] 광역 + [dragon-claw] + [rock-slide] + [stomping-tantrum]."
+    },
+    "verdict": "더블 [intimidate]가 핵심인 방어적 햇살 파티다. [incineroar]와 [gyarados]를 번갈아 투입하여 상대 물리 어택커의 공격을 연속으로 하락시키고, [parting-shot]으로 교대하면서 디버프를 쌓는 사이클 전략이 강력하다. [kingambit]의 [defiant]는 자체 더블 [intimidate]와 상충하지 않도록 상대 [intimidate] 카운터 전용으로 기능한다. [gyarados]의 [thunder-wave] + [taunt]는 상대 서포트를 무력화하고, [ice-fang]으로 [dragon] 타입까지 견제하는 유틸성이 높다. [charizard-mega-y]는 내구 투자형으로 장기전에 적합하며, [venusaur]의 [sleep-powder]로 상대 핵심 포켓몬을 잠재운다. 약점으로는 [defiant]·[competitive] 보유 상대에게 더블 [intimidate]가 오히려 독이 되고, [rock] 타입에 [charizard-mega-y]·[gyarados] 모두 약하다. 종합적으로 [intimidate] 사이클 + 햇살 화력의 안정적 햇살 파티다."
+  }
+}

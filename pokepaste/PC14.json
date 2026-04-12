@@ -1,0 +1,43 @@
+{
+  "teamId": "PC14",
+  "title": "Viera's Hawlucha Excadrill Team",
+  "owner": "SHADEviera",
+  "fullName": "Shoma Honami",
+  "pokepaste": "https://pokepast.es/f6e9dedbc3824ec2",
+  "linkToSource": "https://x.com/SHADEviera/status/2041839532405092431?s=20",
+  "dateShared": "2026-04-08",
+  "pokemon": [
+    "hawlucha-mega",
+    "excadrill",
+    "tyranitar",
+    "weavile",
+    "whimsicott",
+    "kingambit"
+  ],
+  "samples": [
+    "Hawlucha @ Hawluchanite\nAbility: Limber\nLevel: 50\nEVs: 32 HP / 2 Atk / 32 Spe\nAdamant Nature\n- Close Combat\n- Brave Bird\n- Entrainment\n- Protect",
+    "Excadrill @ Focus Sash\nAbility: Mold Breaker\nLevel: 50\nEVs: 32 Atk / 2 Def / 32 Spe\nJolly Nature\n- Fissure\n- Horn Drill\n- Earthquake\n- Protect",
+    "Kingambit @ Black Glasses\nAbility: Defiant\nLevel: 50\nEVs: 17 HP / 32 Atk / 17 Spe\nAdamant Nature\n- Kowtow Cleave\n- Sucker Punch\n- Guillotine\n- Protect",
+    "Whimsicott @ Bright Powder\nAbility: Prankster\nLevel: 50\nEVs: 32 HP / 5 Def / 1 SpA / 7 SpD / 21 Spe\nTimid Nature\n- Moonblast\n- Light Screen\n- Encore\n- Tailwind",
+    "Weavile @ White Herb\nAbility: Pressure\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nJolly Nature\n- Knock Off\n- Triple Axel\n- Low Kick\n- Fake Out",
+    "Tyranitar @ Passho Berry\nAbility: Sand Stream\nLevel: 50\nEVs: 32 HP / 32 Atk / 2 SpD\nAdamant Nature\n- Rock Slide\n- Knock Off\n- Low Kick\n- Protect"
+  ],
+  "comments": {
+    "teamOverview": "[hawlucha-mega]를 메인 메가로, [tyranitar] [sand-stream] 모래 축과 결합한 공격적 모래 파티. [excadrill]의 일격기와 [weavile]·[kingambit]의 고화력 물리진이 특징.",
+    "keyStrategies": [
+      "[tyranitar] [sand-stream] + [excadrill] [mold-breaker] 일격기([fissure]·[horn-drill]) 운용",
+      "[hawlucha-mega] [entrainment]로 아군에게 특성 복사 가능",
+      "[weavile] [fake-out] + [knock-off] 도구 파괴 + [triple-axel] 고위력 [ice]",
+      "[kingambit] [defiant] + [guillotine] 일격기 서브 탑재"
+    ],
+    "pokemonNotes": {
+      "hawlucha-mega": "[close-combat] + [brave-bird] 2타입 고위력 물리. [entrainment]로 특성 복사 유틸. [adamant] HP·스피드 투자.",
+      "excadrill": "[mold-breaker]로 [sturdy] 등 특성 관통. [fissure] + [horn-drill] 일격기 2종 탑재 + [earthquake] 안정 [ground] 화력. [focus-sash] 1회 생존.",
+      "tyranitar": "[sand-stream] 모래 전개 + [rock-slide] 광역 + [knock-off] 도구 파괴 + [low-kick] [steel] 견제. [passho-berry]로 [water] 1회 반감.",
+      "weavile": "[white-herb]로 능력치 하락 1회 무효. [knock-off] 도구 파괴 + [triple-axel] [ice] 고위력 + [low-kick] [fighting] 커버리지 + [fake-out] 템포.",
+      "whimsicott": "[prankster] [tailwind] + [encore] + [light-screen] 벽. [bright-powder] 회피 운. [moonblast] 자체 화력.",
+      "kingambit": "[defiant] [intimidate] 카운터 + [kowtow-cleave] 필중 [dark] + [sucker-punch] 선공기 + [guillotine] 일격기 서브."
+    },
+    "verdict": "일격기를 다수 탑재한 공격적 모래 파티다. [excadrill]의 [mold-breaker]로 [sturdy]를 관통하며 [fissure]·[horn-drill]을 사용할 수 있고, [kingambit]까지 [guillotine]을 갖춰 총 3종 일격기가 존재한다. 정공법으로는 [tyranitar]의 [sand-stream] 모래 아래 [excadrill]이 [sand-rush]가 아닌 [mold-breaker]를 채용해 모래 배속 대신 특성 관통을 택한 점이 특이하다. [weavile]은 [fake-out] + [knock-off]로 초반 템포와 상대 도구 파괴를 동시에 수행하고, [triple-axel]로 [dragon] 타입을 견제한다. [hawlucha-mega]의 [entrainment]는 상황에 따라 아군에게 유리한 특성을 복사하는 트릭 플레이가 가능하다. 약점으로는 일격기 의존도가 높아 빗나가면 전략이 무력화될 수 있고, [ghost] 타입에 일격기가 통하지 않는다. [fighting] 타입에 [tyranitar]·[kingambit]·[weavile] 3마리가 약한 점도 큰 부담이다. 종합적으로 일격기 + 물리 고화력으로 기습적 승리를 노리는 하이리스크 하이리턴 파티다."
+  }
+}

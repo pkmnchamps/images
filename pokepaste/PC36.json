@@ -1,0 +1,43 @@
+{
+  "teamId": "PC36",
+  "title": "starfish0206's Gardevoir Rain Team",
+  "owner": "starfish0206",
+  "fullName": "starfish0206",
+  "pokepaste": "https://pokepast.es/7d6376d18a771f84",
+  "linkToSource": "https://x.com/starfish0206/status/2041919344767287584?s=20",
+  "dateShared": "2026-04-08",
+  "pokemon": [
+    "gardevoir-mega",
+    "basculegion",
+    "pelipper",
+    "sneasler",
+    "sinistcha",
+    "archaludon"
+  ],
+  "samples": [
+    "Pelipper @ Focus Sash\nAbility: Drizzle\nLevel: 50\nEVs: 1 HP / 32 SpA / 1 SpD / 32 Spe\nModest Nature\n- Hurricane\n- Weather Ball\n- Tailwind\n- Protect",
+    "Archaludon @ Chople Berry\nAbility: Stamina\nLevel: 50\nEVs: 27 HP / 15 SpA / 24 Spe\nModest Nature\n- Electro Shot\n- Draco Meteor\n- Flash Cannon\n- Protect",
+    "Sinistcha @ Sitrus Berry\nAbility: Hospitality\nLevel: 50\nEVs: 31 HP / 20 Def / 14 SpD\nBold Nature\n- Matcha Gotcha\n- Strength Sap\n- Rage Powder\n- Trick Room",
+    "Basculegion (M) @ Mystic Water\nAbility: Swift Swim\nLevel: 50\nEVs: 32 Atk / 2 Def / 32 Spe\nAdamant Nature\n- Wave Crash\n- Last Respects\n- Aqua Jet\n- Protect",
+    "Gardevoir @ Gardevoirite\nAbility: Trace\nLevel: 50\nEVs: 32 HP / 8 Def / 15 SpA / 1 SpD / 10 Spe\nModest Nature\n- Hyper Voice\n- Psychic\n- Trick Room\n- Protect",
+    "Sneasler @ White Herb\nAbility: Unburden\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nAdamant Nature\n- Dire Claw\n- Close Combat\n- Rock Tomb\n- Fake Out"
+  ],
+  "comments": {
+    "teamOverview": "[gardevoir-mega]를 메인 메가로 [pelipper] [drizzle] 비 축과 결합한 비 파티. [basculegion] [swift-swim] + [archaludon] [stamina] 이중 비 어택커 + [sneasler] [unburden].",
+    "keyStrategies": [
+      "[pelipper] [drizzle] + [basculegion] [swift-swim] 배속 [wave-crash] 물리",
+      "[gardevoir-mega] [trace]로 상대 유용한 특성 복사 + [hyper-voice] 광역 [fairy]",
+      "[archaludon] [stamina] + [electro-shot] 비 1턴 발동 + [chople-berry] [fighting] 반감",
+      "[sneasler] [white-herb] + [unburden] 고속 물리"
+    ],
+    "pokemonNotes": {
+      "gardevoir-mega": "[trace] 상대 특성 복사 + [hyper-voice] 광역 [fairy] + [psychic] + [trick-room]. [modest] HP·특공.",
+      "basculegion": "[swift-swim] 비 배속 + [mystic-water] [wave-crash] 물리. [last-respects] 후반 + [flip-turn] 교대.",
+      "pelipper": "[drizzle] 비 + [tailwind] + [weather-ball] + [hurricane] 비 필중. [focus-sash] 1회 생존.",
+      "archaludon": "[stamina] 물리 탱킹 + [electro-shot] 비 1턴 + [dragon-pulse] + [aura-sphere]. [chople-berry] [fighting] 반감.",
+      "sinistcha": "[hospitality] 교대 회복 + [rage-powder] + [life-dew] + [trick-room]. [sitrus-berry].",
+      "sneasler": "[white-herb] + [unburden] + [close-combat] + [dire-claw] + [fake-out]."
+    },
+    "verdict": "[gardevoir-mega]의 [trace]와 비 축을 결합한 하이브리드 비 파티다. [gardevoir-mega]는 비 시너지와 직접 관련이 없지만, [trace]로 상대 유용한 특성을 복사하는 변수 + [trick-room] 저속 모드 + [hyper-voice] 광역 화력으로 독립적 가치가 높다. [basculegion]과 [archaludon]은 비 아래 검증된 이중 화력원이며, [archaludon]의 [chople-berry]는 [fighting] 약점 1회 반감으로 생존력을 높인다. [sinistcha]와 [gardevoir-mega] 이중 [trick-room] 세터가 있어 저속 모드 안정성도 확보. 약점으로는 [grass] 타입에 비 축 다수가 약하고, [gardevoir-mega]가 비와 직접 시너지가 없어 비가 끊기면 팀 전체 시너지가 반감된다. 종합적으로 [trace] 변수 + 비 화력 + [trick-room] 옵션의 유연한 비 파티다."
+  }
+}

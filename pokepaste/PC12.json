@@ -1,0 +1,43 @@
+{
+  "teamId": "PC12",
+  "title": "kurbito's Charizard-Y Gengar Team",
+  "owner": "kurbitoo",
+  "fullName": "kurbito",
+  "pokepaste": "https://pokepast.es/39c5a1a8db1bfc62",
+  "linkToSource": "https://x.com/kurbitoo/status/2041811031874228421?s=46",
+  "dateShared": "2026-04-08",
+  "pokemon": [
+    "charizard-mega-y",
+    "gengar-mega",
+    "incineroar",
+    "maushold",
+    "whimsicott",
+    "kommo-o"
+  ],
+  "samples": [
+    "Charizard @ Charizardite Y\nAbility: Blaze\nLevel: 50\nEVs: 25 HP / 2 Def / 21 SpA / 1 SpD / 17 Spe\nModest Nature\n- Protect\n- Solar Beam\n- Weather Ball\n- Heat Wave",
+    "Maushold-Four @ Focus Sash\nAbility: Friend Guard\nLevel: 50\nEVs: 31 HP / 1 SpD / 32 Spe\nTimid Nature\n- Protect\n- Follow Me\n- Super Fang\n- Taunt",
+    "Whimsicott @ Occa Berry\nAbility: Prankster\nLevel: 50\nEVs: 32 HP / 32 Def / 1 SpA\nBold Nature\n- Moonblast\n- Encore\n- Tailwind\n- Fake Tears",
+    "Incineroar @ Sitrus Berry\nAbility: Intimidate\nLevel: 50\nEVs: 32 HP / 20 Def / 13 SpD\nImpish Nature\n- Throat Chop\n- Parting Shot\n- Will-O-Wisp\n- Fake Out",
+    "Gengar @ Gengarite\nAbility: Cursed Body\nLevel: 50\nEVs: 4 HP / 14 Def / 18 SpA / 30 Spe\nTimid Nature\n- Protect\n- Disable\n- Shadow Ball\n- Sludge Bomb",
+    "Kommo-o @ Leftovers\nAbility: Soundproof\nLevel: 50\nEVs: 10 HP / 31 SpA / 24 Spe\nModest Nature\n- Protect\n- Clangorous Soul\n- Aura Sphere\n- Clanging Scales"
+  ],
+  "comments": {
+    "teamOverview": "[charizard-mega-y]와 [gengar-mega] 더블 메가 구성에 [kommo-o]의 [clangorous-soul] 적층 전략을 결합한 공격적 파티. [whimsicott]의 [fake-tears]로 특수 공격 화력을 극대화한다.",
+    "keyStrategies": [
+      "[charizard-mega-y] [drought] 햇살 또는 [gengar-mega] [ghost]·[poison] 화력 중 상대에 따라 메가 선택",
+      "[whimsicott] [fake-tears]로 상대 특방 2랭크 하락 → 아군 특수 어택커 화력 폭발",
+      "[kommo-o] [soundproof] + [clangorous-soul] 전 능력치 1랭크 상승 후 [clanging-scales]·[aura-sphere] 공격",
+      "[maushold] [friend-guard] 아군 피해 경감 + [taunt] 상대 변화기 봉쇄"
+    ],
+    "pokemonNotes": {
+      "charizard-mega-y": "햇살 메인 특수 어택커. HP·특공·스피드 균형 배분. [heat-wave] 광역 + [weather-ball] [fire] 150위력 + [solar-beam] 커버리지.",
+      "gengar-mega": "서브 메가 특수 어택커. [shadow-ball] + [sludge-bomb] 2타입 커버리지 + [disable] 핵심기 봉쇄.",
+      "whimsicott": "[prankster] [tailwind] + [encore] + [fake-tears]. [fake-tears]로 상대 특방 2랭크 하락시켜 아군 특수 화력 대폭 증가. [occa-berry]로 [fire] 1회 반감. [bold] HP·물방 투자로 내구 중시.",
+      "kommo-o": "[soundproof]로 음성기 면역 (상대 [perish-song] 등 무효). [clangorous-soul]로 전 능력치 1랭크 상승 후 [clanging-scales]·[aura-sphere]로 광역·단일 공격. [leftovers] 지속 회복.",
+      "maushold": "[friend-guard] 아군 피해 25% 경감. [taunt]로 상대 [trick-room] 등 봉쇄 + [follow-me] 타겟 유도 + [super-fang] HP 절반. [focus-sash] 1회 생존.",
+      "incineroar": "[intimidate] + [fake-out] + [parting-shot] + [will-o-wisp] 4종 서포트. 물리 어택커 이중 견제."
+    },
+    "verdict": "더블 메가에 [kommo-o]의 [clangorous-soul] 적층을 더한 특수 공격 중심 파티다. [whimsicott]의 [fake-tears]가 핵심 시너지로, 상대 특방을 2랭크 떨어뜨린 뒤 [charizard-mega-y]의 [heat-wave]나 [kommo-o]의 [clanging-scales]를 맞추면 막대한 피해를 줄 수 있다. [kommo-o]는 [soundproof]로 상대 [perish-song]에 면역이라 멸망 파티 상대로 강한 메타 카운터 성능도 있다. [clangorous-soul] 성공 시 전 능력치가 1랭크 올라가 공격·방어·스피드 모두 강화되어 독자적으로 경기를 끝낼 수 있다. [maushold]의 [friend-guard]는 [clangorous-soul]로 HP가 깎인 [kommo-o]의 실질 내구를 보완한다. 약점으로는 [fairy] 타입에 [kommo-o]·[gengar-mega] 모두 약하고, [clangorous-soul] HP 소모로 [kommo-o]가 한 번 맞으면 쓰러질 위험이 있다. 더블 메가이므로 한 경기에 메가 하나만 사용 가능한 점도 고려해야 한다. 종합적으로 [fake-tears] + 특수 화력 폭발이 핵심인 공격적 파티다."
+  }
+}

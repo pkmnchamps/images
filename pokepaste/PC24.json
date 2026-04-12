@@ -1,0 +1,43 @@
+{
+  "teamId": "PC24",
+  "title": "Gardevoir_3710's Gardevoir Charizard-Y Team",
+  "owner": "gardevoir_3710",
+  "fullName": "Gardevoir_3710",
+  "pokepaste": "https://pokepast.es/ac6bf5293fe0b45b",
+  "linkToSource": "https://x.com/gardevoir_3710/status/2041868371705405574?s=46&t=WmXEnVa3rTSw0P9A0n6S3Q",
+  "dateShared": "2026-04-08",
+  "pokemon": [
+    "charizard-mega-y",
+    "gardevoir-mega",
+    "incineroar",
+    "aerodactyl",
+    "sinistcha",
+    "garchomp"
+  ],
+  "samples": [
+    "Gardevoir @ Gardevoirite\nAbility: Trace\nLevel: 50\nEVs: 32 HP / 21 Def / 5 SpA / 2 SpD / 6 Spe\nModest Nature\n- Psyshock\n- Hyper Voice\n- Trick Room\n- Protect",
+    "Incineroar @ Lum Berry\nAbility: Intimidate\nLevel: 50\nEVs: 32 HP / 10 Def / 12 SpD / 11 Spe\nCareful Nature\n- Flare Blitz\n- Throat Chop\n- Parting Shot\n- Fake Out",
+    "Sinistcha @ Sitrus Berry\nAbility: Hospitality\nLevel: 50\nEVs: 32 HP / 32 Def / 2 SpD\nBold Nature\n- Matcha Gotcha\n- Rage Powder\n- Trick Room\n- Protect",
+    "Aerodactyl @ Focus Sash\nAbility: Unnerve\nLevel: 50\nEVs: 1 HP / 32 Atk / 1 Def / 32 Spe\nJolly Nature\n- Rock Slide\n- Dual Wingbeat\n- Tailwind\n- Protect",
+    "Charizard @ Charizardite Y\nAbility: Solar Power\nLevel: 50\nEVs: 32 HP / 1 Def / 1 SpA / 32 Spe\nModest Nature\n- Heat Wave\n- Solar Beam\n- Flamethrower\n- Protect",
+    "Garchomp @ White Herb\nAbility: Rough Skin\nLevel: 50\nEVs: 6 HP / 27 Atk / 32 Spe\nJolly Nature\n- Earthquake\n- Dragon Claw\n- Rock Slide\n- Protect"
+  ],
+  "comments": {
+    "teamOverview": "[charizard-mega-y]와 [gardevoir-mega] 더블 메가 구성의 햇살 파티. [gardevoir-mega]의 [trick-room] 옵션으로 속도 모드 전환이 가능하고, [sinistcha]도 [trick-room]을 갖춰 이중 세터 구조.",
+    "keyStrategies": [
+      "[charizard-mega-y] [drought] 햇살 화력 or [gardevoir-mega] [trick-room] 저속 모드 선택 운용",
+      "[gardevoir-mega] [trick-room] + [hyper-voice] 광역 [fairy] 특수 화력",
+      "[sinistcha] 이중 [trick-room] 세터 + [rage-powder] 타겟 유도",
+      "[aerodactyl] [tailwind] 고속 모드 대안 + [unnerve] 열매 차단"
+    ],
+    "pokemonNotes": {
+      "charizard-mega-y": "[drought] 햇살 메인 특수 어택커. [heat-wave] 광역 + [flamethrower] 안정 단일 + [solar-beam] 커버리지. HP·스피드 투자.",
+      "gardevoir-mega": "서브 메가. [trick-room] 저속 모드 + [hyper-voice] [fairy] 광역 + [psyshock] 상대 물리 방어로 계산하는 특수기. [trace]로 상대 특성 복사. HP·방어 내구 투자.",
+      "sinistcha": "[hospitality] 교대 회복 + [trick-room] 이중 세터 + [rage-powder] 타겟 유도. [sitrus-berry] 내구.",
+      "aerodactyl": "[unnerve] 열매 차단 + [tailwind] 고속 모드. [rock-slide] 광역 + [dual-wingbeat] [flying]. [focus-sash] 1회 생존.",
+      "incineroar": "[intimidate] + [fake-out] + [parting-shot] 서포트. [lum-berry] 상태이상 해제.",
+      "garchomp": "[white-herb] 능력치 하락 무효. [earthquake] 광역 + [dragon-claw] + [rock-slide] 광역."
+    },
+    "verdict": "더블 메가에 이중 [trick-room] 세터를 탑재한 듀얼 모드 파티다. [charizard-mega-y]로 햇살 고속 공격을 할지, [gardevoir-mega]로 [trick-room] 저속 모드로 전환할지를 상대에 따라 선택할 수 있어 선출 유연성이 높다. [gardevoir-mega]의 [trace]는 상대 유용한 특성을 복사하는 변수 요소이며, [psyshock]은 특방이 높은 상대도 물리 방어로 계산하여 돌파할 수 있다. [sinistcha]가 이중 [trick-room] 세터라 하나가 쓰러져도 [trick-room]을 다시 걸 수 있는 안정성이 있다. [aerodactyl]의 [tailwind]은 햇살 모드에서 스피드를 더 확보하는 수단이자, [trick-room]이 필요 없을 때의 대안이다. 약점으로는 [trick-room]과 [tailwind] 양쪽을 갖고 있지만 한 경기에 하나만 유의미하므로 잘못된 선택 시 불리해지고, [gardevoir-mega]의 [trick-room] 아래에서 [charizard-mega-y]나 [aerodactyl]은 오히려 느려진다. 종합적으로 듀얼 스피드 모드와 더블 메가 선택지가 핵심인 전략 파티다."
+  }
+}

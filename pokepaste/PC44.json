@@ -1,0 +1,43 @@
+{
+  "teamId": "PC44",
+  "title": "Osirus' Tyranitar Sneasler Team",
+  "owner": "osirusvgc",
+  "fullName": "Lee Provost",
+  "pokepaste": "https://pokepast.es/d0d6945857b3225c",
+  "linkToSource": "https://x.com/osirusvgc/status/2042037634432655543?s=20",
+  "dateShared": "2026-04-08",
+  "pokemon": [
+    "tyranitar-mega",
+    "incineroar",
+    "rotom-wash",
+    "excadrill",
+    "sneasler",
+    "corviknight"
+  ],
+  "samples": [
+    "Sneasler @ White Herb\nAbility: Unburden\nLevel: 50\nEVs: 1 HP / 32 Atk / 1 Def / 32 Spe\nJolly Nature\n- Protect\n- Dire Claw\n- Close Combat\n- Fake Out",
+    "Corviknight @ Leftovers\nAbility: Mirror Armor\nLevel: 50\nEVs: 32 HP / 7 Atk / 1 Def / 1 SpD / 25 Spe\nAdamant Nature\n- Protect\n- Iron Defense\n- Body Press\n- Brave Bird",
+    "Incineroar @ Shuca Berry\nAbility: Intimidate\nLevel: 50\nEVs: 30 HP / 1 Atk / 24 Def / 10 SpD / 1 Spe\nImpish Nature\n- Parting Shot\n- Darkest Lariat\n- Flare Blitz\n- Fake Out",
+    "Rotom-Wash @ Sitrus Berry\nAbility: Levitate\nLevel: 50\nEVs: 32 HP / 8 Def / 15 SpA / 3 SpD / 8 Spe\nModest Nature\n- Protect\n- Will-O-Wisp\n- Thunderbolt\n- Hydro Pump",
+    "Excadrill @ Focus Sash\nAbility: Sand Rush\nLevel: 50\nEVs: 1 HP / 32 Atk / 1 Def / 32 Spe\nAdamant Nature\n- Protect\n- Rock Slide\n- Earthquake\n- Iron Head",
+    "Tyranitar @ Tyranitarite\nAbility: Sand Stream\nLevel: 50\nEVs: 1 HP / 32 Atk / 1 Def / 32 Spe\nAdamant Nature\n- Protect\n- Dragon Dance\n- Rock Slide\n- Knock Off"
+  ],
+  "comments": {
+    "teamOverview": "[tyranitar-mega] [sand-stream] 모래 축에 [excadrill] [sand-rush] 배속 + [corviknight] [mirror-armor] 적층 탱커 + [sneasler] [unburden]을 결합한 모래 파티.",
+    "keyStrategies": [
+      "[tyranitar-mega] [sand-stream] + [excadrill] [sand-rush] 배속 + [swords-dance] 적층",
+      "[corviknight] [mirror-armor] 디버프 반사 + [bulk-up] 적층 + [body-press]",
+      "[sneasler] [white-herb] + [unburden] 고속 물리",
+      "[rotom-wash] [hydro-pump] + [will-o-wisp] 물리 견제"
+    ],
+    "pokemonNotes": {
+      "tyranitar-mega": "[sand-stream] 모래 + [rock-slide] + [knock-off] + [earthquake]. [adamant] 풀 공격·스피드.",
+      "excadrill": "[sand-rush] 모래 배속 + [swords-dance] 적층. [earthquake] + [rock-slide]. [focus-sash] 1회 생존.",
+      "corviknight": "[mirror-armor] 디버프 반사 + [bulk-up] + [body-press] + [brave-bird]. [leftovers] 회복.",
+      "sneasler": "[white-herb] + [unburden] + [close-combat] + [dire-claw]. [jolly] 최속.",
+      "rotom-wash": "[levitate] [ground] 면역 + [hydro-pump] + [thunderbolt] + [will-o-wisp]. [sitrus-berry].",
+      "incineroar": "[intimidate] + [fake-out] + [parting-shot] + [flare-blitz]. [shuca-berry] [ground] 반감."
+    },
+    "verdict": "[tyranitar-mega] + [excadrill] 모래 코어에 [corviknight] 적층 탱커를 결합한 안정적 모래 파티다. [excadrill]의 [sand-rush] 배속 + [swords-dance]는 모래 아래 최고속 적층 물리를 실현하고, [corviknight]는 [mirror-armor]로 [intimidate] 반사 + [bulk-up] 적층으로 장기전에서 난공불락이 된다. [sneasler]의 [unburden]은 모래 외 독립적 고속 옵션을 제공하고, [rotom-wash]는 [ground] 면역 + [will-o-wisp]로 모래 파티의 [water] 약점을 커버한다. 약점으로는 [water] 타입에 [tyranitar-mega]·[excadrill] 약하고, [fighting]에도 부담. 종합적으로 모래 배속 + 적층 + [mirror-armor]의 검증된 모래 파티다."
+  }
+}

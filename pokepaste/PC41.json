@@ -1,0 +1,43 @@
+{
+  "teamId": "PC41",
+  "title": "Gawhota's Tyranitar Charizard-Y Team",
+  "owner": "Gawhota",
+  "fullName": "Shu Suezaki",
+  "pokepaste": "https://pokepast.es/6dbb62246fdfabd5",
+  "linkToSource": "https://x.com/Gawhota/status/2041933472064008604?s=20",
+  "dateShared": "2026-04-08",
+  "pokemon": [
+    "charizard-mega-y",
+    "tyranitar-mega",
+    "incineroar",
+    "rotom-wash",
+    "whimsicott",
+    "garchomp"
+  ],
+  "samples": [
+    "Tyranitar @ Tyranitarite\nAbility: Sand Stream\nLevel: 50\nEVs: 32 HP / 26 Atk / 1 SpD / 7 Spe\nAdamant Nature\n- Protect\n- Knock Off\n- Rock Slide\n- Low Kick",
+    "Garchomp @ White Herb\nAbility: Rough Skin\nLevel: 50\nEVs: 32 Atk / 1 Def / 1 SpD / 32 Spe\nJolly Nature\n- Protect\n- Dragon Claw\n- Stomping Tantrum\n- Swords Dance",
+    "Rotom-Wash @ Choice Scarf\nAbility: Levitate\nLevel: 50\nEVs: 16 HP / 1 Def / 23 SpA / 1 SpD / 25 Spe\nModest Nature\n- Volt Switch\n- Hydro Pump\n- Thunderbolt\n- Trick",
+    "Charizard @ Charizardite Y\nAbility: Blaze\nLevel: 50\nEVs: 32 SpA / 1 SpD / 32 Spe\nTimid Nature\n- Protect\n- Heat Wave\n- Weather Ball\n- Solar Beam",
+    "Incineroar @ Chople Berry\nAbility: Intimidate\nLevel: 50\nEVs: 31 HP / 5 Atk / 21 Def / 8 SpD / 1 Spe\nAdamant Nature\n- Fake Out\n- Flare Blitz\n- Darkest Lariat\n- Parting Shot",
+    "Whimsicott @ Fairy Feather\nAbility: Prankster\nLevel: 50\nEVs: 32 HP / 15 Def / 1 SpA / 17 SpD / 1 Spe\nBold Nature\n- Moonblast\n- Tailwind\n- Light Screen\n- Encore"
+  ],
+  "comments": {
+    "teamOverview": "[charizard-mega-y]와 [tyranitar-mega] 더블 메가 구성. 상대에 따라 햇살 or 모래 축을 선택하는 듀얼 날씨 파티. [whimsicott]이 [tailwind] + [sunny-day] 날씨 지원.",
+    "keyStrategies": [
+      "[charizard-mega-y] [drought] 햇살 or [tyranitar-mega] [sand-stream] 모래 중 메가 선택",
+      "[whimsicott] [prankster] [tailwind] + [sunny-day] 날씨 관리 + [fairy-feather] [fairy] 보정",
+      "[rotom-wash] [choice-scarf] 고속 유틸 + [garchomp] 물리 서브 어택커",
+      "[incineroar] [intimidate] + [fake-out] 서포트"
+    ],
+    "pokemonNotes": {
+      "charizard-mega-y": "[drought] 햇살 메인 특수 어택커. [timid] 최속 풀 특공.",
+      "tyranitar-mega": "[sand-stream] 모래 물리 어택커. [rock-slide] 광역 + [crunch] + [low-kick]. [adamant] HP·공격.",
+      "whimsicott": "[prankster] [tailwind] + [sunny-day] + [moonblast]. [fairy-feather] [fairy] 화력 보정. [bold] HP·물방 투자 내구형.",
+      "rotom-wash": "[choice-scarf] 고속 + [hydro-pump] + [thunderbolt] + [volt-switch]. [levitate] [ground] 면역.",
+      "garchomp": "[white-herb] 하락 무효 + [earthquake] 광역 + [dragon-claw] + [stomping-tantrum]. [jolly] 최속.",
+      "incineroar": "[intimidate] + [fake-out] + [parting-shot] + [flare-blitz]. [chople-berry] [fighting] 반감."
+    },
+    "verdict": "더블 메가 듀얼 날씨 파티로, 상대에 따라 [charizard-mega-y] 햇살 또는 [tyranitar-mega] 모래를 선택하는 유연성이 핵심이다. [whimsicott]의 [fairy-feather]는 일반적인 [focus-sash] 대신 [moonblast] 화력을 보정하는 독특한 선택으로, [whimsicott]을 서포터 겸 어택커로 활용한다. [rotom-wash] [choice-scarf]는 어떤 날씨에서든 고속 유틸로 기능하고, [garchomp]은 모래에서 특방 1.5배 보정을 받으면서 물리 화력을 낸다. 약점으로는 [rotom-wash]의 [hydro-pump]가 햇살 아래 반감, [charizard-mega-y]가 모래에서 특방 보정을 못 받는 등 날씨 모순이 일부 존재한다. 종합적으로 듀얼 날씨 선택지로 선출 유연성이 높은 파티다."
+  }
+}

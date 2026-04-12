@@ -1,0 +1,43 @@
+{
+  "teamId": "PC47",
+  "title": "daikousin's Charizard-Y Garchomp Team",
+  "owner": "daikousin45",
+  "fullName": "daikousin",
+  "pokepaste": "https://pokepast.es/e719505bd0ee64ca",
+  "linkToSource": "https://x.com/daikousin45/status/2042071892690084066?s=46",
+  "dateShared": "2026-04-08",
+  "pokemon": [
+    "charizard-mega-y",
+    "basculegion",
+    "sneasler",
+    "whimsicott",
+    "gardevoir",
+    "garchomp"
+  ],
+  "samples": [
+    "Garchomp @ Choice Scarf\nAbility: Rough Skin\nLevel: 50\nEVs: 32 Atk / 2 Def / 32 Spe\nAdamant Nature\n- Earthquake\n- Rock Slide\n- Stomping Tantrum\n- Dragon Claw",
+    "Gardevoir @ Sitrus Berry\nAbility: Telepathy\nLevel: 50\nEVs: 24 HP / 8 Def / 1 SpA / 1 SpD / 32 Spe\nTimid Nature\n- Moonblast\n- Dazzling Gleam\n- Calm Mind\n- Imprison",
+    "Whimsicott @ Mental Herb\nAbility: Prankster\nLevel: 50\nEVs: 12 HP / 22 Def / 32 Spe\nTimid Nature\n- Moonblast\n- Tailwind\n- Sunny Day\n- Protect",
+    "Sneasler @ White Herb\nAbility: Unburden\nLevel: 50\nEVs: 32 Atk / 2 SpD / 32 Spe\nAdamant Nature\n- Dire Claw\n- Close Combat\n- Rock Tomb\n- Fake Out",
+    "Basculegion (M) @ Focus Sash\nAbility: Adaptability\nLevel: 50\nEVs: 32 Atk / 1 Def / 1 SpD / 32 Spe\nAdamant Nature\n- Last Respects\n- Protect\n- Wave Crash\n- Aqua Jet",
+    "Charizard @ Charizardite Y\nAbility: Blaze\nLevel: 50\nEVs: 32 HP / 9 Def / 7 SpA / 18 Spe\nModest Nature\n- Heat Wave\n- Weather Ball\n- Solar Beam\n- Protect"
+  ],
+  "comments": {
+    "teamOverview": "[charizard-mega-y] [drought] 햇살 축에 [gardevoir] [telepathy] + [whimsicott] [prankster] + [sneasler] [unburden] + [basculegion] [adaptability] 물리를 결합한 햇살 굿스터프.",
+    "keyStrategies": [
+      "[charizard-mega-y] [drought] + [heat-wave]·[weather-ball]·[solar-beam] 햇살 특수 화력",
+      "[gardevoir] [telepathy] + [trick-room] 저속 모드 + [helping-hand] 화력 보조",
+      "[whimsicott] [prankster] [tailwind] + [sunny-day] + [mental-herb] [taunt] 무효",
+      "[basculegion] [adaptability] + [focus-sash] 독립 물리 화력 + [last-respects] 후반"
+    ],
+    "pokemonNotes": {
+      "charizard-mega-y": "[drought] 햇살 메인 특수 어택커. HP·방어 투자 내구형. [modest].",
+      "gardevoir": "[telepathy] 아군 광역기 면역 + [trick-room] + [helping-hand] + [hyper-voice]. HP·스피드 투자 서포트형.",
+      "whimsicott": "[prankster] [tailwind] + [sunny-day] + [encore] + [moonblast]. [mental-herb] [taunt] 무효.",
+      "sneasler": "[white-herb] + [unburden] + [close-combat] + [dire-claw]. [adamant] 풀 공격.",
+      "basculegion": "[adaptability] [wave-crash] 물리 + [last-respects] 후반 + [flip-turn] 교대. [focus-sash] 1회 생존.",
+      "garchomp": "[choice-scarf] 고속 기습 + [earthquake] 광역 + [dragon-claw] + [rock-slide]."
+    },
+    "verdict": "[charizard-mega-y] 햇살에 [gardevoir]의 [trick-room] + [helping-hand] 서포트를 결합한 듀얼 모드 햇살 파티다. [gardevoir]의 [telepathy]로 [garchomp] [earthquake]에 면역이고, [trick-room]으로 저속 모드 전환 시 내구형 [charizard-mega-y]가 혜택을 받는다. [whimsicott]의 [mental-herb]는 [taunt] 1회 무효로 [tailwind]·[sunny-day]를 안정적으로 사용하게 한다. [basculegion]은 날씨와 무관한 독립적 물리 화력원이며 [last-respects]로 후반 마무리가 강력하다. 약점으로는 [rock] 타입에 [charizard-mega-y] 4배, 비 파티 상대로 햇살 축 화력 감소. 종합적으로 [trick-room] + [tailwind] 듀얼 스피드 + 햇살 화력의 유연한 파티다."
+  }
+}

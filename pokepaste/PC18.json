@@ -1,0 +1,43 @@
+{
+  "teamId": "PC18",
+  "title": "murasaki's Starmie Gengar Team",
+  "owner": "murasaki5682",
+  "fullName": "murasaki",
+  "pokepaste": "https://pokepast.es/a1bfead109c102c5",
+  "linkToSource": "https://x.com/murasaki5682/status/2041852695540330842?s=46",
+  "dateShared": "2026-04-08",
+  "pokemon": [
+    "gengar-mega",
+    "starmie-mega",
+    "incineroar",
+    "whimsicott",
+    "sinistcha",
+    "gardevoir"
+  ],
+  "samples": [
+    "Starmie @ Starminite\nAbility: Natural Cure\nLevel: 50\nEVs: 32 Atk / 1 Def / 1 SpD / 32 Spe\nAdamant Nature\n- Liquidation\n- Flip Turn\n- Aqua Jet\n- Protect",
+    "Incineroar @ Sitrus Berry\nAbility: Intimidate\nLevel: 50\nEVs: 32 HP / 1 Atk / 9 Def / 20 SpD / 4 Spe\nCareful Nature\n- Flare Blitz\n- Darkest Lariat\n- Parting Shot\n- Fake Out",
+    "Sinistcha @ Leftovers\nAbility: Hospitality\nLevel: 50\nEVs: 32 HP / 4 Def / 29 SpD\nBold Nature\n- Leaf Storm\n- Rage Powder\n- Life Dew\n- Protect",
+    "Gardevoir @ Choice Scarf\nAbility: Telepathy\nLevel: 50\nEVs: 2 Def / 32 SpA / 32 Spe\nTimid Nature\n- Moonblast\n- Dazzling Gleam\n- Psychic\n- Icy Wind",
+    "Gengar @ Gengarite\nAbility: Cursed Body\nLevel: 50\nEVs: 30 HP / 1 Def / 1 SpA / 2 SpD / 32 Spe\nTimid Nature\n- Shadow Ball\n- Sludge Bomb\n- Disable\n- Protect",
+    "Whimsicott @ Focus Sash\nAbility: Prankster\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Moonblast\n- Tailwind\n- Tickle\n- Encore"
+  ],
+  "comments": {
+    "teamOverview": "[gengar-mega]와 [starmie-mega] 더블 메가 구성. [whimsicott]의 [tickle]로 상대 방어·공격 동시 하락, [gardevoir] [choice-scarf] 고속 특수 어택커, [sinistcha] 서포트로 구성된 컨트롤 파티.",
+    "keyStrategies": [
+      "[gengar-mega] [disable]로 상대 핵심기 봉쇄 + [shadow-ball]·[sludge-bomb] 특수 화력",
+      "[starmie-mega] 물리 어택커로 [liquidation] + [flip-turn] 교대 + [aqua-jet] 선공기",
+      "[whimsicott] [prankster] [tickle]로 상대 방어·공격 동시 2랭크 하락",
+      "[gardevoir] [choice-scarf] + [telepathy]로 고속 [fairy] 광역 + 아군 [earthquake] 면역"
+    ],
+    "pokemonNotes": {
+      "gengar-mega": "[shadow-ball] + [sludge-bomb] 특수 화력 + [disable] 핵심기 봉쇄. HP·스피드 투자로 내구 확보.",
+      "starmie-mega": "물리 어택커. [liquidation] [water] STAB + [flip-turn] 안전 교대 + [aqua-jet] 선공기. [adamant] 풀 공격·스피드.",
+      "whimsicott": "[prankster] [tailwind] + [encore] + [tickle]. [tickle]로 상대 방어·공격 동시 하락시켜 물리 어택커 화력 증폭 + 물리 견제 동시 달성. [focus-sash] 1회 생존.",
+      "gardevoir": "[choice-scarf] 고속 운용. [telepathy]로 아군 광역기 면역. [moonblast]·[dazzling-gleam] [fairy] 화력 + [psychic] + [icy-wind] 스피드 하락.",
+      "incineroar": "[intimidate] + [fake-out] + [parting-shot] 서포트. [darkest-lariat] 상대 능력치 무시. [sitrus-berry] 내구.",
+      "sinistcha": "[hospitality] 교대 회복 + [rage-powder] 타겟 유도 + [life-dew] 회복 + [leaf-storm] 자체 [grass] 화력. [leftovers] 지속 회복."
+    },
+    "verdict": "더블 메가에 [whimsicott]의 [tickle]이라는 독특한 디버프를 결합한 컨트롤 파티다. [tickle]은 상대 방어와 공격을 동시에 하락시켜, [starmie-mega]의 물리 공격 화력이 크게 올라가는 동시에 상대 물리 어택커의 위협도 줄어드는 이중 효과가 있다. [gengar-mega]의 [disable]과 합쳐 상대 핵심기 봉쇄 + 스탯 하락으로 전장을 장악하는 컨트롤형 전략이 핵심이다. [gardevoir]는 [choice-scarf]로 [gengar-mega]보다도 빠르게 [fairy] 광역을 뿌릴 수 있고, [telepathy]로 아군 광역기에 면역이라 전술 자유도가 높다. [starmie-mega]의 [flip-turn]은 교대하면서 공격하여 사이클 유지에 유리하다. 약점으로는 더블 메가이므로 한 경기에 하나만 사용 가능하고, [starmie-mega]의 물리 내구가 낮아 [tickle] 없이는 화력이 부족할 수 있다. [dark] 타입에 [gengar-mega]·[gardevoir] 모두 약한 점도 주의. 종합적으로 디버프·봉쇄·화력을 조합한 전략적 컨트롤 파티다."
+  }
+}

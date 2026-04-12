@@ -1,0 +1,43 @@
+{
+  "teamId": "PC43",
+  "title": "Kanzaki's Tyranitar Delphox Team",
+  "owner": "Kanzaki_poke",
+  "fullName": "Tatsuki Wakita",
+  "pokepaste": "https://pokepast.es/5192b490a9d0b9ad",
+  "linkToSource": "https://x.com/Kanzaki_poke/status/2041880919058084174?s=20",
+  "dateShared": "2026-04-08",
+  "pokemon": [
+    "delphox-mega",
+    "tyranitar-mega",
+    "milotic",
+    "excadrill",
+    "sinistcha",
+    "sylveon"
+  ],
+  "samples": [
+    "Tyranitar @ Tyranitarite\nAbility: Sand Stream\nLevel: 50\nEVs: 32 HP / 16 Atk / 1 Def / 6 SpD / 10 Spe\nAdamant Nature\n- Crunch\n- Rock Slide\n- Superpower\n- Protect",
+    "Excadrill @ Choice Scarf\nAbility: Mold Breaker\nLevel: 50\nEVs: 1 HP / 32 Atk / 1 Def / 32 Spe\nJolly Nature\n- High Horsepower\n- Iron Head\n- Rock Slide\n- Earthquake",
+    "Delphox @ Delphoxite\nAbility: Blaze\nLevel: 50\nEVs: 19 HP / 5 Def / 26 SpA / 16 Spe\nModest Nature\n- Heat Wave\n- Psychic\n- Encore\n- Protect",
+    "Milotic @ Leftovers\nAbility: Competitive\nLevel: 50\nEVs: 31 HP / 22 Def / 1 SpA / 5 SpD / 7 Spe\nBold Nature\n- Scald\n- Icy Wind\n- Helping Hand\n- Protect",
+    "Sinistcha @ Sitrus Berry\nAbility: Hospitality\nLevel: 50\nEVs: 32 HP / 19 Def / 14 SpD\nBold Nature\n- Matcha Gotcha\n- Strength Sap\n- Rage Powder\n- Trick Room",
+    "Sylveon @ Fairy Feather\nAbility: Pixilate\nLevel: 50\nEVs: 32 HP / 18 Def / 10 SpA / 1 SpD / 5 Spe\nModest Nature\n- Hyper Voice\n- Moonblast\n- Quick Attack\n- Detect"
+  ],
+  "comments": {
+    "teamOverview": "[delphox-mega]와 [tyranitar-mega] 더블 메가 모래 파티. [milotic] [competitive] + [sylveon] [pixilate] 특수 화력 + [excadrill] [mold-breaker] 물리를 결합.",
+    "keyStrategies": [
+      "[tyranitar-mega] [sand-stream] 모래 + [excadrill] [mold-breaker] 특성 관통 물리",
+      "[delphox-mega] [fire]·[psychic] 특수 or [tyranitar-mega] 물리 메가 선택",
+      "[milotic] [competitive] [intimidate] 카운터 + [sylveon] [pixilate] [hyper-voice] 광역 [fairy]",
+      "[sinistcha] [trick-room] 저속 모드 옵션"
+    ],
+    "pokemonNotes": {
+      "delphox-mega": "[fire]·[psychic] 특수 메가 어택커. [modest] HP·특공 투자.",
+      "tyranitar-mega": "[sand-stream] 모래 + [rock-slide] + [crunch] + [low-kick]. [adamant] HP·공격.",
+      "excadrill": "[mold-breaker] 특성 관통 + [choice-scarf] 고속. [earthquake] 광역 + [rock-slide] + [iron-head].",
+      "milotic": "[competitive] [intimidate] 카운터 + [scald] 화상 + [icy-wind] 스피드 하락 + [life-dew] 회복. [leftovers] 지속 회복.",
+      "sinistcha": "[hospitality] 교대 회복 + [trick-room] + [rage-powder] + [life-dew]. [sitrus-berry].",
+      "sylveon": "[pixilate] [hyper-voice] 광역 [fairy] + [fairy-feather] 보정. HP·물방 투자."
+    },
+    "verdict": "더블 메가 + 모래에 [competitive]·[pixilate] 특수 화력을 결합한 공수 겸비형 파티다. [excadrill]은 [mold-breaker]로 [sturdy]·[levitate] 등을 관통하며, [choice-scarf]로 모래 없이도 고속 운용이 가능하다. [milotic]의 [competitive]와 [sylveon]의 [pixilate] [hyper-voice]는 특수 화력 라인으로, 물리 편중인 모래 파티의 약점을 보완한다. [sinistcha]의 [trick-room]은 저속인 [tyranitar-mega]·[sylveon]에게 유리한 모드 전환. 약점으로는 [fighting] 타입에 [tyranitar-mega]·[excadrill] 약하고, 모래가 [milotic]·[sylveon]·[sinistcha]에게 데미지를 주는 자기 모순. 종합적으로 모래 물리 + 특수 광역 + [trick-room]의 다각도 공격 파티다."
+  }
+}

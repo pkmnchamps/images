@@ -1,0 +1,43 @@
+{
+  "teamId": "PC13",
+  "title": "Xeb_41's Palafin Klefki Team",
+  "owner": "xeb_41",
+  "fullName": "Ioannis Baziotis",
+  "pokepaste": "https://pokepast.es/9e3311c12da3dd8c",
+  "linkToSource": "https://x.com/xeb_41/status/2041807836699635796?s=46",
+  "dateShared": "2026-04-08",
+  "pokemon": [
+    "dragonite-mega",
+    "incineroar",
+    "palafin",
+    "pelipper",
+    "sinistcha",
+    "klefki"
+  ],
+  "samples": [
+    "Palafin @ Mystic Water\nAbility: Zero to Hero\nLevel: 50\nEVs: 23 HP / 32 Atk / 2 SpD / 9 Spe\nAdamant Nature\n- Wave Crash\n- Jet Punch\n- Bulk Up\n- Protect",
+    "Pelipper @ Focus Sash\nAbility: Drizzle\nLevel: 50\nEVs: 1 HP / 32 SpA / 1 SpD / 32 Spe\nModest Nature\n- Hurricane\n- Weather Ball\n- Tailwind\n- Protect",
+    "Incineroar @ Sitrus Berry\nAbility: Intimidate\nLevel: 50\nEVs: 32 HP / 1 Atk / 20 Def / 8 SpD / 5 Spe\nImpish Nature\n- Throat Chop\n- Fake Out\n- Flare Blitz\n- Parting Shot",
+    "Klefki @ Shuca Berry\nAbility: Prankster\nLevel: 50\nEVs: 32 HP / 20 Def / 14 SpD\nBold Nature\n- Reflect\n- Light Screen\n- Thunder Wave\n- Dazzling Gleam",
+    "Sinistcha @ Leftovers\nAbility: Hospitality\nLevel: 50\nEVs: 26 HP / 28 Def / 9 SpA / 2 SpD / 1 Spe\nModest Nature\n- Matcha Gotcha\n- Shadow Ball\n- Calm Mind\n- Protect",
+    "Dragonite @ Dragoninite\nAbility: Multiscale\nLevel: 50\nEVs: 1 HP / 1 Def / 31 SpA / 1 SpD / 32 Spe\nModest Nature\n- Draco Meteor\n- Hurricane\n- Thunder\n- Protect"
+  ],
+  "comments": {
+    "teamOverview": "[dragonite-mega]를 메인 메가로, [pelipper] [drizzle] 비 축과 결합한 비 파티. [klefki]가 [prankster] 양벽 + [thunder-wave]로 서포트하고, [palafin]이 히어로 폼 물리 어택커를 담당한다.",
+    "keyStrategies": [
+      "[dragonite-mega] 비 아래 [hurricane] 필중 + [thunder] 필중으로 특수 광역 화력",
+      "[klefki] [prankster] [reflect] + [light-screen] 양벽 + [thunder-wave] 마비 유틸",
+      "[palafin] [zero-to-hero] 히어로 폼 변환 후 [wave-crash] + [jet-punch] 물리 공격",
+      "[sinistcha] [calm-mind] 적층 + [shadow-ball]로 자체 화력원 겸 서포트"
+    ],
+    "pokemonNotes": {
+      "dragonite-mega": "비 아래 [hurricane] 필중 + [thunder] 필중으로 2타입 특수 광역 화력. [draco-meteor] 단일 초고위력. [modest] 특공·스피드 투자. [multiscale]로 첫 타에 피해 절반.",
+      "pelipper": "[drizzle] 비 전개 + [tailwind] 스피드 지원. [hurricane] 비 필중 + [weather-ball] [water] 140위력. [focus-sash] 1회 생존.",
+      "klefki": "[prankster] 우선도 [reflect] + [light-screen] 양벽 + [thunder-wave] 마비. [dazzling-gleam] 자체 [fairy] 광역. [shuca-berry]로 [ground] 1회 반감. 벽 전개로 아군 내구 대폭 상승.",
+      "palafin": "[zero-to-hero]로 교대 복귀 시 히어로 폼. [wave-crash] + [mystic-water] 보정 초고위력 + [jet-punch] [water] 선공기 + [bulk-up] 적층.",
+      "sinistcha": "[hospitality] 교대 회복 + [calm-mind] 적층으로 특수 공수 상승. [shadow-ball] [ghost] 자체 화력 + [matcha-gotcha] [grass] 회복기.",
+      "incineroar": "[intimidate] + [fake-out] + [parting-shot] 서포트. [palafin] [zero-to-hero] 발동 위한 교대 트리거로도 활용."
+    },
+    "verdict": "[dragonite-mega]의 비 아래 [hurricane] + [thunder] 필중 콤보가 핵심인 비 파티다. [klefki]의 [prankster] 양벽이 팀 전체 생존력을 크게 높이며, [thunder-wave]로 상대 스피드까지 컨트롤한다. [palafin]은 [incineroar]의 [parting-shot] 교대로 자연스럽게 히어로 폼을 발동하여 [wave-crash]의 폭발적 화력을 낸다. [sinistcha]는 일반적인 서포트형과 달리 [calm-mind] 적층으로 자체 화력원으로 성장할 수 있어, 장기전에서 승리 조건이 된다. 약점으로는 [electric] 타입에 [pelipper]·[palafin]·[dragonite-mega] 모두 부담이 있고, 날씨를 빼앗기면 [hurricane]·[thunder] 명중이 불안정해진다. [klefki]의 양벽이 5턴 제한이라 시간 관리가 중요하다. 종합적으로 양벽 + 비 시너지 + 히어로 폼 화력이 결합된 공수 균형 비 파티다."
+  }
+}

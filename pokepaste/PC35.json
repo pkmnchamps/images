@@ -1,0 +1,43 @@
+{
+  "teamId": "PC35",
+  "title": "Riopaser's Starmie Dragonite Team",
+  "owner": "riopaser",
+  "fullName": "Eric Ríos",
+  "pokepaste": "https://pokepast.es/b4e6c8c7defc278f",
+  "linkToSource": "https://x.com/riopaser/status/2041995150876889343?s=20",
+  "dateShared": "2026-04-08",
+  "pokemon": [
+    "dragonite-mega",
+    "starmie-mega",
+    "pelipper",
+    "sneasler",
+    "sinistcha",
+    "kingambit"
+  ],
+  "samples": [
+    "Starmie @ Starminite\nAbility: Natural Cure\nLevel: 50\nEVs: 1 HP / 32 Atk / 1 Def / 32 Spe\nJolly Nature\n- Protect\n- Liquidation\n- Psycho Cut\n- Aqua Jet",
+    "Sneasler @ Focus Sash\nAbility: Unburden\nLevel: 50\nEVs: 1 HP / 32 Atk / 1 SpD / 32 Spe\nJolly Nature\n- Fake Out\n- Close Combat\n- Dire Claw\n- Coaching",
+    "Sinistcha @ Sitrus Berry\nAbility: Hospitality\nLevel: 50\nEVs: 31 HP / 4 Def / 1 SpA / 30 SpD\nBold Nature\n- Matcha Gotcha\n- Rage Powder\n- Protect\n- Strength Sap",
+    "Kingambit @ Chople Berry\nAbility: Defiant\nLevel: 50\nEVs: 32 HP / 20 Atk / 11 Def / 1 SpD / 2 Spe\nAdamant Nature\n- Protect\n- Kowtow Cleave\n- Iron Head\n- Sucker Punch",
+    "Dragonite @ Dragoninite\nAbility: Inner Focus\nLevel: 50\nEVs: 23 HP / 1 Def / 15 SpA / 1 SpD / 26 Spe\nModest Nature\n- Tailwind\n- Protect\n- Dragon Pulse\n- Hurricane",
+    "Pelipper @ Choice Scarf\nAbility: Drizzle\nLevel: 50\nEVs: 1 HP / 1 Def / 32 SpA / 32 Spe\nTimid Nature\n- Hurricane\n- Weather Ball\n- Muddy Water\n- Icy Wind"
+  ],
+  "comments": {
+    "teamOverview": "[dragonite-mega]와 [starmie-mega] 더블 메가 비 파티. [pelipper] [drizzle] 비 축에 [kingambit] [defiant] 물리 + [sinistcha] 서포트.",
+    "keyStrategies": [
+      "[dragonite-mega] 비 아래 [hurricane] 필중 특수 or [starmie-mega] [liquidation] 물리 메가 선택",
+      "[pelipper] [choice-scarf] 고속 [drizzle] + [hurricane] 비 필중",
+      "[sneasler] [unburden] 고속 물리 + [fake-out]",
+      "[kingambit] [defiant] 독립 물리 화력"
+    ],
+    "pokemonNotes": {
+      "dragonite-mega": "비 아래 [hurricane] 필중 + [draco-meteor] + [thunder] 필중 특수. [inner-focus] [fake-out] 면역.",
+      "starmie-mega": "물리 어택커. [liquidation] + [psycho-cut] + [flip-turn] 교대 + [aqua-jet] 선공기.",
+      "pelipper": "[drizzle] 비 + [choice-scarf] 고속. [hurricane] 비 필중 + [weather-ball] + [tailwind].",
+      "sneasler": "[unburden] + [focus-sash]. [close-combat] + [dire-claw] + [fake-out].",
+      "sinistcha": "[hospitality] 교대 회복 + [rage-powder] + [trick-room] + [life-dew]. [sitrus-berry].",
+      "kingambit": "[defiant] + [kowtow-cleave] + [sucker-punch] + [iron-head]. [chople-berry] [fighting] 반감."
+    },
+    "verdict": "더블 메가 비 파티로 특수형 [dragonite-mega]와 물리형 [starmie-mega] 중 상대에 따라 선택하는 유연성이 핵심이다. [dragonite-mega]는 비 아래 [hurricane] + [thunder] 필중 2타입 광역이 강력하고 [inner-focus]로 [fake-out] 면역. [starmie-mega]는 [liquidation] 비 보정 물리 + [flip-turn] 사이클. [pelipper] [choice-scarf]로 초반 고속 공격 + [drizzle]. 약점으로는 [electric]·[grass] 타입에 비 축 다수가 약하다. 종합적으로 더블 메가 선택지와 비 시너지가 결합된 공격적 비 파티다."
+  }
+}

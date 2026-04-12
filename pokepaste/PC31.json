@@ -1,0 +1,43 @@
+{
+  "teamId": "PC31",
+  "title": "UB_SLOW's Gengar Kommo-o Team",
+  "owner": "ub_slow",
+  "fullName": "Kaito Arii",
+  "pokepaste": "https://pokepast.es/50c3bdabb5fe8186",
+  "linkToSource": "https://x.com/ub_slow/status/2041887487271059457?s=46",
+  "dateShared": "2026-04-08",
+  "pokemon": [
+    "gengar-mega",
+    "incineroar",
+    "tyranitar",
+    "sinistcha",
+    "kingambit",
+    "kommo-o"
+  ],
+  "samples": [
+    "Incineroar @ Shuca Berry\nAbility: Intimidate\nLevel: 50\nEVs: 31 HP / 1 Atk / 10 Def / 23 SpD / 1 Spe\nCareful Nature\n- Parting Shot\n- Fake Out\n- Protect\n- Throat Chop",
+    "Gengar @ Gengarite\nAbility: Cursed Body\nLevel: 50\nEVs: 32 HP / 9 Def / 1 SpA / 1 SpD / 23 Spe\nTimid Nature\n- Shadow Ball\n- Perish Song\n- Protect\n- Substitute",
+    "Sinistcha @ Sitrus Berry\nAbility: Hospitality\nLevel: 50\nEVs: 31 HP / 10 Def / 1 SpA / 23 SpD / 1 Spe\nCalm Nature\n- Matcha Gotcha\n- Rage Powder\n- Protect\n- Life Dew",
+    "Kingambit @ Chople Berry\nAbility: Defiant\nLevel: 50\nEVs: 32 HP / 30 Atk / 2 Def / 2 Spe\nAdamant Nature\n- Iron Head\n- Protect\n- Low Kick\n- Sucker Punch",
+    "Tyranitar @ Choice Scarf\nAbility: Sand Stream\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nJolly Nature\n- Stone Edge\n- Ice Punch\n- Low Kick\n- Rock Slide",
+    "Kommo-o @ Leftovers\nAbility: Soundproof\nLevel: 50\nEVs: 5 HP / 1 Def / 30 SpA / 1 SpD / 29 Spe\nModest Nature\n- Clanging Scales\n- Clangorous Soul\n- Aura Sphere\n- Protect"
+  ],
+  "comments": {
+    "teamOverview": "[gengar-mega]를 메인 메가로, [kommo-o] [soundproof] [clangorous-soul] 적층 + [tyranitar] [choice-scarf] 기습을 결합한 공격적 굿스터프.",
+    "keyStrategies": [
+      "[gengar-mega] [shadow-ball]·[sludge-bomb] 특수 + [disable] 봉쇄 + [perish-song] 멸망 옵션",
+      "[kommo-o] [soundproof] [perish-song] 면역 + [clangorous-soul] 전 능력치 상승",
+      "[tyranitar] [choice-scarf] 고속 기습 [rock-slide] 광역",
+      "[kingambit] [defiant] [intimidate] 카운터 + [sinistcha] 서포트"
+    ],
+    "pokemonNotes": {
+      "gengar-mega": "[shadow-ball] + [sludge-bomb] 특수 + [disable] 봉쇄 + [perish-song] 멸망. HP 투자 내구형.",
+      "kommo-o": "[soundproof] [perish-song] 면역 + [clangorous-soul] 전 능력치 상승. [clanging-scales] 광역 + [aura-sphere] [fighting]. [leftovers] 회복.",
+      "tyranitar": "[sand-stream] 모래 + [choice-scarf] 고속. [rock-slide] 광역 + [knock-off] + [low-kick] + [ice-punch].",
+      "kingambit": "[defiant] + [kowtow-cleave] 필중 + [sucker-punch] 선공기 + [iron-head]. [chople-berry] [fighting] 반감.",
+      "sinistcha": "[hospitality] 교대 회복 + [rage-powder] + [life-dew] + [strength-sap]. [sitrus-berry] 내구.",
+      "incineroar": "[intimidate] + [fake-out] + [parting-shot] + [throat-chop]. [shuca-berry] [ground] 반감."
+    },
+    "verdict": "[gengar-mega]의 [perish-song]과 [kommo-o]의 [soundproof] 시너지가 핵심이다. [gengar-mega]가 [perish-song]을 사용해도 [kommo-o]는 면역이라 멸망 카운트에 영향받지 않고 공격을 계속할 수 있다. [kommo-o]의 [clangorous-soul]은 HP 소모 대신 전 능력치를 올려 독자적 스위퍼로 기능하며, [kingambit]의 [defiant]와 [tyranitar]의 [choice-scarf]가 독립적 물리 화력원이다. [tyranitar]의 모래는 상대 [focus-sash] 깎기 + 특방 1.5배로 팀 전체 특수 내구를 올리는 부수 효과도 있다. 약점으로는 [fighting] 타입에 [tyranitar]·[kingambit] 모두 약하고, [clangorous-soul] HP 소모로 [kommo-o]가 한방에 쓰러질 위험이 있다. 종합적으로 멸망 옵션 + 적층 공격 + 모래 유틸이 결합된 다층적 파티다."
+  }
+}

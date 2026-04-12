@@ -1,0 +1,43 @@
+{
+  "teamId": "PC45",
+  "title": "EldritchEm's Gardevoir Arcanine Team",
+  "owner": "EldritchEmma",
+  "fullName": "EldritchEm",
+  "pokepaste": "https://pokepast.es/4ae1cebfae5717a7",
+  "linkToSource": "https://x.com/EldritchEmma/status/2041981639127900197?s=20",
+  "dateShared": "2026-04-08",
+  "pokemon": [
+    "gardevoir-mega",
+    "arcanine-hisui",
+    "basculegion",
+    "whimsicott",
+    "kingambit",
+    "ninetales-alola"
+  ],
+  "samples": [
+    "Gardevoir @ Gardevoirite\nAbility: Trace\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nModest Nature\n- Hyper Voice\n- Psyshock\n- Moonblast\n- Protect",
+    "Ninetales-Alola @ Sitrus Berry\nAbility: Snow Warning\nLevel: 50\nEVs: 1 HP / 1 Atk / 32 SpA / 32 Spe\nTimid Nature\n- Aurora Veil\n- Blizzard\n- Freeze-Dry\n- Protect",
+    "Whimsicott @ Focus Sash\nAbility: Prankster\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Tailwind\n- Moonblast\n- Encore\n- Protect",
+    "Basculegion (M) @ Choice Scarf\nAbility: Adaptability\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nAdamant Nature\n- Wave Crash\n- Last Respects\n- Aqua Jet\n- Flip Turn",
+    "Kingambit @ Leftovers\nAbility: Defiant\nLevel: 50\nEVs: 32 HP / 32 Atk / 2 Spe\nAdamant Nature\n- Sucker Punch\n- Brick Break\n- Iron Head\n- Kowtow Cleave",
+    "Arcanine-Hisui @ White Herb\nAbility: Intimidate\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nAdamant Nature\n- Extreme Speed\n- Rock Slide\n- Flare Blitz\n- Close Combat"
+  ],
+  "comments": {
+    "teamOverview": "[gardevoir-mega]를 메인 메가로, [ninetales-alola] [snow-warning] 눈 + [aurora-veil] 벽 + [arcanine-hisui] [intimidate] 물리 견제를 결합한 눈 벽 파티.",
+    "keyStrategies": [
+      "[ninetales-alola] [snow-warning] 눈 + [aurora-veil] 벽 + [blizzard] 필중",
+      "[gardevoir-mega] [trace] 특성 복사 + [hyper-voice] 광역 [fairy] + [trick-room]",
+      "[arcanine-hisui] [intimidate] 물리 견제 + [white-herb] 하락 무효",
+      "[kingambit] [defiant] + [basculegion] [adaptability] 독립 물리 화력"
+    ],
+    "pokemonNotes": {
+      "gardevoir-mega": "[trace] + [hyper-voice] 광역 + [moonblast] + [trick-room]. [modest] 풀 특공·스피드.",
+      "ninetales-alola": "[snow-warning] 눈 + [aurora-veil] 벽 + [blizzard] 필중 + [freeze-dry] [water] 견제. [sitrus-berry] 내구.",
+      "arcanine-hisui": "[intimidate] 물리 디버프 + [white-herb] 하락 무효. [rock] 타입 물리 어택커.",
+      "whimsicott": "[prankster] [tailwind] + [moonblast] + [encore]. [focus-sash] 1회 생존.",
+      "basculegion": "[adaptability] [water] STAB 2배 + [choice-scarf] 고속. [wave-crash] + [last-respects].",
+      "kingambit": "[defiant] [intimidate] 카운터 + [kowtow-cleave] + [sucker-punch]. [leftovers] 지속 회복."
+    },
+    "verdict": "[ninetales-alola] 눈 + [aurora-veil] 벽에 [gardevoir-mega]의 [trick-room] 옵션을 결합한 눈 벽 파티다. [arcanine-hisui]는 [rock]·[fire] 타입 [intimidate]로, [ice] 약점 포켓몬을 견제하면서 물리 디버프도 걸 수 있다. [kingambit]의 [defiant]와 [arcanine-hisui]의 [intimidate]는 상대 [intimidate]에 대한 공수 양면 카운터다. [basculegion] [choice-scarf]는 날씨와 무관한 독립적 고속 어택커. [gardevoir-mega]의 [trick-room]은 벽 아래 저속 모드로 [kingambit] 등이 혜택을 받는다. 약점으로는 [steel] 타입에 [ninetales-alola]·[gardevoir-mega] 약하고, [fighting]에 [kingambit] 부담. 종합적으로 눈 벽 + [trick-room] + [intimidate] 카운터가 공존하는 방어적 파티다."
+  }
+}

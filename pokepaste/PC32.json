@@ -1,0 +1,43 @@
+{
+  "teamId": "PC32",
+  "title": "cantfly's Charizard-Y Gengar Team",
+  "owner": "cantfly_ss",
+  "fullName": "Yuma Miyamoto",
+  "pokepaste": "https://pokepast.es/4b318f785bc4864a",
+  "linkToSource": "https://x.com/cantfly_ss/status/2041979110558462210?s=46",
+  "dateShared": "2026-04-08",
+  "pokemon": [
+    "charizard-mega-y",
+    "gengar-mega",
+    "incineroar",
+    "rotom-wash",
+    "maushold",
+    "kingambit"
+  ],
+  "samples": [
+    "Charizard @ Charizardite Y\nAbility: Solar Power\nLevel: 50\nEVs: 20 HP / 25 SpA / 21 Spe\nModest Nature\n- Heat Wave\n- Protect\n- Weather Ball\n- Solar Beam",
+    "Maushold-Four @ Focus Sash\nAbility: Friend Guard\nLevel: 50\nEVs: 32 HP / 23 Def / 11 Spe\nBold Nature\n- Super Fang\n- Follow Me\n- Protect\n- Taunt",
+    "Gengar @ Gengarite\nAbility: Cursed Body\nLevel: 50\nEVs: 32 HP / 1 Def / 1 SpD / 32 Spe\nTimid Nature\n- Shadow Ball\n- Protect\n- Icy Wind\n- Sludge Bomb",
+    "Incineroar @ Chople Berry\nAbility: Intimidate\nLevel: 50\nEVs: 32 HP / 9 Def / 20 SpD / 5 Spe\nImpish Nature\n- Fake Out\n- Flare Blitz\n- Darkest Lariat\n- Parting Shot",
+    "Rotom-Wash @ Sitrus Berry\nAbility: Levitate\nLevel: 50\nEVs: 32 HP / 32 SpA / 1 SpD\nModest Nature\n- Volt Switch\n- Thunderbolt\n- Will-O-Wisp\n- Hydro Pump",
+    "Kingambit @ Black Glasses\nAbility: Defiant\nLevel: 50\nEVs: 13 HP / 32 Atk / 21 Spe\nAdamant Nature\n- Kowtow Cleave\n- Sucker Punch\n- Protect\n- Iron Head"
+  ],
+  "comments": {
+    "teamOverview": "[charizard-mega-y]와 [gengar-mega] 더블 메가에 [rotom-wash] 유틸 + [maushold] [friend-guard] + [kingambit] [defiant]를 결합한 햇살 굿스터프.",
+    "keyStrategies": [
+      "[charizard-mega-y] [drought] 햇살 화력 or [gengar-mega] [ghost]·[poison] 화력 메가 선택",
+      "[maushold] [friend-guard] 아군 피해 25% 경감 + [follow-me] + [helping-hand]",
+      "[rotom-wash] [will-o-wisp] 물리 견제 + [hydro-pump] [water] 화력",
+      "[kingambit] [defiant] [intimidate] 카운터 + [swords-dance] 적층"
+    ],
+    "pokemonNotes": {
+      "charizard-mega-y": "햇살 메인 특수 어택커. HP·특공·스피드 균형 배분.",
+      "gengar-mega": "서브 메가. [shadow-ball] + [sludge-bomb] + [disable] + [perish-song]. HP·스피드 투자.",
+      "maushold": "[friend-guard] 피해 25% 경감 + [follow-me] + [super-fang] + [helping-hand]. HP·물방 투자 내구형.",
+      "rotom-wash": "[levitate] [ground] 면역 + [will-o-wisp] 물리 견제 + [hydro-pump] + [thunderbolt]. [sitrus-berry] 내구.",
+      "kingambit": "[defiant] + [swords-dance] + [kowtow-cleave] 필중 + [sucker-punch] 선공기. [black-glasses] [dark] 보정.",
+      "incineroar": "[intimidate] + [fake-out] + [parting-shot] + [will-o-wisp] 4종 물리 견제. [chople-berry] [fighting] 반감."
+    },
+    "verdict": "더블 메가 + 물리 견제 특화 파티다. [incineroar]·[rotom-wash] 양쪽 [will-o-wisp]로 물리 어택커를 이중 무력화하고 [maushold]의 [friend-guard] + [follow-me]로 어택커를 보호한다. [gengar-mega]에 [perish-song]까지 탑재하여 멸망이라는 서브 승리 루트도 보유. [kingambit] [swords-dance]는 물리 견제가 두터워 안전 적층 가능. 약점으로는 특수 고화력 어택커 대책이 부족하고 [rotom-wash] [hydro-pump]가 햇살 아래 반감되는 모순이 있다. 종합적으로 물리 견제 + 더블 메가 + 멸망 옵션이 결합된 방어적 햇살 파티다."
+  }
+}

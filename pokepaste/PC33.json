@@ -1,0 +1,43 @@
+{
+  "teamId": "PC33",
+  "title": "xx_z2z's Floette Gyarados Team",
+  "owner": "xx_z2z",
+  "fullName": "xx_z2z",
+  "pokepaste": "https://pokepast.es/57d01c2afc82f93f",
+  "linkToSource": "https://x.com/xx_z2z/status/2042008064661057966?s=20",
+  "dateShared": "2026-04-08",
+  "pokemon": [
+    "floette-mega",
+    "gyarados-mega",
+    "incineroar",
+    "sneasler",
+    "tyranitar",
+    "aegislash"
+  ],
+  "samples": [
+    "Floette-Eternal (F) @ Floettite\nAbility: Flower Veil\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nModest Nature\n- Dazzling Gleam\n- Moonblast\n- Protect\n- Calm Mind",
+    "Gyarados @ Gyaradosite\nAbility: Intimidate\nLevel: 50\nEVs: 1 HP / 32 Atk / 1 Def / 32 Spe\nAdamant Nature\n- Waterfall\n- Crunch\n- Dragon Dance\n- Protect",
+    "Sneasler @ Focus Sash\nAbility: Poison Touch\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nJolly Nature\n- Fake Out\n- Close Combat\n- Dire Claw\n- Protect",
+    "Tyranitar @ Lum Berry\nAbility: Sand Stream\nLevel: 50\nEVs: 32 Atk / 2 Def / 32 Spe\nJolly Nature\n- Rock Slide\n- Knock Off\n- Low Kick\n- Protect",
+    "Aegislash @ Leftovers\nAbility: Stance Change\nLevel: 50\nEVs: 32 HP / 2 Def / 32 SpA\nModest Nature\n- Shadow Ball\n- Flash Cannon\n- Substitute\n- King's Shield",
+    "Incineroar @ Sitrus Berry\nAbility: Intimidate\nLevel: 50\nEVs: 32 HP / 16 Def / 17 SpD\nImpish Nature\n- Fake Out\n- Flare Blitz\n- Throat Chop\n- Parting Shot"
+  ],
+  "comments": {
+    "teamOverview": "[floette-mega]와 [gyarados-mega] 더블 메가 + [tyranitar] [dragon-dance] 적층 + [aegislash] [stance-change] + 더블 [intimidate]([gyarados]·[incineroar]).",
+    "keyStrategies": [
+      "[gyarados-mega] [dragon-dance] 적층 물리 or [floette-mega] 고속 특수 메가 선택",
+      "[tyranitar] [dragon-dance] + [sand-stream] 모래",
+      "더블 [intimidate] 물리 연속 디버프",
+      "[aegislash] [stance-change] + [substitute] 안전 운용"
+    ],
+    "pokemonNotes": {
+      "floette-mega": "[modest] 풀 특공·스피드 고속 특수 어택커. [moonblast] + [dazzling-gleam] + [calm-mind].",
+      "gyarados-mega": "[dragon-dance] 적층 후 [waterfall] + [crunch] 물리. [adamant] 풀 공격·스피드.",
+      "tyranitar": "[sand-stream] 모래 + [dragon-dance] + [rock-slide] + [knock-off]. [lum-berry] 상태이상 해제.",
+      "aegislash": "[stance-change] 공수 전환 + [shadow-ball] + [flash-cannon] + [kings-shield] + [substitute]. [leftovers] 회복.",
+      "sneasler": "[poison-touch] 접촉 중독 + [close-combat] + [dire-claw] + [fake-out]. [focus-sash] 1회 생존.",
+      "incineroar": "[intimidate] + [fake-out] + [parting-shot] + [flare-blitz]. [sitrus-berry] 내구."
+    },
+    "verdict": "더블 메가 + 더블 [intimidate] + 더블 [dragon-dance]가 핵심인 공격 파티다. [gyarados-mega]와 [tyranitar] 모두 [dragon-dance] 적층이 가능하고, 더블 [intimidate]로 상대 물리를 연속 하락시키며 적층 시간을 확보한다. [aegislash]의 [substitute] + [kings-shield]는 안전하게 화력을 내는 운용이며 [stance-change]로 공격 시 초고화력을 낸다. 약점으로는 [fairy] 타입에 다수가 약하고 적층 의존도가 높아 [taunt]·[haze]에 취약하다. 종합적으로 물리 적층 + [intimidate] 사이클의 공격적 파티다."
+  }
+}

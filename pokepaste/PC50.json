@@ -1,0 +1,43 @@
+{
+  "teamId": "PC50",
+  "title": "AtmsLove's Charizard-Y Dragapult Team",
+  "owner": "AtmsLove",
+  "fullName": "AtmsLove",
+  "pokepaste": "https://pokepast.es/b0a22d3e55b19e68",
+  "linkToSource": "https://x.com/AtmsLove/status/2041780043073122661",
+  "dateShared": "2026-04-08",
+  "pokemon": [
+    "charizard-mega-y",
+    "incineroar",
+    "mamoswine",
+    "whimsicott",
+    "archaludon",
+    "dragapult"
+  ],
+  "samples": [
+    "Charizard @ Charizardite Y\nAbility: Solar Power\nLevel: 50\nEVs: 32 HP / 32 Def / 1 SpA / 1 Spe\nModest Nature\n- Heat Wave\n- Solar Beam\n- Weather Ball\n- Protect",
+    "Whimsicott @ Focus Sash\nAbility: Prankster\nLevel: 50\nEVs: 1 HP / 1 Def / 32 SpA / 32 Spe\nTimid Nature\n- Moonblast\n- Tailwind\n- Encore\n- Protect",
+    "Dragapult @ Focus Band\nAbility: Clear Body\nLevel: 50\nEVs: 1 HP / 1 Def / 32 SpA / 32 Spe\nTimid Nature\n- Dragon Pulse\n- Shadow Ball\n- Draco Meteor\n- Protect",
+    "Mamoswine @ Soft Sand\nAbility: Oblivious\nLevel: 50\nEVs: 32 Atk / 2 SpD / 32 Spe\nAdamant Nature\n- Earthquake\n- Icicle Crash\n- Ice Shard\n- Protect",
+    "Incineroar @ Sitrus Berry\nAbility: Intimidate\nLevel: 50\nEVs: 31 HP / 1 Atk / 17 Def / 14 SpD / 3 Spe\nCareful Nature\n- Flare Blitz\n- Throat Chop\n- Fake Out\n- Parting Shot",
+    "Archaludon @ Leftovers\nAbility: Stamina\nLevel: 50\nEVs: 32 HP / 1 Def / 1 SpA / 28 SpD / 4 Spe\nBold Nature\n- Electro Shot\n- Snarl\n- Draco Meteor\n- Protect"
+  ],
+  "comments": {
+    "teamOverview": "[charizard-mega-y] [drought] 햇살 축에 [dragapult] 고속 특수 + [mamoswine] [ice]·[ground] 물리 + [archaludon] [stamina] 탱커를 결합한 햇살 굿스터프.",
+    "keyStrategies": [
+      "[charizard-mega-y] [drought] + [heat-wave]·[weather-ball]·[solar-beam] 햇살 화력",
+      "[whimsicott] [prankster] [tailwind] + [sunny-day] + [encore]",
+      "[mamoswine] [oblivious] [intimidate]·[taunt] 면역 + [earthquake] + [icicle-crash]",
+      "[archaludon] [stamina] 물리 탱킹 + [snarl] 특공 하락 디버프"
+    ],
+    "pokemonNotes": {
+      "charizard-mega-y": "[drought] 햇살 메인 특수. HP·물방 극투자 내구형. [modest].",
+      "whimsicott": "[prankster] [tailwind] + [sunny-day] + [encore] + [moonblast]. [focus-sash] 1회 생존.",
+      "dragapult": "[clear-body] 능력치 하락 면역 + [dragon-pulse] + [shadow-ball] + [draco-meteor]. [focus-band] 1회 생존 확률.",
+      "mamoswine": "[oblivious] [intimidate]·[taunt] 면역. [earthquake] 광역 + [icicle-crash] + [ice-shard] 선공기. [soft-sand] [ground] 보정.",
+      "incineroar": "[intimidate] + [fake-out] + [parting-shot] + [throat-chop]. [sitrus-berry] 내구.",
+      "archaludon": "[stamina] 물리 탱킹 + [snarl] 특공 하락 + [electro-shot] + [draco-meteor]. [leftovers] + [bold] 장기전 탱커."
+    },
+    "verdict": "[charizard-mega-y] 햇살에 [mamoswine]의 [ice]·[ground] 물리를 결합한 햇살 굿스터프다. [charizard-mega-y]가 극단적 내구 투자형(HP 32, 물방 32)으로 일반적인 속도·화력형과 크게 차별화된다. [whimsicott]의 [tailwind]으로 스피드를 보완하고, [sunny-day]로 날씨 재전개도 가능하다. [mamoswine]의 [oblivious]는 [intimidate]와 [taunt] 모두 면역이라 안정적으로 [earthquake]·[icicle-crash]를 사용할 수 있다. [archaludon]은 [stamina] + [snarl]로 물리·특수 양면 디버프 탱커 역할이며, [dragapult]의 [clear-body]는 능력치 하락을 완전 면역한다. 약점으로는 [charizard-mega-y]의 화력 투자가 낮아 결정력이 부족할 수 있고, [dragapult]의 [focus-band]는 30% 확률 의존이라 불안정하다. [rock] 광역기에 [charizard-mega-y] 4배. 종합적으로 극내구 햇살 + [ice]·[ground] 커버리지가 특징인 안정 지향 햇살 파티다."
+  }
+}
