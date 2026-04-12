@@ -26,21 +26,21 @@
   },
   "locale": "ko",
   "title": "[렌트라] 배틀 운용 가이드",
-  "summary": "[intimidate]로 초반 [물]리 피해를 깎고 [wild-charge]·[crunch] 투 스탭으로 찌르는 [전기] [물]리 피벗. 70 스피드지만 [volt-switch] 탈출이 강점이다.",
+  "summary": "[intimidate]로 초반 물리 피해를 깎고 [wild-charge]·[crunch] 투 스탭으로 찌르는 [전기] 물리 피벗. 70 스피드지만 [volt-switch] 탈출이 강점이다.",
   "strengths": [
-    "공격 120의 [물]리 [전기] 어태커 중 드[물]게 [intimidate] 내장",
+    "공격 120의 물리 [전기] 어태커 중 드[물]게 [intimidate] 내장",
     "[wild-charge] + [crunch] + [ice-fang]으로 대부분의 피벗을 2타 안에 정리",
-    "[volt-switch]로 [물]리 어태커 불리 매치업을 즉시 탈출 가능"
+    "[volt-switch]로 물리 어태커 불리 매치업을 즉시 탈출 가능"
   ],
   "weaknesses": [
     "[땅] 2배 약점과 70의 낮은 스피드 탓에 선공권 싸움에서 밀림",
-    "우월한 [전기] [물]리 어태커(볼트로스 등)와의 역할 경쟁",
+    "우월한 [전기] 물리 어태커(볼트로스 등)와의 역할 경쟁",
     "[wild-charge] 반동 누적으로 장기전 HP 관리가 까다로움"
   ],
   "recommendedMoves": [
     {
       "move": "wild-charge",
-      "reason": "STAB [물]리 주력기, 반동 감수하고 최대 화력 확보"
+      "reason": "STAB 물리 주력기, 반동 감수하고 최대 화력 확보"
     },
     {
       "move": "crunch",

@@ -32,7 +32,7 @@
   "strengths": [
     "약점이 [페어리] 하나뿐인 희귀한 타입 조합",
     "[infiltrator]로 [substitute]·[light-screen]·[reflect] 무시",
-    "양 내구 108/108 기반의 [물]리·특수 겸용 벽 역할"
+    "양 내구 108/108 기반의 물리·특수 겸용 벽 역할"
   ],
   "weaknesses": [
     "HP 50으로 실효 내구가 생각보다 낮음",
@@ -42,7 +42,7 @@
   "recommendedMoves": [
     {
       "move": "will-o-wisp",
-      "reason": "[물]리 어태커 공격 반감의 상태이상 축"
+      "reason": "물리 어태커 공격 반감의 상태이상 축"
     },
     {
       "move": "dark-pulse",

@@ -26,9 +26,9 @@
   },
   "locale": "ko",
   "title": "[윈디] 배틀 운용 가이드",
-  "summary": "[intimidate]로 교대 수익을 챙기는 [불꽃] [물]리 어태커. [extreme-speed]로 스피드 약점을 선공기로 보완한다.",
+  "summary": "[intimidate]로 교대 수익을 챙기는 [불꽃] 물리 어태커. [extreme-speed]로 스피드 약점을 선공기로 보완한다.",
   "strengths": [
-    "[intimidate]로 [물]리 어태커 교대 턴 약화",
+    "[intimidate]로 물리 어태커 교대 턴 약화",
     "[extreme-speed] 고위 선공기 보유",
     "90/80/80 균형 내구로 교대 안정성 확보"
   ],
@@ -40,7 +40,7 @@
   "recommendedMoves": [
     {
       "move": "flare-blitz",
-      "reason": "주력 [물]리 [불꽃] STAB"
+      "reason": "주력 물리 [불꽃] STAB"
     },
     {
       "move": "extreme-speed",

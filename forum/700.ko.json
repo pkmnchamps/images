@@ -35,7 +35,7 @@
   "weaknesses": [
     "[독] 2배·[강철] 2배로 [sludge-bomb]·[iron-head] 한 방에 치명상",
     "베이스 스피드 60으로 거의 모든 어태커에 후공",
-    "[물]리 방어 65로 선공기·피지컬에 약함"
+    "물리 방어 65로 선공기·피지컬에 약함"
   ],
   "recommendedMoves": [
     {
@@ -48,7 +48,7 @@
     },
     {
       "move": "psyshock",
-      "reason": "특수 내구 벽(assault-vest 대체) 상대에게 [물]리 판정으로 접근"
+      "reason": "특수 내구 벽(assault-vest 대체) 상대에게 물리 판정으로 접근"
     },
     {
       "move": "wish",

@@ -27,7 +27,7 @@
   },
   "locale": "ko",
   "title": "[우츠보트] 배틀 운용 가이드",
-  "summary": "[chlorophyll]로 맑음 하 실질 스피드 140의 [풀]·[독] [물]리 스위퍼. [swords-dance] 셋업으로 폭발적 피니셔.",
+  "summary": "[chlorophyll]로 맑음 하 실질 스피드 140의 [풀]·[독] 물리 스위퍼. [swords-dance] 셋업으로 폭발적 피니셔.",
   "strengths": [
     "맑음 하 [chlorophyll]로 실질 스피드 140대",
     "105 공격 + [swords-dance]로 고화력 피니셔",
@@ -41,7 +41,7 @@
   "recommendedMoves": [
     {
       "move": "leaf-blade",
-      "reason": "주력 [풀] STAB [물]리 피니셔"
+      "reason": "주력 [풀] STAB 물리 피니셔"
     },
     {
       "move": "poison-jab",

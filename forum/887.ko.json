@@ -42,7 +42,7 @@
   "recommendedMoves": [
     {
       "move": "dragon-darts",
-      "reason": "[물]리 [드래곤] STAB, 더블 2회 타격"
+      "reason": "물리 [드래곤] STAB, 더블 2회 타격"
     },
     {
       "move": "phantom-force",

@@ -35,7 +35,7 @@
   ],
   "weaknesses": [
     "[강철] 2배 + [독] 2배, [고스트] 2배의 3중 약점",
-    "[물]리 내구 57/95에 [u-turn]·[knock-off]에 약함",
+    "물리 내구 57/95에 [u-turn]·[knock-off]에 약함",
     "트릭룸이 지워지면 즉시 템포 상실"
   ],
   "recommendedMoves": [

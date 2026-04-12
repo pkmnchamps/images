@@ -27,7 +27,7 @@
   },
   "locale": "ko",
   "title": "[신비록] 배틀 운용 가이드",
-  "summary": "[intimidate] 또는 [sap-sipper]로 서포트하면서 [megahorn]·[psyshield-bash]로 [물]리 타격을 내는 견고한 [노말]·[에스퍼] 탱커.",
+  "summary": "[intimidate] 또는 [sap-sipper]로 서포트하면서 [megahorn]·[psyshield-bash]로 물리 타격을 내는 견고한 [노말]·[에스퍼] 탱커.",
   "strengths": [
     "HP 103으로 중반전 내구 확보",
     "[sap-sipper]로 [풀] 기술 완전 면역 + 공격 상승",
@@ -41,7 +41,7 @@
   "recommendedMoves": [
     {
       "move": "psyshield-bash",
-      "reason": "STAB + 방어 상승 [물]리 [에스퍼]"
+      "reason": "STAB + 방어 상승 물리 [에스퍼]"
     },
     {
       "move": "megahorn",

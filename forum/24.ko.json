@@ -26,9 +26,9 @@
   },
   "locale": "ko",
   "title": "[아보크] 배틀 운용 가이드",
-  "summary": "[intimidate]로 [물]리 교대 수익을 챙기고 [coil]로 부스트하는 [독] 단일 [물]리 스위퍼.",
+  "summary": "[intimidate]로 물리 교대 수익을 챙기고 [coil]로 부스트하는 [독] 단일 물리 스위퍼.",
   "strengths": [
-    "[intimidate]로 교대 턴 [물]리 공격 약화",
+    "[intimidate]로 교대 턴 물리 공격 약화",
     "[coil]로 공격·방어·명중 3중 부스트",
     "[sucker-punch] 선공기로 스피드 약점 보완"
   ],

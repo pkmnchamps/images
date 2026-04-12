@@ -27,7 +27,7 @@
   },
   "locale": "ko",
   "title": "[메가니움] 배틀 운용 가이드",
-  "summary": "[물]리 방어와 양내구를 갖춘 [풀] 단일 서포터. [light-screen]·[reflect]·[synthesis]로 팀 전체 수비 축을 올린다.",
+  "summary": "물리 방어와 양내구를 갖춘 [풀] 단일 서포터. [light-screen]·[reflect]·[synthesis]로 팀 전체 수비 축을 올린다.",
   "strengths": [
     "100 방어 + 100 특방의 양내구 서포터",
     "[light-screen]·[reflect]로 팀 전체 내구 지원",
@@ -49,7 +49,7 @@
     },
     {
       "move": "reflect",
-      "reason": "팀 전체 [물]리 내구 1턴 보조"
+      "reason": "팀 전체 물리 내구 1턴 보조"
     },
     {
       "move": "synthesis",
