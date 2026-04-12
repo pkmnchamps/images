@@ -1,0 +1,43 @@
+{
+  "teamId": "PC6",
+  "title": "Ze Banded's Floette Aerodactyl Team",
+  "owner": "ZeBanded",
+  "fullName": "Ze Banded",
+  "pokepaste": "https://pokepast.es/089009ee697143a1",
+  "linkToSource": "https://x.com/ZeBanded/status/2041765298999886250?s=20",
+  "dateShared": "2026-04-07",
+  "pokemon": [
+    "aerodactyl-mega",
+    "floette-mega",
+    "incineroar",
+    "sneasler",
+    "sinistcha",
+    "dragapult"
+  ],
+  "samples": [
+    "Floette-Eternal (F) @ Floettite\nAbility: Flower Veil\nLevel: 50\nEVs: 32 HP / 2 Def / 32 SpA\nModest Nature\n- Moonblast\n- Draining Kiss\n- Calm Mind\n- Protect",
+    "Incineroar @ Chople Berry\nAbility: Intimidate\nLevel: 50\nEVs: 32 HP / 1 Atk / 20 Def / 1 SpA / 12 SpD\nRelaxed Nature\n- Flare Blitz\n- Throat Chop\n- Parting Shot\n- Fake Out",
+    "Sneasler @ Focus Sash\nAbility: Poison Touch\nLevel: 50\nEVs: 32 Atk / 1 Def / 32 Spe\nAdamant Nature\n- Dire Claw\n- Close Combat\n- Fake Out\n- Protect",
+    "Sinistcha @ Sitrus Berry\nAbility: Hospitality\nLevel: 50\nEVs: 32 HP / 14 Def / 20 SpD\nCalm Nature\n- Matcha Gotcha\n- Strength Sap\n- Rage Powder\n- Trick Room",
+    "Aerodactyl @ Aerodactylite\nAbility: Unnerve\nLevel: 50\nEVs: 32 Atk / 32 Spe\nJolly Nature\n- Rock Slide\n- Ice Fang\n- Dual Wingbeat\n- Protect",
+    "Dragapult @ Kasib Berry\nAbility: Clear Body\nLevel: 50\nEVs: 32 HP / 1 Def / 1 SpD / 32 Spe\nTimid Nature\n- Shadow Ball\n- Breaking Swipe\n- Light Screen\n- Reflect"
+  ],
+  "comments": {
+    "teamOverview": "[aerodactyl-mega]와 [floette-mega] 더블 메가 구성. [dragapult]이 [light-screen] + [reflect] 양벽을 전개하고, [sinistcha]가 [trick-room] 옵션을 제공하는 유연한 공수 겸비 파티.",
+    "keyStrategies": [
+      "[aerodactyl-mega] 고속 물리 어택커 + [floette-mega] [calm-mind] 적층 특수 어택커 선택 운용",
+      "[dragapult] [light-screen] + [reflect] 양벽 + [breaking-swipe]로 상대 공격 하락",
+      "[sinistcha] [trick-room]으로 저속 모드 전환 + [rage-powder] 타겟 유도",
+      "[sneasler] [focus-sash] + [poison-touch]로 접촉기 중독 확률 추가"
+    ],
+    "pokemonNotes": {
+      "aerodactyl-mega": "고속 물리 메가 어택커. [rock-slide] 광역 flinch + [dual-wingbeat] [flying] 2연타 + [ice-fang] [dragon]·[grass] 견제. [jolly] 최속 풀 공격 투자.",
+      "floette-mega": "[calm-mind] 적층형 특수 어택커. [moonblast] 단일 고위력 + [dazzling-gleam] 광역 + [draining-kiss]로 회복하며 공격. [modest] 풀 HP·특공 투자로 내구도 확보.",
+      "incineroar": "[intimidate] + [fake-out] + [parting-shot] 핵심 서포트. [chople-berry]로 [fighting] 약점 1회 반감. [relaxed] 물방 투자로 물리 내구 중시.",
+      "sneasler": "[focus-sash]로 1회 생존 보장 + [poison-touch]로 접촉기 중독 확률 추가. [dire-claw] 추가 상태이상 + [close-combat] 고위력 [fighting]. [fake-out] 템포 장악.",
+      "sinistcha": "[hospitality] 교대 회복 + [trick-room] 저속 모드 전환. [rage-powder]로 어택커 보호 + [strength-sap]으로 상대 공격 하락 + HP 회복. [sitrus-berry] 내구.",
+      "dragapult": "양벽 서포터 구성. [light-screen] + [reflect]로 5턴간 팀 전체 피해 경감. [breaking-swipe] 광역 상대 공격 하락 + [shadow-ball] 자체 [ghost] 화력. [kasib-berry]로 [ghost] 약점 1회 반감."
+    },
+    "verdict": "더블 메가 + 양벽 + [trick-room] 옵션이 공존하는 다층적 전략 파티다. [aerodactyl-mega]는 최상위 스피드로 [tailwind] 없이도 대부분의 상대를 선제 공격할 수 있고, [floette-mega]는 [calm-mind] 적층으로 장기전에서 점점 강해지는 대안 메가다. [dragapult]의 양벽은 [aurora-veil]과 달리 눈 조건 없이 사용 가능하며, [breaking-swipe]로 상대 공격까지 하락시켜 물리 방면 방어가 두텁다. [sinistcha]의 [trick-room]은 상대가 [tailwind] 등으로 스피드를 올릴 때 역전 카드로 활용되며, [incineroar]·[sinistcha]·[floette-mega] 등 저속 포켓몬이 혜택을 받는다. 약점으로는 [rock] 타입 광역기에 [aerodactyl-mega]를 제외하고 대응이 어렵고, [steel] 타입 고내구 상대에게 [floette-mega]의 [fairy] 기술이 반감되어 돌파가 어려울 수 있다. [sneasler]가 [focus-sash] 의존이라 선공기나 광역기에 무력화되기 쉬운 점도 부담이다. 종합적으로 벽·메가 선택·[trick-room] 모드 전환 등 다양한 승리 루트를 갖춘 유연한 파티다."
+  }
+}

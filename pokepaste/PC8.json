@@ -1,0 +1,43 @@
+{
+  "teamId": "PC8",
+  "title": "white_shade25's Froslass Talonflame Team",
+  "owner": "white_shade25",
+  "fullName": "white_shade25",
+  "pokepaste": "https://pokepast.es/a08bebd702e950d7",
+  "linkToSource": "https://x.com/white_shade25/status/2041763848517251567?s=46&t=WmXEnVa3rTSw0P9A0n6S3Q",
+  "dateShared": "2026-04-07",
+  "pokemon": [
+    "froslass-mega",
+    "talonflame",
+    "milotic",
+    "kingambit",
+    "gardevoir",
+    "garchomp"
+  ],
+  "samples": [
+    "Talonflame @ Sharp Beak\nAbility: Gale Wings\nLevel: 50\nEVs: 32 Atk / 22 SpA / 11 Spe\nNaughty Nature\n- Brave Bird\n- Overheat\n- Protect\n- Tailwind",
+    "Garchomp @ Soft Sand\nAbility: Rough Skin\nLevel: 50\nEVs: 32 Atk / 1 Def / 32 Spe\nJolly Nature\n- Earthquake\n- Rock Slide\n- Swords Dance\n- Protect",
+    "Gardevoir @ Focus Sash\nAbility: Telepathy\nLevel: 50\nEVs: 2 HP / 13 Def / 24 SpA / 1 SpD / 26 Spe\nModest Nature\n- Dazzling Gleam\n- Psychic\n- Trick Room\n- Vacuum Wave",
+    "Kingambit @ Black Glasses\nAbility: Defiant\nLevel: 50\nEVs: 32 HP / 16 Atk / 1 Def / 14 SpD / 3 Spe\nAdamant Nature\n- Kowtow Cleave\n- Iron Head\n- Sucker Punch\n- Protect",
+    "Froslass (F) @ Froslassite\nAbility: Snow Cloak\nLevel: 50\nEVs: 8 HP / 32 SpA / 26 Spe\nModest Nature\n- Blizzard\n- Protect\n- Aurora Veil\n- Shadow Ball",
+    "Milotic @ Leftovers\nAbility: Competitive\nLevel: 50\nEVs: 32 HP / 14 Def / 19 Spe\nModest Nature\n- Life Dew\n- Icy Wind\n- Scald\n- Blizzard"
+  ],
+  "comments": {
+    "teamOverview": "[froslass-mega]의 [aurora-veil] 벽 전개 후 [kingambit]·[garchomp]이 공격하는 벽 파티. [gardevoir]가 [trick-room] 옵션을 제공하고, [milotic]의 [competitive]가 [intimidate] 카운터로 기능한다.",
+    "keyStrategies": [
+      "[froslass-mega] [aurora-veil]로 물리·특수 피해 경감 후 어택커 안전 전개",
+      "[gardevoir] [trick-room]으로 저속 모드 전환 + [telepathy]로 아군 [earthquake] 면역",
+      "[milotic] [competitive]로 상대 [intimidate]에 특공 2랭크 상승 카운터",
+      "[kingambit] [defiant]로 역시 [intimidate] 카운터 + [swords-dance] 적층"
+    ],
+    "pokemonNotes": {
+      "froslass-mega": "[aurora-veil]로 팀 전체 피해 경감. [blizzard] [ice] 광역 + [shadow-ball] [ghost] STAB. [modest] 특공 투자로 공격적 벽 전개자.",
+      "talonflame": "[gale-wings] 우선도 [brave-bird] + [tailwind]. [sharp-beak]로 [flying] 화력 보정. [overheat]으로 특수 [fire] 기습. [naughty] 성격으로 물리·특수 혼합 운용.",
+      "milotic": "[competitive]로 [intimidate] 카운터. 상대가 [intimidate]를 쓸 때마다 특공 2랭크 상승. [icy-wind] 스피드 하락 유틸 + [scald] [water] STAB + [blizzard] [froslass-mega] 눈과 시너지. [life-dew]로 아군 회복. [leftovers] 지속 회복.",
+      "gardevoir": "[telepathy]로 아군 [earthquake] 면역. [trick-room]으로 저속 모드 전환 + [dazzling-gleam] [fairy] 광역 + [psychic] [psychic] STAB. [vacuum-wave] [fighting] 선공기. [focus-sash]로 1회 생존.",
+      "kingambit": "[defiant]로 [intimidate] 카운터 + [swords-dance] 적층 후 [kowtow-cleave] 필중 [dark] STAB + [sucker-punch] 선공기 + [iron-head] [steel] STAB. [black-glasses] [dark] 화력 보정.",
+      "garchomp": "[swords-dance] 적층형 물리 어택커. [earthquake] 광역 + [rock-slide] 광역 flinch. [soft-sand]로 [ground] 화력 보정. [jolly] 최속."
+    },
+    "verdict": "[froslass-mega]의 [aurora-veil]을 중심으로 한 벽 파티로, [intimidate] 카운터가 이중으로 탑재된 것이 특징이다. [milotic]의 [competitive]와 [kingambit]의 [defiant]가 모두 상대 [intimidate]에 반응하여 오히려 능력치가 상승하므로, [intimidate] 의존도가 높은 메타에서 강력한 카운터 성능을 발휘한다. [gardevoir]의 [telepathy]는 [garchomp]의 [earthquake]에 면역이라 광역기 사용이 자유롭고, [trick-room]으로 저속 모드 전환 시 [kingambit]과 [milotic]이 혜택을 받는다. [talonflame]은 [naughty] 성격으로 [brave-bird] 물리 + [overheat] 특수 혼합 운용이 가능한 독특한 구성이다. 약점으로는 [aurora-veil] 없이는 팀 전체 내구가 불안정하고, [froslass-mega]가 빠르게 쓰러지면 벽 기반 전략이 와해된다. [dark] 타입에 [gardevoir]와 [froslass-mega] 모두 약해 [dark] 어택커 대면이 부담스럽다. 종합적으로 벽 + [intimidate] 이중 카운터 + [trick-room] 옵션이 공존하는 다각도 전략 파티다."
+  }
+}

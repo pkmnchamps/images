@@ -1,0 +1,43 @@
+{
+  "teamId": "PC10",
+  "title": "Huyubare's Charizard-Y Garchomp Team",
+  "owner": "huyubare_poke",
+  "fullName": "Ko Tsukide",
+  "pokepaste": "https://pokepast.es/d9260baad4fd55f8",
+  "linkToSource": "https://x.com/huyubare_poke/status/2041817415768817869?s=46",
+  "dateShared": "2026-04-08",
+  "pokemon": [
+    "charizard-mega-y",
+    "incineroar",
+    "sneasler",
+    "maushold",
+    "whimsicott",
+    "garchomp"
+  ],
+  "samples": [
+    "Charizard @ Charizardite Y\nAbility: Blaze\nLevel: 50\nEVs: 20 HP / 14 Def / 21 SpA / 11 Spe\nModest Nature\n- Heat Wave\n- Solar Beam\n- Weather Ball\n- Protect",
+    "Whimsicott @ Focus Sash\nAbility: Prankster\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Moonblast\n- Sunny Day\n- Encore\n- Tailwind",
+    "Garchomp @ Yache Berry\nAbility: Rough Skin\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nJolly Nature\n- Earthquake\n- Dragon Claw\n- Rock Slide\n- Protect",
+    "Sneasler @ White Herb\nAbility: Unburden\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nAdamant Nature\n- Close Combat\n- Dire Claw\n- Rock Tomb\n- Protect",
+    "Maushold-Four @ Chople Berry\nAbility: Friend Guard\nLevel: 50\nEVs: 24 HP / 9 Def / 1 SpD / 32 Spe\nJolly Nature\n- Super Fang\n- Taunt\n- Follow Me\n- Protect",
+    "Incineroar @ Sitrus Berry\nAbility: Intimidate\nLevel: 50\nEVs: 32 HP / 5 Atk / 11 Def / 8 SpD / 10 Spe\nAdamant Nature\n- Flare Blitz\n- Darkest Lariat\n- Parting Shot\n- Fake Out"
+  ],
+  "comments": {
+    "teamOverview": "[charizard-mega-y]의 [drought] 햇살을 축으로 [whimsicott] [prankster] 서포트와 [sneasler]·[garchomp] 물리 어택커를 결합한 햇살 굿스터프 파티. [maushold]의 [friend-guard]로 팀 전체 내구를 보조한다.",
+    "keyStrategies": [
+      "[charizard-mega-y] [drought] + [heat-wave]·[weather-ball]·[solar-beam] 3종 햇살 화력",
+      "[whimsicott] [prankster] [tailwind] + [sunny-day] + [encore] 3종 필드 장악",
+      "[sneasler] [white-herb] + [unburden]으로 [close-combat] 후 스피드 2배 발동",
+      "[maushold] [friend-guard]로 아군 피해 25% 경감 + [taunt]로 상대 변화기 봉쇄"
+    ],
+    "pokemonNotes": {
+      "charizard-mega-y": "[drought] 햇살 메인 특수 어택커. [modest] HP·방어·특공·스피드 균형 배분으로 내구도 확보. [heat-wave] 광역 + [weather-ball] [fire] 150위력 + [solar-beam] [water]·[ground] 견제.",
+      "whimsicott": "[prankster] 우선도 [tailwind] + [sunny-day] + [encore]. [moonblast] 자체 [fairy] 화력. [focus-sash]로 1회 생존. 날씨 재전개 가능.",
+      "garchomp": "[yache-berry]로 [ice] 약점 1회 반감. [earthquake] 광역 + [dragon-claw] [dragon] STAB + [rock-slide] 광역 flinch. [jolly] 최속.",
+      "sneasler": "[white-herb] + [unburden]으로 [close-combat] 능력치 하락 1회 무효 → 스피드 2배 발동. [dire-claw] 추가 상태이상 + [rock-tomb] 스피드 하락 유틸. [adamant] 공격 극대화.",
+      "maushold": "[friend-guard]로 아군 전체 피해 25% 경감. [taunt]로 상대 [trick-room]·[tailwind] 등 변화기 봉쇄. [follow-me] 타겟 유도 + [super-fang] HP 절반. [chople-berry]로 [fighting] 약점 1회 반감.",
+      "incineroar": "[intimidate] + [fake-out] + [parting-shot] 서포트. [darkest-lariat]로 상대 능력치 변화 무시 공격. [sitrus-berry] 내구. [adamant] 공격 투자."
+    },
+    "verdict": "[charizard-mega-y]를 중심으로 한 전형적인 햇살 굿스터프로, PC5와 유사한 구성이지만 [gengar-mega] 대신 [garchomp]을 넣어 물리 공격 폭을 넓힌 버전이다. [whimsicott]의 [sunny-day]로 날씨 경합에 대비하고, [encore]로 상대 [protect]를 고정시키는 플레이가 가능하다. [sneasler]의 [white-herb] + [unburden] 콤보는 [close-combat] 한 번으로 스피드 2배를 확보해 [tailwind] 없이도 고속 어택커로 전환되며, [rock-tomb]으로 상대 스피드까지 하락시킬 수 있다. [maushold]는 [friend-guard]로 팀 전체 내구를 올리면서 [taunt]로 상대 [trick-room] 등 변화기를 봉쇄하는 방해 역할까지 겸한다. [garchomp]의 [yache-berry]는 [ice] 약점 1회 반감으로 대면에서의 생존력을 높인다. 약점으로는 [rock] 타입 광역기에 [charizard-mega-y]의 4배 약점이 큰 부담이고, 비 파티 상대로 햇살이 덮이면 [heat-wave]·[weather-ball] 화력이 크게 떨어진다. [water] 타입 대책이 [solar-beam]과 [garchomp] 정도로 제한적이다. 종합적으로 안정적인 서포트와 다양한 물리·특수 어택커를 갖춘 균형 잡힌 햇살 파티다."
+  }
+}

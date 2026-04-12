@@ -1,0 +1,43 @@
+{
+  "teamId": "PC2",
+  "title": "Sarapoke0914's Gengar Rain Team",
+  "owner": "Sarapoke0914",
+  "fullName": "Sarapoke0914",
+  "pokepaste": "https://pokepast.es/7eb4acd88aad8376",
+  "linkToSource": "https://x.com/Sarapoke0914/status/2041712294951084193?s=20",
+  "dateShared": "2026-04-07",
+  "pokemon": [
+    "gengar-mega",
+    "incineroar",
+    "basculegion",
+    "politoed",
+    "sinistcha",
+    "archaludon"
+  ],
+  "samples": [
+    "Gengar @ Gengarite\nAbility: Cursed Body\nLevel: 50\nEVs: 32 HP / 1 Def / 1 SpD / 32 Spe\nTimid Nature\n- Protect\n- Perish Song\n- Disable\n- Shadow Ball",
+    "Politoed @ Wacan Berry\nAbility: Drizzle\nLevel: 50\nEVs: 31 HP / 13 Def / 1 SpA / 20 SpD / 1 Spe\nCalm Nature\n- Protect\n- Helping Hand\n- Muddy Water\n- Perish Song",
+    "Basculegion (M) @ Mystic Water\nAbility: Swift Swim\nLevel: 50\nEVs: 1 HP / 32 Atk / 1 Def / 32 Spe\nAdamant Nature\n- Wave Crash\n- Flip Turn\n- Last Respects\n- Protect",
+    "Archaludon @ Leftovers\nAbility: Stamina\nLevel: 50\nEVs: 32 HP / 1 Def / 1 SpA / 28 SpD / 4 Spe\nBold Nature\n- Electro Shot\n- Snarl\n- Draco Meteor\n- Protect",
+    "Incineroar @ Sitrus Berry\nAbility: Intimidate\nLevel: 50\nEVs: 31 HP / 1 Atk / 17 Def / 14 SpD / 3 Spe\nCareful Nature\n- Flare Blitz\n- Throat Chop\n- Fake Out\n- Parting Shot",
+    "Sinistcha @ Mental Herb\nAbility: Hospitality\nLevel: 50\nEVs: 32 HP / 4 Def / 30 SpD\nCalm Nature\n- Matcha Gotcha\n- Rage Powder\n- Life Dew\n- Protect"
+  ],
+  "comments": {
+    "teamOverview": "[gengar-mega]의 [perish-song] 전략과 [politoed]의 [drizzle] 비 축을 결합한 하이브리드 파티. [basculegion]과 [archaludon]이 비 아래에서 공격을 담당하고, [sinistcha]·[incineroar]가 서포트를 맡는다.",
+    "keyStrategies": [
+      "[gengar-mega] + [politoed] 동시 [perish-song]으로 멸망의 노래 전술 운용",
+      "[gengar-mega] [disable]로 상대 핵심기 봉쇄 + [shadow-ball]로 [ghost] STAB 화력",
+      "[basculegion] [swift-swim]으로 비 아래 스피드 2배 + [mystic-water] 보정 [wave-crash]",
+      "[archaludon] [stamina]로 물리 내구 누적 + [snarl]로 상대 특공 깎기"
+    ],
+    "pokemonNotes": {
+      "gengar-mega": "팀의 핵심 전략 포켓몬. [perish-song]으로 멸망 카운트를 걸고 [disable]로 상대 [protect]를 봉쇄하여 멸망 회피를 차단. [shadow-ball]로 자체 [ghost] 화력도 보유.",
+      "politoed": "[drizzle]로 비 전개 + [perish-song]으로 [gengar-mega]와 더블 멸망 전술. [helping-hand]로 아군 화력 보조. [wacan-berry]로 [electric] 약점 1회 반감.",
+      "basculegion": "[swift-swim]으로 비 아래 스피드 2배 + [mystic-water] 보정 [wave-crash]로 폭발적 물리 화력. [flip-turn]으로 안전 교대, [last-respects]로 후반 마무리.",
+      "archaludon": "[stamina]로 물리 공격 받을 때마다 방어 상승하여 물리 탱커 역할. [snarl]로 상대 특공 하락 유틸. [electro-shot] 비 아래 1턴 발동. [bold] 물방 성격 + [leftovers]로 장기전 지향.",
+      "incineroar": "[intimidate] + [fake-out]으로 물리 견제 및 템포 장악. [parting-shot]으로 디버프 사이클. [sitrus-berry]로 내구 보조.",
+      "sinistcha": "[hospitality]로 교대 시 아군 HP 회복. [rage-powder]로 타겟 유도 + [life-dew]로 전체 회복. [mental-herb]로 [taunt] 등 방해기 1회 무효."
+    },
+    "verdict": "[gengar-mega]와 [politoed]의 더블 [perish-song] 전략이 이 팀의 가장 큰 특징이다. 멸망 카운트를 건 뒤 [gengar-mega]의 [disable]로 상대 [protect]를 봉쇄하면 상대는 교대 외에 멸망을 피할 방법이 없어진다. 비 축으로도 견고하게 구성되어 있어 멸망이 통하지 않는 상대에게는 [basculegion]의 [swift-swim] 비 어택과 [archaludon]의 [electro-shot]으로 정면 돌파가 가능하다. [archaludon]은 [stamina]로 물리 내구를 쌓으면서 [snarl]로 상대 특공까지 깎아 팀 전체의 생존력을 높인다. 서포트 라인도 [incineroar]의 [intimidate] + [parting-shot] 사이클, [sinistcha]의 [rage-powder] + [life-dew] 회복으로 촘촘하다. 약점은 [perish-song] 의존도가 높아 [soundproof] 등 음성기 면역 특성에 전략이 무력화될 수 있고, [gengar-mega]가 쓰러지면 멸망 전술의 핵심인 [disable] 연계가 사라진다. 또한 [grass] 타입에 [politoed]·[basculegion] 모두 약해 [grass] 광역기에 취약하다. 종합적으로 멸망과 비 공격 두 가지 승리 루트를 가진 전략적 깊이가 있는 파티다."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "teamId": "PC1",
+  "title": "NatusPKMN's Meganium Rain Team",
+  "owner": "natuspkmn",
+  "fullName": "Nate Innocenti",
+  "pokepaste": "https://pokepast.es/0039fa7d566e65c8",
+  "linkToSource": "https://x.com/natuspkmn/status/2041714483962232941?s=46&t=WmXEnVa3rTSw0P9A0n6S3Q",
+  "dateShared": "2026-04-07",
+  "pokemon": [
+    "meganium-mega",
+    "talonflame",
+    "basculegion",
+    "politoed",
+    "maushold",
+    "archaludon"
+  ],
+  "samples": [
+    "Meganium @ Meganiumite\nAbility: Overgrow\nLevel: 50\nEVs: 21 HP / 32 SpA / 1 SpD / 12 Spe\nModest Nature\n- Solar Beam\n- Earth Power\n- Dazzling Gleam\n- Protect",
+    "Archaludon @ White Herb\nAbility: Sturdy\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Flash Cannon\n- Electro Shot\n- Draco Meteor\n- Protect",
+    "Basculegion (M) @ Choice Scarf\nAbility: Adaptability\nLevel: 50\nEVs: 1 HP / 32 Atk / 1 Def / 32 Spe\nJolly Nature\n- Wave Crash\n- Flip Turn\n- Last Respects\n- Aqua Jet",
+    "Maushold-Four @ Focus Sash\nAbility: Technician\nLevel: 50\nEVs: 1 HP / 32 Atk / 1 SpD / 32 Spe\nJolly Nature\n- Population Bomb\n- Bite\n- Follow Me\n- Protect",
+    "Politoed @ Sitrus Berry\nAbility: Drizzle\nLevel: 50\nEVs: 32 HP / 15 Def / 19 SpD\nRelaxed Nature\n- Weather Ball\n- Icy Wind\n- Helping Hand\n- Protect",
+    "Talonflame @ Lum Berry\nAbility: Gale Wings\nLevel: 50\nEVs: 1 Def / 32 SpA / 1 SpD / 32 Spe\nTimid Nature\n- Hurricane\n- Rain Dance\n- Tailwind\n- Quick Guard"
+  ],
+  "comments": {
+    "teamOverview": "[politoed]의 [drizzle]을 축으로 [meganium-mega]·[basculegion]·[archaludon]이 비 아래에서 화력을 극대화하는 비 파티. [talonflame]이 [tailwind]과 [rain-dance] 백업을 담당하고 [maushold]가 [follow-me]로 어택커를 보호한다.",
+    "keyStrategies": [
+      "[politoed] [drizzle] + [basculegion] [adaptability] [wave-crash]로 비 아래 초고위력 물리 공격",
+      "[archaludon] [electro-shot]이 비 아래 1턴 발동 + [white-herb]로 [draco-meteor] 특공 하락 1회 무효",
+      "[talonflame] [gale-wings] 우선도 [tailwind] + [rain-dance]로 날씨 재세팅 가능",
+      "[maushold] [technician] [population-bomb]으로 연타 물리 화력 + [follow-me]로 타겟 유도"
+    ],
+    "pokemonNotes": {
+      "meganium-mega": "비 아래 [solar-beam]이 1턴 발동 불가하지만, 햇살 전환 시 활용 가능. [earth-power]로 [fire]·[electric] 견제, [dazzling-gleam]으로 [dragon] 광역 견제. [modest] 특공 투자로 특수 화력 담당.",
+      "politoed": "[drizzle]로 비 전개 + [helping-hand]로 아군 화력 1.5배 보조. [icy-wind]로 상대 스피드 하락 유틸. [sitrus-berry]로 안정적 내구. [relaxed] 성격으로 물리 내구 중시.",
+      "basculegion": "[adaptability]로 [water] STAB 보정 2배 + [choice-scarf]로 고속 운용. [wave-crash] 초고위력 + [last-respects]로 후반 누적 화력. [flip-turn]으로 안전 교대.",
+      "talonflame": "[gale-wings]로 우선도 [tailwind] 발동. [rain-dance]로 비가 끊겼을 때 재세팅 가능. [quick-guard]로 상대 선공기 차단. [lum-berry]로 상태이상 1회 해제. 특수 [hurricane] 비 아래 필중.",
+      "maushold": "[technician]으로 [population-bomb] 연타 위력 증가. [follow-me]로 아군 어택커 보호 + [focus-sash]로 1회 생존 보장. [bite]로 [ghost] 타입 최소한의 견제.",
+      "archaludon": "[sturdy]로 1회 확정 생존 + [white-herb]로 [draco-meteor] 하락 무효. 비 아래 [electro-shot] 1턴 발동으로 특공 상승 + 즉시 공격. [timid] 최속으로 스피드 확보."
+    },
+    "verdict": "[politoed]의 [drizzle]을 중심으로 물리·특수 양면에서 비 시너지를 극대화한 팀이다. [basculegion]은 [adaptability]로 [water] 자속 보정이 2배로 올라가 [wave-crash]의 화력이 폭발적이며, [choice-scarf]로 스피드까지 확보한다. [archaludon]은 [sturdy]로 확정 생존 후 비 아래 [electro-shot]을 1턴에 발동하며, [white-herb]로 [draco-meteor] 특공 하락도 1회 무효화하는 효율적 구성이다. [meganium-mega]는 비 파티에서 다소 이질적이지만 [earth-power]와 [dazzling-gleam]으로 비 파티가 약한 [electric]·[dragon] 타입을 견제하는 보완 역할을 한다. [talonflame]은 [gale-wings] [tailwind]으로 선공권을 잡고, [rain-dance]로 날씨가 끊겼을 때 즉시 재전개할 수 있어 날씨 경합에 강하다. 약점으로는 [grass] 타입 광역기에 [politoed]·[basculegion]·[archaludon] 모두 부담이 있고, [meganium-mega]의 [solar-beam]이 비 아래에서 2턴 차지가 되어 자체 모순이 존재한다. 상대가 [electric] 타입 고속 특수 어택커를 꺼내면 [archaludon] 외에 안정적인 견제가 부족하다. 종합적으로 비 전개 성공 시 [basculegion]과 [archaludon]의 이중 화력이 강력한 공격적 비 파티다."
+  }
+}

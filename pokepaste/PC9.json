@@ -1,0 +1,43 @@
+{
+  "teamId": "PC9",
+  "title": "Maxime Solemn's Floette Rain Team",
+  "owner": "MaximeSolemn",
+  "fullName": "Maxime Solemn",
+  "pokepaste": "https://pokepast.es/25f83118d80c9b7b",
+  "linkToSource": "https://x.com/MaximeSolemn/status/2042364328137871562",
+  "dateShared": "2026-04-08",
+  "pokemon": [
+    "floette-mega",
+    "incineroar",
+    "basculegion",
+    "pelipper",
+    "sinistcha",
+    "archaludon"
+  ],
+  "samples": [
+    "Floette-Eternal (F) @ Floettite\nAbility: Flower Veil\nLevel: 50\nEVs: 32 HP / 1 Def / 32 SpA / 1 Spe\nModest Nature\n- Dazzling Gleam\n- Protect\n- Moonblast\n- Calm Mind",
+    "Incineroar @ Sitrus Berry\nAbility: Intimidate\nLevel: 50\nEVs: 32 HP / 1 Atk / 1 Def / 7 SpD / 25 Spe\nAdamant Nature\n- Throat Chop\n- Parting Shot\n- Fake Out\n- Flare Blitz",
+    "Sinistcha @ Bright Powder\nAbility: Hospitality\nLevel: 50\nEVs: 32 HP / 1 Def / 32 SpD\nCalm Nature\n- Matcha Gotcha\n- Rage Powder\n- Strength Sap\n- Life Dew",
+    "Basculegion (M) @ Choice Scarf\nAbility: Adaptability\nLevel: 50\nEVs: 32 Atk / 2 Def / 32 Spe\nAdamant Nature\n- Wave Crash\n- Flip Turn\n- Last Respects\n- Aqua Jet",
+    "Archaludon @ Leftovers\nAbility: Stamina\nLevel: 50\nEVs: 32 HP / 1 Def / 6 SpA / 13 SpD / 14 Spe\nModest Nature\n- Protect\n- Dragon Pulse\n- Electro Shot\n- Aura Sphere",
+    "Pelipper @ Focus Sash\nAbility: Drizzle\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Tailwind\n- Protect\n- Weather Ball\n- Hurricane"
+  ],
+  "comments": {
+    "teamOverview": "[floette-mega]를 메인 메가로, [pelipper] [drizzle] 비 축과 결합한 비 + [fairy] 하이브리드 파티. [basculegion]과 [archaludon]이 비 아래 공격을 담당하고, [sinistcha]·[incineroar]가 서포트를 맡는다.",
+    "keyStrategies": [
+      "[pelipper] [drizzle] + [basculegion] [adaptability] [wave-crash]로 비 물리 어택커 운용",
+      "[archaludon] [stamina] + [electro-shot] 비 아래 1턴 발동으로 특수 탱커 겸 어택커",
+      "[floette-mega] [calm-mind] 적층으로 장기전에서 특수 화력·내구 동시 상승",
+      "[sinistcha] [strength-sap]으로 상대 공격 하락 + HP 회복 + [rage-powder] 타겟 유도"
+    ],
+    "pokemonNotes": {
+      "floette-mega": "[calm-mind] 적층형 [fairy] 특수 어택커. [moonblast] 단일 고위력 + [dazzling-gleam] 광역. [modest] HP·특공 투자로 내구와 화력 균형. 비 시너지는 없지만 독립적 화력원.",
+      "pelipper": "[drizzle]로 비 전개 + [tailwind] 스피드 지원. [weather-ball] 비 아래 [water] 140위력 + [hurricane] 비 아래 필중. [focus-sash]로 1회 생존. [timid] 최속.",
+      "basculegion": "[adaptability]로 [water] STAB 2배 보정. [choice-scarf]로 고속 운용. [wave-crash] 비 아래 초고위력 + [last-respects] 후반 누적 + [flip-turn] 안전 교대.",
+      "archaludon": "[stamina]로 물리 내구 누적 상승. [electro-shot] 비 아래 1턴 발동 + [dragon-pulse] [dragon] 안정 화력 + [aura-sphere] [fighting] 커버리지. [leftovers] 지속 회복.",
+      "incineroar": "[intimidate] + [fake-out] + [parting-shot] 서포트. [sitrus-berry] 내구. [throat-chop]으로 음성기 봉쇄.",
+      "sinistcha": "[hospitality] 교대 회복 + [strength-sap]으로 상대 공격 하락 + HP 대량 회복. [rage-powder] 타겟 유도 + [life-dew] 전체 회복. [bright-powder]로 회피 운에 의존하는 구성."
+    },
+    "verdict": "[pelipper] [drizzle] 비 축에 [floette-mega]의 독립적 [fairy] 화력을 더한 하이브리드 파티다. [basculegion]의 [adaptability] [wave-crash]가 비 아래에서 폭발적인 물리 화력을 내고, [archaludon]은 [stamina]로 물리 탱킹하면서 [electro-shot]과 [aura-sphere]로 다양한 타입을 견제한다. [floette-mega]는 비 시너지와 무관하게 [calm-mind] 적층으로 스스로 강해지는 독립 어택커라 비가 끊겨도 화력이 유지되는 점이 장점이다. 서포트 라인은 [incineroar]의 [intimidate] 사이클과 [sinistcha]의 [strength-sap] + [rage-powder]로 촘촘하며, [sinistcha]가 [strength-sap]으로 상대 물리 어택커의 공격을 하락시키면서 자신도 회복하는 지구전 능력이 뛰어나다. 약점으로는 [grass] 타입에 [pelipper]·[basculegion]·[archaludon] 모두 부담이 있고, [sinistcha]의 [bright-powder]가 운 의존적이라 안정성이 떨어질 수 있다. [poison] 타입에 [floette-mega]·[sinistcha] 양쪽이 약한 점도 주의. 종합적으로 비 공격과 [fairy] 적층이라는 두 축을 가진 안정적인 하이브리드 비 파티다."
+  }
+}
