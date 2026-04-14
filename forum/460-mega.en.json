@@ -1,0 +1,75 @@
+{
+  "pokemonId": 460,
+  "nameKo": "메가눈설왕",
+  "nameEn": "abomasnow-mega",
+  "formKey": "mega",
+  "types": [
+    "grass",
+    "ice"
+  ],
+  "roles": [
+    "bulky-attacker",
+    "weather-setter"
+  ],
+  "recommendedAbility": "snow-warning",
+  "recommendedNature": "brave",
+  "recommendedTera": [
+    "steel",
+    "ice"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "en",
+  "title": "Mega Abomasnow Battle Guide",
+  "summary": "A [Grass]/[Ice] mixed attacker that auto-sets snow via [snow-warning] — [blizzard] never misses in snow, and 132/132 offenses support both sides.",
+  "strengths": [
+    "Auto-sets snow for accurate [blizzard]",
+    "132/132 symmetrical offenses",
+    "Benefits from snow's [Ice]-type special defense boost"
+  ],
+  "weaknesses": [
+    "4x weak to [Fire]",
+    "Seven weaknesses total — worst defensive profile among Megas",
+    "Speed 30 is [trick-room] only"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "wood-hammer",
+      "reason": "Max BP [Grass] STAB"
+    },
+    {
+      "move": "blizzard",
+      "reason": "Accurate [Ice] spread move under snow"
+    },
+    {
+      "move": "ice-shard",
+      "reason": "Priority cleanup after [trick-room] ends"
+    },
+    {
+      "move": "protect",
+      "reason": "Mega turn and setup turn safety"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "abomasite",
+      "reason": "Mandatory Mega Stone with no alternative"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nMega Abomasnow is a [trick-room] attacker that auto-sets snow with [snow-warning], making [blizzard] a 100% accuracy spread move in doubles. 132/132 Attack and Special Attack allow mixed sets, and the snow defensive bonus to [Ice] types (+50% Special Defense) partially compensates for its poor defensive profile.\n\n## Strengths\nSnow automatic setup enables [blizzard] spam without worrying about accuracy. 132/132 offenses let Mega Abomasnow pick the attacking stat that best beats the current match-up. [wood-hammer] punishes [Water]/[Ground] walls, and [blizzard] blows up [Dragon]/[Flying] cores. In snow, the Special Defense boost helps it trade with special attackers.\n\n## Weaknesses & Answers\n4x [Fire] is a death sentence. Seven weaknesses — [Fire], [Fighting], [Poison], [Flying], [Bug], [Rock], [Steel] — make switch-in reads punishing. Speed 30 locks it to [trick-room] cores.\n\n## Recommended Moveset\n[wood-hammer] is the main physical [Grass] STAB. [blizzard] is the auto-accurate spread [Ice] nuke. [ice-shard] provides priority when [trick-room] ends and Speed becomes a liability. [protect] is mandatory for Mega and setup timing.\n\n## Item · Ability · Tera\n[abomasite] is mandatory. [snow-warning] activates after Mega Evolution. Tera [Steel] dramatically improves the defensive profile by neutralizing the [Fire] 4x and patching multiple other weaknesses. Tera [Ice] stacks STAB.\n\n## Teammates & Synergy\n[trick-room] setters like [dusknoir] or [hatterene] are mandatory. Cover the [Fire] weakness with [Water] or [Rock] partners. [follow-me] and [fake-out] support extends Mega Abomasnow's survival window.\n\n## Play Patterns\nSwitch in behind a [trick-room] setter, Mega evolve to trigger snow, and start pressuring with [blizzard] and [wood-hammer]. Save [ice-shard] for the late game when [trick-room] wears off. Tera defensively on a telegraphed [Fire] hit to survive.",
+  "tags": [
+    "sinnoh",
+    "grass",
+    "ice",
+    "mega",
+    "snow-warning",
+    "trick-room"
+  ],
+  "updatedAt": "2026-04-14T00:00:00+09:00"
+}

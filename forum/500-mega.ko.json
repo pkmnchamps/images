@@ -1,0 +1,75 @@
+{
+  "pokemonId": 500,
+  "nameKo": "메가염무왕",
+  "nameEn": "emboar-mega",
+  "formKey": "mega",
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "roles": [
+    "mixed-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "mold-breaker",
+  "recommendedNature": "brave",
+  "recommendedTera": [
+    "fire",
+    "fighting"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "ko",
+  "title": "[메가염무왕] 배틀 운용 가이드",
+  "summary": "[mold-breaker]로 상대 특성 무시하고 공격하는 [불]·[격투] 벌크 어태커. 148 공격 + 110 특공 혼합 운용이 가능하다.",
+  "strengths": [
+    "[mold-breaker] 상대 특성 무시 공격",
+    "148 공격 + 110 특공 혼합 어태커",
+    "110 HP 벌크 공격 능력"
+  ],
+  "weaknesses": [
+    "[비행]·[심령]·[땅]·[물] 약점 다수",
+    "스피드 75로 후공",
+    "물리 내구 75 평균"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "flare-blitz",
+      "reason": "[불] 자속 최대 위력 물리"
+    },
+    {
+      "move": "close-combat",
+      "reason": "[fighting] 자속 주력 물리"
+    },
+    {
+      "move": "earthquake",
+      "reason": "[강철]·[바위]·[전기] 견제 광역"
+    },
+    {
+      "move": "protect",
+      "reason": "메가 진화 안전 확보"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "emboarite",
+      "reason": "메가 진화를 위한 필수 아이템"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[메가염무왕]은 [mold-breaker] 특성으로 상대 특성을 무시하고 공격하는 [불]·[격투] 벌크 어태커다. 148 공격 + 110 특공 + 110 HP의 안정적 수치로 중속 물리 어태커 역할을 수행하며, [불]·[격투] 자속 + [mold-breaker]의 특성 무시 공격력이 시그니처다.\n\n## 강점 분석\n[mold-breaker]는 상대 특성을 무시한다. 이 특성은 [levitate]·[flash-fire]·[water-absorb]·[sturdy] 등 면역/흡수 특성을 모두 뚫고 공격할 수 있게 해준다. [earthquake]가 [levitate] [rotom] 상대로 통하고, [sturdy] 1체력 버티기도 무력화된다. 148 공격 + 110 특공의 혼합 운용은 상대 벽 구성에 따른 유연성을 제공한다.\n\n## 약점과 대응\n[비행]·[심령]·[땅]·[물] 약점이 있어 저항 프로필이 좋지 않다. [물] 타입에게는 즉사 가능성이 높고, [psychic] [격투] 견제 특수 어태커도 위협. 스피드 75는 대부분의 메타 상대에게 후공이라 벌크에 의존한다.\n\n## 추천 기술 구성\n[flare-blitz]는 [불] 자속 최대 위력 물리. [close-combat]은 [격투] 자속 주력 물리. [earthquake]는 [mold-breaker] [levitate] 무시 광역 서브. [protect]는 메가 진화 턴 안전 확보 필수. 특수 운용 시 [flamethrower]·[focus-blast] 양성 서브.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [emboarite] 고정. 특성은 메가 진화 후 [mold-breaker]로 전환. 테라스탈은 [불]로 자속 보정 극대화, 또는 [fighting]으로 [close-combat] 자속 + [비행]·[심령] 4배 저항 획득.\n\n## 시너지와 파트너\n[물]·[비행]·[심령] 약점 카운터로 [전기]·[악]·[페어리] 파트너 배치. [intimidate] 유저로 물리 내구 보조, [trick-room] 환경에서 스피드 75가 장점이 되는 운용도 가능.\n\n## 운용 팁\n메가 진화 + [protect] 안전 턴 확보 후 [flare-blitz]·[close-combat] 주력 화력 운용. [levitate]/[sturdy] 특성 상대에 [earthquake]로 특성 무시 공격. 약점 공격 노출 시 즉시 교대, 벌크를 활용한 교대 인 플레이가 핵심이다.",
+  "tags": [
+    "unova",
+    "fire",
+    "fighting",
+    "mega",
+    "mold-breaker",
+    "mixed-attacker"
+  ],
+  "updatedAt": "2026-04-14T00:00:00+09:00"
+}

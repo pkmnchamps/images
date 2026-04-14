@@ -1,0 +1,75 @@
+{
+  "pokemonId": 6,
+  "nameKo": "메가리자몽Y",
+  "nameEn": "charizard-mega-y",
+  "formKey": "mega-y",
+  "types": [
+    "fire",
+    "flying"
+  ],
+  "roles": [
+    "special-attacker",
+    "weather-setter"
+  ],
+  "recommendedAbility": "drought",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "fire",
+    "flying"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[메가리자몽Y] 배틀 운용 가이드",
+  "summary": "[drought]로 햇빛 날씨를 자동 전개하는 [불]·[비행] 특수 어태커. 159 특공 + 햇빛 아래 [fire-blast]·[solar-beam] 시너지가 핵심.",
+  "strengths": [
+    "[drought] 햇빛 날씨 자동 전개",
+    "159 특공의 메가 최상급 특수 화력",
+    "햇빛 아래 [fire-blast] 1.5배 + [solar-beam] 1턴 발동"
+  ],
+  "weaknesses": [
+    "[바위] 4배 약점 — [stealth-rock]에 HP 1/2",
+    "[전기]·[물] 약점",
+    "물리 내구 78/78 보통"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "fire-blast",
+      "reason": "햇빛 1.5배 + 자속 주력 [불] 특수"
+    },
+    {
+      "move": "solar-beam",
+      "reason": "햇빛 1턴 발동 [풀] 견제"
+    },
+    {
+      "move": "air-slash",
+      "reason": "[비행] 자속 + 플린치 부가 효과"
+    },
+    {
+      "move": "protect",
+      "reason": "메가 진화 안전 확보"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "charizardite-y",
+      "reason": "메가 진화를 위한 필수 아이템"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[메가리자몽Y]는 [drought] 특성으로 햇빛 날씨를 자동 전개하는 [불]·[비행] 특수 어태커다. 159 특공의 메가 최상급 특수 화력 + 햇빛 아래 [fire-blast] 위력 1.5배 보정 + [solar-beam] 1턴 발동의 완벽한 시너지가 핵심 운용법이다.\n\n## 강점 분석\n[drought]는 등장 시 자동으로 햇빛 날씨를 전개한다. 햇빛 아래 [불] 타입 기술 위력 1.5배 + 자속 1.5배 + 159 특공 = 메타 최상급 특수 화력이 된다. [solar-beam]은 햇빛 아래 1턴 발동으로 즉시 사용 가능하여 [물] 타입 견제의 핵심기가 된다. [air-slash]는 [풀]·[격투] 견제 서브로 플린치 부가 효과도 겸한다.\n\n## 약점과 대응\n[바위] 4배 약점은 [stealth-rock] 등장 시 HP 1/2 감소 + [stone-edge]·[rock-slide] 한 방 위험을 동반한다. [전기]·[물] 약점도 치명적. 물리 내구 78/78은 보통 수준으로 물리 어태커 교대 인에는 신중해야 한다.\n\n## 추천 기술 구성\n[fire-blast]는 햇빛 1.5배 + 자속 주력 [불] 특수기. [solar-beam]은 햇빛 전용 [풀] 견제 1턴 발동기. [air-slash]는 [비행] 자속 + 30% 플린치. [protect]는 메가 진화 턴 안전 확보 필수. [heat-wave]는 더블 광역 선택지.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [charizardite-y] 고정. 특성은 메가 진화 후 [drought]로 전환. 테라스탈은 [불]로 [fire-blast] 자속 중첩 보정 극대화, 또는 [비행]으로 [바위] 4배 약점 유지 대신 [air-slash] 자속 중첩.\n\n## 시너지와 파트너\n햇빛 파티의 에이스 역할 — [torkoal]·[groudon] 등 햇빛 세터와 시너지 극대화. 햇빛 활용 파트너인 [venusaur]([chlorophyll]), [scovillain-mega] 등과 궁합. [바위]·[전기] 약점 카운터로 [water]·[ground] 파트너 배치.\n\n## 운용 팁\n교대 인 1턴에 [drought] 햇빛 전개, [protect]로 안전 턴 확보 후 [fire-blast]·[solar-beam] 연타로 게임 템포 장악. [물] 타입 노출 시 [solar-beam] 즉시 발동, [바위] 타입 노출 시 즉시 교대. 햇빛 파티의 중심 어태커로 운용한다.",
+  "tags": [
+    "kanto",
+    "fire",
+    "flying",
+    "mega",
+    "drought",
+    "special-sweeper"
+  ],
+  "updatedAt": "2026-04-14T00:00:00+09:00"
+}

@@ -1,0 +1,74 @@
+{
+  "pokemonId": 475,
+  "nameKo": "메가엘레이드",
+  "nameEn": "gallade-mega",
+  "formKey": "mega",
+  "types": [
+    "psychic",
+    "fighting"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "inner-focus",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "fighting",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Mega Gallade Battle Guide",
+  "summary": "A fast 165 Attack [Psychic]/[Fighting] physical attacker — [close-combat] as the main STAB with [zen-headbutt] and [knock-off] for coverage.",
+  "strengths": [
+    "165 Attack is among the highest on Mega forms",
+    "Speed 110 outruns most neutral threats",
+    "[Psychic]/[Fighting] STAB covers wide ground"
+  ],
+  "weaknesses": [
+    "Weak to [Ghost], [Flying], [Fairy]",
+    "Physical bulk 68/95 is average",
+    "[inner-focus] offers little utility"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "close-combat",
+      "reason": "Main [Fighting] STAB with max BP"
+    },
+    {
+      "move": "zen-headbutt",
+      "reason": "[Psychic] STAB with flinch chance"
+    },
+    {
+      "move": "knock-off",
+      "reason": "Item removal and [Ghost] coverage"
+    },
+    {
+      "move": "protect",
+      "reason": "Secures the Mega turn"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "galladite",
+      "reason": "Mandatory Mega Stone with no alternative"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nMega Gallade is a fast physical [Psychic]/[Fighting] attacker with 165 base Attack and 110 Speed. Unlike its special-oriented sister Mega Gardevoir, Gallade leans into raw physical damage with [close-combat] as the primary STAB and [zen-headbutt] for [Psychic] coverage.\n\n## Strengths\n165 Attack is one of the highest on any Mega, and [close-combat] STAB is brutal against [Steel], [Normal], [Dark], and [Ice] targets. Speed 110 outruns a large portion of natural-Speed threats, and the [Psychic]/[Fighting] combination covers most resistances with just two moves. [knock-off] punishes switch-ins by removing items.\n\n## Weaknesses & Answers\n[Ghost], [Flying], and [Fairy] are all common meta types, and both [close-combat] and [zen-headbutt] are resisted by [Ghost]. Physical bulk 68/95 is mediocre, so predicting switches matters. [inner-focus] only prevents flinch — minimal utility in practice.\n\n## Recommended Moveset\n[close-combat] is the main damage move. [zen-headbutt] is the [Psychic] STAB for [Poison]/[Fighting] targets. [knock-off] covers [Ghost] types and cripples item users. [protect] secures the Mega turn.\n\n## Item · Ability · Tera\n[galladite] is mandatory. [inner-focus] activates after Mega. Tera [Fighting] stacks STAB on [close-combat], while Tera [Fairy] creates a resistant typing that flips [Ghost] and [Dark] defensively.\n\n## Teammates & Synergy\n[Dark] and [Ghost] partners cover the [Ghost] weakness. [Steel] or [Poison] partners handle [Fairy] counters. [intimidate] and [tailwind] support extend Mega Gallade's effective window.\n\n## Play Patterns\nProtect on Mega, then spam [close-combat] into physical targets. Swap to [zen-headbutt] against [Poison] walls. Use [knock-off] on switch-ins to strip items. Switch out on [Ghost] or [Fairy] types — they completely wall the set.",
+  "tags": [
+    "sinnoh",
+    "psychic",
+    "fighting",
+    "mega",
+    "physical-sweeper"
+  ],
+  "updatedAt": "2026-04-14T00:00:00+09:00"
+}

@@ -1,0 +1,75 @@
+{
+  "pokemonId": 448,
+  "nameKo": "메가루카리오",
+  "nameEn": "lucario-mega",
+  "formKey": "mega",
+  "types": [
+    "fighting",
+    "steel"
+  ],
+  "roles": [
+    "mixed-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "adaptability",
+  "recommendedNature": "naive",
+  "recommendedTera": [
+    "fighting",
+    "steel"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 16,
+    "def": 0,
+    "spa": 16,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Mega Lucario Battle Guide",
+  "summary": "A mixed [Fighting]/[Steel] attacker with [adaptability] — STAB moves are boosted to 2x, and 145/140 offenses allow both physical and special sets.",
+  "strengths": [
+    "[adaptability] upgrades STAB from 1.5x to 2x",
+    "145 Attack and 140 Special Attack enable mixed sets",
+    "Speed 112 outruns most neutral threats"
+  ],
+  "weaknesses": [
+    "Weak to [Fire], [Ground], [Fighting]",
+    "70/88/70 bulk is average",
+    "Pre-Mega turn doesn't benefit from [adaptability]"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "close-combat",
+      "reason": "Main [Fighting] STAB with 2x [adaptability] boost"
+    },
+    {
+      "move": "meteor-mash",
+      "reason": "[Steel] STAB with potential Attack boost"
+    },
+    {
+      "move": "bullet-punch",
+      "reason": "Priority cleanup with STAB boost"
+    },
+    {
+      "move": "protect",
+      "reason": "Secures the Mega turn"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "lucarionite",
+      "reason": "Mandatory Mega Stone with no alternative"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nMega Lucario is defined by [adaptability], which doubles the STAB bonus from 1.5x to 2x. With 145 Attack, 140 Special Attack, and 112 Speed, it can run physical, special, or mixed sets, and STAB damage is effectively 33% higher than comparable attackers.\n\n## Strengths\n[close-combat] with [adaptability] STAB becomes a 240 BP effective move, and [meteor-mash] hits incredibly hard against [Fairy] and [Ice] types. [bullet-punch] is a [Steel] priority move with 2x STAB, giving priority KOs against [tapu-koko], [weavile], and other faster frails. Speed 112 outruns most natural Speed threats.\n\n## Weaknesses & Answers\n[Fire], [Ground], and [Fighting] are all common super-effective hits. Average 70/88/70 bulk means any miss or misprediction risks a KO. Pre-Mega turn runs the base ability, so [adaptability] damage only applies after evolution.\n\n## Recommended Moveset\n[close-combat] is the signature move. [meteor-mash] adds [Steel] STAB with an attack boost chance. [bullet-punch] is the priority finisher. [protect] is mandatory for Mega turn safety.\n\n## Item · Ability · Tera\n[lucarionite] is mandatory. [adaptability] activates post-Mega. Tera [Fighting] stacks on [close-combat], while Tera [Steel] boosts [meteor-mash] and patches the 4x [Fairy] resistance further.\n\n## Teammates & Synergy\nCover [Fire] and [Ground] weaknesses with [Water] or [Grass] partners. [intimidate] and [fake-out] support extend survivability. [tailwind] maximizes the sweeping window.\n\n## Play Patterns\nProtect on Mega turn, then spam [close-combat] as the main STAB. [meteor-mash] handles [Fairy] and [Ice] switch-ins, and [bullet-punch] cleans up faster threats. Switch out on predicted [Fire] or [Ground] moves — Mega Lucario cannot tank them.",
+  "tags": [
+    "sinnoh",
+    "fighting",
+    "steel",
+    "mega",
+    "adaptability",
+    "mixed-sweeper"
+  ],
+  "updatedAt": "2026-04-14T00:00:00+09:00"
+}

@@ -1,0 +1,75 @@
+{
+  "pokemonId": 445,
+  "nameKo": "메가한카리아스",
+  "nameEn": "garchomp-mega",
+  "formKey": "mega",
+  "types": [
+    "dragon",
+    "ground"
+  ],
+  "roles": [
+    "mixed-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "sand-force",
+  "recommendedNature": "naive",
+  "recommendedTera": [
+    "ground",
+    "dragon"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Mega Garchomp Battle Guide",
+  "summary": "170 Attack nuke that pairs with [sand-force] — under sand, [earthquake] and [stone-edge] both gain a 30% boost on top of STAB.",
+  "strengths": [
+    "170 Attack is one of the highest Mega Attack stats",
+    "[sand-force] boosts [Ground]/[Rock] moves 30% in sand",
+    "[Dragon]/[Ground] coverage is extremely wide"
+  ],
+  "weaknesses": [
+    "4x weak to [Ice]",
+    "Speed 92 loses to Scarf users",
+    "Pre-Mega turn loses base [rough-skin]"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "earthquake",
+      "reason": "Boosted [Ground] STAB — the main damage move"
+    },
+    {
+      "move": "dragon-claw",
+      "reason": "Safe [Dragon] STAB single-target"
+    },
+    {
+      "move": "stone-edge",
+      "reason": "[sand-force]-boosted coverage for [Flying]/[Fire]"
+    },
+    {
+      "move": "protect",
+      "reason": "Secures the Mega turn"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "garchompite",
+      "reason": "Mandatory Mega Stone with no alternative"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nMega Garchomp combines 170 base Attack with [sand-force], which boosts [Ground], [Rock], and [Steel] moves by 30% in sand. Under a sand team, [earthquake] becomes one of the strongest spread moves in the format, and [stone-edge] hits the [Flying] and [Fire] targets that [earthquake] misses.\n\n## Strengths\n170 Attack is among the highest on any Mega. [Dragon]/[Ground] dual STAB gives very wide coverage with few immune targets. 120 Special Attack also enables a mixed set with [draco-meteor] or [fire-blast] if needed. Under sand, Mega Garchomp KOs most threats through neutral hits alone.\n\n## Weaknesses & Answers\n4x [Ice] is the defining weakness — [ice-beam] users like [kyogre] or scarfed [mamoswine] end the set immediately. Speed 92 is slow for a glass-cannon attacker, so [tailwind] support matters. The pre-Mega turn loses [rough-skin] chip damage.\n\n## Recommended Moveset\n[earthquake] is locked in — with [sand-force] it becomes a spread nuke. [dragon-claw] is the reliable [Dragon] STAB. [stone-edge] is [sand-force]-boosted coverage. [protect] secures Mega evolution and sets up partner plays.\n\n## Item · Ability · Tera\n[garchompite] is mandatory. [sand-force] activates after Mega. Tera [Ground] boosts [earthquake] further, while Tera [Dragon] softens the [Ice] 4x weakness to 2x.\n\n## Teammates & Synergy\nPair with sand setters ([tyranitar], [hippowdon]) to activate [sand-force]. [Steel] or [Fire] partners cover the [Ice] weakness. [tailwind] support makes Mega Garchomp a reliable sweeper.\n\n## Play Patterns\nEnter after sand is up, Mega evolve behind [protect], then spam [earthquake] and [stone-edge] for spread damage. Use [dragon-claw] on [Dragon] targets and save Tera for an incoming [Ice] move.",
+  "tags": [
+    "sinnoh",
+    "dragon",
+    "ground",
+    "mega",
+    "sand-force",
+    "physical-sweeper"
+  ],
+  "updatedAt": "2026-04-14T00:00:00+09:00"
+}

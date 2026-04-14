@@ -1,0 +1,75 @@
+{
+  "pokemonId": 952,
+  "nameKo": "메가스코빌런",
+  "nameEn": "scovillain-mega",
+  "formKey": "mega",
+  "types": [
+    "grass",
+    "fire"
+  ],
+  "roles": [
+    "mixed-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "habanero-burst",
+  "recommendedNature": "quiet",
+  "recommendedTera": [
+    "fire",
+    "grass"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 16,
+    "def": 0,
+    "spa": 16,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Mega Scovillain Battle Guide",
+  "summary": "A mixed [Grass]/[Fire] attacker with the signature ability [habanero-burst] — 138/138 offenses enable both physical and special sets.",
+  "strengths": [
+    "[habanero-burst] is a damage-amplifying signature ability",
+    "138/138 symmetrical offenses for mixed play",
+    "[Grass]/[Fire] dual STAB covers almost every common wall"
+  ],
+  "weaknesses": [
+    "Weak to [Flying], [Rock], [Poison], [Ground]",
+    "65/85/85 bulk folds to most super-effective hits",
+    "Speed 75 is outsped by most of the meta"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "fire-blast",
+      "reason": "Main special [Fire] STAB"
+    },
+    {
+      "move": "leaf-storm",
+      "reason": "Massive [Grass] nuke with a SpA drop"
+    },
+    {
+      "move": "solar-beam",
+      "reason": "One-turn [Grass] STAB under sun"
+    },
+    {
+      "move": "protect",
+      "reason": "Secures the Mega turn"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "scovillainite",
+      "reason": "Mandatory Mega Stone with no alternative"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nMega Scovillain is a mixed [Grass]/[Fire] attacker with the signature ability [habanero-burst]. 138 Attack and 138 Special Attack let it pick whichever side of defense is softer on the opponent, and the dual STAB combination handles almost every common defensive type.\n\n## Strengths\nSymmetrical 138/138 offenses allow true mixed play — drop [fire-blast] on a physical wall and [flare-blitz] on a special wall. [Grass] STAB hits [Water]/[Ground]/[Rock] and [Fire] STAB hits [Steel]/[Ice]/[Bug]/[Grass] — nearly everything takes neutral or SE damage. In sun teams, [solar-beam] becomes a one-turn [Grass] nuke and [fire-blast] is boosted 50%.\n\n## Weaknesses & Answers\nFour weaknesses and fragile bulk means every turn carries real risk. [Rock] attackers one-shot Mega Scovillain, [Flying] attackers hit [Grass] side hard, and [Ground] cuts off the [Fire] side. Speed 75 forces [tailwind] or sun setup to function.\n\n## Recommended Moveset\n[fire-blast] is the main STAB. [leaf-storm] is the single biggest hit — but the SpA drop forces a pivot afterward. [solar-beam] is the sun-team option and a one-turn nuke in sun. [protect] secures the Mega turn.\n\n## Item · Ability · Tera\n[scovillainite] is mandatory. [habanero-burst] activates post-Mega. Tera [Fire] stacks STAB on [fire-blast] and [flare-blitz], while Tera [Grass] maximizes [leaf-storm] output.\n\n## Teammates & Synergy\nPair with sun setters like [torkoal] or [groudon] for the ideal sun-team synergy. Cover [Rock] and [Flying] with [Fighting] and [Electric] partners. [tailwind] or [trick-room] support solves the Speed issue.\n\n## Play Patterns\nUnder sun, spam [fire-blast] and use [solar-beam] as the [Grass] STAB. Save [leaf-storm] for guaranteed KOs because of the SpA drop. Tera on the turn you commit to finishing a matchup — its fragility rarely gives second chances.",
+  "tags": [
+    "paldea",
+    "grass",
+    "fire",
+    "mega",
+    "habanero-burst",
+    "mixed-sweeper"
+  ],
+  "updatedAt": "2026-04-14T00:00:00+09:00"
+}

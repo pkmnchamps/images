@@ -1,0 +1,74 @@
+{
+  "pokemonId": 475,
+  "nameKo": "메가엘레이드",
+  "nameEn": "gallade-mega",
+  "formKey": "mega",
+  "types": [
+    "psychic",
+    "fighting"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "inner-focus",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "fighting",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[메가엘레이드] 배틀 운용 가이드",
+  "summary": "165 공격 + 110 스피드의 고속 물리 [psychic]·[fighting] 어태커. [close-combat] 자속 주력 + [zen-headbutt] 서브 구성.",
+  "strengths": [
+    "165 공격의 최상급 물리 화력",
+    "110 스피드 고속권",
+    "[psychic]·[fighting] 양 자속 광범위 견제"
+  ],
+  "weaknesses": [
+    "[고스트]·[비행]·[페어리] 약점",
+    "물리 내구 68/95 보통",
+    "[inner-focus]는 유틸성 낮음"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "close-combat",
+      "reason": "[fighting] 자속 주력 최대 물리"
+    },
+    {
+      "move": "zen-headbutt",
+      "reason": "[psychic] 자속 + 플린치 확률"
+    },
+    {
+      "move": "knock-off",
+      "reason": "도구 파괴 유틸 + [고스트] 견제"
+    },
+    {
+      "move": "protect",
+      "reason": "메가 진화 안전 확보"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "galladite",
+      "reason": "메가 진화를 위한 필수 아이템"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[메가엘레이드]는 165 공격 + 110 스피드의 고속 물리 [psychic]·[fighting] 어태커다. 가디안과 달리 물리 어태커로 특화되어 [close-combat]·[zen-headbutt] 자속 주력 구성으로 광범위 견제가 가능하다.\n\n## 강점 분석\n165 공격 종족값은 메가 어태커 최상위권이고, 110 스피드는 메타 고속권에서 안정적 선공을 확보한다. [psychic]·[fighting] 복합 자속은 [격투] [fighting] 약점 + [psychic]으로 [독]·[격투] 견제가 가능한 폭넓은 공격 범위를 제공한다. [knock-off]로 상대 도구 파괴까지 겸한다.\n\n## 약점과 대응\n[고스트]·[비행]·[페어리] 약점이 있고, 특히 [고스트] 타입은 [close-combat]·[zen-headbutt] 모두 반감이라 [knock-off] 외엔 효과적 공격이 없다. 물리 내구 68/95는 평균 수준으로 약점 공격에 취약. [inner-focus]는 플린치 방지 외엔 유틸성이 낮아 [swords-dance] 셋업이 없는 단순 히트형 운용이다.\n\n## 추천 기술 구성\n[close-combat]은 주력 [fighting] 자속 최대 위력. [zen-headbutt]는 [psychic] 자속 서브 + 20% 플린치 확률 부가 효과. [knock-off]는 [고스트] 견제 + 도구 파괴 유틸. [protect]는 메가 진화 턴 안전 확보 필수.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [galladite] 고정. 특성은 메가 진화 후 [inner-focus]로 전환. 테라스탈은 [fighting]으로 [close-combat] 자속 중첩 보정 극대화, 또는 [페어리]로 [악]·[fighting] 저항 + [고스트] 약점 역이용.\n\n## 시너지와 파트너\n[고스트] 견제용 [dark]·[ghost] 파트너 배치. [fairy] 약점 카운터로 [steel]·[poison] 파트너. [intimidate] 유저로 물리 내구 보조, [tailwind]로 스피드 추가 확보.\n\n## 운용 팁\n메가 진화 + [protect] 안전 턴 확보 후 [close-combat]·[zen-headbutt] 고속 물리 화력 연타. [고스트] 타입 노출 시 [knock-off]로 전환, 약점 공격에는 즉시 교대. 테라스탈은 타이밍 맞춰 공격 화력 극대화 용도로 사용한다.",
+  "tags": [
+    "sinnoh",
+    "psychic",
+    "fighting",
+    "mega",
+    "physical-sweeper"
+  ],
+  "updatedAt": "2026-04-14T00:00:00+09:00"
+}
