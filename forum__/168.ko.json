@@ -1,0 +1,78 @@
+{
+  "pokemonId": 168,
+  "nameKo": "아리아도스",
+  "nameEn": "ariados",
+  "formKey": null,
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "roles": [
+    "lead",
+    "support"
+  ],
+  "recommendedAbility": "insomnia",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "dark",
+    "steel"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 0
+  },
+  "locale": "ko",
+  "title": "[아리아도스] 배틀 운용 가이드",
+  "summary": "[sticky-web] 전개와 [toxic-spikes] 이중 설치로 상대 팀 전체에 지속 피해를 주는 [벌레]·[독] 서포터 리드.",
+  "strengths": [
+    "[sticky-web] + [toxic-spikes] 이중 설치",
+    "[insomnia]로 상대 [sleep-powder] 완전 방지",
+    "[sucker-punch]로 선공기 카운터 확보"
+  ],
+  "weaknesses": [
+    "낮은 스피드와 얇은 내구로 리드전 취약",
+    "[불꽃]·[비행]·[바위]·[에스퍼] 약점 다수",
+    "공격력 90으로 결정력 부족"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "sticky-web",
+      "reason": "상대 팀 전체 스피드 1단 하락 설치"
+    },
+    {
+      "move": "toxic-spikes",
+      "reason": "상대 교대 때마다 [독] 상태이상 누적"
+    },
+    {
+      "move": "sucker-punch",
+      "reason": "상대 공격 턴을 되돌리는 선공기"
+    },
+    {
+      "move": "poison-jab",
+      "reason": "[페어리]·[풀] 견제용 [독] STAB"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "리드 구도에서 1회 설치 보장"
+    },
+    {
+      "item": "mental-herb",
+      "reason": "상대 [taunt] 한 회 무효로 설치 확보"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[아리아도스]는 [벌레]·[독] 복합 타입의 서포터 리드 포켓몬으로, [sticky-web]과 [toxic-spikes]의 이중 설치를 중심으로 한 서포트 플랜이 핵심이다. 스탯 자체는 낮지만, 상대 팀 전체의 스피드를 1단 낮추는 [sticky-web]과 교대 시마다 [독] 상태이상을 누적시키는 [toxic-spikes] 두 가지를 한 슬롯에서 모두 운용 가능한 드문 포켓몬이라는 점에서 챔피언스 메타에서도 유효한 자리를 차지한다.\n\n## 강점 분석\n[아리아도스]의 진짜 가치는 [sticky-web]의 스피드 축 붕괴 효과다. 상대 팀 전체의 스피드가 1단 떨어지면, 뒷라인의 중저속 물리 어태커가 스피드 축을 강제로 가져가는 구도가 만들어진다. 여기에 [toxic-spikes]를 이중으로 설치하면 상대 교대마다 [독] 데미지가 누적되어 장기전에 유리한 판을 만든다. [insomnia]는 상대 [sleep-powder]·[spore] 류 수면 기술을 완전히 봉쇄하는 강력한 리드 특성.\n\n## 약점과 대응\n낮은 스피드 40과 얇은 내구 70/70/70으로 리드전 자체가 불안하다. [불꽃]·[비행]·[바위]·[에스퍼] 4종 약점 모두 대중적 공격 타입이며, 상대 리드의 즉시 공격 한 방으로 쓰러지는 경우가 잦다. 공격력 90도 결정력이 부족해, 서포트 역할 외에는 활약하기 어렵다는 구조적 한계가 있다.\n\n## 추천 기술 구성\n[sticky-web]은 서포트 핵심 기술로 고정, [toxic-spikes]는 이중 설치로 [독] 중복 상태이상을 노리는 필수 슬롯이다. [sucker-punch]는 [아리아도스]의 낮은 스피드를 보완하는 선공기로, 상대 공격 턴을 되돌릴 수 있는 유일한 대응 카드다. 마지막 슬롯은 [poison-jab]으로 [페어리]·[풀] 견제 슬롯을 확보한다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [focus-sash]가 리드전에서 1회 설치를 반드시 보장하는 가장 안정적인 선택이다. [mental-herb]는 상대 [taunt] 사용자 대응용으로, 한 회 무효화해 설치를 마칠 수 있게 해준다. 특성은 [insomnia]가 현 메타에서 가장 활용도가 높고, [swarm]·sniper는 범용성이 낮다. 테라스탈은 악으로 [에스퍼] 견제와 [격투] 대응을 얻거나, [강철]로 약점 다수를 뒤집는 방향이 실전적이다.\n\n## 시너지와 파트너\n[아리아도스]의 [sticky-web]을 최대한 활용하려면 뒷라인에 중저속 물리 어태커를 배치하는 것이 필수다. [sticky-web] 전개 후 상대 스피드가 떨어지면 켄타로스·잠만보 같은 중저속 어태커가 스피드 축을 가져가는 구도가 만들어진다. [toxic-spikes] 효율을 올리기 위해 상대의 [독] 면역 해제 요원 제거용 어태커를 추가하면 좋다.\n\n## 운용 팁\n1턴째 [sticky-web], 2턴째 [toxic-spikes] 이중 설치 순서가 기본 플랜이다. 상대 [taunt] 사용자가 예상되면 [mental-herb]로 대응하고, [sucker-punch]는 HP가 한 자리 수로 빠진 상대에게 마지막 카드로 사용한다. 테라스탈은 약점 공격 확정 타이밍을 위해 아껴두자.",
+  "tags": [
+    "johto",
+    "bug",
+    "poison",
+    "sticky-web",
+    "lead"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

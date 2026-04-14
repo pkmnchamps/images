@@ -1,0 +1,79 @@
+{
+  "pokemonId": 887,
+  "nameKo": "드래펄트",
+  "nameEn": "dragapult",
+  "formKey": null,
+  "types": [
+    "dragon",
+    "ghost"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper",
+    "pivot"
+  ],
+  "recommendedAbility": "infiltrator",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "ghost",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 2,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[드래펄트] 배틀 운용 가이드",
+  "summary": "스피드 142와 특성 [infiltrator]로 스크린·서브를 무시하고 [드래곤]·[고스트] STAB를 내리꽂는 최상위권 스위퍼.",
+  "strengths": [
+    "스피드 142 — 비스카프 최상위권 실질 속도",
+    "[infiltrator]로 [light-screen]·[substitute] 완전 무시",
+    "[dragon-darts]는 더블에서 광역 2hit [드래곤] STAB"
+  ],
+  "weaknesses": [
+    "[얼음]·[드래곤]·[고스트]·[악]·[페어리] 2배",
+    "HP 88/방어 75로 선공기·weak punch에 약함",
+    "[강철] 타입에 [드래곤] STAB가 막힘"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "dragon-darts",
+      "reason": "물리 [드래곤] STAB, 더블 2회 타격"
+    },
+    {
+      "move": "phantom-force",
+      "reason": "[고스트] STAB + 한 턴 무적 플레이"
+    },
+    {
+      "move": "u-turn",
+      "reason": "매치업 변경용 피벗 기술"
+    },
+    {
+      "move": "sucker-punch",
+      "reason": "상위 스피드 카운터용 선공기"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "choice-scarf",
+      "reason": "142 스피드를 더 밀어 메타 최상위 선공 확보"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "선공 한 방 버티고 리턴"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[드래펄트]는 종족값 88/120/75/100/75/142의 [드래곤]·[고스트] 물리 스위퍼로, 챔피언스 MA에서는 기본 스피드 142로 메타의 상수 스위퍼 자리를 점유하는 에이스다. 물리 공격 120 + 특수 공격 100의 양쪽 중 어떤 세팅을 골라도 위협이지만, 본 가이드는 가장 실전적인 [jolly] 물리 세팅을 기준으로 한다.\n\n## 강점 분석\n스피드 142는 비스카프 상위권으로, 메타의 대부분 어태커보다 먼저 움직인다. 특성 [infiltrator]는 [light-screen]·[reflect]·[substitute]를 완전 무시해, 스크린 기반 전술을 근본에서 무력화한다. [dragon-darts]는 75×2의 2회 타격 [드래곤] STAB로 더블에서는 양측 타겟을 한 번에 처리하는 광역 타격 역할까지 해낸다. 공격 120에 선공기 [sucker-punch]까지 얹어 스위퍼 포지션을 완성한다.\n\n## 약점과 대응\n[드래곤]·[고스트]는 [얼음]·[드래곤]·[고스트]·[악]·[페어리] 5종 약점을 가진 조합이라 한 방 싸움이 잦고, HP 88에 방어 75는 [close-combat]·[ice-shard] 한 방에 그대로 무너질 수 있다. 특히 대도각참의 [sucker-punch], 선공기 아이스 펀치 사용자는 천적이다. [dragon-darts]의 위력 자체는 [강철] 벽(gholdengo·skarmory) 앞에서 반감되어 교체가 필요하다.\n\n## 추천 기술 구성\n[dragon-darts]는 반드시 고정한다. [phantom-force]는 [고스트] STAB 메인으로, 1턴 공백의 리스크를 감수해서라도 범용성이 필요한 슬롯이다. [u-turn]은 피벗 & 매치업 회피의 두 역할을 동시에 하는 열쇠 기술이고, [sucker-punch]는 스카프 대신 sash를 든 구성에서 상위 스피드 상대에게 마지막 타격을 꽂는 슬롯이다. 특수 세팅을 원한다면 [dragon-darts]·[phantom-force] 대신 [draco-meteor]·[shadow-ball] 조합을 쓴다.\n\n## 추천 도구 · 특성 · 테라스탈\n[choice-scarf]는 142 위에 +1을 더 얹는 극한 선공 확보용으로, [드래펄트]를 [revenge] killer로 쓰고 싶을 때의 1순위 도구다. [focus-sash]는 [sucker-punch] 의존 [풀] 슬롯 세팅에 맞춘다. 특성은 [infiltrator] 고정 — clear-body도 나쁘진 않지만 스크린 무시 가치가 훨씬 크다. 테라스탈은 STAB를 [고스트]로 강화하거나, [페어리]로 [악]·[드래곤] 약점을 지우는 선택이 유효하다.\n\n## 시너지와 파트너\n[드래펄트]를 중심으로 하는 팀은 [강철] 찌르기 파트너([격투]·[땅]·불)가 필수다. 상대의 [dragapult] 미러를 견제할 [페어리] 파트너, 그리고 선공기 물리 카운터([intimidate] 유저)로 약한 물리 내구를 보완한다. [u-turn] 피벗 플레이를 위해 뒤에는 [stealth-rock]이 있는 저속 탱커 또는 setup 에이스가 이상적이다.\n\n## 운용 팁\n중반 턴 [u-turn]으로 유리 매치업을 반복 만들다가, 상대 주축이 깎였을 때 [phantom-force] / [dragon-darts]로 스윕을 연다. [강철] 타입을 만나면 즉시 [u-turn]으로 빠지고, HP 50% 이하부터는 [sucker-punch]에 의존해 마지막 킬을 만드는 플레이가 기본이다. 테라스탈은 [악]·[얼음] 기술이 확정될 때 즉시 발동한다.",
+  "tags": [
+    "galar",
+    "dragon",
+    "ghost",
+    "sweeper",
+    "infiltrator"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

@@ -1,0 +1,82 @@
+{
+  "pokemonId": 407,
+  "nameKo": "로즈레이드",
+  "nameEn": "roserade",
+  "formKey": null,
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "roles": [
+    "special-attacker",
+    "lead"
+  ],
+  "recommendedAbility": "technician",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "grass",
+    "fire"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "spa": 32,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "[Roserade] Battle Guide",
+  "summary": "A [Grass]/[Poison] special attacker and utility [lead] that amplifies weaker moves with [technician] while spreading [toxic-spikes] and [sleep-powder].",
+  "strengths": [
+    "125 SpA with a respectable 90 Speed",
+    "[toxic-spikes] and [sleep-powder] hazard support",
+    "[Grass]/[Poison] STAB covers a wide neutral spread"
+  ],
+  "weaknesses": [
+    "Paper-thin physical bulk collapses to priority",
+    "Stacked [Ice], [Fire], [Flying], and [Psychic] weaknesses",
+    "90 Speed falls short of the top unboosted tier"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "leaf-storm",
+      "reason": "Nuclear [Grass] STAB that converts predictions into kills"
+    },
+    {
+      "move": "sludge-bomb",
+      "reason": "Reliable [Poison] STAB for Fairies and mirror [Grass]"
+    },
+    {
+      "move": "sleep-powder",
+      "reason": "Match-up theft on the first turn of a [lead] exchange"
+    },
+    {
+      "move": "toxic-spikes",
+      "reason": "Passive chip that punishes long-game switch plans"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "Guarantees one survived hit so hazards and sleep land"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "Flips the Speed tier so outruns key aces"
+    },
+    {
+      "item": "miracle-seed",
+      "reason": "Boosts without locking into a choice item"
+    }
+  ],
+  "bodyMarkdown": "## Overview\n[Roserade] is a [Grass]/[Poison] special attacker built around [technician] boosts and hazard support. 125 SpA with 90 Speed and 105 SpD puts it in the midrange of Champions' special threats — not the fastest, not the bulkiest, but flexible enough to [lead], nuke, or pivot depending on the build. The two signature jobs are [leaf-storm] damage dealing and the [toxic-spikes] plus [sleep-powder] [lead].\n\n## Strengths\nThe [Grass]/[Poison] STAB combo hits [Water], [Grass], [Fairy], and [Ground] for solid neutral coverage, and [technician] multiplies weaker tools like [magical-leaf] and [hidden-power] into meaningful damage. [sleep-powder] is the match-up-theft button that converts awkward 50/50s into free turns for the [rest] of the team, and [toxic-spikes] quietly taxes every grounded switch the opponent makes. 105 SpD even lets [Roserade] trade with special pivots in a pinch.\n\n## Weaknesses & Answers\nThe 60/65/105 defensive line means any priority attack — [bullet-punch], [ice-shard], [sucker-punch] — ends [Roserade] immediately. [Ice], [Fire], [Flying], and [Psychic] all hit for 2x, and losing the Speed race to any scarfed attacker is usually a one-shot. [Steel] switch-ins wall both STABs, so the last move slot has to answer them or [Roserade] has to pivot out.\n\n## Recommended Moveset\n[leaf-storm] is the nuclear [Grass] STAB — one hit usually closes a game when prediction is right. [sludge-bomb] is the click-and-forget [Poison] STAB that punishes Fairies and mirror [Grass]. [sleep-powder] locks down a target on the [lead] turn, and [toxic-spikes] taxes the opposing switch plan from the very first entry. Hidden-power ground can replace [toxic-spikes] on an offensive build to answer [Steel] pivots directly.\n\n## Item · Ability · Tera\n[focus-sash] is the safest [lead] pick; it guarantees [Roserade] survives one shot and gets hazards or sleep down. [choice-scarf] is the offensive alternative, flipping Speed to outrun the mid-90s bracket. [miracle-seed] is the Middle option — it boosts [leaf-storm] without the lock-in cost. [technician] is the must-have ability. Tera [Grass] maxes STAB damage, while Tera [Fire] flips the [Ice] and [Fire] weaknesses when [Roserade] needs to [absorb] a hit.\n\n## Teammates & Synergy\nPair [Roserade] with a [stealth-rock] setter so hazards stack quickly, and bring a [Water], [Rock], or [Steel] partner that can [absorb] the [Fire], [Ice], and [Flying] hits aimed at it. A fast setup sweeper loves the [sleep-powder] turn — any partner that can take a free [Dragon] Dance or Nasty Plot behind sleep snowballs the game. An ally immune to [toxic-spikes] ([Steel] or [Poison]) keeps the hazard game one-sided.\n\n## Play Patterns\nOn the [lead] turn, [toxic-spikes] or [sleep-powder] usually takes priority over damage. Only [fire] [leaf-storm] once a switch is forced or a kill is confirmed — the SpA drop leaves [Roserade] vulnerable. Save Tera for a telegraphed [Ice] or [Fire] move and scout [Steel] switch-ins with [sludge-bomb] before committing.",
+  "tags": [
+    "sinnoh",
+    "grass",
+    "lead",
+    "technician",
+    "special-attacker"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

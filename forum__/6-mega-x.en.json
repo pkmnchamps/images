@@ -1,0 +1,76 @@
+{
+  "pokemonId": 6,
+  "nameKo": "메가리자몽X",
+  "nameEn": "charizard-mega-x",
+  "formKey": "mega-x",
+  "types": [
+    "fire",
+    "dragon"
+  ],
+  "roles": [
+    "physical-attacker",
+    "setup-sweeper",
+    "sweeper"
+  ],
+  "recommendedAbility": "tough-claws",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "fire",
+    "dragon"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Mega Charizard X Battle Guide",
+  "summary": "A [Fire]/[Dragon] physical setup [sweeper] whose [tough-claws] turns every contact move into a 1.3x nuke after a [sing]le [dragon-dance].",
+  "strengths": [
+    "[tough-claws] plus 130 Atk produces the best contact-move power in the tier",
+    "[Fire]/[Dragon] STAB cove[rage] is hard to wall",
+    "One [dragon-dance] outruns the entire unboosted metagame"
+  ],
+  "weaknesses": [
+    "Weak 2x to [Rock], [Ground], and [Dragon]",
+    "[Rock]-type priority users shut down setup attempts",
+    "Lacks finishing power without a [dragon-dance] first"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "dragon-claw",
+      "reason": "Primary [Dragon] STAB — [tough-claws] boosted without re[coil]"
+    },
+    {
+      "move": "flare-blitz",
+      "reason": "[tough-claws] + sun-independent [Fire] STAB nuke"
+    },
+    {
+      "move": "earthquake",
+      "reason": "Mandatory cove[rage] for [Rock], [Steel], and [Electric]"
+    },
+    {
+      "move": "dragon-dance",
+      "reason": "Atk and Speed boost that seals the sweep win condition"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "charizardite-x",
+      "reason": "Mandatory Mega Stone — no alternative"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nMega Charizard X is a [Fire]/[Dragon] physical setup [sweeper] built around [tough-claws], which multiplies every contact move by 1.3x. Combined with 130 Atk and [dragon-dance], it requires only a single setup turn to outrun the entire unboosted metagame and start cleaning teams. Where the base form is a special [solar-power] nuke, Mega X is its exact physical mirror — a dedicated late-game finisher.\n\n## Strengths\n[tough-claws]-boosted [flare-blitz] and [dragon-claw] put out top-tier physical damage, and the [Fire]/[Dragon] STAB combo is uniquely difficult to resist — very few common pivots wall both. A single [dragon-dance] pushes effective Speed past 150, so it simply wins every unboosted Speed race. Post-Mega, base 111 Defense and 78 HP combine to survive one weak physical attack, giving Mega X the breathing room to actually set up a Dance.\n\n## Weaknesses & Answers\n[Rock], [Ground], and [Dragon] all hit for 2x, and [stone-edge] users in particular punish any attempt to [dragon-dance] in their face. Priority attackers threaten the setup turn, especially if the team has no screens. [flare-blitz] recoil (1/3 max HP on miss) makes long matches dangerous, and the pre-Mega turn is fragile enough that a predicted super-effective hit can remove Charizard X before it ever sets up.\n\n## Recommended Moveset\n[dragon-claw] is the locked STAB because it deals clean, recoil-free damage every turn and is still [tough-claws]-boosted. [flare-blitz] is the physical [Fire] STAB finisher — with [tough-claws], STAB, and Adamant stacked, it hits one of the highest damage numbers in the format. [earthquake] is mandatory coverage for [Rock], [Steel], and [Electric] walls. The final slot is [dragon-dance] — without it, Mega X lacks a real win condition against offense.\n\n## Item · Ability · Tera\n[charizardite-x] is the only item — no alternative exists. [tough-claws] is locked in automatically on Mega Evolution. For Tera, [Fire] deepens [flare-blitz] damage while keeping STAB coverage intact, and [Dragon] pushes [dragon-claw] into the upper damage tier. A defensive Tera [Fighting] is also seen at the top level because it removes the [Rock] weakness, though it trades offensive ceiling for safety.\n\n## Teammates & Synergy\nA [stealth-rock] remover is effectively mandatory — the entry cost is too high otherwise. [fake-out] or slow pivot support helps buy the [dragon-dance] turn safely, and a dedicated late-game cleaner is useful for cleanup after Mega X has softened the board. A [Dark]-type partner that can pressure Fairies in advance is ideal, since Fairies are the main remaining check.\n\n## Play Patterns\nEnter only after [stealth-rock] is removed, and click [dragon-dance] the moment a non-priority defensive mon switches in. Lead with [dragon-claw] for sustainable damage and save [flare-blitz] for kill-confirmed situations only — the recoil clock is a real constraint.",
+  "tags": [
+    "kanto",
+    "fire",
+    "dragon",
+    "mega",
+    "physical-sweeper",
+    "setup"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

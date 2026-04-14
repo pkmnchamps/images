@@ -1,0 +1,75 @@
+{
+  "pokemonId": 319,
+  "nameKo": "메가샤크니아",
+  "nameEn": "sharpedo-mega",
+  "formKey": "mega",
+  "types": [
+    "water",
+    "dark"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "strong-jaw",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "dark",
+    "water"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Mega Sharpedo Battle Guide",
+  "summary": "A fast [Water]/[Dark] physical attacker with [strong-jaw] — [crunch], [ice-fang], and [psychic-fangs] all hit 1.5x harder.",
+  "strengths": [
+    "[strong-jaw] boosts biting moves by 50%",
+    "140 Attack + 105 Speed is strong offensive spread",
+    "Biting moves cover [Dragon], [Flying], [Grass], [Fighting], [Poison]"
+  ],
+  "weaknesses": [
+    "Weak to [Fighting], [Electric], [Bug], [Fairy], and [Grass]",
+    "Defenses of 70/70 fold to priority moves",
+    "Pre-Mega turn loses [speed-boost] advantage"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "crunch",
+      "reason": "Main [Dark] STAB boosted by [strong-jaw]"
+    },
+    {
+      "move": "ice-fang",
+      "reason": "Coverage for [Dragon], [Flying], [Grass]"
+    },
+    {
+      "move": "psychic-fangs",
+      "reason": "[Fighting]/[Poison] coverage and screen break"
+    },
+    {
+      "move": "protect",
+      "reason": "Secures the Mega turn"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "sharpedonite",
+      "reason": "Mandatory Mega Stone with no alternative"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nMega Sharpedo is a fast [Water]/[Dark] physical attacker whose ability [strong-jaw] boosts all biting moves by 50%. Running three different fang moves gives it a tight but wide coverage spread and lets it threaten most of the metagame in exchange for its notoriously fragile defenses.\n\n## Strengths\n[strong-jaw] turns [crunch] into an effective ~120 BP STAB, [ice-fang] into [Dragon]/[Grass]/[Flying]/[Ground] coverage, and [psychic-fangs] into a [Fighting]/[Poison] check that also breaks [light-screen] and [reflect]. With 140 Attack and 105 Speed, Mega Sharpedo outpaces most neutral threats in the 100s tier.\n\n## Weaknesses & Answers\n70/70 physical bulk is very fragile and priority moves like [bullet-punch] and [mach-punch] often one-shot it. Five weaknesses — [Fighting], [Electric], [Grass], [Fairy], [Bug] — make predicting switch-ins risky. The Mega Evolution turn loses the base [speed-boost] opportunity, so the first turn is slower than expected.\n\n## Recommended Moveset\n[crunch] is the STAB you always click. [ice-fang] and [psychic-fangs] flex the coverage spread and both benefit from [strong-jaw]. [protect] is mandatory in doubles for Mega safety and partner setup. [waterfall] is tempting but loses the [strong-jaw] boost, so fang coverage is generally better.\n\n## Item · Ability · Tera\n[sharpedonite] is mandatory. [strong-jaw] replaces the base [speed-boost]. Tera [Dark] stacks on the [crunch] plan, while Tera [Water] boosts [waterfall] if you run it and patches the [Electric] weakness by shifting types defensively.\n\n## Teammates & Synergy\nPair with [tailwind] setters to maintain speed control and [fake-out] users to buy setup windows. Cover the [Fighting] and [Electric] weaknesses with [Psychic] and [Ground] partners. [intimidate] support mitigates the paper bulk.\n\n## Play Patterns\nProtect on the Mega turn to avoid damage, then begin cycling fang moves based on match-up. Commit to [crunch] into neutral targets, pivot to [ice-fang] for [Dragon]/[Flying], and use [psychic-fangs] to break screens or deal with [Fighting]. Tera on a predicted priority move to survive and KO.",
+  "tags": [
+    "hoenn",
+    "water",
+    "dark",
+    "mega",
+    "strong-jaw",
+    "physical-sweeper"
+  ],
+  "updatedAt": "2026-04-14T00:00:00+09:00"
+}

@@ -1,0 +1,80 @@
+{
+  "pokemonId": 310,
+  "nameKo": "썬더볼트",
+  "nameEn": "manectric",
+  "formKey": null,
+  "types": [
+    "electric"
+  ],
+  "roles": [
+    "special-attacker",
+    "pivot"
+  ],
+  "recommendedAbility": "lightning-rod",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "electric",
+    "grass"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "spa": 32,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "[Manectric] Battle Guide",
+  "summary": "A mono-[Electric] special [pivot] that leans on [volt-switch] tempo and [lightning-rod] insurance.",
+  "strengths": [
+    "[lightning-rod] [absorb]s incoming and allied [Electric] moves",
+    "[volt-switch] creates safe entries for teammates",
+    "Base 105 Speed outruns most of the middle metagame"
+  ],
+  "weaknesses": [
+    "Mono [Electric] means zero answers to [Ground] types",
+    "70/60/60 defensive line folds to any clean special hit",
+    "Lower raw power than the mega form when comparing breakers"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "thunderbolt",
+      "reason": "Main [Electric] STAB for guaranteed damage"
+    },
+    {
+      "move": "volt-switch",
+      "reason": "Safe [pivot] move that also chips switch-ins"
+    },
+    {
+      "move": "flamethrower",
+      "reason": "Cove[rage] for [Grass], [Steel], and [Ice] [pivot]s"
+    },
+    {
+      "move": "thunder-wave",
+      "reason": "Status option that shuts down fast setup sweepers"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "Guarantees one priority hit survived so can out"
+    },
+    {
+      "item": "magnet",
+      "reason": "Boosts [Electric] STAB damage for a more lethal"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "Provides passive [recover]y during long chains"
+    }
+  ],
+  "bodyMarkdown": "## Overview\n[Manectric] is a clean mono-[Electric] special [pivot]. Base 105 special attack and base 105 Speed land in an awkward slice of the tier that matters — fast enough to outrun most of the middle metagame, strong enough to chip with [volt-switch] instead of committing. The base form's identity is tempo, not raw damage, and [lightning-rod] lets it slide into doubles-friendly lines where allies happily click [Electric] moves in its direction.\n\n## Strengths\n[lightning-rod] is an outstanding defensive ability — it neutralises opposing [Electric] attacks while raising special attack by one stage, which means the very [pivot] moves that normally chip [Manectric] feed it a free boost. Base 105 Speed outruns every non-scarfer in the bulky middle tier, and [volt-switch] generates free damage while also rotating in a teammate. [flamethrower] breaks the [Grass] and [Steel] answers that normally wall the [Electric] STAB, and [thunder-wave] cripples anything trying to set up on a slow [Manectric].\n\n## Weaknesses & Answers\nMono [Electric] has zero game plan versus [Ground] types, so most plays revolve around predicting the [Ground] switch-in and volt-switching out instead of committing. The 70/60/60 bulk means [Manectric] can never survive a clean choice-specs hit, and any priority user will finish it after [focus-sash] breaks. The base form also lacks the raw damage of [manectric]-mega, so players must lean on tempo rather than trying to out-break the opposing breaker.\n\n## Recommended Moveset\n[thunderbolt] stays as the locked [Electric] STAB because it is the only move that cleanly finishes half-health targets. [volt-switch] is the defining [pivot] move — it chips while preserving initiative. [flamethrower] punishes the [Grass] and [Steel] switch-ins that try to wall the [Electric] STAB, and specifically punishes any [Ground] type that swaps in on a predicted [volt-switch]. [thunder-wave] rounds out the set by shutting down fast setup sweepers attempting to exploit [Manectric]'s middling damage output.\n\n## Item · Ability · Tera\n[focus-sash] guarantees [Manectric] survives one priority hit and still gets to [pivot] out. [magnet] is the alternative when the team prefers raw damage, boosting [Electric] STAB to roughly choice-specs territory without locking moves. [sitrus-berry] shines on longer [pivot] chains where incremental HP matters. [lightning-rod] is the mandatory ability, and Tera [Electric] doubles down on STAB power while Tera [Grass] flips the [Ground] weakness.\n\n## Teammates & Synergy\nPair [Manectric] with a [Flying] or [levitate] partner so [Ground] attacks that punish [volt-switch] are redirected harmlessly. Slot it behind a setup sweeper so [thunder-wave] clears the way for a free sweep, and run a [Grass] teammate that absorbs the [Water] types drawn in by the [Electric] STAB threat.\n\n## Play Patterns\nLead with [Manectric] to force awkward switches, then [volt-switch] into the correct hard [counter]. Never stay in on a [Ground] type — [pivot] immediately. Save [thunder-wave] for opposing setup sweepers, and click [thunderbolt] only after [lightning-rod] has triggered to convert the boost into a meaningful KO.",
+  "tags": [
+    "hoenn",
+    "electric",
+    "pivot",
+    "lightning-rod"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

@@ -1,0 +1,80 @@
+{
+  "pokemonId": 38,
+  "nameKo": "나인테일",
+  "nameEn": "ninetales",
+  "formKey": null,
+  "types": [
+    "fire"
+  ],
+  "roles": [
+    "special-attacker",
+    "support"
+  ],
+  "recommendedAbility": "drought",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "fire",
+    "grass"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[나인테일] 배틀 운용 가이드",
+  "summary": "[drought] 특성으로 맑음 날씨를 고정시키는 [불꽃] 특수 어태커. 팀 맑음 전략의 시작점이 된다.",
+  "strengths": [
+    "[drought]로 맑음 자동 설정",
+    "100 스피드로 메타 중상위권 추월",
+    "[nasty-plot] 후 보정된 화력 확보"
+  ],
+  "weaknesses": [
+    "[바위]·[물]·[땅] 2배 약점",
+    "73/75/100 내구로 셋업 여유 부족",
+    "맑음이 지워지면 팀 플랜 무너짐"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "flamethrower",
+      "reason": "주력 [불꽃] STAB"
+    },
+    {
+      "move": "solar-beam",
+      "reason": "맑음 하 1턴 완성 [풀] 서브"
+    },
+    {
+      "move": "nasty-plot",
+      "reason": "특공 1회 셋업 스위프 진입"
+    },
+    {
+      "move": "will-o-wisp",
+      "reason": "상대 물리 어태커 화상 견제"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "heat-rock",
+      "reason": "맑음 지속 시간 연장"
+    },
+    {
+      "item": "leftovers",
+      "reason": "장기전 회복 카드"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "셋업 첫 턴 보험"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[나인테일]은 [불꽃] 단일 타입의 특수 어태커로, 숨겨진 특성 [drought]를 통해 맑음 날씨를 자동 설정하는 것이 정체성이다. 챔피언스 메타에서는 [chlorophyll] 스위퍼(이상해꽃 등)와 묶여 맑음 팀의 시작점 역할을 하고, 본체도 [nasty-plot]을 쌓아 피니셔로 기능할 수 있다.\n\n## 강점 분석\n[drought]는 팀 맑음 플랜의 뿌리다. 맑음 하에서 [flamethrower]의 위력이 1.5배로 올라가고, [solar-beam]이 1턴 완성기로 변환된다. 스피드 100은 메타 중상위권을 추월하는 수치이며, [nasty-plot] 셋업 후에는 특공이 2배로 뛰어 지원형을 벗어나 진정한 피니셔로 움직일 수 있다. [will-o-wisp] 유틸은 상대 물리 어태커의 화력을 반감시키는 지원 효과도 가진다.\n\n## 약점과 대응\n[바위]·[물]·[땅] 2배 약점이 모두 메타에 흔하고, 특히 [stealth-rock]에 4배 피해까지 겹치면 진입 비용이 크게 늘어난다. 73/75/100의 내구는 셋업 여유가 거의 없고, 맑음이 지워지면 팀 플랜이 통째로 무너지므로 상대 비·모래·눈 유저에 대한 대비가 필수다.\n\n## 추천 기술 구성\n[flamethrower]를 주력 [불꽃] STAB으로 고정해 맑음 보정의 수익을 최대한 뽑는다. [solar-beam]은 맑음 하에서 1턴 완성기로 변환되므로, [물]·[땅]·[바위] 견제용 핵심 서브가 된다. [nasty-plot]은 피니셔 전환용 셋업 슬롯이고, 마지막은 [will-o-wisp]로 상대 물리 어태커 화력을 반감시킨다. [hex] 변형으로 화력 시너지를 노리는 것도 가능하다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [heat-rock]이 기본으로, 맑음 지속 시간을 5턴 → 8턴으로 연장해 팀 플랜의 안정감을 크게 올린다. [leftovers]는 본체 생존 우선 컨셉, [focus-sash]는 셋업 첫 턴 보험용이다. 특성은 [drought] 고정. 테라스탈은 [불꽃] 타입으로 STAB 화력을 올리거나, [풀] 타입으로 [solar-beam] 화력을 강화하는 변형이 실전적이다.\n\n## 시너지와 파트너\n[나인테일]은 맑음 설정 담당이므로 [chlorophyll] 사용자(이상해꽃 등)와 기본 묶음이다. [바위]·[물] 약점 카운터로 [땅]·[풀] 파트너를 배치하고, 상대 날씨 유저 카운터로 [taunt] 사용자나 pivot 라인을 준비해야 한다. [stealth-rock] 지우기 담당도 팀에 반드시 한 장 필요하다.\n\n## 운용 팁\n선봉으로 나가 [drought] 발동 → 즉시 교대 또는 [will-o-wisp] 유틸 1회를 쓰는 것이 기본 운용이다. 본체 피니셔 컨셉이라면 안전한 턴에 [nasty-plot]을 쌓고 [flamethrower]·[solar-beam]으로 스위프한다.",
+  "tags": [
+    "kanto",
+    "fire",
+    "sun",
+    "drought"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

@@ -1,0 +1,78 @@
+{
+  "pokemonId": 154,
+  "nameKo": "메가니움",
+  "nameEn": "meganium",
+  "formKey": null,
+  "types": [
+    "grass"
+  ],
+  "roles": [
+    "wall",
+    "support",
+    "tank"
+  ],
+  "recommendedAbility": "overgrow",
+  "recommendedNature": "bold",
+  "recommendedTera": [
+    "steel",
+    "water"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 32,
+    "spa": 0,
+    "spd": 2,
+    "spe": 0
+  },
+  "locale": "en",
+  "title": "[Meganium] Battle Guide",
+  "summary": "A pure [Grass] [support] [wall] running [light-screen], [reflect], and [synthesis] to buy defensive turns for the team.",
+  "strengths": [
+    "Balanced 100/100 dual bulk makes it resilient to either side",
+    "[light-screen] and [reflect] provide team-wide defensive [support]",
+    "[synthesis] gives a reliable self-heal loop"
+  ],
+  "weaknesses": [
+    "[Grass] type carries five common weaknesses",
+    "Low offensive stat means minimal [counter]-pressure",
+    "[taunt] users shut down the entire [support] plan"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "giga-drain",
+      "reason": "[Grass] STAB with drain healing on every hit"
+    },
+    {
+      "move": "light-screen",
+      "reason": "Halves special damage for the team for five turns"
+    },
+    {
+      "move": "reflect",
+      "reason": "Halves physical damage for the team for five turns"
+    },
+    {
+      "move": "synthesis",
+      "reason": "Self-heal that keeps [Meganium] online during screens"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "leftovers",
+      "reason": "Passive regen stacks with for a long game"
+    },
+    {
+      "item": "miracle-seed",
+      "reason": "Raises damage and the amount healed back"
+    }
+  ],
+  "bodyMarkdown": "## Overview\n[Meganium] is a pure [Grass] [support] [wall] with balanced bulk (80/100/100) and access to both [light-screen] and [reflect]. Its offense is minimal at 82/83, but that's intentional: [Meganium]'s job is to set screens, keep itself alive with [synthesis], and enable setup sweepers on the back line to come in safely. It isn't flashy, but it's reliable.\n\n## Strengths\nThe dual-screen access is what sets [Meganium] apart from other [Grass] walls. Few Pokemon in the format can run [light-screen] and [reflect] on the same slot, and the combination halves damage on both sides of the spectrum while [Meganium] buffers turns with [synthesis]. [giga-drain] doubles as self-healing and STAB damage, which keeps [Meganium]'s HP pool topped up during long exchanges. Overall it functions as a defensive pivot that extends the team's effective HP stat.\n\n## Weaknesses & Answers\n[Grass] typing is rough — [Fire], [Ice], [Flying], [Poison], and [Bug] all hit for 2x, which means most offensive teams have at least one attacker that threatens [Meganium]. Its own damage output is too low to pressure walls, so [taunt] users neuter it. A fast special attacker using [flamethrower] or [ice-beam] is the direct answer to [Meganium]'s [support] plan, and pivoting out at the right time is often the only survival option.\n\n## Recommended Moveset\n[giga-drain] is the locked STAB because it heals [Meganium] on hit. [light-screen] and [reflect] are both mandatory for the [support] plan. [synthesis] fills the last slot as the self-heal, though [aromatherapy] is an alternative if the team has a stacked status problem to solve. Dropping one screen for [toxic] or [leech-seed] makes [Meganium] more offensive but less of a team supporter.\n\n## Item · Ability · Tera\n[leftovers] is the default because it stacks with [synthesis] to extend [Meganium]'s turns on field. [miracle-seed] is an alternate that raises [Grass] STAB damage. The ability should be [overgrow]. Tera [Steel] flips most of the weakness profile into resists, while Tera [Water] erases the [Fire] weakness and provides more defensive synergy.\n\n## Teammates & Synergy\n[Meganium] exists to enable setup sweepers. A [dragon-dance] or [swords-dance] user on the back line converts the screen turns into a free setup, which is the entire point of the screen [support]. A [Fire] answer (bulky [Water]) covers the biggest structural weakness, and a fast pivot gives [Meganium] safe entry turns. A status absorber lets [Meganium] stay healthy through [toxic] chip over a long game.\n\n## Play Patterns\nThe basic sequence is [light-screen] turn one, [reflect] turn two, then either [synthesis] or [giga-drain] based on HP. Pivot out once a setup sweeper is ready to come in under screens, and save [Meganium] for a second [round] of screens later in the match. [giga-drain] is a [last-resort] damage slot; don't rely on it to break anything. Save the Tera for the exact moment an [Ice] or [Fire] move is about to land.",
+  "tags": [
+    "johto",
+    "grass",
+    "wall",
+    "support",
+    "screens"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

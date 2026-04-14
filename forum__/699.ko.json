@@ -1,0 +1,78 @@
+{
+  "pokemonId": 699,
+  "nameKo": "아마루르가",
+  "nameEn": "aurorus",
+  "formKey": null,
+  "types": [
+    "rock",
+    "ice"
+  ],
+  "roles": [
+    "special-attacker",
+    "lead"
+  ],
+  "recommendedAbility": "snow-warning",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "ice",
+    "water"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 2,
+    "spe": 0
+  },
+  "locale": "ko",
+  "title": "[아마루르가] 배틀 운용 가이드",
+  "summary": "[snow-warning]으로 눈을 열고 [freeze-dry]로 [물]까지 찢는 [바위]·[얼음] 거대 바디의 특수 스위퍼이자 선봉.",
+  "strengths": [
+    "HP 123·특공 99로 탱키 특수 어태커 역할이 가능",
+    "[freeze-dry]로 [물]·[비행]을 동시에 2배로 벌줌",
+    "[snow-warning]으로 직접 눈을 열어 아이스 팀의 시발점이 됨"
+  ],
+  "weaknesses": [
+    "[격투] 4배·[강철] 4배·[땅] 2배 — 치명적 약점 4중 스택",
+    "베이스 스피드 58로 거의 모든 어태커에 후공",
+    "bodyDef 72로 물리 공격에 극단적으로 약함"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "freeze-dry",
+      "reason": "[물] 타입까지 2배 데미지로 찌르는 핵심 견제"
+    },
+    {
+      "move": "earth-power",
+      "reason": "[강철]·[불꽃] 견제 필수 서브"
+    },
+    {
+      "move": "ancient-power",
+      "reason": "명중 안정적인 [바위] STAB"
+    },
+    {
+      "move": "stealth-rock",
+      "reason": "선봉 유틸로 상대 교대 비용을 강제 인상"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "스피드 58을 보완해 최소 1턴의 작업량을 보장"
+    },
+    {
+      "item": "leftovers",
+      "reason": "123의 HP를 돌려 장기전 유틸리티 확보"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[아마루르가]는 HP 123의 거대한 몸을 지닌 [바위]·[얼음] 특수 어태커로, 챔피언스 메타에서 특이한 역할을 맡을 수 있는 포켓몬이다. 숨겨진 특성 [snow-warning]은 등장과 동시에 눈을 열어 [얼음] 팀의 시발점이 되며, 종족값 99의 특공과 [freeze-dry]라는 고유 기술이 [물]·[비행] 타입을 찌르는 다른 [얼음] 특수 어태커와 차별화된 라인을 만든다.\n\n## 강점 분석\n[freeze-dry]의 [물] 2배 판정은 [아마루르가]의 가장 큰 세일즈 포인트다. 일반 [얼음]·[물] 어태커가 찌를 수 없는 각도를 혼자 열어 주고, [바위] 서브 STAB는 [불꽃]·[비행] 상대로 추가 압력을 만든다. HP 123은 종족값 상 사실상 최상위권이라 중립 특수 한 방은 버텨 낸다. [snow-warning]은 팀 전체에 [ice]-body·slush-rush 같은 눈 시너지 특성을 활용할 수 있게 해 주는 아이스 팀의 축 역할을 한다.\n\n## 약점과 대응\n[격투] 4배·[강철] 4배가 구조적 약점이다. [close-combat]과 [iron-head] 한 방에 퇴장하고, [땅]·[물]·[바위]도 2배로 들어온다. 베이스 스피드 58로는 선공을 잡을 수 없어 중요한 턴은 모두 후공이며, 물리 방어 72는 왕큰부리 수준의 일반 물리 어태커에도 약하다. 결과적으로 선봉으로 1~2턴의 작업만 수행하고 퇴장하는 역할이 합리적이다.\n\n## 추천 기술 구성\n[freeze-dry]를 메인으로 고정해 [물] 타입 상대로 2배 이득을 내고, [earth-power]로 [강철]·[불꽃] 스위치인을 벌준다. [ancient-power]는 명중이 안정적인 [바위] STAB로 [비행]·[벌레] 견제를 맡고, 마지막 슬롯에는 [stealth-rock]을 넣어 선봉 유틸을 확보한다. 팀 구성이 셋업 기반이라면 [stealth-rock] 대신 [blizzard]를 채택해 화력 축을 높여도 된다.\n\n## 추천 도구 · 특성 · 테라스탈\n[focus-sash]는 58 스피드를 보완해 최소 1턴의 작업량(주로 [stealth-rock])을 보장하는 기본 선택이다. 장기전 플랜으로는 [leftovers]가 123 HP를 실질적으로 회복 탱크로 바꿔 준다. 특성은 [snow-warning] 고정 — 눈 시너지와 [얼음] 지속이 팀 기반이다. 테라스탈은 [freeze-dry] 화력을 더 키우는 [얼음], 또는 [격투] 4배를 뒤집어 [close-combat]을 받아 내는 [물]이 가장 실전적이다.\n\n## 시너지와 파트너\n[aurora-veil]을 쓰는 눈 중심 팀(눈설왕·크레베이스 등)과의 조합이 핵심이다. [격투]·[강철] 약점을 받아 낼 [에스퍼]·[격투] 외 파트너가 필요하며, slush-rush 스위퍼와 함께 두면 [아마루르가]의 1턴 세팅이 곧장 팀 전체의 셋업 순환으로 이어진다. [stealth-rock]이 있으므로 다른 해저드 세터는 겹치지 않도록 피해야 한다.\n\n## 운용 팁\n선봉 턴에 등장해 눈을 열고 [stealth-rock]을 깔며, 2턴째에 교대하거나 [freeze-dry] 한 방을 치고 빠진다. 스피드 58 탓에 직접 대치에서의 화력 교환은 불리하니, 교대 예측이 선 상대에게만 [earth-power]·[ancient-power]를 친다. 테라스탈은 [close-combat]이 예고되는 턴에 [물] 타입으로 태워 플랜을 뒤집는다 — 그 외 상황에서는 Tera 없이 자연사하는 편이 자원 효율적일 수 있다.",
+  "tags": [
+    "kalos",
+    "ice",
+    "rock",
+    "snow-warning",
+    "lead"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

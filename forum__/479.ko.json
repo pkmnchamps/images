@@ -1,0 +1,82 @@
+{
+  "pokemonId": 479,
+  "nameKo": "로토무",
+  "nameEn": "rotom",
+  "formKey": null,
+  "types": [
+    "electric",
+    "ghost"
+  ],
+  "roles": [
+    "special-attacker",
+    "pivot"
+  ],
+  "recommendedAbility": "levitate",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "electric",
+    "ghost"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[로토무] 배틀 운용 가이드",
+  "summary": "[levitate]로 [땅] 공격을 지우고 [electric]·[ghost] STAB을 축으로 템포를 장[악]하는 고속 피벗형 특수 어태커.",
+  "strengths": [
+    "[levitate]로 [땅] 기술 무효화",
+    "[electric]·[ghost] STAB의 넓은 중립 범위",
+    "[volt-switch]로 템포 손실 없이 순환"
+  ],
+  "weaknesses": [
+    "[고스트]·[악] 견제에 취약",
+    "물리 내구가 얇아 선공기에 약함",
+    "choice 고정 시 기술 읽히기 쉬움"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "thunderbolt",
+      "reason": "[전기] STAB 주력기"
+    },
+    {
+      "move": "shadow-ball",
+      "reason": "[고스트] STAB [에스퍼]·[고스트] 견제"
+    },
+    {
+      "move": "volt-switch",
+      "reason": "교체 템포를 유지하는 피벗 기술"
+    },
+    {
+      "move": "will-o-wisp",
+      "reason": "물리 어태커 화력을 반감시키는 상태이상"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "choice-scarf",
+      "reason": "피벗을 가속해 스피드 축 장[악]"
+    },
+    {
+      "item": "magnet",
+      "reason": "화력을 한 단계 끌어올리는 타입 부스트"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "중반 HP 회복으로 피벗 회전수를 늘림"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[로토무]는 [electric]·[ghost] 복합 타입과 [levitate] 특성이 결합된 보기 드문 피벗형 특수 어태커다. 95의 특공과 91의 스피드는 단일 지표로는 평범하지만, 두 STAB의 중립 범위가 매우 넓고 [땅] 기술을 원천 차단해 스위치 자유도가 탁월하다. 역할은 명확하게 고속 피벗 어태커이며, [volt-switch]와 [will-o-wisp]을 축으로 매 턴 이득을 누적한다.\n\n## 강점 분석\n[levitate] 덕분에 [earthquake]와 [earth-power]를 완전히 무시하고, 상대의 [땅] 어태커 앞에 무료로 스위치 인 할 수 있다. [thunderbolt]는 [물]·[비행]을, [shadow-ball]은 [에스퍼]·[고스트]를 찔러 들어가고, 둘 다 반감하는 타입이 극소수라 두 축만으로 대부분의 상대를 갉아낼 수 있다. [will-o-wisp]은 물리 어태커의 공격력을 반으로 깎아 팀 전체의 내구 라인을 끌어올리는 핵심 서포트 카드다.\n\n## 약점과 대응\n[악]·[고스트] STAB에는 정면에서 약하고, 얇은 물리 내구 탓에 선공 [shadow-sneak] 한 방에 허리가 꺾일 수 있다. [고스트] 미러에서는 스피드와 선공 타이밍이 전부이며, [choice-scarf] 고정 시에는 상대 [땅] 타입이 프리 스위치가 되므로 기술 읽힘에 각별히 주의해야 한다. 테라스탈은 약점을 지우는 타이밍에 맞춰 아껴 쓴다.\n\n## 추천 기술 구성\n[thunderbolt]를 [전기] STAB 주력기로, [shadow-ball]을 [고스트] STAB 서브로 고정한다. [volt-switch]는 피벗의 핵심이며, 상대가 [땅] 타입을 내밀 때 즉시 아군 카운터로 스위치해 무료 턴을 확보한다. 마지막 슬롯은 [will-o-wisp]으로 물리 어태커의 화력을 반감시켜 팀 전체가 숨 쉴 공간을 만든다. 팀 구조에 따라 [will-o-wisp] 대신 [thunder-wave]나 [trick]을 고려할 수도 있다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [choice-scarf]를 기본으로 해 [volt-switch] 피벗의 스피드 축을 장악한다. 화력 중심이면 [magnet]으로 [thunderbolt]의 원턴킬 라인을 확장하고, 장기전이면 [sitrus-berry]로 중반 회복을 확보한다. 특성은 선택의 여지 없이 [levitate]. 테라스탈은 STAB 보강용 [electric], 혹은 [악] 약점을 뒤집는 [ghost]가 무난하다.\n\n## 시너지와 파트너\n물리 내구형 탱커와 짝을 지어 [will-o-wisp]으로 감점한 물리 어태커를 받아내면 팀 전체의 내구가 자연스럽게 치솟는다. [악]·[고스트] 카운터([페어리]·일반 등)와 함께 조합하면 상성 구멍을 닫을 수 있고, [volt-switch]를 받아줄 자연스러운 스위치 인 파트너를 두세 마리 확보해 두는 것이 운용의 핵심이다.\n\n## 운용 팁\n선봉으로 내도 좋고, 2턴째 스위치 인으로도 좋다. 상대 [땅] 타입이 보이는 순간 [volt-switch]로 들어가 템포를 뺏고, [will-o-wisp]은 상대 물리 어태커 진입 타이밍에 우선적으로 쓴다. 테라스탈은 약점 기술이 확정될 때 한 템포 빠르게 연다.",
+  "tags": [
+    "sinnoh",
+    "electric",
+    "ghost",
+    "pivot",
+    "special-attacker"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

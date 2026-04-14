@@ -1,0 +1,73 @@
+{
+  "pokemonId": 359,
+  "nameKo": "메가앱솔",
+  "nameEn": "absol-mega",
+  "formKey": "mega",
+  "types": [
+    "dark"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "magic-bounce",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "dark",
+    "ghost"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[메가앱솔] 배틀 운용 가이드",
+  "summary": "[magic-bounce]로 상태기·해저드 반사 + 150 공격·115 스피드의 고속 물리 어태커. [sucker-punch] 선공기와 [knock-off] 유틸까지 겸비.",
+  "strengths": [
+    "[magic-bounce]로 상태기·해저드 반사",
+    "150 공격 + 115 스피드 고속 물리 화력",
+    "[sucker-punch] 선공기 피니셔"
+  ],
+  "weaknesses": [
+    "[격투]·[벌레]·[페어리] 약점",
+    "내구 65/60/60 극도로 취약",
+    "메가 진화 전 [pressure] 상태 1턴"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "play-rough",
+      "reason": "[격투]·[드래곤]·[악] 견제 메인 물리 공격"
+    },
+    {
+      "move": "sucker-punch",
+      "reason": "자속 선공기 피니셔"
+    },
+    {
+      "move": "knock-off",
+      "reason": "[악] STAB + 도구 파괴 유틸"
+    },
+    {
+      "move": "swords-dance",
+      "reason": "공격 2단계 적층 셋업"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "absolite",
+      "reason": "메가 진화를 위한 필수 아이템"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[메가앱솔]은 [magic-bounce] 특성으로 상대 상태기·해저드를 반사하면서 150 공격 + 115 스피드의 고속 물리 화력을 뿜는 공격형 유틸 어태커다. [sucker-punch] 자속 선공기까지 채택 가능하여, 스피드 초과자에 대한 대응력도 갖춘다.\n\n## 강점 분석\n[magic-bounce]는 [stealth-rock]·[taunt]·[thunder-wave] 등 변화기를 반사한다. 150 공격 + 115 스피드는 메가 어태커 중 최상위권 공격 프로필이고, [sucker-punch] 자속 선공기는 스카프 유저 이상 속도권 대응도 가능하다. [knock-off] 도구 파괴는 상대 팀 유틸리티를 영구 봉쇄한다.\n\n## 약점과 대응\n내구 65/60/60은 극도로 낮아 약점 공격 한 방에 확실히 쓰러진다. [격투]·[벌레]·[페어리] 약점은 메타 핵심 공격 타입이라 교대 인 타이밍이 매우 제한적이다. 메가 진화 전 1턴은 [pressure] 상태이고, [magic-bounce] 효과가 없다.\n\n## 추천 기술 구성\n[play-rough]는 [격투]·[드래곤]·[악] 견제 메인으로 [absol-mega]의 [악] 타입 약점 역이용. [sucker-punch]는 자속 선공기 피니셔로 필수. [knock-off]는 [악] STAB + 도구 파괴 유틸. [swords-dance]는 셋업 선택지지만 내구 약점 때문에 [protect] 대신 선택 여부는 상황별.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [absolite] 고정이다. 특성은 메가 진화 후 [magic-bounce]로 전환. 테라스탈은 [악]으로 자속 중첩 + [sucker-punch] 화력 극대화, 또는 [고스트]로 [격투]·[일반] 무효 + [psychic] 완전 면역 방어 전환.\n\n## 시너지와 파트너\n[fake-out]으로 1턴 보호, [intimidate] 유저로 물리 내구 보조 필수. [격투] 약점 카운터로 [페어리]·[psychic] 파트너, [벌레] 약점으로 [flying]·[fire] 파트너 배치.\n\n## 운용 팁\n내구 약점 때문에 선봉으로 내기보다 상대 셋업 교대 예측 턴에 교대 인. [magic-bounce]로 [stealth-rock]·[taunt] 반사 후 [play-rough]·[knock-off]로 고속 공격. [sucker-punch]는 고속 어태커 피니셔로 타이밍을 노리고, 셋업 기회가 있으면 [swords-dance] 적층 후 스윕 시도.",
+  "tags": [
+    "hoenn",
+    "dark",
+    "mega",
+    "magic-bounce",
+    "physical-sweeper"
+  ],
+  "updatedAt": "2026-04-14T00:00:00+09:00"
+}

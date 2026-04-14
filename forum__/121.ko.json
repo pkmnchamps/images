@@ -1,0 +1,82 @@
+{
+  "pokemonId": 121,
+  "nameKo": "아쿠스타",
+  "nameEn": "starmie",
+  "formKey": null,
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "roles": [
+    "special-attacker",
+    "pivot"
+  ],
+  "recommendedAbility": "natural-cure",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "water",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[아쿠스타] 배틀 운용 가이드",
+  "summary": "115 스피드와 [natural-cure] 특성을 가진 [물]·[에스퍼] 특수 어태커 겸 스피너. 유틸과 화력을 동시에 제공한다.",
+  "strengths": [
+    "115 스피드로 메타 상위권 추월",
+    "[natural-cure]로 교대마다 상태 이상 자동 치료",
+    "[rapid-spin]으로 필드 정리 담당"
+  ],
+  "weaknesses": [
+    "60/85/85의 낮은 내구",
+    "[악]·[벌레]·[고스트]·[풀]·[전기] 약점 다수",
+    "공격력은 상위권보다 한 단계 아래"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "hydro-pump",
+      "reason": "주력 [물] STAB 주력기"
+    },
+    {
+      "move": "psychic",
+      "reason": "주력 [에스퍼] STAB 서브"
+    },
+    {
+      "move": "ice-beam",
+      "reason": "[풀]·[드래곤]·[비행] 견제"
+    },
+    {
+      "move": "rapid-spin",
+      "reason": "필드 정리 + 스피드 부스트"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "leftovers",
+      "reason": "장기전 회복"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "첫 한 방 보험"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "스카프 스피드 변형"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[아쿠스타]는 [물]·[에스퍼] 타입의 특수 어태커로, 115 스피드와 [natural-cure] 특성을 통해 유틸과 화력을 동시에 제공하는 고전 카드다. [rapid-spin]으로 필드 정리 역할까지 겸할 수 있어, 공격형 팀의 다용도 슬롯으로 자주 채용된다. 100 특공과 균형 내구는 평범하지만 115 스피드의 가치가 실전성을 만들어낸다.\n\n## 강점 분석\n115 스피드는 메타 상위권 대부분을 추월하는 수치이며, [natural-cure]는 교대마다 상태 이상을 자동 치료해 [will-o-wisp]·[toxic] 견제에 강하다. [hydro-pump]와 [psychic]의 이중 STAB 조합은 견제 범위가 넓고, [ice-beam]으로 [풀]·[드래곤]·[비행]을 추가 견제할 수 있다. [rapid-spin]은 필드 정리 + 스피드 1랭크 부스트의 이중 유틸이다.\n\n## 약점과 대응\n60/85/85 내구는 낮아 한 방 공격에 취약하고, [악]·[벌레]·[고스트]·[풀]·[전기] 2배 약점이 메타에 흔하다. 특공 100은 상위권 어태커보다 한 단계 아래이므로, 내구형 상대를 단독으로 뚫기는 어렵다. priority 유저에게 선공을 내주면 바로 쓰러질 수 있다.\n\n## 추천 기술 구성\n[hydro-pump]를 주력 [물] STAB으로 고정하고, [psychic]을 두 번째 STAB으로 둔다. [ice-beam]은 [풀]·[드래곤]·[비행] 견제용 필수 서브이며, 마지막 슬롯은 [rapid-spin]으로 필드 정리 + 스피드 부스트를 챙긴다. [thunderbolt] 변형으로 [물] 자가 견제를 강화할 수도 있다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [leftovers]가 기본으로, 장기전 생존성을 강화한다. [focus-sash]는 셋업 첫 턴 보험용, [choice-scarf]는 스피드 축 통째 업그레이드 변형이다. 특성은 [natural-cure]가 가장 유용하며, analytic은 공격형 변형용이다. 테라스탈은 [물] 타입으로 STAB 화력을 유지하거나, [페어리] 타입으로 [악]·[벌레]·[드래곤] 약점을 뒤집는 방어형이 실전적이다.\n\n## 시너지와 파트너\n[아쿠스타]는 [rapid-spin] + 피벗 역할을 겸하므로, 후속 셋업 스위퍼에게 깨끗한 필드를 제공하는 설계가 기본이다. [악]·[고스트] 약점 카운터로 [페어리]·[강철] 파트너를 배치하고, [전기] 약점 대응용 [땅] 파트너를 함께 둔다. 상대 priority 방어용 [prankster] 유틸도 유용하다.\n\n## 운용 팁\n선봉 또는 2턴째 교대 인으로 진입해 [rapid-spin]으로 필드를 지우고, [hydro-pump]·[psychic]으로 피해를 누적한다. 상태 이상을 받으면 즉시 교대해 [natural-cure] 수익을 낸 뒤 다시 진입하는 루프를 반복한다. 테라스탈은 약점기를 확정으로 맞을 때 즉시 발동한다.",
+  "tags": [
+    "kanto",
+    "water",
+    "psychic",
+    "special-attacker",
+    "spinner"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

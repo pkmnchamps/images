@@ -1,0 +1,80 @@
+{
+  "pokemonId": 65,
+  "nameKo": "후딘",
+  "nameEn": "alakazam",
+  "formKey": null,
+  "types": [
+    "psychic"
+  ],
+  "roles": [
+    "special-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "magic-guard",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "psychic",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[후딘] 배틀 운용 가이드",
+  "summary": "[magic-guard] + 120 스피드 + 135 특공의 고전 [에스퍼] 스위퍼. 간접 피해 무효로 셋업 안정성이 높다.",
+  "strengths": [
+    "[magic-guard]로 [독]·화상·필드 피해 무효",
+    "120 스피드로 메타 대부분 추월",
+    "135 특공 + [nasty-plot] 콤보로 2턴만에 스위프"
+  ],
+  "weaknesses": [
+    "55/45/95의 종이 내구",
+    "[악]·[고스트]·[벌레] 2배 약점",
+    "priority 유저에게 취약"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "psychic",
+      "reason": "주력 [에스퍼] STAB"
+    },
+    {
+      "move": "focus-blast",
+      "reason": "[악]·[강철]·[노말] 견제 [격투] 서브"
+    },
+    {
+      "move": "shadow-ball",
+      "reason": "[고스트]·[에스퍼] 견제 [고스트] 서브"
+    },
+    {
+      "move": "nasty-plot",
+      "reason": "특공 1회 셋업 스위프 진입"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "첫 한 방 보험용"
+    },
+    {
+      "item": "life-orb",
+      "reason": "공격 1.3배 화력 확보"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "스카프 스피드 변형용"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[후딘]은 [에스퍼] 단일 타입의 고전 특수 스위퍼로, 135 특공과 120 스피드의 결합으로 메타 상위권에서 꾸준히 실전성을 유지한다. 숨겨진 특성 [magic-guard]는 간접 피해를 완전 무효화해 종이 내구의 약점을 구조적으로 해결하고, [focus-sash]와 결합되면 확정 1턴 셋업 보험이 완성된다.\n\n## 강점 분석\n[magic-guard]는 [후딘]의 정체성이다. [독]·화상·[stealth-rock]·[life-orb] 반동 등 모든 간접 피해가 무효화되어, 55/45/95의 종이 내구에도 불구하고 안정적으로 진입할 수 있다. 120 스피드는 메타 대부분을 추월하고, [nasty-plot] 한 번이면 특공이 2배로 뛰어 [psychic]·[focus-blast]·[shadow-ball]로 전 메타를 녹일 수 있다.\n\n## 약점과 대응\n55/45의 극단적 저내구는 직접 공격 한 방에 쓰러질 수 있음을 의미한다. [악]·[고스트]·[벌레] 2배 약점이 구조적이고, 특히 priority 유저(메가캥카·윈디 등)에게는 [focus-sash]가 없으면 셋업 자체가 불가능하다. 스카프 스피드 상위권에게도 추월될 수 있으니 상황 판단이 필수다.\n\n## 추천 기술 구성\n[psychic]을 주력 [에스퍼] STAB으로 고정하고, [focus-blast]로 [악]·[강철]·[노말] 견제를 해결한다. [shadow-ball]은 [고스트]·[에스퍼] 견제용으로, [에스퍼] 자가 견제 문제를 우회하는 필수 슬롯이다. 마지막은 [nasty-plot]으로 셋업해 스위퍼 피니셔 전환을 완성한다. 3공격 변형이라면 [psyshock] 을 쓰는 경우도 있지만 [magic-guard] 셋업형에는 [psychic]이 더 자연스럽다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [focus-sash]가 기본으로, 종이 내구 + [magic-guard] 조합과 완벽한 시너지다. [life-orb]는 [magic-guard] 덕분에 반동 피해 없이 1.3배 보정을 그대로 받는 강력한 선택이고, [choice-scarf]는 셋업 대신 스피드 축을 통째로 올리는 변형이다. 특성은 [magic-guard] 고정. 테라스탈은 [에스퍼]로 STAB 화력을 올리거나, [페어리]로 [악]·[드래곤] 약점을 뒤집는다.\n\n## 시너지와 파트너\n[후딘]은 스위퍼 피니셔이므로, 셋업 1턴을 만들어줄 [fake-out] 리드나 피벗 라인과 조합이 좋다. [악]·[고스트] 약점 카운터로 [페어리]·[강철] 파트너를 배치하고, 상대 priority 카운터로 [prankster] 방어 수단을 준비한다. [stealth-rock]은 [magic-guard]가 무효화하므로 팀 전체의 진입 제한이 줄어든다.\n\n## 운용 팁\n[focus-sash] 보험을 믿고 안전한 턴에 [nasty-plot] 1회, 그 다음 턴부터 [psychic]·[focus-blast]로 확정킬을 노린다. [shadow-ball]은 상대 [에스퍼]·[고스트]가 나올 때만 쓰고, 테라스탈은 [악]·[고스트] 약점기를 확정으로 맞을 때 즉시 발동한다.",
+  "tags": [
+    "kanto",
+    "psychic",
+    "special-sweeper",
+    "magic-guard"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

@@ -1,0 +1,73 @@
+{
+  "pokemonId": 354,
+  "nameKo": "메가다크펫",
+  "nameEn": "banette-mega",
+  "formKey": "mega",
+  "types": [
+    "ghost"
+  ],
+  "roles": [
+    "physical-attacker",
+    "support"
+  ],
+  "recommendedAbility": "prankster",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "ghost",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 16,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 16
+  },
+  "locale": "en",
+  "title": "Mega Banette Battle Guide",
+  "summary": "A [Ghost] attacker–disruptor hybrid — [prankster] makes [will-o-wisp] and [taunt] priority, and 165 Attack turns [shadow-claw] into a real threat.",
+  "strengths": [
+    "[prankster] priority [will-o-wisp] and [taunt]",
+    "165 Attack is one of the highest among Mega Pokemon",
+    "Ghost typing immune to [Normal] and [Fighting]"
+  ],
+  "weaknesses": [
+    "Weak to [Dark] and [Ghost]",
+    "Bulk is 64/75/83 — very fragile",
+    "No Speed boost tools and base 75 Speed"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "shadow-claw",
+      "reason": "Main [Ghost] STAB off 165 Attack"
+    },
+    {
+      "move": "will-o-wisp",
+      "reason": "Priority burn thanks to [prankster]"
+    },
+    {
+      "move": "taunt",
+      "reason": "Priority [taunt] shuts down setup"
+    },
+    {
+      "move": "sucker-punch",
+      "reason": "Priority finisher"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "banettite",
+      "reason": "Mandatory Mega Stone with no alternative"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nMega Banette is a rare hybrid of offensive power and utility — [prankster] gives priority to its status moves, and 165 Attack lets [shadow-claw] deal real damage. The result is a disruptor that can simultaneously cripple physical attackers with [will-o-wisp], lock out setup sweepers with [taunt], and still threaten direct KOs.\n\n## Strengths\n[prankster] priority on [will-o-wisp] and [taunt] is the defining ability interaction — Mega Banette disables the opposing team before any damage is traded. 165 Attack puts [shadow-claw] in the upper tier of [Ghost] STABs, and the [Ghost] typing grants immunity to [Normal] and [Fighting] (including [fake-out]).\n\n## Weaknesses & Answers\nBulk of 64/75/83 is very fragile — priority moves or super-effective hits will one-shot it. [Dark] and [Ghost] attackers are the main threats. Speed 75 without any boost tools means Mega Banette relies on [prankster] or [sucker-punch] for tempo, not raw speed.\n\n## Recommended Moveset\n[shadow-claw] is the main STAB. [will-o-wisp] is priority burn thanks to [prankster]. [taunt] is priority [taunt] that shuts down setup leads and stall pivots. [sucker-punch] closes the set as a priority finisher.\n\n## Item · Ability · Tera\n[banettite] is mandatory. [prankster] activates only after Mega Evolution. Tera [Ghost] stacks STAB for stronger [shadow-claw] damage, while Tera [Fairy] flips the [Dark] and [Ghost] weaknesses into resistances.\n\n## Teammates & Synergy\n[intimidate] support covers the poor physical bulk. [fake-out] users like [incineroar] buy safe turns. [Fairy] partners punish the [Dark]/[Ghost] weakness.\n\n## Play Patterns\nMega evolve and immediately [prankster]-burn the most threatening physical attacker, or [taunt] a setup lead. Follow with [shadow-claw] for direct damage and [sucker-punch] to clean up faster attackers. Be cautious with switch-ins — Mega Banette cannot eat super-effective hits.",
+  "tags": [
+    "hoenn",
+    "ghost",
+    "mega",
+    "prankster",
+    "disruptor"
+  ],
+  "updatedAt": "2026-04-14T00:00:00+09:00"
+}

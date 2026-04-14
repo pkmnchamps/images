@@ -1,0 +1,75 @@
+{
+  "pokemonId": 302,
+  "nameKo": "메가깜까미",
+  "nameEn": "sableye-mega",
+  "formKey": "mega",
+  "types": [
+    "dark",
+    "ghost"
+  ],
+  "roles": [
+    "support",
+    "wall"
+  ],
+  "recommendedAbility": "magic-bounce",
+  "recommendedNature": "bold",
+  "recommendedTera": [
+    "fairy",
+    "dark"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 28,
+    "spa": 0,
+    "spd": 4,
+    "spe": 0
+  },
+  "locale": "ko",
+  "title": "[메가깜까미] 배틀 운용 가이드",
+  "summary": "[magic-bounce]로 상대의 [taunt]·[stealth-rock]·[thunder-wave] 등 상태기를 반사하는 지연 지원 포켓몬. [will-o-wisp]로 물리 어태커를 화상시킨다.",
+  "strengths": [
+    "[magic-bounce]로 상태이상·해저드 반사",
+    "[dark]·[ghost] 복합 [psychic]·[격투] 무효",
+    "[recover] + [will-o-wisp]로 물리 어태커 봉쇄"
+  ],
+  "weaknesses": [
+    "[fairy] 약점 — 등장이 활발한 메타",
+    "공격 스탯 85로 공격 화력 부족",
+    "스피드 50으로 대부분의 포켓몬에게 후공"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "will-o-wisp",
+      "reason": "물리 어태커 화상 봉쇄 핵심 유틸"
+    },
+    {
+      "move": "recover",
+      "reason": "HP 1/2 회복 지속 탱킹"
+    },
+    {
+      "move": "foul-play",
+      "reason": "상대 공격으로 역산 [dark] STAB"
+    },
+    {
+      "move": "shadow-ball",
+      "reason": "[고스트] STAB 보조 공격"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "sablenite",
+      "reason": "메가 진화를 위한 필수 아이템"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[메가깜까미]는 [magic-bounce] 특성으로 상대의 [taunt]·[stealth-rock]·[thunder-wave]·[encore] 등 상태기·해저드 기술을 그대로 반사하는 지연 지원 포켓몬이다. [will-o-wisp]으로 물리 어태커를 화상시키고, [recover]로 지속적으로 회복하며, [foul-play]로 상대의 공격 스탯을 역산하는 비대칭 데미지 딜러 역할까지 겸한다.\n\n## 강점 분석\n[magic-bounce]는 메타에서 가장 강력한 유틸리티 특성 중 하나다. 상대의 [stealth-rock] 세팅이 원천 차단되고, [taunt]·[thunder-wave] 등 페이스 방해 기술도 전부 반사된다. [dark]·[ghost] 복합 타입은 [psychic]과 [fighting]에 완전 면역이라 [mewtwo]·[urshifu] 계열에게 안전 교대인이 가능하다. [recover]로 장기전에서 HP 관리가 완벽하다.\n\n## 약점과 대응\n[fairy] 약점은 메타 핵심으로 [tapu-koko]·[gardevoir] 등 등장이 활발한 상대에게 치명적이다. 공격 스탯 85로는 화력 데미지가 부족해 [foul-play]에 의존한다. 스피드 50으로 대부분의 포켓몬보다 후공이라 반드시 교대 인으로 운용해야 한다.\n\n## 추천 기술 구성\n[will-o-wisp]는 물리 어태커 봉쇄의 핵심. [recover]는 지속 탱킹에 필수로, HP 1/2 회복으로 장기전 주도권을 쥔다. [foul-play]는 상대의 공격 스탯을 역산하여 [swords-dance] 셋업 어태커를 역이용 카운터할 수 있다. [shadow-ball]은 [고스트] STAB 보조.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [sablenite] 고정이다. 특성은 메가 진화 후 [magic-bounce]로 자동 전환(진화 전 [prankster]는 무효). 테라스탈은 [fairy]로 [fighting]·[dark]·[bug] 약점 역이용 가능한 저항 프로필로 전환하거나, [dark]로 [psychic] 완전 면역 유지 + [dark] STAB 강화.\n\n## 시너지와 파트너\n특수 어태커 파트너와의 시너지가 가장 좋다. [메가깜까미]가 물리 어태커를 화상으로 봉쇄하는 동안 특수 화력이 뒷받침되는 구성. [fairy] 약점 카운터로 [steel]·[poison] 파트너를 배치한다. [trick-room] 파티에서 스피드 50이 장점이 되는 운용도 가능.\n\n## 운용 팁\n선봉으로 내지 않고 상대의 셋업 어태커 교대 예측 턴에 교대 인으로 등장시킨다. [magic-bounce]로 [stealth-rock]·[taunt]를 반사한 후, [will-o-wisp]로 물리 어태커를 봉쇄하고 [recover]로 체력을 유지한다. [foul-play]는 상대가 공격 셋업을 쌓을 때 결정타로 사용한다.",
+  "tags": [
+    "hoenn",
+    "dark",
+    "ghost",
+    "mega",
+    "magic-bounce",
+    "support"
+  ],
+  "updatedAt": "2026-04-14T00:00:00+09:00"
+}

@@ -1,0 +1,82 @@
+{
+  "pokemonId": 6,
+  "nameKo": "리자몽",
+  "nameEn": "charizard",
+  "formKey": null,
+  "types": [
+    "fire",
+    "flying"
+  ],
+  "roles": [
+    "special-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "solar-power",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "fire",
+    "fighting"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "[Charizard] Battle Guide",
+  "summary": "A [Fire]/[Flying] special [sweeper] that turns sun into a 1.5x SpA multiplier through [solar-power] and burns through the back line at 100 Speed.",
+  "strengths": [
+    "[solar-power] plus sun pushes effective SpA past 160",
+    "Base 100 Speed outruns most unboosted threats",
+    "[air-slash]'s 30% flinch chance creates free turns"
+  ],
+  "weaknesses": [
+    "[stealth-rock] removes half HP on entry",
+    "4x [Rock] weakness plus [Water] and [Electric] 2x",
+    "[solar-power]'s self-damage caps its staying power"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "fire-blast",
+      "reason": "Main STAB that stacks [solar-power], sun, and [charcoal] for absurd power"
+    },
+    {
+      "move": "air-slash",
+      "reason": "[Flying] STAB with a 30% flinch chance to steal tempo"
+    },
+    {
+      "move": "focus-blast",
+      "reason": "Mandatory cove[rage] for [Rock], [Steel], and [Dark] switch-ins"
+    },
+    {
+      "move": "solar-beam",
+      "reason": "One-turn-[charge] nuke under sun that erases bulky [Water] and [Rock]"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "charcoal",
+      "reason": "20% [Fire] multiplier that stacks with and sun"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "Preserves the Speed axis outside of sun turns"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "Insurance against priority and [stealth-rock] chip"
+    }
+  ],
+  "bodyMarkdown": "## Overview\n[Charizard] is a classic [Fire]/[Flying] special [sweeper] that acts as the offensive engine of sun teams. [solar-power] converts its 109 SpA into a 160+ effective figure, and 100 Speed puts it ahead of the bulk of the unboosted metagame. Between nuclear [Fire] STAB, flinch utility on [air-slash], and a one-turn [solar-beam], it can single-handedly crack open opposing back lines when given the right team support.\n\n## Strengths\nThe [solar-power] + sun + [charcoal] stack produces one of the strongest [fire-blast] outputs in the format, cleanly two-shotting most defensive pivots. The [Fire]/[Flying] STAB combination covers [Grass], [Bug], [Fairy], and [Fighting]-resistant cores from useful angles, and the flinch roll on [air-slash] adds a probabilistic tempo lever that opponents cannot plan around. At 100 base Speed, [Charizard] also raises the team's Speed tier floor, reducing the burden on dedicated Speed control.\n\n## Weaknesses & Answers\n[stealth-rock] is the single biggest issue — one uncleared set of rocks removes half of [Charizard]'s HP on entry. Without a reliable hazard remover, the set simply should not be drafted. The 4x [Rock] weakness means one misclicked [stone-edge] ends the game on the spot, and [Water] or [Electric] attackers also pose an immediate threat. [solar-power] drains 1/8 HP per turn, which puts a hard clock on how long [Charizard] can stay on the field.\n\n## Recommended Moveset\n[fire-blast] is the main STAB — stacked with [solar-power], sun, and [charcoal], it nukes even defensive threats in two hits. [air-slash] provides [Flying] STAB and flinch pressure for slower bulky targets. [focus-blast] is the mandatory coverage slot that punishes [Rock], [Steel], and [Dark] switch-ins who try to wall the STAB combo. The last slot is [solar-beam], which one-turn-charges under sun and erases [Water], [Rock], and [Ground] pivots in a single click. On rainless teams, [thunderbolt] is an equally valid alternative.\n\n## Item · Ability · Tera\n[charcoal] is the default because its 20% [Fire] multiplier multiplicatively stacks with [solar-power] and sun for a genuinely terrifying [fire-blast] number. [choice-scarf] is the alternative when sun uptime is unreliable, preserving the Speed axis. [focus-sash] is an insurance option against priority. The ability must be [solar-power]. For Tera, [Fire] deepens [fire-blast]'s already absurd output; [Fighting] is the defensive flip that removes the 4x [Rock] weakness outright.\n\n## Teammates & Synergy\nA dedicated sun setter plus a reliable [stealth-rock] remover ([defog] or [rapid-spin]) are effectively mandatory. Because [solar-power] wears [Charizard] down quickly, it pairs well with status-spreading teammates that soften walls in advance — [toxic] or [will-o-wisp] users who chip opposing special tanks. Always lead with the support pivot and bring [Charizard] in later through a safe switch.\n\n## Play Patterns\nEnter only after sun is up and [stealth-rock] has been removed. Once [Charizard] drops below 50% HP, stop attacking and pivot out — staying in for a third turn usually means losing it to self-chip instead of a real trade.",
+  "tags": [
+    "kanto",
+    "fire",
+    "sun",
+    "solar-power",
+    "special-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

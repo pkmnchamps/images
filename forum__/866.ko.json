@@ -1,0 +1,78 @@
+{
+  "pokemonId": 866,
+  "nameKo": "마임꽁꽁",
+  "nameEn": "mr-rime",
+  "formKey": null,
+  "types": [
+    "ice",
+    "psychic"
+  ],
+  "roles": [
+    "special-attacker",
+    "support"
+  ],
+  "recommendedAbility": "screen-cleaner",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "water",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[마임꽁꽁] 배틀 운용 가이드",
+  "summary": "[screen-cleaner]로 상대 스크린을 지우고 [freeze-dry] [물] 견제를 가진 [얼음]·[에스퍼] 변칙 어태커.",
+  "strengths": [
+    "특성 [screen-cleaner]로 [light-screen]·[reflect] 즉시 제거",
+    "[freeze-dry]로 [물] 타입을 4배로 찌르는 [독]특한 타점",
+    "[triple-axel]로 내구 [얼음] STAB 라인 확보"
+  ],
+  "weaknesses": [
+    "[강철]·[불꽃]·[바위]·[악]·[고스트] 2배의 다중 약점",
+    "HP 80/특방 100으로 물리 내구 평범",
+    "스피드 70이라 스카프 없이는 선공 어려움"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "freeze-dry",
+      "reason": "[물] 타입에 4배로 들어가는 특수 [얼음] 타격"
+    },
+    {
+      "move": "psychic",
+      "reason": "[에스퍼] STAB 메인"
+    },
+    {
+      "move": "focus-blast",
+      "reason": "[강철]·[악] 견제"
+    },
+    {
+      "move": "nasty-plot",
+      "reason": "스크린 제거 후 1랭크 셋업"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "choice-scarf",
+      "reason": "스피드 70을 보완해 선공 확보 (-scarf])"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "1회 사용을 보장하는 보험"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[마임꽁꽁]은 종족값 80/85/75/110/100/70의 [얼음]·[에스퍼] 특수 어태커로, 챔피언스 MA에서는 [screen-cleaner] 특성을 살린 스크린 파훼 전문가 + 변칙 [얼음] 카운터로 쓰인다. [freeze-dry]라는 고유 타점을 가진 [얼음] 유저 중에서도 특공 110의 충분한 화력을 갖춘 쪽이다.\n\n## 강점 분석\n가장 큰 무기는 특성 [screen-cleaner] — 교체 진입만으로 양측의 [light-screen]·[reflect]·[aurora-veil]을 날려버려서 스크린 팀 전체의 플랜을 한 턴에 박살낸다. [freeze-dry]는 [물]·[비행]·[풀]·[땅] 4배가 한 기술에 다 꽂히는 희귀 타점이라, 상대 팀의 [물] 스위치인을 정면으로 벌준다. 특공 110은 [nasty-plot] 한 턴이면 메타 상위권 특수 라인에 도달한다.\n\n## 약점과 대응\n[강철]·[불꽃]·[바위]·[악]·[고스트] 2배 타점이 촘촘해서, 한 번에 많은 상대에게 불리 매치업을 먹는다. 스피드 70은 choice-scarf 없이는 선공이 안 나오고, 물리 내구 80/75로 [close-combat]·[iron-head] 한 방에 쓰러질 수 있다. 특히 대도각참·가디르우스·타부자고 같은 [악]·[강철] 축에 약점을 그대로 내주는 구조다.\n\n## 추천 기술 구성\n[freeze-dry]는 반드시 고정 — 이 기술 하나 때문에 [마임꽁꽁]을 채용한다고 봐도 된다. [psychic]을 [에스퍼] STAB 메인으로 두고, [focus-blast]로 [강철]·[악] 라인을 뚫는다. 네 번째 슬롯은 [nasty-plot]으로 스크린 제거 후의 특공 +2를 만드는 세팅이 가장 실전적이다. 팀이 [trick-room] 중심이라면 [nasty-plot] 대신 [trick-room]을 넣고 성격을 quiet로 바꾸는 변형도 있다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 choice-scarf를 1순위로 추천한다 — 스피드 70이라는 애매한 수치를 보완해야 [freeze-dry] 기습이 성립한다. [focus-sash]는 [screen-cleaner] 진입을 확실히 살리고 싶은 팀에 적합하다. 특성은 [ice]-body보다 [screen-cleaner]가 실전적 — 스크린 팀을 원샷에 파훼한다. 테라스탈은 [얼음] 약점을 지우는 [물] 타입, 혹은 [강철]·[악] 약점을 뒤집는 [페어리]가 두 주력 선택지다.\n\n## 시너지와 파트너\n스크린 팀 카운터라는 역할을 극대화하려면 빠른 스위퍼 파트너가 뒤에 있어야 한다. 상대 [물] 타입을 [freeze-dry]로 쥐어짜면 그 틈에 [풀]·[전기] 스위퍼가 정리하는 그림이 이상적이다. [악]·[강철] 약점 보완을 위해 [격투]·[땅] 파트너, 그리고 선공기 억지력을 만들 [intimidate] 서포터를 함께 둔다. [trick-room] 세터와 조합한다면 quiet 버전이 광역 특수 화력을 낼 수 있다.\n\n## 운용 팁\n상대 선봉이 스크린을 깐 직후 스위치 인 해 [screen-cleaner]로 판을 지우는 것이 가장 강력한 타이밍이다. [freeze-dry]는 [물] 타입이 확정된 턴에만 눌러 기습 효과를 극대화하고, 일반 상황에서는 [psychic]을 안전타로 쓴다. [nasty-plot]을 쌓는 타이밍은 상대가 교대할 것이 확실한 턴만 노리고, 테라스탈은 약점이 확정될 때 즉시 발동한다.",
+  "tags": [
+    "galar",
+    "ice",
+    "psychic",
+    "screen-cleaner",
+    "freeze-dry"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

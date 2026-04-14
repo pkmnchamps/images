@@ -1,0 +1,82 @@
+{
+  "pokemonId": 547,
+  "nameKo": "엘풍",
+  "nameEn": "whimsicott",
+  "formKey": null,
+  "types": [
+    "grass",
+    "fairy"
+  ],
+  "roles": [
+    "support",
+    "lead"
+  ],
+  "recommendedAbility": "prankster",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "steel",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 2,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "[Whimsicott] Battle Guide",
+  "summary": "A [prankster] [lead] that fires [tailwind], [encore], and [leech-seed] with +1 priority before the opponent can react.",
+  "strengths": [
+    "[prankster] gives every status move +1 priority",
+    "[encore] locks opponents into setup turns or [recover]y c[lick]s",
+    "[tailwind] flips the team's whole Speed axis for four turns"
+  ],
+  "weaknesses": [
+    "Stacked [Ice], [Poison], [Flying], [Steel], and [Fire] weaknesses",
+    "77 SpA makes [moonblast] feel like a chip move",
+    "[Dark]-types shut [prankster] off entirely"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "tailwind",
+      "reason": "Doubles the team's Speed for four turns from the [lead] position"
+    },
+    {
+      "move": "encore",
+      "reason": "[prankster] locks any setup or status c[lick] into a dead slot"
+    },
+    {
+      "move": "leech-seed",
+      "reason": "Forces switches and bleeds the opponent while [Whimsicott] sits"
+    },
+    {
+      "move": "moonblast",
+      "reason": "[Fairy] STAB cove[rage] so [taunt] [lead]s cannot fully neutralize [Whimsicott]"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "Guarantees the turn-one against any"
+    },
+    {
+      "item": "mental-herb",
+      "reason": "One-shot [taunt] clear so the status plan survives bait s"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "Extra durability for the stall build"
+    }
+  ],
+  "bodyMarkdown": "## Overview\n[Whimsicott] is a stat sheet that doesn't matter and an ability that does everything. [prankster] gives every [support] move +1 priority, which means [tailwind], [encore], and [leech-seed] all go before anything short of Choice-Scarf priority. Base 116 Speed is a nice bonus but almost never used — [Whimsicott]'s job is to flip momentum the instant it enters.\n\n## Strengths\nThe [prankster] package is the entire kit. Turn-one [tailwind] locks the team's Speed advantage for four turns, which alone carries many games. [encore] punishes any setup attempt, any [protect], or any non-attacking click — a single free [encore] against a [Dragon] Dance opponent swings the whole match. [leech-seed] off [prankster] is guaranteed against anything slower, and the [Grass]-[Fairy] type combination gives [Whimsicott] free switch-ins on [Water], [Fighting], [Dragon], and [Dark] STAB, which is where most leads live anyway.\n\n## Weaknesses & Answers\n[Ice], [Poison], [Flying], [Steel], and [Fire] all hit for 2x, and [Whimsicott]'s 60 HP base dies to almost anything not resisted. [Flying] and [Ice] leads outrun and kill it before [prankster] matters — against those matchups it has one turn to deliver [tailwind] and get out. [Dark]-types are the hard [counter] because [prankster] status moves are blanked against them entirely. [moonblast] off 77 SpA is chip damage, not real pressure, so any bulky [Steel] safely walls the set.\n\n## Recommended Moveset\n[tailwind] is the identity move — clicking it turn one on the [lead] is why [Whimsicott] exists. [encore] is the second mandatory slot since it punishes setup and recovery clicks for free and often produces a free turn for the [rest] of the team. [leech-seed] is the third slot because it forces switches and generates chip damage on whatever is stuck in front of [Whimsicott]. [moonblast] is the final slot because [Whimsicott] needs at least one offensive option — [substitute] swaps in if the team is built around [prankster]-only utility rather than pressure.\n\n## Item · Ability · Tera\n[focus-sash] is the default — it guarantees the turn-one [tailwind] regardless of what the opponent leads with. [mental-herb] answers bait [taunt] leads and preserves the whole [support] plan. [sitrus-berry] fits a [leech-seed] stall variant. The ability has to be [prankster] — [chlorophyll] only matters in a hard-sun team, and [infiltrator] is nowhere near as impactful as priority status. Tera [Steel] is the top Tera pick because it flips [Ice], [Flying], [Poison], and [Fire] all at once; Tera [Fairy] is the alternative when [prankster]'s [Dark]-type vulnerability needs hiding.\n\n## Teammates & Synergy\n[Whimsicott] needs slow, high-damage attackers that can cash in on [tailwind] — [trick-room]-adjacent bruisers actually don't want [tailwind], so pair it with fast setup sweepers or physical wallbreakers instead. A [Dark]-type answer ([Fighting] or [Fairy] hitter) is mandatory. Add a [Steel] tank to [absorb] [Ice] and [Flying] pressure, and a hazard-removing pivot so [Whimsicott]'s [focus-sash] doesn't die to [stealth-rock] on switch-in.\n\n## Play Patterns\nLead [Whimsicott] 90 percent of the time. Turn one [tailwind], turn two either [encore] or [leech-seed] depending on what the opponent clicked. If a [Dark]-type leads instead, switch out immediately — [Whimsicott] has nothing to do against them. Once all [prankster] utility is spent, chip out with [moonblast] to guarantee [focus-sash] contribution. Tera only when a [Flying] or [Ice] hit would KO an otherwise-safe [Whimsicott] — otherwise leave Tera for a teammate that will cash it in harder.",
+  "tags": [
+    "unova",
+    "fairy",
+    "prankster",
+    "tailwind",
+    "lead"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

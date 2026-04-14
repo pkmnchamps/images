@@ -1,0 +1,80 @@
+{
+  "pokemonId": 59,
+  "nameKo": "윈디",
+  "nameEn": "arcanine",
+  "formKey": null,
+  "types": [
+    "fire"
+  ],
+  "roles": [
+    "physical-attacker",
+    "pivot"
+  ],
+  "recommendedAbility": "intimidate",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "fire",
+    "fighting"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[윈디] 배틀 운용 가이드",
+  "summary": "[intimidate]로 교대 수익을 챙기는 [불꽃] 물리 어태커. [extreme-speed]로 스피드 약점을 선공기로 보완한다.",
+  "strengths": [
+    "[intimidate]로 물리 어태커 교대 턴 약화",
+    "[extreme-speed] 고위 선공기 보유",
+    "90/80/80 균형 내구로 교대 안정성 확보"
+  ],
+  "weaknesses": [
+    "[바위]·[물]·[땅] 약점으로 [stealth-rock] 취약",
+    "스피드 95로 상위권에게 후공",
+    "[flare-blitz] 반동 누적 관리 필요"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "flare-blitz",
+      "reason": "주력 물리 [불꽃] STAB"
+    },
+    {
+      "move": "extreme-speed",
+      "reason": "메타 최고급 선공기"
+    },
+    {
+      "move": "close-combat",
+      "reason": "[바위]·[노말]·[강철] 견제 [격투] 서브"
+    },
+    {
+      "move": "morning-sun",
+      "reason": "회복 유틸로 생존성 유지"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "charcoal",
+      "reason": "[불꽃] 화력 강화"
+    },
+    {
+      "item": "leftovers",
+      "reason": "장기전 회복 카드"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "초반 회복 카드"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[윈디]는 [불꽃] 단일 타입의 물리 어태커로, [intimidate]로 교대 수익을 챙기고 [extreme-speed]로 스피드 약점을 선공기로 보완하는 실전적인 고전 카드다. 90/80/80의 균형 내구에 공격 110과 스피드 95가 결합되어, 교대 플랜과 피니셔 역할을 동시에 소화한다.\n\n## 강점 분석\n[intimidate]는 교대 시 상대 물리 어태커의 공격력을 1랭크 떨어뜨려 [윈디]의 내구를 실질적으로 끌어올린다. [extreme-speed]는 메타 최고급 선공기 중 하나로, 스피드 우위에 있지 않아도 약화된 상대를 확정으로 끊어낸다. [flare-blitz]는 공격 110 + STAB + Jolly 보정의 3단계 화력이 결합되어, 한 번 진입해 한 번만 휘둘러도 상당한 피해를 남긴다.\n\n## 약점과 대응\n[바위]·[물]·[땅] 2배 약점이 메타에 흔하며, [stealth-rock] 25% 피해는 교대 인 빈도를 제한한다. 스피드 95는 메타 상위권(110 이상) 어태커에게 추월되므로, 셋업 없이는 1대1 스피드 승부에서 불리하다. [flare-blitz] 반동이 누적되면 [morning-sun]으로 회복해야 하지만, 턴을 소모한다는 구조적 제약이 있다.\n\n## 추천 기술 구성\n[flare-blitz]를 주력 물리 [불꽃] STAB으로 고정해 최대 화력을 낸다. [extreme-speed]는 스피드 약점 보완의 핵심 선공기로, 약화된 상대 피니셔로 자주 기능한다. [close-combat]은 [바위]·[노말]·[강철] 견제용 필수 [격투] 서브, 마지막은 [morning-sun]으로 반동 누적을 회복한다. 변형으로 [wild-charge]를 넣어 [물] 타입 견제를 챙기는 옵션도 있다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [charcoal]이 기본으로, [flare-blitz] 화력을 20% 추가 보정한다. [leftovers]는 장기전 생존성 강화용, [sitrus-berry]는 초반 한 방 회복용이다. 특성은 [intimidate] 고정이며 [flash]-[fire]·justified는 호환성이 떨어진다. 테라스탈은 [불꽃] 타입으로 [flare-blitz] 화력을 올리거나, [격투] 타입으로 [바위] 약점을 뒤집으며 [close-combat] 화력을 강화한다.\n\n## 시너지와 파트너\n[윈디]는 교대 피벗과 피니셔 역할을 겸하므로, [stealth-rock] 지우기 담당([defog]·[rapid-spin])과 묶여야 반동 + 필드 피해 누적을 줄일 수 있다. [물]·[바위] 약점 카운터로 [풀]·[땅] 파트너를 배치하고, [volt-switch]·[u-turn] 피벗 라인과 결합해 안전 진입 포인트를 만든다. 후속 클리너에게는 [extreme-speed]로 마무리 지원을 해줄 수 있다.\n\n## 운용 팁\n교대 인으로 [intimidate] 수익을 챙긴 후 [flare-blitz]를 꽂고, [extreme-speed]로 약화된 상대를 끊는다. [morning-sun]은 HP 50% 구간에서 쓰고, 테라스탈은 [바위]·[물] 약점기를 확정으로 맞을 때 즉시 발동한다.",
+  "tags": [
+    "kanto",
+    "fire",
+    "physical-attacker",
+    "intimidate"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

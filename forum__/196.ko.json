@@ -1,0 +1,81 @@
+{
+  "pokemonId": 196,
+  "nameKo": "에브이",
+  "nameEn": "espeon",
+  "formKey": null,
+  "types": [
+    "psychic"
+  ],
+  "roles": [
+    "special-attacker",
+    "lead"
+  ],
+  "recommendedAbility": "magic-bounce",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "psychic",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "spa": 32,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[에브이] 배틀 운용 가이드",
+  "summary": "[magic-bounce]로 설치기와 상태기를 반사하며 템포를 잡는 [에스퍼] 특수 리드.",
+  "strengths": [
+    "[magic-bounce]로 [stealth-rock]·[thunder-wave] 반사",
+    "특공 130·스피드 110의 공격적인 리드 스탯",
+    "STAB [psychic] 한 방으로 [격투]·[독] 벽을 즉시 붕괴"
+  ],
+  "weaknesses": [
+    "[악]·[고스트]·[벌레] 약점 누적",
+    "선공기와 [choice-scarf] 유저에 극도로 취약",
+    "물리 내구 60/60으로 한 방이면 침묵"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "psychic",
+      "reason": "메인 [에스퍼] STAB 결정타"
+    },
+    {
+      "move": "dazzling-gleam",
+      "reason": "[악]·[드래곤] 견제용 [페어리] 서브"
+    },
+    {
+      "move": "shadow-ball",
+      "reason": "동속 [에스퍼]·[고스트] 미러 대응"
+    },
+    {
+      "move": "calm-mind",
+      "reason": "벽 뒤에서 특공·특방을 동시에 올리는 셋업"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "선공 한 방을 버티고 반사·반격을 성립"
+    },
+    {
+      "item": "twisted-spoon",
+      "reason": "의 결정력을 한 단계 끌어올림"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "스피드 라인을 더 위로 끌어올려 동속 승부를 회피"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[에브이]는 [에스퍼] 단일 타입의 특수 어태커로, 챔피언스 메타에서는 숨겨진 특성 [magic-bounce]를 살린 리드 운용이 기본이다. 특공 130·스피드 110의 공격 스탯은 상위권에 가깝고, 상대의 [stealth-rock]·[sticky-web]·[thunder-wave]·[toxic]을 그대로 되돌려 첫 턴부터 템포를 가져오는 것이 핵심 플랜이다.\n\n## 강점 분석\n[magic-bounce]는 현 메타에서 가장 강력한 특성 중 하나로, 설치기·상태기 유저의 리드 플랜을 한 방에 무효화한다. 특공 130에서 나오는 [psychic]은 [격투]·[독]·[벌레] 타입 대부분을 2타로 정리하고, [dazzling-gleam]은 [악]·[드래곤] 코어를 끊는 두 번째 STAB 역할을 한다. 스피드 110은 메타 대부분의 리드와 중간 속도대 어태커를 추월해 선제 딜을 넣을 수 있는 라인이다.\n\n## 약점과 대응\n단일 [에스퍼] 타입은 [악]·[고스트]·[벌레] 3속성 약점을 가지며, 특히 [sucker-punch]·[shadow-sneak] 같은 선공기에 극단적으로 취약하다. 물리 내구 65/60은 유리처럼 얇아, [악]·[고스트] 물리 어태커에게 진입 자체가 리스크다. 테라스탈 타이밍을 놓치면 계속 받아내는 카드로는 쓸 수 없으며, 반사로 벌어둔 턴을 화력으로 환산하는 운용이 필요하다.\n\n## 추천 기술 구성\n[psychic]을 STAB 메인으로 고정해 [격투]·[독] 벽을 붕괴시키고, [dazzling-gleam]으로 [악]·[드래곤] 타입을 벌준다. [shadow-ball]은 동속 [에스퍼]·[고스트] 미러에서 결정타로 기능하며, 마지막 슬롯은 [calm-mind]로 벽 뒤에서 스탯을 올려 후반 청소 라인을 만든다. 팀 구성에 따라 [grass-knot]나 [morning-sun]으로 대체할 여지가 있다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [focus-sash]가 실전에서 가장 안정적인 선택으로, 선공 한 방을 살리고 반사와 반격을 성립시킨다. [twisted-spoon]은 모든 [psychic] 결정타 라인을 한 단계 올리고, [choice-scarf]는 매치업에 따라 스피드 축을 위로 끌어올리는 역할을 한다. 특성은 반드시 [magic-bounce], 테라스탈은 [에스퍼]로 STAB을 극대화하거나 [페어리]로 [악] 약점을 뒤집는 두 가지 루트가 유력하다.\n\n## 시너지와 파트너\n내구가 얇은 만큼 [healing-wish] 서포터나 U-turn 피벗 파트너와의 조합이 이상적이다. [에브이] 자신이 [stealth-rock]을 반사하는 만큼, 아군 설치기를 보호해 주는 시너지가 추가 보너스다. 상대 [악]·[고스트] 물리에 대응할 [페어리]·[격투] 파트너를 반드시 한 마리 편성한다.\n\n## 운용 팁\n선봉에 앞세워 상대 리드의 설치·상태기를 반사하는 것이 기본이며, 상대 스위프·셋업이 읽히는 턴에는 [calm-mind]로 뒤를 도모한다. 테라스탈은 [악]·[고스트] 선공기 라인이 확정되는 순간에 즉시 발동해 생존을 사수한다.",
+  "tags": [
+    "johto",
+    "psychic",
+    "magic-bounce",
+    "lead",
+    "special-attacker"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

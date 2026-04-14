@@ -1,0 +1,76 @@
+{
+  "pokemonId": 80,
+  "nameKo": "메가야도란",
+  "nameEn": "slowbro-mega",
+  "formKey": "mega",
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "roles": [
+    "tank",
+    "special-attacker",
+    "trick-room"
+  ],
+  "recommendedAbility": "shell-armor",
+  "recommendedNature": "bold",
+  "recommendedTera": [
+    "water",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 32,
+    "spa": 2,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "en",
+  "title": "Mega Slowbro Battle Guide",
+  "summary": "A 180 Defense physical fortress that uses [calm-mind] to transition into a special sweeper. [shell-armor] removes critical hits so setup turns are guaranteed.",
+  "strengths": [
+    "180 Defense is the highest physical stat in the metagame",
+    "[calm-mind] boosts both SpA and SpD for dual-role value",
+    "[shell-armor] eliminates critical hits during setup"
+  ],
+  "weaknesses": [
+    "[Bug], [Ghost], [Dark], [Electric], and [Grass] are unchanged weaknesses",
+    "Speed 30 loses every race outside [trick-room]",
+    "Pre-Mega turn runs [regenerator] with different dynamics"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "scald",
+      "reason": "Main [Water] STAB with burn utility"
+    },
+    {
+      "move": "psychic",
+      "reason": "Primary [Psychic] STAB finisher"
+    },
+    {
+      "move": "calm-mind",
+      "reason": "Setup that boosts SpA and SpD together"
+    },
+    {
+      "move": "slack-off",
+      "reason": "Reliable [recover]y to sustain the sweep"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "slowbronite",
+      "reason": "Mandatory Mega Stone with no alternatives"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nMega Slowbro is a 180 Defense physical fortress that uses [calm-mind] to convert its staying power into offense. [shell-armor] removes critical hits, so every setup turn is guaranteed safe against random variance. Unlike the base form [regenerator] pivot, the Mega set is an anchor that stays on the field and sweeps with boosted [scald] and [psychic] after accumulating [calm-mind] stacks.\n\n## Strengths\n180 Defense is the single highest stat in the metagame physical-wall pool — no unboosted physical attack threatens a KO. [shell-armor] negates critical hit RNG during setup, which is critical when the plan revolves around stacking [calm-mind] boosts. One [calm-mind] pushes SpA and SpD into finisher range, and [slack-off] keeps the HP bar topped up across a long match.\n\n## Weaknesses & Answers\n[Bug], [Ghost], [Dark], [Electric], and [Grass] are all 2x weaknesses and unchanged after Mega Evolution. [knock-off] is a lesser concern (the mega stone is immune to removal), but the damage itself still connects. Speed 30 is the fundamental limit — [taunt] users and fast setup sweepers race past the [calm-mind] plan. The pre-Mega turn runs [regenerator], which changes the first-turn dynamics.\n\n## Recommended Moveset\n[scald] is the locked [Water] STAB for burn utility against physical attackers. [psychic] is the [Psychic] STAB finisher that becomes lethal after [calm-mind] boosts. [calm-mind] is the win condition — one use turns Mega Slowbro from a wall into a true special attacker, and two stacks make it uncatchable. [slack-off] is the recovery slot that sustains the plan.\n\n## Item · Ability · Tera\n[slowbronite] is the only item because the Mega Stone is mandatory. [shell-armor] is locked post-evolution. Tera [Water] keeps STAB intact for the [scald] burn chance, while Tera [Fairy] flips [Bug] and [Dark] weaknesses into resistances, which is usually more valuable in setup turns. Offensive Tera picks are rare because the set revolves around bulk.\n\n## Teammates & Synergy\nMega Slowbro anchors a balance core that needs [Fairy] or [Steel] partners for the [Dark] and [Bug] weaknesses and a [Ground] partner for the [Electric] weakness. A priority blocker or [taunt] lead answers the opposing setup sweepers that would otherwise race past Mega Slowbro. A cleaner behind it finishes weakened targets after the [calm-mind] sweep runs out of PP.\n\n## Play Patterns\nMega Evolve into a predicted physical attack, [calm-mind] on the free turn, then [scald] and [psychic] through the opposing team while [slack-off] keeps HP stable. Save Tera for a telegraphed [Dark] or [Bug] move, and stack a second [calm-mind] when the matchup allows it.",
+  "tags": [
+    "kanto",
+    "water",
+    "psychic",
+    "mega",
+    "calm-mind",
+    "tank"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

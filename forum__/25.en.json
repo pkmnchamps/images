@@ -1,0 +1,76 @@
+{
+  "pokemonId": 25,
+  "nameKo": "피카츄",
+  "nameEn": "pikachu",
+  "formKey": null,
+  "types": [
+    "electric"
+  ],
+  "roles": [
+    "physical-attacker",
+    "lead"
+  ],
+  "recommendedAbility": "lightning-rod",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "electric",
+    "ghost"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "[Pikachu] Battle Guide",
+  "summary": "A [light-ball] [lead] whose signature item doubles both Attack and SpA, turning the frail [Electric] mascot into a real [lead] threat through [fake-out] tempo.",
+  "strengths": [
+    "[light-ball] effectively doubles Attack and SpA",
+    "[fake-out] steals the first turn of tempo",
+    "[lightning-rod] redirects allied [Electric] attacks safely"
+  ],
+  "weaknesses": [
+    "35/40/50 bulk is the lowest in the metagame",
+    "[Ground] 2x and special attacks both threaten a KO",
+    "Without [light-ball], the damage output collapses"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "volt-tackle",
+      "reason": "[Electric] STAB boosted by [light-ball]"
+    },
+    {
+      "move": "play-rough",
+      "reason": "[Fairy] cove[rage] for [Dark] and [Dragon] threats"
+    },
+    {
+      "move": "knock-off",
+      "reason": "Item removal utility for long-game trades"
+    },
+    {
+      "move": "fake-out",
+      "reason": "Priority tempo control on the [lead] turn"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "light-ball",
+      "reason": "Signature item doubling Attack and SpA"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "Survival insurance when is unavailable"
+    }
+  ],
+  "bodyMarkdown": "## Overview\n[Pikachu] is a frail [Electric] physical [lead] whose entire viability comes from [light-ball] — the signature item that doubles both Attack and SpA. 35/40/50 bulk and Speed 90 are nothing special on paper, but the doubled Attack means [volt-tackle] hits like a top-tier breaker, and [fake-out] gives it a [lead] slot the metagame actually respects.\n\n## Strengths\n[light-ball] is unique to [Pikachu] and effectively makes it a 2x damage attacker. [volt-tackle] becomes a one-shot move on most frail targets, and [play-rough] handles [Dark] and [Dragon] threats that would otherwise wall the [Electric] STAB. [fake-out] steals the first turn of tempo on [lead], and [lightning-rod] makes [Pikachu] an active redirect target for teammates that share an [Electric] matchup.\n\n## Weaknesses & Answers\n35/40/50 bulk is the lowest in the metagame, and any priority move or neutral hit threatens a KO. [Ground] is 2x and [earthquake] users completely ignore [Pikachu]. Speed 90 is also below most scarfed threats, so [Pikachu] loses the race after [fake-out] resolves. Losing [light-ball] to [knock-off] cripples the whole set instantly — be careful about trading items.\n\n## Recommended Moveset\n[volt-tackle] is the locked [Electric] STAB because [light-ball] is what makes the set viable. [play-rough] covers [Dark] and [Dragon] threats, and [knock-off] provides item removal for long-game value against walls. [fake-out] is the last slot for [lead] tempo — it often guarantees the first KO just by forcing a switch on turn one. Special variants with [thunderbolt] and [surf] exist but give up the [volt-tackle] ceiling.\n\n## Item · Ability · Tera\n[light-ball] is mandatory because it is the only reason this set exists. [focus-sash] is the survival alternative when [light-ball] is unavailable, trading damage for one guaranteed survival turn. Ability should be [lightning-rod] for ally redirection. Tera [Electric] maxes [volt-tackle] damage, and Tera [Ghost] flips the [fake-out] weakness defensively while adding immunity to [Normal] and [Fighting] moves.\n\n## Teammates & Synergy\n[Pikachu] is a [lead] that sets up its partners, so pair it with a setup sweeper that benefits from a guaranteed free turn. A [Ground] answer ([Flying] or [Grass] partner) covers the [earthquake] weakness, and a cleaner behind [Pikachu] converts its [volt-tackle] chip into KOs. [stealth-rock] support widens the OHKO ranges after the [lead] turn resolves.\n\n## Play Patterns\nLead with [Pikachu], [fake-out] turn one, then [volt-tackle] or [play-rough] the weakened target. Use [knock-off] to strip walls of items, and Tera on any telegraphed [Ground] move. Never expose [Pikachu] to priority — one [focus-sash] break usually ends the set.",
+  "tags": [
+    "kanto",
+    "electric",
+    "lead",
+    "light-ball"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

@@ -1,0 +1,80 @@
+{
+  "pokemonId": 9,
+  "nameKo": "거북왕",
+  "nameEn": "blastoise",
+  "formKey": null,
+  "types": [
+    "water"
+  ],
+  "roles": [
+    "special-attacker",
+    "tank"
+  ],
+  "recommendedAbility": "torrent",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "water",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 2,
+    "spe": 0
+  },
+  "locale": "ko",
+  "title": "[거북왕] 배틀 운용 가이드",
+  "summary": "79/100/105 양내구를 살린 균형형 [물] 특수 탱커. [rapid-spin]으로 필드 정리와 공격을 동시에 소화한다.",
+  "strengths": [
+    "79/100/105 양내구로 한 방 받고 반격 가능",
+    "[hydro-pump]·[ice-beam]·[aura-sphere]의 깔끔한 견제 범위",
+    "[rapid-spin]으로 [stealth-rock] 정리 겸 스피드 부스트"
+  ],
+  "weaknesses": [
+    "[풀]·[전기] 2배 약점 구조",
+    "스피드 78로 메타 대부분에게 후공",
+    "[torrent] 발동 전까지 결정력이 부족"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "hydro-pump",
+      "reason": "최대 화력의 [물] STAB 주력기"
+    },
+    {
+      "move": "ice-beam",
+      "reason": "[풀]·[드래곤]·[비행]을 끊는 필수 서브 웨폰"
+    },
+    {
+      "move": "aura-sphere",
+      "reason": "[악]·[강철] 탱커를 견제하는 [격투] 서브"
+    },
+    {
+      "move": "rapid-spin",
+      "reason": "필드 정리와 스피드 1랭크 부스트를 겸하는 유틸"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "leftovers",
+      "reason": "장기전 회복량 확보용 기본 선택"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "초반 한 방 한정의 회복 카드"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "느린 스피드를 메꾸는 대안 도구"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[거북왕]은 [물] 단일 타입의 균형형 특수 탱커로, 79/100/105의 양내구와 85 특공·78 스피드의 무난한 공격 라인을 가진 고전 카드다. 챔피언스 메타에서는 [hydro-pump]·[ice-beam]·[aura-sphere]의 3축 견제 범위와 [rapid-spin] 유틸을 동시에 제공할 수 있는 몇 안 되는 [물] 타입이라, 스테인 팀의 필드 정리 담당으로 자리를 잡는다.\n\n## 강점 분석\n특방 105에 HP 투자를 더하면 웬만한 특수 어태커의 STAB을 한 방 더 버티며 반격할 수 있고, 특공 85는 낮아 보여도 [modest] 보정과 [leftovers] 장기전 플랜을 합하면 충분한 결정력이 나온다. [hydro-pump]의 위력과 [ice-beam]의 [드래곤]·[풀] 견제, [aura-sphere]의 [악]·[강철] 견제가 맞물려 견제 범위가 깔끔하다. [rapid-spin]은 [stealth-rock]을 지우며 동시에 스피드 1랭크를 올려 스위프 진입의 디딤돌이 되기도 한다.\n\n## 약점과 대응\n[풀]·[전기] 2배 약점이 구조적이라, 상대 [풀]·[전기] 특수 어태커에게는 진입 자체를 피해야 한다. 스피드 78은 메타 대부분의 어태커에게 후공을 강요당하므로 테라스탈 시점이 매우 중요하다. [torrent]가 발동하기 전 HP 구간에서는 결정력이 부족해 내구형 상대를 뚫지 못하는 경우가 있으므로, 상대가 회복을 쌓기 전에 [ice-beam]·[aura-sphere]로 교대 예측을 강제해야 한다.\n\n## 추천 기술 구성\n[hydro-pump]를 주력 STAB으로 고정해 최대 화력을 내고, [ice-beam]으로 [풀]·[드래곤]·[비행]을 끊는다. [aura-sphere]는 [악]·[강철] 탱커를 견제하는 필수 서브 웨폰으로, 특히 [거북왕]을 받아내려 나오는 [강철] 벽을 직접 찌른다. 마지막 슬롯은 [rapid-spin]을 채택해 필드 정리와 스피드 1랭크 부스트를 동시에 가져간다. 팀 컨셉에 따라 [rapid-spin] 대신 [flash-cannon]이나 [dark-pulse]를 넣는 변형도 가능하다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [leftovers]가 기본이며, 초반 한 방 회복이 필요하다면 [sitrus-berry], 스피드 축을 통째로 바꿔야 한다면 [choice-scarf]도 선택지다. 특성은 [torrent]로 고정해 HP 1/3 이하 구간의 역전 화력을 노린다. 테라스탈은 [물] 타입으로 STAB 화력을 유지하거나, [페어리] 타입으로 [풀]·[드래곤]·[악] 약점을 동시에 정리하는 선택이 안정적이다.\n\n## 시너지와 파트너\n[거북왕]은 필드 정리와 특수 수비를 겸하므로, 물리 공격을 분담해줄 [강철]·[땅] 물리 탱커와 궁합이 좋다. [풀]·[전기] 약점 카운터로 [땅] 타입 파트너를 한 장 두고, [rapid-spin]으로 지워낸 필드 위에서 셋업 스위퍼가 안전하게 진입하도록 설계하면 팀의 결정력이 비약적으로 오른다. [volt-switch]·[u-turn] 유저와 결합해 [거북왕]을 안전한 타이밍에 넣어주는 피벗 라인도 효과적이다.\n\n## 운용 팁\n선봉보다는 2~3턴째 교대 인으로 진입해 필드를 먼저 정리하고, 그 다음 [ice-beam]·[aura-sphere]로 교대 예측을 강제한다. 테라스탈은 [풀]·[전기] 약점기를 확정으로 맞을 때 즉시 열고, [torrent]가 발동하는 저체력 구간에서는 [hydro-pump] 한 방으로 승부를 보는 플랜을 염두에 둔다.",
+  "tags": [
+    "kanto",
+    "water",
+    "special-tank",
+    "spinner"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

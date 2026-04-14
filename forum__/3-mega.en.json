@@ -1,0 +1,75 @@
+{
+  "pokemonId": 3,
+  "nameKo": "메가이상해꽃",
+  "nameEn": "venusaur-mega",
+  "formKey": "mega",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "roles": [
+    "special-attacker",
+    "tank",
+    "support"
+  ],
+  "recommendedAbility": "thick-fat",
+  "recommendedNature": "bold",
+  "recommendedTera": [
+    "water",
+    "steel"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 32,
+    "spd": 2,
+    "spa": 0,
+    "spe": 0
+  },
+  "locale": "en",
+  "title": "Mega Venusaur Battle Guide",
+  "summary": "A bulky [Grass]/[Poison] special [tank] that turns its worst weaknesses into resistances through [thick-fat] and grinds opponents down with [recover]y loops.",
+  "strengths": [
+    "[thick-fat] halves [Ice] and [Fire] damage",
+    "123/120 mixed bulk [absorb]s both sides of the board",
+    "[giga-drain] and [leech-seed] create a sustainable [recover]y loop"
+  ],
+  "weaknesses": [
+    "[psychic], [Flying], and [Ground] are still 2x",
+    "122 SpA lacks finishing power against bulky teams",
+    "The pre-Mega turn can still eat an unexpected weakness hit"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "giga-drain",
+      "reason": "Main [Grass] STAB that converts damage into healing"
+    },
+    {
+      "move": "sludge-bomb",
+      "reason": "Secondary STAB that chips Fairies and mirror [Grass]"
+    },
+    {
+      "move": "sleep-powder",
+      "reason": "Status card that punishes defensive pivots"
+    },
+    {
+      "move": "leech-seed",
+      "reason": "Closes the [recover]y loop and forces long-game decisions"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "venusaurite",
+      "reason": "Mandatory Mega Stone — there is no alternative"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nMega Venusaur is the defensive opposite of its [chlorophyll] base form. [thick-fat] takes its worst offensive weaknesses — [Fire] and [Ice] — and halves them, while 123/120 mixed bulk turns it into a wall that can hold both sides of the field. Speed 80 is still slow, so the plan is never trading blows — it is outlasting opponents through recovery and status.\n\n## Strengths\n[thick-fat] is the whole identity: it effectively erases [Ice] and [Fire] coverage from the metagame's top special attackers, letting Mega Venusaur switch into moves that would obliterate almost any other [Grass] type. 122 SpA keeps it dangerous enough that defensive switch-ins cannot ignore it, and the [leech-seed] + [giga-drain] + leftovers loop regenerates absurd amounts of HP across a match. Status immunity via good special bulk also makes it resistant to [poison] and burn grinders.\n\n## Weaknesses & Answers\n[psychic], [Flying], and [Ground] all still come through for 2x, and fast [psychic] sweepers or [earthquake] spammers can force it out with a single hit. Its low offense means setup sweepers behind it win the long game, so [sleep-powder] and [leech-seed] must be used proactively to steal turns. The pre-Mega entry turn lacks [thick-fat], which means a telegraphed [fire-blast] switch-in can still cost the match — time the Mega Evolution around predictable pivots.\n\n## Recommended Moveset\n[giga-drain] is locked in as the primary STAB because its healing is the backbone of the loop. [sludge-bomb] is the second STAB that chips Fairies and mirror [Grass], and the [poison] proc adds to the long-game plan. The third slot is [sleep-powder], which forces defensive opponents to switch blind and converts passive turns into free pressure. The last slot is [leech-seed], which completes the recovery loop — this four-move set wins most [tank]-versus-[tank] matchups by attrition.\n\n## Item · Ability · Tera\n[venusaurite] is the only item — the Mega Stone is mandatory. [thick-fat] is locked automatically upon Mega Evolution, so the ability slot is a non-choice. For Tera, [Water] is the cleanest option because it patches [Grass], [Ice], [Fire], and [Ground] all at once, while [Steel] flips [Poison] and [psychic] into resist/immune range. Offensive Tera [Grass] is a poor fit — this build never wants to trade HP for damage.\n\n## Teammates & Synergy\nMega Venusaur is the special pivot of the team, so pair it with a physical wall ([Steel] or [Fairy]) to split defensive duties. Always carry a dedicated [Dark]-type switch-in to handle the [psychic] weakness, and run a fast cleaner behind it to convert stall turns into kills. A [taunt] user is also valuable insurance against opposing setup sweepers who would otherwise freely boost into it.\n\n## Play Patterns\nSwitch in on turn two, lead with [leech-seed], follow with [sleep-powder], and save Mega Evolution for a predicted switch. Only use [giga-drain] below 60% HP to avoid wasted healing overflow.",
+  "tags": [
+    "kanto",
+    "grass",
+    "mega",
+    "tank",
+    "thick-fat"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

@@ -1,0 +1,72 @@
+{
+  "pokemonId": 409,
+  "nameKo": "램펄드",
+  "nameEn": "rampardos",
+  "formKey": null,
+  "types": [
+    "rock"
+  ],
+  "roles": [
+    "physical-attacker"
+  ],
+  "recommendedAbility": "sheer-force",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "rock",
+    "ground"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[램펄드] 배틀 운용 가이드",
+  "summary": "공격 165의 포맷 최고 수치를 그대로 내리꽂는 순수 물리 [바위] 원펀처. [sheer-force] + [zen-headbutt]으로 반동 없는 광역 견제까지 추가된다.",
+  "strengths": [
+    "포맷 최상위 공격 종족값 165 — [head-smash] 한 방이 곧 게임 템포",
+    "[sheer-force]가 [zen-headbutt]·[stone-edge]·[crunch] 화력을 1.3배로 증폭",
+    "STAB [head-smash] 반동을 [sheer-force]가 상쇄해 실질 반동 0"
+  ],
+  "weaknesses": [
+    "스피드 58과 방어 60 탓에 대부분의 어태커에게 선공당함",
+    "[격투]·[땅]·[물]·[풀] 2배 약점, [격투] 선공기 상대로는 진입조차 어려움",
+    "[focus-sash]가 없으면 1턴 안에 처리될 위험이 큼"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "head-smash",
+      "reason": "[sheer-force]가 반동을 지워주는 STAB 원펀"
+    },
+    {
+      "move": "earthquake",
+      "reason": "[강철]·[전기]·[바위] 반감 타입을 치는 필수 커버리지"
+    },
+    {
+      "move": "zen-headbutt",
+      "reason": "[격투]·[독] 카운터용 [sheer-force] 보정"
+    },
+    {
+      "move": "crunch",
+      "reason": "[에스퍼]·[고스트] 벽을 뚫는 [sheer-force] 보정 서브"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "낮은 내구를 1턴 생존으로 보장해 1회 확정 발사"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[램펄드]는 공격 종족값 165라는 포맷 최상위 수치 하나만 보고 채용하는 전형적인 원샷 브레이커다. 스피드 58·방어 60이라는 끔찍한 내구를 감수하고 한 턴에 반드시 1킬을 확정짓는 것이 유일한 운영 목표다. 특성 [sheer-force]가 [head-smash] 반동을 지워주는 것이 실전에서 [램펄드]를 돌리게 만드는 결정적인 장치다.\n\n## 강점 분석\n[sheer-force] 보정을 받은 STAB [head-smash]는 포맷 단일 물리 한 방 기준 최상위 데미지를 낸다. 반동이 상쇄되기 때문에 2턴째까지 온전한 HP로 연타가 가능한 경우가 많고, 커버리지 [earthquake]가 [바위] 반감인 [강철]·[전기]를 찢어버린다. [zen-headbutt]과 [crunch] 모두 [sheer-force] 발동 기술이라 [풀] 화력 보정을 받으며, [격투]·[에스퍼]·[고스트] 대응이 한 번에 해결된다.\n\n## 약점과 대응\n[격투]·[땅]·[물]·[풀] 2배 약점이 누적되는데, 특히 스피드 58 탓에 [close-combat]·[earthquake] 사용자 앞에서는 진입 자체가 금지된다. 방어 60 / 특방 50은 약점 기술이 아니더라도 [램펄드]를 기절시키기 충분하다. [mach-punch]·[bullet-punch] 같은 [격투]·[강철] 선공기에도 동일하게 취약하므로 선공기 유저가 남아있는 동안은 섣불리 내지 못한다.\n\n## 추천 기술 구성\n[head-smash]는 절대 고정이다 — [sheer-force] 반동 상쇄가 이 기술 하나에 전부 걸려 있다. [earthquake]는 [바위]를 반감·무효로 처리하는 [강철]·[독]·[전기]를 뚫는 필수 슬롯이고, [zen-headbutt]은 [격투]·[독] 타입 카운터 역할이자 [sheer-force] 보정을 그대로 받는 수입기다. 마지막 [crunch]는 [에스퍼]·[고스트] 카운터 겸 [sheer-force] 기동력이 살아있는 선택지다. [swords-dance] 대안은 느린 [램펄드]가 1랭크를 쌓을 턴이 거의 없으므로 권장하지 않는다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [focus-sash]가 사실상 유일 해답이다 — 내구 수치상 두 번째 턴 보장 수단이 이것뿐이기 때문이다. 특성은 [sheer-force] 고정이며 [mold-breaker]로 가는 것은 화력 손실이 너무 크다. 테라스탈은 [바위] 테라로 STAB 보정을 한 번 더 얹는 것이 기본이고, [땅] 테라는 [격투] 약점을 지우면서 [earthquake] 화력을 올리는 중간선 선택이다.\n\n## 시너지와 파트너\n[램펄드]는 반드시 진입 턴을 확보해줄 서포터와 묶여야 한다. [fake-out] 사용자가 상대 선공을 지우고, 슬로우 유턴(볼트로스·우라오스 아닌 포맷 내 느린 피벗)이 [램펄드]를 안전하게 진입시켜준다. 후속 정리는 스피드가 높은 클리너가 맡아야 한다 — [램펄드]는 한 번 발사하고 퇴장하는 카드이기 때문이다.\n\n## 운용 팁\n상대 [격투]·[땅] 타입이 살아있는 동안은 대기시키고, 방어 벽 또는 반감 못 받는 상대가 나오는 즉시 [head-smash] 한 번으로 게임 템포를 가져온다. [focus-sash]가 살아있을 때는 두 번째 기술([earthquake] 또는 [zen-headbutt])까지 발사할 여지가 있고, 그 이후에는 깔끔하게 퇴장해야 한다.",
+  "tags": [
+    "sinnoh",
+    "rock",
+    "physical-attacker",
+    "wallbreaker",
+    "sheer-force"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

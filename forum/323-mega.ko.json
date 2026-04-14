@@ -1,0 +1,75 @@
+{
+  "pokemonId": 323,
+  "nameKo": "메가폭타",
+  "nameEn": "camerupt-mega",
+  "formKey": "mega",
+  "types": [
+    "fire",
+    "ground"
+  ],
+  "roles": [
+    "special-attacker",
+    "trick-room-attacker"
+  ],
+  "recommendedAbility": "sheer-force",
+  "recommendedNature": "quiet",
+  "recommendedTera": [
+    "fire",
+    "ground"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "ko",
+  "title": "[메가폭타] 배틀 운용 가이드",
+  "summary": "[sheer-force]로 추가 효과 기술 위력 30% 보정 받는 [불]·[땅] 트릭룸 특수 어태커. 스피드 20으로 트릭룸 환경 최적화.",
+  "strengths": [
+    "[sheer-force]로 [heat-wave]·[earth-power] 위력 30% 보정",
+    "145 특공 + [sheer-force] = 메타 최상급 특수 화력",
+    "스피드 20으로 트릭룸 환경 최적"
+  ],
+  "weaknesses": [
+    "[물] 4배 약점 — [hydro-pump]·[surf]에 즉사",
+    "[땅]·[바위] 약점 추가 존재",
+    "트릭룸 없으면 후공 고정"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "heat-wave",
+      "reason": "[sheer-force] 보정 [불] 광역 STAB"
+    },
+    {
+      "move": "earth-power",
+      "reason": "[sheer-force] 보정 주력 [땅] STAB"
+    },
+    {
+      "move": "eruption",
+      "reason": "HP 100% 시 최대 위력 [불] 광역"
+    },
+    {
+      "move": "protect",
+      "reason": "메가 진화 + 트릭룸 세팅 대기"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "cameruptite",
+      "reason": "메가 진화를 위한 필수 아이템"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[메가폭타]는 [sheer-force] 특성으로 추가 효과가 있는 기술의 위력이 30% 보정되는 [불]·[땅] 특수 어태커다. 스피드 20의 초저속은 약점처럼 보이지만, 트릭룸 환경에서는 최상위권 선공이 되어 145 특공 + [sheer-force] 보정의 폭발적 특수 화력을 발휘한다.\n\n## 강점 분석\n[sheer-force]는 [heat-wave]·[earth-power]·[rock-slide] 등 부가 효과를 가진 기술의 위력을 30% 증가시킨다. 145 특공 + STAB + [sheer-force] 조합으로 [earth-power]·[heat-wave] 실질 위력이 메타 최상급에 도달한다. [불]·[땅] 복합 타입은 [steel]·[grass]·[bug]·[ice]·[fairy] 등 광범위 견제가 가능하다.\n\n## 약점과 대응\n[물] 4배 약점은 치명적으로, [hydro-pump]·[surf] 한 방에 즉사한다. [땅]·[바위] 약점도 있어 상대 파티 타입에 따라 교대 인 타이밍이 매우 제한적이다. 스피드 20은 트릭룸 외 환경에서는 반드시 후공이라 생존력이 극단적으로 낮다.\n\n## 추천 기술 구성\n[heat-wave]는 [sheer-force] 보정 광역 [불] STAB, 더블에서 핵심. [earth-power]는 [sheer-force] 보정 주력 [땅] STAB. [eruption]은 HP 100%에서 최대 위력 150의 광역 [불] 기술이지만 [sheer-force] 보정을 받지 않는다. [protect]는 트릭룸 세팅 대기 + 메가 진화 안전 확보에 필수.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [cameruptite] 고정이다. 특성은 메가 진화 후 [sheer-force]로 자동 전환. 테라스탈은 [불]로 [물] 약점 유지 대신 자속 보정 강화, 또는 [땅]으로 [물] 약점을 2배로 완화하는 생존 우선 선택.\n\n## 시너지와 파트너\n반드시 [trick-room] 파티에 편성. [dusknoir]·[hatterene] 등 트릭룸 세터와 시너지 필수. [물] 약점 카운터로 [grass]·[dragon] 파트너, [fake-out]·[follow-me] 유저로 1턴 보호하는 것이 중요하다.\n\n## 운용 팁\n트릭룸 세팅 후 교대 인으로 등장시키고, [protect]로 1턴 대기 후 [heat-wave]·[earth-power] 연타. [eruption]은 HP 만땅일 때만 사용. 상대 파티에 [물] 타입이 있으면 교대 예측이 필수이고, 테라스탈은 [물] 약점 방어용으로 아껴둔다.",
+  "tags": [
+    "hoenn",
+    "fire",
+    "ground",
+    "mega",
+    "sheer-force",
+    "trick-room"
+  ],
+  "updatedAt": "2026-04-14T00:00:00+09:00"
+}

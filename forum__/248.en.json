@@ -1,0 +1,74 @@
+{
+  "pokemonId": 248,
+  "nameKo": "마기라스",
+  "nameEn": "tyranitar",
+  "formKey": null,
+  "types": [
+    "rock",
+    "dark"
+  ],
+  "roles": [
+    "physical-attacker",
+    "tank"
+  ],
+  "recommendedAbility": "sand-stream",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "flying",
+    "fighting"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "[Tyranitar] Battle Guide",
+  "summary": "A [Rock]/[Dark] [tank] attacker that auto-sets [sand-stream] and hits the whole meta with [stone-edge], [crunch], and [earthquake].",
+  "strengths": [
+    "[sand-stream] fires the moment it switches in and buffs [Rock]-type Special Defense by 50%",
+    "134 Attack plus [stone-edge] / [crunch] / [earthquake] covers almost every defensive core",
+    "100 HP and 110 Defense makes it a genuine [tank]-attacker, not just a wallbreaker"
+  ],
+  "weaknesses": [
+    "4x [Fighting] — [close-combat] from Keldeo or Conkeldurr ends it instantly",
+    "Also 2x to [Ground], [Bug], [Grass], [Water], [Steel], and [Fairy] — seven weaknesses total",
+    "Base 61 Speed is outrun by nearly every unboosted meta attacker"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "stone-edge",
+      "reason": "High-power [Rock] STAB for OHKO thresholds"
+    },
+    {
+      "move": "crunch",
+      "reason": "Reliable [Dark] STAB to handle [Ghost] and [Psychic] threats"
+    },
+    {
+      "move": "earthquake",
+      "reason": "Cove[rage] against [Steel], [Fire], and [Electric] switch-ins"
+    },
+    {
+      "move": "dragon-dance",
+      "reason": "Removes the base 61 Speed problem in a [sing]le turn"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "leftovers",
+      "reason": "No sand chip for [Rock] types plus 6% passive heal every turn"
+    }
+  ],
+  "bodyMarkdown": "## Overview\n[Tyranitar] is a [Rock]/[Dark] [tank]-attacker whose entire kit is built around [sand-stream]. The ability auto-sets sand the moment it enters, which buffs [Rock]-type Special Defense by 50%, turning 100/110/100 into effective defensive stats around 100/110/150. Combined with 134 Attack and broad coverage, it plays as a bulky wallbreaker that wins long games, not a one-shot nuke.\n\n## Strengths\nThe [sand-stream] SpD buff is the most important stat interaction on the mon — it means [thunderbolt] and [ice-beam] no longer 2HKO, opening safe setup turns that [Tyranitar] normally couldn't afford. [stone-edge], [crunch], and [earthquake] form a three-direction coverage net with almost no shared resists across the meta. [Rock]/[Dark] STAB already hits [Ghost], [Psychic], [Flying], [Ice], and [Fire], while [earthquake] cleans up [Steel], [Fire], and [Electric] switch-ins trying to [tank] the STAB combo.\n\n## Weaknesses & Answers\n4x [Fighting] is the bill-killer — Keldeo's [secret-sword] and Conkeldurr's [drain-punch] both one-shot through any investment. 2x weaknesses to [Ground], [Bug], [Grass], [Water], [Steel], and [Fairy] stack seven total weaknesses, so switch-in decisions are constrained. Base 61 Speed loses to everything outside of [trick-room], and the sand chip hurts any non-[Rock]/[Ground]/[Steel] teammates, so whole-team synergy matters.\n\n## Recommended Moveset\n[stone-edge] is the main STAB — accuracy risk is accepted for the raw OHKO thresholds it reaches. [crunch] is the clean [Dark] STAB for [Ghost] and [Psychic]. [earthquake] is mandatory coverage for [Steel], [Fire], and [Electric] threats that otherwise wall [Rock]/[Dark]. The last slot is [dragon-dance] — one turn of setup erases the Speed problem and converts [Tyranitar] into a [tank]-sweeper. Swap [dragon-dance] for stealth-[rock] on hazard-lead variants where [Tyranitar] is used purely as a weather installer.\n\n## Item · Ability · Tera\n[leftovers] is the pick because [Rock] types don't take sand chip, so the 6% heal is pure profit. [sand-stream] is the locked ability and the whole reason to run [Tyranitar] on a sand team. Tera [Flying] is the default — it removes the 4x [Fighting] weakness entirely. Tera [Fighting] is the offensive alternative that powers up [close-combat] while trimming some weaknesses.\n\n## Teammates & Synergy\nSand abusers (Excadrill, Bariquool lines) share the buff and justify building the team around [Tyranitar]'s ability. Dedicated [Fighting] switch-ins (Latias, Metagross) are mandatory to cover the exact weakness that revenges it. A separate hazard lead lets [Tyranitar] click [dragon-dance] instead of stealth-[rock]. [Ghost] partners deny [defog] and keep the hazards alive for the sweep.\n\n## Play Patterns\nLead [Tyranitar] to set sand turn 1 and scout the opposing lead. If the matchup is favorable, click [dragon-dance] immediately; otherwise cycle out and come back in the mid-game as a [tank]-attacker. Click [stone-edge] only when accuracy risk is acceptable — otherwise default to [crunch] and [earthquake] for reliable damage. Tera the moment a [close-combat] is telegraphed to erase the 4x weakness.",
+  "tags": [
+    "johto",
+    "rock",
+    "dark",
+    "sand",
+    "tank-attacker"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

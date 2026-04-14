@@ -1,0 +1,80 @@
+{
+  "pokemonId": 442,
+  "nameKo": "화강돌",
+  "nameEn": "spiritomb",
+  "formKey": null,
+  "types": [
+    "ghost",
+    "dark"
+  ],
+  "roles": [
+    "tank",
+    "wall",
+    "support"
+  ],
+  "recommendedAbility": "infiltrator",
+  "recommendedNature": "calm",
+  "recommendedTera": [
+    "fairy",
+    "dark"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 2,
+    "spa": 0,
+    "spd": 32,
+    "spe": 0
+  },
+  "locale": "en",
+  "title": "[Spiritomb] Battle Guide",
+  "summary": "A [Ghost]/[Dark] [wall] with exactly one weakness — [Fairy] — running [infiltrator] to ignore [substitute] and screens while u[sing] [will-o-wisp] and [nasty-plot] flexibility.",
+  "strengths": [
+    "[Ghost]/[Dark] leaves [Fairy] as the only type weakness",
+    "[infiltrator] bypasses [substitute], [light-screen], [reflect], and [safeguard]",
+    "108/108 symmetrical defenses make it a rare dual-sided [wall]"
+  ],
+  "weaknesses": [
+    "Base 50 HP caps effective bulk lower than the 108/108 numbers suggest",
+    "2x [Fairy] weakness forces [Spiritomb] out of [Fairy]-heavy matchups",
+    "No native [recover]y beyond [rest], so long games lean entirely on [leftovers]"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "will-o-wisp",
+      "reason": "halves physical attacker damage and anchors the [wall] role"
+    },
+    {
+      "move": "dark-pulse",
+      "reason": "is the STAB [Dark] special move with a 20% flinch roll"
+    },
+    {
+      "move": "shadow-ball",
+      "reason": "is the STAB [Ghost] cove[rage] answer to [Psychic]s and [Ghost]s"
+    },
+    {
+      "move": "nasty-plot",
+      "reason": "converts the [wall] into a surprise special breaker"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "leftovers",
+      "reason": "provides the only per-turn [recover]y with no built-in healing move"
+    },
+    {
+      "item": "colbur-berry",
+      "reason": "[absorb]s one super-effective [Dark] hit when oppo[sing] priority [Dark] threats exist"
+    }
+  ],
+  "bodyMarkdown": "## Overview\n[Spiritomb] earns its slot because of one single fact: [Ghost]/[Dark] is one of the only typings in the format with exactly one weakness. Base 108/108 defenses and [infiltrator] make it a dual-sided [wall] that also punishes [substitute] and screen-based teams. Base 50 HP keeps the total bulk lower than the numbers suggest, so the game plan is built around [infiltrator] mind-games and flexible use of [nasty-plot] rather than raw soaking.\n\n## Strengths\nThe [Ghost]/[Dark] resistance profile is one of the best in the format — [Normal], [Psychic], and [Ghost] hits are blanked or halved, which means [Spiritomb] drops in on a huge range of pivots without paying for it. [infiltrator] is an underrated ability in this tier: it ignores [substitute] entirely, bypasses both [light-screen] and [reflect], and even punches through [safeguard], which removes several common stall defensive layers. Base 108/108 on both sides lets [Spiritomb] take one hit from almost any unboosted attacker, and a single [nasty-plot] turns its 92 SpA into a 184-effective attack number that completely changes role.\n\n## Weaknesses & Answers\nBase 50 HP is the actual bulk ceiling — 108/108 multiplied by 50 HP is only middling total bulk, and strong super-effective hits still bring [Spiritomb] into trade range. The single [Fairy] weakness is easy to exploit because the moment a [Fairy] appears [Spiritomb] has to rotate out, which costs the [wall] role its value. No real recovery means [leftovers] chip is the only way to stay healthy over long matches — stall or setup teams can out-last [Spiritomb] if nothing removes their win condition.\n\n## Recommended Moveset\n[will-o-wisp] anchors the [wall] role by halving the damage of every physical attacker that dares to trade with [Spiritomb]. [dark-pulse] is the STAB [Dark] special with a useful 20% flinch chance and benefits from [infiltrator] by going through screens. [shadow-ball] is the secondary STAB and the [Psychic]/[Ghost] coverage slot. The final slot is [nasty-plot], which enables the hidden offensive mode — after one boost, [Spiritomb] is a real special attacker, not just a [wall]. [sucker-punch] is a legitimate alternative if the team needs priority to patch the 35 Speed problem.\n\n## Item · Ability · Tera\n[leftovers] is the default item because [Spiritomb] has no recovery move — every long-game plan depends on the [leftovers] tick. [colbur-berry] is the specific answer for teams that carry priority [Dark] attackers, giving [Spiritomb] one buffered turn against [knock-off] or [sucker-punch]. [infiltrator] is the locked ability — pressure does nothing relevant. For Tera, [Fairy] completely removes the only weakness and is the textbook pick; Tera [Dark] is the alternative if you want to push [dark-pulse] and [shadow-ball] to their damage ceiling.\n\n## Teammates & Synergy\n[Spiritomb] needs a hard answer to [Fairy] types — [Steel] or [Poison] pivots work best. A setup sweeper behind it benefits from the [will-o-wisp] cushion [Spiritomb] creates on physical threats. Heal-bell or status-removal [support] lets [Spiritomb] stay in longer against opposing status spam, which it cannot self-cleanse.\n\n## Play Patterns\nLead with [Spiritomb] on physical threats, burn the attacker with [will-o-wisp], and ride [leftovers] while the [rest] of the team sets up in the back. Save [nasty-plot] for the mid-to-late game, only after the opposing [Fairy] types are gone — the [wall] role evaporates the moment a [Fairy] is revealed. Use [dark-pulse] flinches as a soft tempo tool rather than relying on them.",
+  "tags": [
+    "sinnoh",
+    "ghost",
+    "dark",
+    "wall",
+    "tank",
+    "infiltrator"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

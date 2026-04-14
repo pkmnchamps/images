@@ -1,0 +1,75 @@
+{
+  "pokemonId": 212,
+  "nameKo": "메가핫삼",
+  "nameEn": "scizor-mega",
+  "formKey": "mega",
+  "types": [
+    "bug",
+    "steel"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "technician",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "steel",
+    "bug"
+  ],
+  "recommendedEv": {
+    "hp": 20,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 12
+  },
+  "locale": "ko",
+  "title": "[메가핫삼] 배틀 운용 가이드",
+  "summary": "[technician]으로 [bullet-punch] 위력 60이 되는 [강철] 선공기 사신. [swords-dance] 1회 적층 후 [bullet-punch] 확정 KO 범위가 폭발적이다.",
+  "strengths": [
+    "[technician] [bullet-punch] 실질 위력 60 [강철] 선공기",
+    "[swords-dance] 적층 후 대부분의 프레일 포켓몬 확정 KO",
+    "[bug]·[steel] 복합 9개 타입 저항, [fairy] 4배 저항"
+  ],
+  "weaknesses": [
+    "[불] 4배 약점 — [will-o-wisp]·[fire-blast]에 즉사",
+    "스피드 75 최속에도 메타 스카프·스카프 무보정 추월당함",
+    "메가 진화 1턴은 일반 핫삼 상태"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "bullet-punch",
+      "reason": "[technician] 보정 실질 위력 60 [강철] 선공기"
+    },
+    {
+      "move": "swords-dance",
+      "reason": "공격 2단계 상승 적층 셋업"
+    },
+    {
+      "move": "knock-off",
+      "reason": "[technician] 발동 대상(위력≤60) 도구 파괴 유틸"
+    },
+    {
+      "move": "protect",
+      "reason": "메가 진화 + 셋업 안전 확보"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "scizorite",
+      "reason": "메가 진화를 위한 필수 아이템"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[메가핫삼]은 [technician] 특성으로 위력 60 이하의 기술이 1.5배로 상승하는 [강철] 선공기 사신이다. [bullet-punch]의 본래 위력 40이 [technician] 보정으로 60, STAB 보정으로 90 상당이 되어 메타에서 가장 무시무시한 [강철] 선공기를 뿜어낸다. [swords-dance] 1회 적층 후에는 대부분의 프레일 포켓몬을 확정 KO한다.\n\n## 강점 분석\n[bullet-punch]는 선공기이자 [strong] [강철] STAB이므로, [fairy]·[ice]·[rock]·[psychic] 타입 딜러들을 선공으로 제거할 수 있다. [bug]·[steel] 복합 타입은 9개 타입에 저항을 가지며, 특히 [fairy] 4배 저항은 메타 핵심인 [xurkitree]·[togekiss] 등을 무피해 받아낸다. 140 공격 종족값 + [swords-dance] 셋업은 확정 KO 라인을 극적으로 넓힌다.\n\n## 약점과 대응\n[불] 4배 약점은 절대적이다. [heatran]·[charizard] 등 [불] 타입과의 대면은 즉사로 이어지고, [will-o-wisp] 화상 한 방으로 공격 어태커 기능이 무력화된다. 스피드 75는 [technician] 보정 없이는 메타 최상위권을 추월하지 못하므로, [bullet-punch] 선공기에 의존해야 한다.\n\n## 추천 기술 구성\n[bullet-punch]는 반드시 확정 채택한다. [swords-dance]는 셋업 핵심이고, [knock-off] 본래 위력 65이지만 [technician] 발동 조건(≤60)에 해당하지 않으므로 단순 도구 파괴 유틸로 쓴다. [protect]는 메가 진화 1턴 안전 확보 + 셋업 기회 창출에 필수다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [scizorite] 고정이다. 특성은 메가 진화 후 [technician]으로 자동 전환. 테라스탈은 [강철]로 자속 [bullet-punch] 위력 재보정 + [불] 약점 완화, 또는 [bug]로 [bug] 자속 기술 화력 극대화를 노릴 수 있다.\n\n## 시너지와 파트너\n[불] 4배 약점 카운터로 [water]·[ground] 타입 파트너 필수. [incineroar]의 [intimidate]로 물리 내구 보조, [tailwind] 세터로 스피드 75 약점 상쇄하는 것이 효과적이다. [stealth-rock] 지원으로 [bullet-punch] 확정 KO 라인을 넓힌다.\n\n## 운용 팁\n메가 진화 1턴은 [protect]로 안전 확보 후, 다음 턴부터 [swords-dance] 적층 기회를 노린다. 적층 완료 후에는 [bullet-punch]로 고속 어태커를 선공 제압하고, 상대 교대 예측 턴에 [knock-off]로 도구 파괴. [불] 타입이 노출될 때는 반드시 교대한다.",
+  "tags": [
+    "johto",
+    "bug",
+    "steel",
+    "mega",
+    "technician",
+    "priority-sweeper"
+  ],
+  "updatedAt": "2026-04-14T00:00:00+09:00"
+}

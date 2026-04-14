@@ -1,0 +1,81 @@
+{
+  "pokemonId": 196,
+  "nameKo": "에브이",
+  "nameEn": "espeon",
+  "formKey": null,
+  "types": [
+    "psychic"
+  ],
+  "roles": [
+    "special-attacker",
+    "lead"
+  ],
+  "recommendedAbility": "magic-bounce",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "psychic",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "spa": 32,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "[Espeon] Battle Guide",
+  "summary": "A [Psychic] special [lead] that weaponises [magic-bounce] to [reflect] hazards and status while hitting 130 SpA at 110 Speed.",
+  "strengths": [
+    "[magic-bounce] [reflect]s [stealth-rock], [thunder-wave], and [toxic]",
+    "130 SpA and 110 Speed land it in the top offensive [lead] tier",
+    "STAB [psychic] shreds [Fighting] and [Poison] pivots immediately"
+  ],
+  "weaknesses": [
+    "Stacked [Dark], [Ghost], and [Bug] weaknesses",
+    "Extremely vulnerable to [sucker-punch] and [choice-scarf] users",
+    "Frail 60/60 physical bulk punishes any read [mist]ake"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "psychic",
+      "reason": "Main [Psychic] STAB finisher against neutral targets"
+    },
+    {
+      "move": "dazzling-gleam",
+      "reason": "[Fairy] cove[rage] to answer [Dark] and [Dragon] switch-ins"
+    },
+    {
+      "move": "shadow-ball",
+      "reason": "Breaks mirror [Psychic] and [Ghost] pivots"
+    },
+    {
+      "move": "calm-mind",
+      "reason": "Setup behind [reflect]ed hazards for a late-game sweep"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "Guarantees one hit survived so the [reflect]ion loop holds"
+    },
+    {
+      "item": "twisted-spoon",
+      "reason": "Boosts every damage roll by a full tier"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "Pushes Speed above scarfers that would otherwise [revenge]-kill"
+    }
+  ],
+  "bodyMarkdown": "## Overview\n[Espeon] is a single-type [Psychic] special attacker whose Champions role hinges entirely on its hidden ability [magic-bounce]. With 130 SpA and 110 Speed, it sits in the top offensive [lead] tier, and the whole game plan is to [reflect] the opponent's [stealth-rock], [sticky-web], [thunder-wave], and [toxic] back in their face on turn one for a clean tempo [lead].\n\n## Strengths\n[magic-bounce] is one of the strongest abilities in the current meta — entire hazard and status leads fold the moment [Espeon] comes in. Off 130 SpA, [psychic] two-shots neutral [Fighting], [Poison], and [Bug] pivots, and [dazzling-gleam] is the second STAB that punishes [Dark] and [Dragon] switch-ins. Its 110 Speed tier outruns most leads and mid-speed attackers, locking in first-turn damage on the exchange.\n\n## Weaknesses & Answers\nMono-[Psychic] carries three bad weaknesses ([Dark], [Ghost], [Bug]), and [sucker-punch] or [shadow-sneak] almost always trade [Espeon] for one kill. Its 65/60 physical bulk is glass — entering against a physical [Dark] or [Ghost] attacker is simply a loss. Tera timing is load-bearing: missing the window means [Espeon] goes down without converting the reflection value.\n\n## Recommended Moveset\n[psychic] is the locked [Psychic] STAB that breaks [Fighting] and [Poison] walls. [dazzling-gleam] is [Fairy] coverage for [Dark] and [Dragon]. [shadow-ball] cleanly wins the mirror match against opposing [Espeon] and [Ghost] pivots, and the last slot is [calm-mind] so a turn of reflected hazards can convert into a late-game sweep. Build-dependent alternatives include [grass-knot] for [Ground] cores or [morning-sun] for longevity.\n\n## Item · Ability · Tera\n[focus-sash] is the default because it guarantees one survived priority hit and keeps the [magic-bounce] loop alive for another turn. [twisted-spoon] is the damage upgrade that flips two-shot lines into one-shots on the damage roll. [choice-scarf] is the match-up-specific option when the opposing team stacks scarfers. The ability must be [magic-bounce], and Tera [Psychic] maxes [psychic] while Tera [Fairy] flips the [Dark] weakness.\n\n## Teammates & Synergy\nBecause [Espeon] is frail, [healing-wish] support and U-turn pivots make every clean re-entry matter. [Espeon] protects your own [stealth-rock] setter by reflecting opposing hazards before they land, which is a free bonus for the team. A [Fairy] or [Fighting] answer to [Dark] and [Ghost] physical attackers is mandatory behind [Espeon] on every build.\n\n## Play Patterns\nLead [Espeon] into any opposing hazard or status setter, [reflect], and immediately trade for chip damage. Against predictable setup sweepers, use [calm-mind] behind the reflection turn to build a late-game win condition. Tera the instant a [Dark] or [Ghost] priority attack is telegraphed — the swap is the entire survival plan.",
+  "tags": [
+    "johto",
+    "psychic",
+    "magic-bounce",
+    "lead",
+    "special-attacker"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

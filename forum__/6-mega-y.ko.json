@@ -1,0 +1,75 @@
+{
+  "pokemonId": 6,
+  "nameKo": "메가리자몽Y",
+  "nameEn": "charizard-mega-y",
+  "formKey": "mega-y",
+  "types": [
+    "fire",
+    "flying"
+  ],
+  "roles": [
+    "special-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "drought",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "fire",
+    "fighting"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[메가리자몽Y] 배틀 운용 가이드",
+  "summary": "[drought] 특성으로 자체 맑음을 세팅하며 159 특공의 [fire-blast]로 메타를 태우는 [불꽃]·[비행] 특수 스위퍼.",
+  "strengths": [
+    "[drought] 자가 세팅으로 날씨 요원 불필요",
+    "메가 진화 후 159의 압도적 특공",
+    "맑음 [fire-blast]·[solar-beam]의 즉발 화력"
+  ],
+  "weaknesses": [
+    "[stealth-rock] 4배 잔존 피해 여전",
+    "[바위] 4배 약점과 선공기 취약",
+    "100 스피드로 상위 스카프 유저에 추월"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "fire-blast",
+      "reason": "[drought] 보정 포함 최고 화력 [불꽃] STAB"
+    },
+    {
+      "move": "solar-beam",
+      "reason": "자가 맑음으로 1턴 즉발, [물]·[바위] 정리"
+    },
+    {
+      "move": "air-slash",
+      "reason": "[비행] STAB + [풀]죽음 30% 변수"
+    },
+    {
+      "move": "focus-blast",
+      "reason": "[바위]·[강철]·[악] 필수 견제"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "charizardite-y",
+      "reason": "메가 진화를 위한 필수 아이템"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[메가리자몽Y]는 [불꽃]·[비행] 타입을 유지한 채로 특성을 [drought]로 바꾸고 특공을 159까지 올린 특수 에이스다. 원본 리자몽과 가장 큰 차이는 날씨 요원 없이도 스스로 맑음을 세팅한다는 점으로, 이 덕분에 팀 슬롯 하나를 절약하면서 맑음 축을 완성할 수 있다. 진입 자체가 날씨 세팅이 되는 포켓몬이라는 것이 정체성이다.\n\n## 강점 분석\n159의 특공은 특수 어태커 중에서도 최상위권이며, [fire-blast] 한 방에 메타 대부분의 특수 탱커가 2타 이내에 정리된다. [drought] 자가 세팅으로 [solar-beam]이 1턴 즉발 기술이 되고, [air-slash]의 풀죽음 30%까지 얹으면 상대 계산을 흔드는 확률 변수가 매 턴 발생한다. 100 스피드로 대부분의 어태커를 앞서는 것도 여전한 강점이다.\n\n## 약점과 대응\n[stealth-rock]이 남아 있으면 진입 한 번에 HP 50%가 날아가는 문제는 X와 동일하다. [바위] 4배 약점은 여전해 [stone-edge] + 선공 조합에 쉽게 기절한다. 100 스피드가 더 이상 최상위권은 아니므로, choice-scarf [드래곤] 계열 어태커에게는 추월당해 [드래곤]·[바위] 공격에 쓰러질 수 있다. [drought] 덮어쓰기(비·모래·눈)에도 약하다.\n\n## 추천 기술 구성\n[fire-blast]가 주력 STAB이며, 자가 맑음 상태에서 159의 특공이 찌르는 한 방은 탱커까지 태운다. [solar-beam]은 맑음 아래에서 1턴 즉발로 발동돼 [물]·[땅]·[바위] 타입을 단일 슬롯으로 정리하는 핵심 카드다. [air-slash]는 [비행] STAB + 풀죽음 변수용, [focus-blast]는 [바위]·[강철]·[악]을 뚫는 필수 서브다. 셋업 기술 없이 4기술 구성으로 즉발 공격성을 최대화한다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [charizardite-y] 고정이며 대안이 없다. 특성은 메가 진화 후 [drought]로 자동 변환된다. 테라스탈은 [불꽃] STAB를 더 태우는 불 타입이 기본이며, [격투] 테라로 4배 [바위] 약점을 제거하는 방어적 선택이 상위 대회에서 자주 보인다. 테라 타입 선택은 상대 팀의 [바위]·[전기] 의존도를 보고 결정한다.\n\n## 시너지와 파트너\n[drought]를 자가 세팅하므로 별도의 날씨 요원이 필요 없다는 점에서 팀 슬롯을 아껴준다. 반면 [stealth-rock] 리무브는 여전히 필수이며, [물] 타입 교대 대응을 위해 [전기]·[풀] 타입 파트너가 있으면 이상적이다. 상대 [drought] 지우기 날씨(비·모래·눈)에 대비해 날씨 카운터를 한 장 반드시 준비해야 한다. [trick-room] 팀 카운터 역할도 겸해 범용성이 높다.\n\n## 운용 팁\n선봉 교체 시 진입해 [drought]를 자동 세팅하고, 2턴째부터 즉발 공격으로 상대를 태운다. HP 관리는 X보다 여유 있으므로 장기전도 가능하지만, [stealth-rock]이 다시 깔리면 재진입 비용이 급격히 올라간다는 점을 염두에 둬야 한다.",
+  "tags": [
+    "kanto",
+    "fire",
+    "sun",
+    "mega",
+    "drought",
+    "special-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}
