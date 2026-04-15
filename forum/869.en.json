@@ -25,26 +25,26 @@
     "spe": 0
   },
   "locale": "en",
-  "title": "[Alcremie] Battle Guide",
-  "summary": "A bulky [Fairy] setup attacker that uses [aroma-veil], [calm-mind], and [recover] to grind out specially defensive wins.",
+  "title": "[alcremie] Battle Guide",
+  "summary": "A bulky [fairy] setup attacker that uses [aroma-veil], [calm-mind], and [recover] to grind out specially defensive wins.",
   "strengths": [
     "Base 121 SpD is one of the best specially defensive walls among Fairies",
-    "[aroma-veil] [block]s [taunt], [encore], and [attract] for itself and allies",
-    "[decorate] provides a +2 SpA boost for doubles partners"
+    "[aroma-veil] blocks taunt, encore, and attract for itself and allies",
+    "decorate provides a +2 SpA boost for doubles partners"
   ],
   "weaknesses": [
-    "Base 64 Speed means choice-scarf is the only [revenge] option",
-    "[Poison] and [Steel] 2x weaknesses are stapled to every [Fairy]",
-    "65/75 physical bulk folds to Kingambit and fast [Steel]s"
+    "Base 64 Speed means choice-scarf is the only revenge option",
+    "Poison and Steel 2x weaknesses are stapled to every [fairy]",
+    "65/75 physical bulk folds to Kingambit and fast Steels"
   ],
   "recommendedMoves": [
     {
       "move": "dazzling-gleam",
-      "reason": "[Fairy] STAB, spread damage in doubles"
+      "reason": "[fairy] STAB, spread damage in doubles"
     },
     {
       "move": "mystical-fire",
-      "reason": "Cove[rage] that punishes [Steel] switch-ins"
+      "reason": "Coverage that punishes Steel switch-ins"
     },
     {
       "move": "calm-mind",
@@ -62,10 +62,10 @@
     },
     {
       "item": "sitrus-berry",
-      "reason": "Instant heal for a [decorate] support build"
+      "reason": "Instant heal for a decorate support build"
     }
   ],
-  "bodyMarkdown": "## Overview\n[Alcremie] is a pure [Fairy] special attacker with the 65/60/75/110/121/64 stat line of a bulky grinder, not a sweeper. In Champions MA it earns its slot as a [calm-mind] user behind [aroma-veil] — the ability alone means the opponent cannot [taunt], [encore], or bypass it with mental shenanigans. Base 121 SpD is the core hook.\n\n## Strengths\n121 SpD is the headline — [Alcremie] can sit on special attackers that would break other Fairies in half. [calm-mind] stacks SpA and SpD simultaneously, and [recover] turns that into a live ceiling the opponent has to spend two attackers to break. [aroma-veil] is niche but critical: [taunt], [encore], and [disable] are all blanked, which keeps the setup plan alive against anti-setup leads. In doubles, [decorate] gives a teammate a free +2 SpA and creates burst turns no other [Fairy] can replicate.\n\n## Weaknesses & Answers\n[Poison] and [Steel] 2x is the universal [Fairy] ceiling, and [Alcremie]'s middling 65/75 physical bulk folds to Kingambit, Tinkaton, and fast [Steel] wallbreakers. Base 64 Speed is locked in below most of the tier, so once the opponent has its [Steel] pivot in there is no way to [revenge] kill. Gholdengo's [make-it-rain] also cuts through the SpA drop threat.\n\n## Recommended Moveset\n[dazzling-gleam] is the locked [Fairy] STAB — in doubles it hits both targets, in singles it's the safer neutral damage move. [mystical-fire] is the required coverage to pressure Steels trying to wall the build. [calm-mind] is the setup, and [recover] is the finisher that turns the loop into a grind. For doubles support lists, swap [recover] for [decorate] and play off a slow special wallbreaker behind you.\n\n## Item · Ability · Tera\n[leftovers] is the default item because it directly feeds the [calm-mind] plus [recover] cycle. [sitrus-berry] fits a [decorate] support build where you want a single burst of healing. The ability must be [aroma-veil] — sweet-veil does nothing competitively. Tera [Fairy] improves the STAB ceiling, while Tera [Water] removes [Steel] and [Poison] weaknesses and turns [Alcremie] into an actual specially defensive wall.\n\n## Teammates & Synergy\n[Alcremie] is defensive scaffolding — the team needs a physical wallbreaker behind it. [Ground] and [Fighting] partners cover the [Steel] and [Poison] cores that wall the set, and a priority user answers fast Ghosts trying to finish chipped Alcremies. In doubles, pair it with a slow Trick Room abuser that can cash a [decorate] boost into a kill the same turn.\n\n## Play Patterns\nLead [Alcremie] into [taunt] and [encore] users — [aroma-veil] makes those matchups free. Stack [calm-mind] only when the opponent has locked into a special attacker that cannot two-shot. When a [Steel] comes in, don't keep clicking [dazzling-gleam] — [mystical-fire] is the right answer. Tera only when a [Steel] or [Poison] move is telegraphed; Tera [Water] that turn flips the entire exchange.",
+  "bodyMarkdown": "## Overview\n[alcremie] is a pure [fairy] special attacker with the 65/60/75/110/121/64 stat line of a bulky grinder, not a sweeper. In Champions MA it earns its slot as a [calm-mind] user behind [aroma-veil] — the ability alone means the opponent cannot taunt, encore, or bypass it with mental shenanigans. Base 121 SpD is the core hook.\n\n## Strengths\n121 SpD is the headline — [alcremie] can sit on special attackers that would break other Fairies in half. [calm-mind] stacks SpA and SpD simultaneously, and [recover] turns that into a live ceiling the opponent has to spend two attackers to break. [aroma-veil] is niche but critical: taunt, encore, and disable are all blanked, which keeps the setup plan alive against anti-setup leads. In doubles, decorate gives a teammate a free +2 SpA and creates burst turns no other [fairy] can replicate.\n\n## Weaknesses & Answers\nPoison and Steel 2x is the universal [fairy] ceiling, and [alcremie]'s middling 65/75 physical bulk folds to Kingambit, Tinkaton, and fast Steel wallbreakers. Base 64 Speed is locked in below most of the tier, so once the opponent has its Steel pivot in there is no way to revenge kill. Gholdengo's make-it-rain also cuts through the SpA drop threat.\n\n## Recommended Moveset\n[dazzling-gleam] is the locked [fairy] STAB — in doubles it hits both targets, in singles it's the safer neutral damage move. [mystical-fire] is the required coverage to pressure Steels trying to wall the build. [calm-mind] is the setup, and [recover] is the finisher that turns the loop into a grind. For doubles support lists, swap [recover] for decorate and play off a slow special wallbreaker behind you.\n\n## Item · Ability · Tera\n[leftovers] is the default item because it directly feeds the [calm-mind] plus [recover] cycle. [sitrus-berry] fits a decorate support build where you want a single burst of healing. The ability must be [aroma-veil] — sweet-veil does nothing competitively. Tera [fairy] improves the STAB ceiling, while Tera [water] removes Steel and Poison weaknesses and turns [alcremie] into an actual specially defensive wall.\n\n## Teammates & Synergy\n[alcremie] is defensive scaffolding — the team needs a physical wallbreaker behind it. Ground and Fighting partners cover the Steel and Poison cores that wall the set, and a priority user answers fast Ghosts trying to finish chipped Alcremies. In doubles, pair it with a slow Trick Room abuser that can cash a decorate boost into a kill the same turn.\n\n## Play Patterns\nLead [alcremie] into taunt and encore users — [aroma-veil] makes those matchups free. Stack [calm-mind] only when the opponent has locked into a special attacker that cannot two-shot. When a Steel comes in, don't keep clicking [dazzling-gleam] — [mystical-fire] is the right answer. Tera only when a Steel or Poison move is telegraphed; Tera [water] that turn flips the entire exchange.",
   "tags": [
     "galar",
     "fairy",

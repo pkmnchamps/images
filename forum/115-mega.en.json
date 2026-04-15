@@ -33,18 +33,18 @@
     "105/100/100 bulk post-Mega keeps it reliable"
   ],
   "weaknesses": [
-    "[Fighting] 2x weakness is unchanged after Mega",
+    "Fighting 2x weakness is unchanged after Mega",
     "Speed 100 loses to 110+ upper-tier threats",
-    "Pre-Mega turn runs [scrappy], not [parental-bond]"
+    "Pre-Mega turn runs scrappy, not [parental-bond]"
   ],
   "recommendedMoves": [
     {
       "move": "double-edge",
-      "reason": "Main [Normal] STAB with doubled damage"
+      "reason": "Main [normal] STAB with doubled damage"
     },
     {
       "move": "earthquake",
-      "reason": "[Ground] cove[rage] for [Steel] and [Electric] walls"
+      "reason": "Ground coverage for Steel and Electric walls"
     },
     {
       "move": "sucker-punch",
@@ -61,7 +61,7 @@
       "reason": "Mandatory Mega Stone with no alternatives"
     }
   ],
-  "bodyMarkdown": "## Overview\nMega Kangaskhan is a top-tier physical ace defined entirely by [parental-bond] — the ability makes every attack hit twice (primary hit at full damage, secondary at 25%). This doubles [fake-out] into effectively 80 BP plus two flinch chances, [double-edge] into ~150 BP, and [sucker-punch] into two priority hits. 105/100/100 post-Mega bulk also stabilises the set for repeated entries.\n\n## Strengths\n[parental-bond] is the strongest single-pokemon ability in the metagame offensive pool. Every attack is functionally a double-strike, which turns [fake-out] into a near-guaranteed two-turn tempo lock and [double-edge] into one of the heaviest hitters in the format. [sucker-punch] priority doubles into two hits, pushing Mega Kangaskhan safely above most scarfed threats. focus-sash users are also bypassed on the first attack because the second hit triggers instantly.\n\n## Weaknesses & Answers\n[Fighting] 2x is still live, and [close-combat] / [dynamic-punch] users remain hard counters. Speed 100 is outrun by 110+ upper-tier attackers, which means a scarfed [Fighting] type wins the race cleanly. The pre-Mega turn runs [scrappy], so [parental-bond] does not activate until the evolution completes — the first turn needs to be a safe entry.\n\n## Recommended Moveset\n[double-edge] is the locked [Normal] STAB because the doubled hit is the whole damage plan. [earthquake] is the [Ground] coverage for [Steel], [Rock], and [Electric] walls. [sucker-punch] is the priority cleanup move doubled into two hits for guaranteed KOs on weakened fast threats. [fake-out] is the lead slot for tempo control — the doubled flinch is effectively a free turn.\n\n## Item · Ability · Tera\n[kangaskhanite] is mandatory. [parental-bond] activates post-evolution. Tera [Normal] maxes [double-edge] damage, Tera [Ghost] flips [Normal] and [Fighting] weaknesses but interacts with [scrappy] differently — pick the Tera type based on team needs. Tera [Ghost] defensive pivoting is strong but costs the [Normal] STAB boost on [double-edge].\n\n## Teammates & Synergy\nMega Kangaskhan is a [fake-out] lead that sets up partners. Pair it with setup sweepers that benefit from a free turn. [Psychic] or [Fairy] partners cover the [Fighting] weakness, and a hazard remover keeps the recoil plan sustainable. A cleaner behind Mega Kangaskhan finishes weakened cores after the tempo advantage sets in.\n\n## Play Patterns\nLead with Mega Kangaskhan, evolve turn one, [fake-out] to steal tempo and flinch, then [double-edge] or [earthquake] on the weakened target. Use [sucker-punch] on faster priority-vulnerable threats, and Tera on a telegraphed [Fighting] move.",
+  "bodyMarkdown": "## Overview\nMega Kangaskhan is a top-tier physical ace defined entirely by [parental-bond] — the ability makes every attack hit twice (primary hit at full damage, secondary at 25%). This doubles [fake-out] into effectively 80 BP plus two flinch chances, [double-edge] into ~150 BP, and [sucker-punch] into two priority hits. 105/100/100 post-Mega bulk also stabilises the set for repeated entries.\n\n## Strengths\n[parental-bond] is the strongest single-pokemon ability in the metagame offensive pool. Every attack is functionally a double-strike, which turns [fake-out] into a near-guaranteed two-turn tempo lock and [double-edge] into one of the heaviest hitters in the format. [sucker-punch] priority doubles into two hits, pushing Mega Kangaskhan safely above most scarfed threats. focus-sash users are also bypassed on the first attack because the second hit triggers instantly.\n\n## Weaknesses & Answers\nFighting 2x is still live, and close-combat / dynamic-punch users remain hard counters. Speed 100 is outrun by 110+ upper-tier attackers, which means a scarfed Fighting type wins the race cleanly. The pre-Mega turn runs scrappy, so [parental-bond] does not activate until the evolution completes — the first turn needs to be a safe entry.\n\n## Recommended Moveset\n[double-edge] is the locked [normal] STAB because the doubled hit is the whole damage plan. [earthquake] is the Ground coverage for Steel, Rock, and Electric walls. [sucker-punch] is the priority cleanup move doubled into two hits for guaranteed KOs on weakened fast threats. [fake-out] is the lead slot for tempo control — the doubled flinch is effectively a free turn.\n\n## Item · Ability · Tera\n[kangaskhanite] is mandatory. [parental-bond] activates post-evolution. Tera [normal] maxes [double-edge] damage, Tera [ghost] flips [normal] and Fighting weaknesses but interacts with scrappy differently — pick the Tera type based on team needs. Tera [ghost] defensive pivoting is strong but costs the [normal] STAB boost on [double-edge].\n\n## Teammates & Synergy\nMega Kangaskhan is a [fake-out] lead that sets up partners. Pair it with setup sweepers that benefit from a free turn. Psychic or Fairy partners cover the Fighting weakness, and a hazard remover keeps the recoil plan sustainable. A cleaner behind Mega Kangaskhan finishes weakened cores after the tempo advantage sets in.\n\n## Play Patterns\nLead with Mega Kangaskhan, evolve turn one, [fake-out] to steal tempo and flinch, then [double-edge] or [earthquake] on the weakened target. Use [sucker-punch] on faster priority-vulnerable threats, and Tera on a telegraphed Fighting move.",
   "tags": [
     "kanto",
     "normal",

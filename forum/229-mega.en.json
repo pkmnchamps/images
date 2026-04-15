@@ -27,25 +27,25 @@
   },
   "locale": "en",
   "title": "Mega Houndoom Battle Guide",
-  "summary": "A [Dark]/[Fire] special [sweeper] whose [solar-power] plus sun pushes effective Special Attack past 300 — one [fire-blast] ends most special walls outright.",
+  "summary": "A [dark]/[fire] special sweeper whose [solar-power] plus sun pushes effective Special Attack past 300 — one [fire-blast] ends most special walls outright.",
   "strengths": [
     "[solar-power] plus sun gives a 1.5x Special Attack multiplier, effective SpA past 300",
-    "Base 115 Speed clears most unboosted meta [sweeper]s",
-    "[Dark] and [Fire] STAB cove[rage] leaves almost nothing on the oppo[sing] team safe"
+    "Base 115 Speed clears most unboosted meta sweepers",
+    "[dark] and [fire] STAB coverage leaves almost nothing on the opposing team safe"
   ],
   "weaknesses": [
     "[solar-power] chips 1/8 HP per turn, so long games are unwinnable",
-    "2x to [Fighting], [Ground], [Rock], and [Water] weaknesses remain",
+    "2x to Fighting, Ground, Rock, and Water weaknesses remain",
     "Loses the [solar-power] buff the moment sun is cleared"
   ],
   "recommendedMoves": [
     {
       "move": "fire-blast",
-      "reason": "Picked over [flamethrower] because [solar-power] pushes into OHKO territory"
+      "reason": "Picked over flamethrower because [solar-power] pushes into OHKO territory"
     },
     {
       "move": "dark-pulse",
-      "reason": "Reliable [Dark] STAB for consistent damage between c[lick]s"
+      "reason": "Reliable [dark] STAB for consistent damage between clicks"
     },
     {
       "move": "nasty-plot",
@@ -53,7 +53,7 @@
     },
     {
       "move": "sludge-bomb",
-      "reason": "Kills [Fairy] switch-ins like Azumarill and Clefable"
+      "reason": "Kills Fairy switch-ins like Azumarill and Clefable"
     }
   ],
   "recommendedItems": [
@@ -62,7 +62,7 @@
       "reason": "Mandatory Mega Stone — no alternative"
     }
   ],
-  "bodyMarkdown": "## Overview\nMega Houndoom bumps Special Attack to 140, Speed to 115, and locks in [solar-power], which gives an additional 1.5x multiplier in sun. Under sun, effective Special Attack blows past 300 and [fire-blast] starts one-shotting special walls that would normally require a 2HKO. This is the Mega to bring when the team needs a finisher that cannot be walled.\n\n## Strengths\nSolar-power plus sun is one of the strongest special damage multipliers in the game. [dark-pulse] keeps its flinch utility while hitting bulky [Psychic] and [Ghost] walls, and the base 115 Speed means Mega Houndoom outruns every [timid] 140-or-below Speed tier without investment. Mega Evolution also bumps defenses to 90/90 — enough bulk to survive one weak special hit and still set up [nasty-plot].\n\n## Weaknesses & Answers\nSolar-power burns 1/8 HP every turn, so there is no long-game plan — the sweep has to close in three or four turns. The 2x weaknesses to [Fighting], [Ground], [Rock], and [Water] stay intact after Mega, and priority users with [aqua-jet] or [mach-punch] still [revenge]-kill Mega Houndoom cleanly. The instant Rain, Sand, or Snow replaces sun, [solar-power] falls off and [Fire] moves lose their weather bonus simultaneously — weather warfare is the entire story.\n\n## Recommended Moveset\n[fire-blast] is the mandatory finisher specifically because [solar-power] pushes it over OHKO thresholds that [flamethrower] can't hit. [dark-pulse] is the reliable spam click for consistent damage between [fire-blast] risks. [nasty-plot] takes the third slot — triple-stacking [solar-power], sun, and +2 turns any neutral hit into a guaranteed kill. [sludge-bomb] handles the [Fairy] switch-ins (Azumarill, Clefable) that otherwise wall the [Dark] STAB.\n\n## Item · Ability · Tera\n[houndoominite] is the only item, no alternatives. The ability swaps to [solar-power] on Mega Evolution — this is the whole case for Mega over base. Tera [Fire] is the default, maximizing [fire-blast] OHKO lines. Tera [Dark] is the alternative pick for late-game [dark-pulse] sweeps, especially into [Dragon] cores.\n\n## Teammates & Synergy\nA dedicated sun setter (Ninetales) is effectively mandatory — without sun, Mega Houndoom is barely stronger than the base form. A [stealth-rock] remover is the next non-negotiable slot because 25% per entry ends runs instantly. [Grass] or [Electric] partners to handle enemy [Water] threats make Mega Houndoom's entries safer. Avoid pairing with [trick-room] — this mon lives on high Speed, not low.\n\n## Play Patterns\nLead with the sun setter, switch Mega Houndoom in on turn 2, click [nasty-plot] if the opponent hard-swaps, and start firing. The [solar-power] chip forces a three-to-four-turn kill plan — there is no late-game scenario where Mega Houndoom wins a slow grind. Tera the instant a 2x weakness is telegraphed, or the turn [fire-blast] needs one extra percent of STAB to confirm a KO.",
+  "bodyMarkdown": "## Overview\nMega Houndoom bumps Special Attack to 140, Speed to 115, and locks in [solar-power], which gives an additional 1.5x multiplier in sun. Under sun, effective Special Attack blows past 300 and [fire-blast] starts one-shotting special walls that would normally require a 2HKO. This is the Mega to bring when the team needs a finisher that cannot be walled.\n\n## Strengths\nSolar-power plus sun is one of the strongest special damage multipliers in the game. [dark-pulse] keeps its flinch utility while hitting bulky Psychic and Ghost walls, and the base 115 Speed means Mega Houndoom outruns every [timid] 140-or-below Speed tier without investment. Mega Evolution also bumps defenses to 90/90 — enough bulk to survive one weak special hit and still set up [nasty-plot].\n\n## Weaknesses & Answers\nSolar-power burns 1/8 HP every turn, so there is no long-game plan — the sweep has to close in three or four turns. The 2x weaknesses to Fighting, Ground, Rock, and Water stay intact after Mega, and priority users with aqua-jet or mach-punch still revenge-kill Mega Houndoom cleanly. The instant Rain, Sand, or Snow replaces sun, [solar-power] falls off and [fire] moves lose their weather bonus simultaneously — weather warfare is the entire story.\n\n## Recommended Moveset\n[fire-blast] is the mandatory finisher specifically because [solar-power] pushes it over OHKO thresholds that flamethrower can't hit. [dark-pulse] is the reliable spam click for consistent damage between [fire-blast] risks. [nasty-plot] takes the third slot — triple-stacking [solar-power], sun, and +2 turns any neutral hit into a guaranteed kill. [sludge-bomb] handles the Fairy switch-ins (Azumarill, Clefable) that otherwise wall the [dark] STAB.\n\n## Item · Ability · Tera\n[houndoominite] is the only item, no alternatives. The ability swaps to [solar-power] on Mega Evolution — this is the whole case for Mega over base. Tera [fire] is the default, maximizing [fire-blast] OHKO lines. Tera [dark] is the alternative pick for late-game [dark-pulse] sweeps, especially into Dragon cores.\n\n## Teammates & Synergy\nA dedicated sun setter (Ninetales) is effectively mandatory — without sun, Mega Houndoom is barely stronger than the base form. A stealth-rock remover is the next non-negotiable slot because 25% per entry ends runs instantly. Grass or Electric partners to handle enemy Water threats make Mega Houndoom's entries safer. Avoid pairing with trick-room — this mon lives on high Speed, not low.\n\n## Play Patterns\nLead with the sun setter, switch Mega Houndoom in on turn 2, click [nasty-plot] if the opponent hard-swaps, and start firing. The [solar-power] chip forces a three-to-four-turn kill plan — there is no late-game scenario where Mega Houndoom wins a slow grind. Tera the instant a 2x weakness is telegraphed, or the turn [fire-blast] needs one extra percent of STAB to confirm a KO.",
   "tags": [
     "johto",
     "dark",

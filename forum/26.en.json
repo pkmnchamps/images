@@ -25,26 +25,26 @@
     "spe": 32
   },
   "locale": "en",
-  "title": "[Raichu] Battle Guide",
-  "summary": "A fast [Electric] special [sweeper] that combines Speed 110 with [nasty-plot] setup — a self-sufficient cleaner that does not need light-ball to matter.",
+  "title": "[raichu] Battle Guide",
+  "summary": "A fast [electric] special sweeper that combines Speed 110 with [nasty-plot] setup — a self-sufficient cleaner that does not need light-ball to matter.",
   "strengths": [
     "Unboosted Speed 110 outruns most of the upper metagame",
-    "[nasty-plot] doubles SpA into real [sweeper] damage",
-    "[lightning-rod] redirects [Electric] moves for the team"
+    "[nasty-plot] doubles SpA into real sweeper damage",
+    "[lightning-rod] redirects [electric] moves for the team"
   ],
   "weaknesses": [
     "60/55/80 bulk leaves little setup room",
-    "[Ground] is still a hard 2x weakness",
+    "Ground is still a hard 2x weakness",
     "Priority moves shut down the sweep attempt"
   ],
   "recommendedMoves": [
     {
       "move": "thunderbolt",
-      "reason": "Main [Electric] STAB with high consistency"
+      "reason": "Main [electric] STAB with high consistency"
     },
     {
       "move": "focus-blast",
-      "reason": "[Fighting] cove[rage] for [Steel], [Rock], and [Normal] walls"
+      "reason": "Fighting coverage for Steel, Rock, and Normal walls"
     },
     {
       "move": "volt-switch",
@@ -69,7 +69,7 @@
       "reason": "Boosts damage"
     }
   ],
-  "bodyMarkdown": "## Overview\n[Raichu] is a frail but fast [Electric] special [sweeper] that stands on its own without light-ball. Speed 110 and [nasty-plot] setup make it a self-sufficient cleaner, and [lightning-rod] gives the team a redirector for [Electric] matchups. Its role is simple: find one safe setup turn, then sweep with boosted [thunderbolt].\n\n## Strengths\n110 unboosted Speed sits above most of the upper metagame, so [Raichu] rarely loses the race unboosted. [nasty-plot] is the key move — one use doubles SpA and turns [thunderbolt] into a top-tier special attack. [focus-blast] handles the [Steel], [Rock], and [Normal] walls that would otherwise wall the [Electric] STAB. [volt-switch] keeps pivot tempo alive for bad matchups, and [lightning-rod] supports teammates by absorbing [Electric] attacks.\n\n## Weaknesses & Answers\n60/55/80 bulk leaves very little setup room — any priority or 2x hit threatens a KO. [Ground] is a hard 2x weakness and [earthquake] users force [Raichu] out immediately. Speed 110 is outrun by most scarfed attackers, so the setup turn must be earned on a predicted switch or safe matchup. Priority moves like [extreme-speed] and [sucker-punch] can end the sweep before it starts.\n\n## Recommended Moveset\n[thunderbolt] is the locked STAB because consistency matters more than the damage ceiling. [focus-blast] is the [Fighting] coverage for [Steel], [Rock], and [Normal] targets. [volt-switch] is the pivot move for bad matchups, and the last slot is [nasty-plot] for the setup win condition. Support variants with [encore] or [knock-off] exist but sacrifice cleaning power.\n\n## Item · Ability · Tera\n[focus-sash] is the default item because it guarantees one safe setup turn. [choice-scarf] is the alternative that drops setup in favour of raw Speed and locks [Raichu] into a [revenge] role. [magnet] is the pure damage pick, boosting [thunderbolt] without changing the set fundamentals. Keep [lightning-rod] as the ability. Tera [Electric] maxes STAB damage while Tera [Fairy] flips [Dragon], [Dark], and [Fighting] weaknesses.\n\n## Teammates & Synergy\n[Raichu] wants [fake-out] leads or pivots that force opposing switches for free setup turns. A [Ground] answer — [Grass] or [Flying] partner — covers the [earthquake] weakness, and a cleaner behind [Raichu] converts the sweep chip into final KOs. [stealth-rock] support widens the OHKO ranges after a [nasty-plot] boost.\n\n## Play Patterns\nFind a safe turn to [nasty-plot], then open with [thunderbolt] on neutral matchups and [focus-blast] on [Steel] or [Normal] switch-ins. Use [volt-switch] to bail when the matchup is bad, and Tera on any telegraphed [Ground] move. Do not commit to the sweep unless priority is already handled.",
+  "bodyMarkdown": "## Overview\n[raichu] is a frail but fast [electric] special sweeper that stands on its own without light-ball. Speed 110 and [nasty-plot] setup make it a self-sufficient cleaner, and [lightning-rod] gives the team a redirector for [electric] matchups. Its role is simple: find one safe setup turn, then sweep with boosted [thunderbolt].\n\n## Strengths\n110 unboosted Speed sits above most of the upper metagame, so [raichu] rarely loses the race unboosted. [nasty-plot] is the key move — one use doubles SpA and turns [thunderbolt] into a top-tier special attack. [focus-blast] handles the Steel, Rock, and Normal walls that would otherwise wall the [electric] STAB. [volt-switch] keeps pivot tempo alive for bad matchups, and [lightning-rod] supports teammates by absorbing [electric] attacks.\n\n## Weaknesses & Answers\n60/55/80 bulk leaves very little setup room — any priority or 2x hit threatens a KO. Ground is a hard 2x weakness and earthquake users force [raichu] out immediately. Speed 110 is outrun by most scarfed attackers, so the setup turn must be earned on a predicted switch or safe matchup. Priority moves like extreme-speed and sucker-punch can end the sweep before it starts.\n\n## Recommended Moveset\n[thunderbolt] is the locked STAB because consistency matters more than the damage ceiling. [focus-blast] is the Fighting coverage for Steel, Rock, and Normal targets. [volt-switch] is the pivot move for bad matchups, and the last slot is [nasty-plot] for the setup win condition. Support variants with encore or knock-off exist but sacrifice cleaning power.\n\n## Item · Ability · Tera\n[focus-sash] is the default item because it guarantees one safe setup turn. [choice-scarf] is the alternative that drops setup in favour of raw Speed and locks [raichu] into a revenge role. [magnet] is the pure damage pick, boosting [thunderbolt] without changing the set fundamentals. Keep [lightning-rod] as the ability. Tera [electric] maxes STAB damage while Tera [fairy] flips Dragon, Dark, and Fighting weaknesses.\n\n## Teammates & Synergy\n[raichu] wants fake-out leads or pivots that force opposing switches for free setup turns. A Ground answer — Grass or Flying partner — covers the earthquake weakness, and a cleaner behind [raichu] converts the sweep chip into final KOs. stealth-rock support widens the OHKO ranges after a [nasty-plot] boost.\n\n## Play Patterns\nFind a safe turn to [nasty-plot], then open with [thunderbolt] on neutral matchups and [focus-blast] on Steel or Normal switch-ins. Use [volt-switch] to bail when the matchup is bad, and Tera on any telegraphed Ground move. Do not commit to the sweep unless priority is already handled.",
   "tags": [
     "kanto",
     "electric",

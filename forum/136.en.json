@@ -25,22 +25,22 @@
     "spe": 32
   },
   "locale": "en",
-  "title": "[Flareon] Battle Guide",
-  "summary": "A [Fire]-type physical breaker that runs [guts] and [facade] to weaponize burns into raw damage, backed by 130 Attack and 110 Special Defense.",
+  "title": "[flareon] Battle Guide",
+  "summary": "A [fire]-type physical breaker that runs [guts] and [facade] to weaponize burns into raw damage, backed by 130 Attack and 110 Special Defense.",
   "strengths": [
-    "130 base Attack is the highest [Fire]-type physical line",
+    "130 base Attack is the highest [fire]-type physical line",
     "[guts] converts burn into a 1.5x Attack boost",
-    "110 Special Defense [tank]s neutral special hits comfortably"
+    "110 Special Defense tanks neutral special hits comfortably"
   ],
   "weaknesses": [
     "65 Speed loses most Speed races in the format",
-    "[Water], [Ground], and [Rock] weaknesses are extremely common",
-    "Narrow movepool for a [sing]le-type attacker"
+    "Water, Ground, and Rock weaknesses are extremely common",
+    "Narrow movepool for a single-type attacker"
   ],
   "recommendedMoves": [
     {
       "move": "flare-blitz",
-      "reason": "Main [Fire] STAB with hard-hitting base power"
+      "reason": "Main [fire] STAB with hard-hitting base power"
     },
     {
       "move": "facade",
@@ -48,7 +48,7 @@
     },
     {
       "move": "superpower",
-      "reason": "Cove[rage] for [Rock], [Dark], and [Steel] walls"
+      "reason": "Coverage for Rock, Dark, and Steel walls"
     },
     {
       "move": "quick-attack",
@@ -58,14 +58,14 @@
   "recommendedItems": [
     {
       "item": "charcoal",
-      "reason": "Boosts [Fire] STAB damage with zero drawbacks"
+      "reason": "Boosts [fire] STAB damage with zero drawbacks"
     },
     {
       "item": "focus-sash",
-      "reason": "Guarantees one full attack de[spite] the weak bulk"
+      "reason": "Guarantees one full attack despite the weak bulk"
     }
   ],
-  "bodyMarkdown": "## Overview\n[Flareon] is a single-type [Fire] physical breaker with an unusual stat distribution. The role it fills is a [guts] and [facade] breaker that turns opposing burn attempts into damage boosts. [Flareon] isn't a sweeper — its job is to come in on a single predicted turn and unload a decisive [flare-blitz] or [facade] into whichever Pokemon the team needs removed.\n\n## Strengths\nThe 130 Attack stat is the highest raw attack among [Fire]-types of its era, and with [guts] active it reaches an effective 195. [facade] is the defining move: when [Flareon] is burned, [guts] negates the burn's Attack drop and [facade] doubles in power, producing one of the hardest single-hit moves in the game. 110 Special Defense is also an underappreciated stat that lets [Flareon] [absorb] a stray special hit when needed.\n\n## Weaknesses & Answers\nThe most limiting problem is Speed. 65 is slow enough that [Flareon] almost always moves second, and any faster attacker with a [Water], [Ground], or [Rock] move [revenge]-kills it. The coverage pool is narrow for a pure [Fire]. [Flareon] also struggles against bulky Waters that don't care about the [Fire] STAB and can two-shot it with [scald] or [hydro-pump].\n\n## Recommended Moveset\n[flare-blitz] is the locked [Fire] STAB for maximum damage output, though the recoil does stack up over long matches. [facade] is the [guts] payoff move. [superpower] is the coverage slot that handles [Rock], [Dark], and [Steel] walls that otherwise resist the STAB. The fourth slot is [quick-attack] as a priority [revenge] tool to compensate for the Speed issue.\n\n## Item · Ability · Tera\n[charcoal] is the clean-damage pick that boosts [Fire] STAB with no drawbacks, fitting a four-move set nicely. [focus-sash] is an alternate option for a lead-like role, ensuring [Flareon] survives long enough to use one big attack. The ability must be [guts] in the format. Tera [Fire] maxes [flare-blitz] damage, while Tera [Normal] specifically amplifies [facade] for the burn-abuse build.\n\n## Teammates & Synergy\n[Flareon] needs Speed control to function. A [Ground] partner answers the [Rock], [Water], and [Electric] threats that would otherwise dominate [Flareon], and a [stealth-rock] user chips opposing switches so [Flareon]'s one big attack finishes off the target. A status remover helps prevent the opponent from removing the burn before [Flareon] uses it.\n\n## Play Patterns\n[Flareon] is a breaker, not a cleaner. With flame-orb the plan is to come in, take the burn self-applied, and hit [facade] for massive damage; with [charcoal] the plan is raw [flare-blitz] plus [superpower] depending on the matchup. Keep [Flareon] in the back of the order so it isn't chipped by hazards or priority before its entry turn.",
+  "bodyMarkdown": "## Overview\n[flareon] is a single-type [fire] physical breaker with an unusual stat distribution. The role it fills is a [guts] and [facade] breaker that turns opposing burn attempts into damage boosts. [flareon] isn't a sweeper — its job is to come in on a single predicted turn and unload a decisive [flare-blitz] or [facade] into whichever Pokemon the team needs removed.\n\n## Strengths\nThe 130 Attack stat is the highest raw attack among [fire]-types of its era, and with [guts] active it reaches an effective 195. [facade] is the defining move: when [flareon] is burned, [guts] negates the burn's Attack drop and [facade] doubles in power, producing one of the hardest single-hit moves in the game. 110 Special Defense is also an underappreciated stat that lets [flareon] absorb a stray special hit when needed.\n\n## Weaknesses & Answers\nThe most limiting problem is Speed. 65 is slow enough that [flareon] almost always moves second, and any faster attacker with a Water, Ground, or Rock move revenge-kills it. The coverage pool is narrow for a pure [fire]. [flareon] also struggles against bulky Waters that don't care about the [fire] STAB and can two-shot it with scald or hydro-pump.\n\n## Recommended Moveset\n[flare-blitz] is the locked [fire] STAB for maximum damage output, though the recoil does stack up over long matches. [facade] is the [guts] payoff move. [superpower] is the coverage slot that handles Rock, Dark, and Steel walls that otherwise resist the STAB. The fourth slot is [quick-attack] as a priority revenge tool to compensate for the Speed issue.\n\n## Item · Ability · Tera\n[charcoal] is the clean-damage pick that boosts [fire] STAB with no drawbacks, fitting a four-move set nicely. [focus-sash] is an alternate option for a lead-like role, ensuring [flareon] survives long enough to use one big attack. The ability must be [guts] in the format. Tera [fire] maxes [flare-blitz] damage, while Tera [normal] specifically amplifies [facade] for the burn-abuse build.\n\n## Teammates & Synergy\n[flareon] needs Speed control to function. A Ground partner answers the Rock, Water, and Electric threats that would otherwise dominate [flareon], and a stealth-rock user chips opposing switches so [flareon]'s one big attack finishes off the target. A status remover helps prevent the opponent from removing the burn before [flareon] uses it.\n\n## Play Patterns\n[flareon] is a breaker, not a cleaner. With flame-orb the plan is to come in, take the burn self-applied, and hit [facade] for massive damage; with [charcoal] the plan is raw [flare-blitz] plus [superpower] depending on the matchup. Keep [flareon] in the back of the order so it isn't chipped by hazards or priority before its entry turn.",
   "tags": [
     "kanto",
     "fire",

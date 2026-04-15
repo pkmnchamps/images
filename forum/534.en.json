@@ -25,34 +25,34 @@
     "spe": 0
   },
   "locale": "en",
-  "title": "[Conkeldurr] Battle Guide",
-  "summary": "A 140 Atk [Fighting] bruiser that uses [iron-fist] [drain-punch] to [tank] and heal at the same time.",
+  "title": "[conkeldurr] Battle Guide",
+  "summary": "A 140 Atk [fighting] bruiser that uses [iron-fist] [drain-punch] to tank and heal at the same time.",
   "strengths": [
     "140 Atk with [iron-fist] turns [drain-punch] into a sustain engine",
-    "105 HP base lets it [absorb] hits while stacking [bulk-up]",
+    "105 HP base lets it absorb hits while stacking [bulk-up]",
     "[mach-punch] priority papers over the 45 Speed problem"
   ],
   "weaknesses": [
-    "Stacked [Flying], [psychic], and [Fairy] 2x weaknesses",
-    "45 Speed means most attackers outrun and [revenge] kill it",
-    "A burn wrecks the [iron-fist] damage output in one c[lick]"
+    "Stacked Flying, psychic, and Fairy 2x weaknesses",
+    "45 Speed means most attackers outrun and revenge kill it",
+    "A burn wrecks the [iron-fist] damage output in one click"
   ],
   "recommendedMoves": [
     {
       "move": "drain-punch",
-      "reason": "[iron-fist]-boosted [Fighting] STAB that also heals half the damage dealt"
+      "reason": "[iron-fist]-boosted [fighting] STAB that also heals half the damage dealt"
     },
     {
       "move": "mach-punch",
-      "reason": "Priority STAB to paper over [Conkeldurr]'s terrible Speed tier"
+      "reason": "Priority STAB to paper over [conkeldurr]'s terrible Speed tier"
     },
     {
       "move": "knock-off",
-      "reason": "[Psychic] and [Ghost] cove[rage] plus item removal on the pivot"
+      "reason": "Psychic and Ghost coverage plus item removal on the pivot"
     },
     {
       "move": "bulk-up",
-      "reason": "Single-turn setup that converts [Conkeldurr] into a sustain sweeper"
+      "reason": "Single-turn setup that converts [conkeldurr] into a sustain sweeper"
     }
   ],
   "recommendedItems": [
@@ -62,14 +62,14 @@
     },
     {
       "item": "focus-sash",
-      "reason": "Guarantees a retaliation against fast [revenge] killers"
+      "reason": "Guarantees a retaliation against fast revenge killers"
     },
     {
       "item": "lum-berry",
-      "reason": "One-shot status clear that [protect]s the first turn"
+      "reason": "One-shot status clear that protects the first turn"
     }
   ],
-  "bodyMarkdown": "## Overview\n[Conkeldurr] is one of the few pure [Fighting] attackers in Champions that trades Speed for raw attrition. 140 Atk and 105 HP off a single type looks unbalanced, and [iron-fist] turns [drain-punch] into a sustain engine that rebuilds HP while breaking walls. The role is simple — come in late game, stack [bulk-up] once, and [recycle].\n\n## Strengths\n[iron-fist] gives [drain-punch], [mach-punch], [ice-punch], and [thunder-punch] a 1.2x damage multiplier, and the [drain-punch] healing makes [Conkeldurr]'s effective HP pool nearly 50 percent larger than the stat bar shows. 140 Atk through [close-combat] hits like a Choice-locked mon without actually locking, and a single [bulk-up] boost is often enough to clean half a team in the late game. [mach-punch] is the real bandaid on the 45 Speed stat — most [revenge] killers expect to outrun [Conkeldurr] but eat priority first.\n\n## Weaknesses & Answers\n[Flying], [psychic], and [Fairy] all hit for 2x and [Conkeldurr] loses the Speed race to every one of them. A [Fairy] wall like Clefable or a bulky [Psychic] pivot shuts [drain-punch] off almost entirely, so [knock-off] must be clicked early to remove their [leftovers]. Burn is the worst problem — a single [will-o-wisp] cuts [iron-fist] Atk in half and the whole sustain plan collapses, which is why [lum-berry] is the best item on opening turns. Against speed control teams ([tailwind], choice-scarf users), [Conkeldurr] can never click freely.\n\n## Recommended Moveset\n[drain-punch] is the locked STAB and the entire identity of the set — [iron-fist], 75 base power, and 50 percent recovery rolled into one click. [mach-punch] covers the Speed deficit and finishes weakened [Electric] or [Rock] threats that would otherwise pick [Conkeldurr] off. [knock-off] is the obligatory coverage slot — [psychic], [Ghost], and pivot walls all lose their items on the way out. [bulk-up] is the fourth slot because one boost turns [Conkeldurr] into a genuine sweeper instead of a pure trade unit. If the team needs more up-front damage, [close-combat] swaps in for [drain-punch], but the sustain loop is gone.\n\n## Item · Ability · Tera\n[leftovers] is the default — it stacks with [drain-punch] and makes [Conkeldurr] nearly impossible to wear down. [focus-sash] is the better pick into matchups full of fast [revenge] killers because it guarantees a [mach-punch] retaliation before going down. [lum-berry] answers Prankster [will-o-wisp] or sleep [powder] users trying to neuter the opening turn. The ability must be [iron-fist] — [guts] needs a self-damage enabler and [sheer-force] disables the [drain-punch] heal. Tera [Steel] is the best primary, covering the [Flying], [psychic], and [Fairy] weaknesses in one go; Tera [Fire] flips the [Flying] and [psychic] matchups into resistances and adds burn immunity, which is a huge gain.\n\n## Teammates & Synergy\n[Conkeldurr] needs a reliable pivot partner since it cannot switch in safely against most attackers. An [Electric] [tank] to [absorb] [Flying] hits, a [Dark]-type to eat [psychic] pressure, and a [Poison] or [Steel] breaker to threaten the [Fairy] walls that want to wall [drain-punch]. A dedicated [tailwind] setter fixes the 45 Speed issue outright and turns [Conkeldurr] into a mid-game cleaner. Finally, an [intimidate] ally helps it [soak] physical chip while stacking [bulk-up].\n\n## Play Patterns\nHold [Conkeldurr] for the mid-to-late game — entering turn one hands the opponent a free pivot. Wait until the faster threats are removed or damaged, then bring it in on a forced switch, stack one [bulk-up], and start the [drain-punch] plus [leftovers] cycle. Save [mach-punch] for finishing a low-HP [revenge] killer, not as an opener. Tera only when a [Flying] or [psychic] hit is telegraphed — otherwise keep the option open for the back half of the game.",
+  "bodyMarkdown": "## Overview\n[conkeldurr] is one of the few pure [fighting] attackers in Champions that trades Speed for raw attrition. 140 Atk and 105 HP off a single type looks unbalanced, and [iron-fist] turns [drain-punch] into a sustain engine that rebuilds HP while breaking walls. The role is simple — come in late game, stack [bulk-up] once, and recycle.\n\n## Strengths\n[iron-fist] gives [drain-punch], [mach-punch], ice-punch, and thunder-punch a 1.2x damage multiplier, and the [drain-punch] healing makes [conkeldurr]'s effective HP pool nearly 50 percent larger than the stat bar shows. 140 Atk through close-combat hits like a Choice-locked mon without actually locking, and a single [bulk-up] boost is often enough to clean half a team in the late game. [mach-punch] is the real bandaid on the 45 Speed stat — most revenge killers expect to outrun [conkeldurr] but eat priority first.\n\n## Weaknesses & Answers\nFlying, psychic, and Fairy all hit for 2x and [conkeldurr] loses the Speed race to every one of them. A Fairy wall like Clefable or a bulky Psychic pivot shuts [drain-punch] off almost entirely, so [knock-off] must be clicked early to remove their [leftovers]. Burn is the worst problem — a single will-o-wisp cuts [iron-fist] Atk in half and the whole sustain plan collapses, which is why [lum-berry] is the best item on opening turns. Against speed control teams (tailwind, choice-scarf users), [conkeldurr] can never click freely.\n\n## Recommended Moveset\n[drain-punch] is the locked STAB and the entire identity of the set — [iron-fist], 75 base power, and 50 percent recovery rolled into one click. [mach-punch] covers the Speed deficit and finishes weakened Electric or Rock threats that would otherwise pick [conkeldurr] off. [knock-off] is the obligatory coverage slot — psychic, Ghost, and pivot walls all lose their items on the way out. [bulk-up] is the fourth slot because one boost turns [conkeldurr] into a genuine sweeper instead of a pure trade unit. If the team needs more up-front damage, close-combat swaps in for [drain-punch], but the sustain loop is gone.\n\n## Item · Ability · Tera\n[leftovers] is the default — it stacks with [drain-punch] and makes [conkeldurr] nearly impossible to wear down. [focus-sash] is the better pick into matchups full of fast revenge killers because it guarantees a [mach-punch] retaliation before going down. [lum-berry] answers Prankster will-o-wisp or sleep powder users trying to neuter the opening turn. The ability must be [iron-fist] — guts needs a self-damage enabler and sheer-force disables the [drain-punch] heal. Tera [steel] is the best primary, covering the Flying, psychic, and Fairy weaknesses in one go; Tera [fire] flips the Flying and psychic matchups into resistances and adds burn immunity, which is a huge gain.\n\n## Teammates & Synergy\n[conkeldurr] needs a reliable pivot partner since it cannot switch in safely against most attackers. An Electric tank to absorb Flying hits, a Dark-type to eat psychic pressure, and a Poison or [steel] breaker to threaten the Fairy walls that want to wall [drain-punch]. A dedicated tailwind setter fixes the 45 Speed issue outright and turns [conkeldurr] into a mid-game cleaner. Finally, an intimidate ally helps it soak physical chip while stacking [bulk-up].\n\n## Play Patterns\nHold [conkeldurr] for the mid-to-late game — entering turn one hands the opponent a free pivot. Wait until the faster threats are removed or damaged, then bring it in on a forced switch, stack one [bulk-up], and start the [drain-punch] plus [leftovers] cycle. Save [mach-punch] for finishing a low-HP revenge killer, not as an opener. Tera only when a Flying or psychic hit is telegraphed — otherwise keep the option open for the back half of the game.",
   "tags": [
     "unova",
     "fighting",

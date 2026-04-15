@@ -26,30 +26,30 @@
     "spe": 32
   },
   "locale": "ko",
-  "title": "[메가샤크니아] 배틀 운용 가이드",
-  "summary": "[strong-jaw]로 송곳니 계열 기술 위력 1.5배 보정 받는 [물]·[악] 고속 물리 어태커. [crunch]·[ice-fang]·[psychic-fangs] 삼중 견제 구성이 핵심.",
+  "title": "[sharpedo-mega] 배틀 운용 가이드",
+  "summary": "[strong-jaw]로 송곳니 계열 기술 위력 1.5배 보정 받는 [water]·[dark] 고속 물리 어태커. [crunch]·[ice-fang]·[psychic-fangs] 삼중 견제 구성이 핵심.",
   "strengths": [
     "[strong-jaw] 송곳니 기술 1.5배 보정",
     "140 공격 + 105 스피드 고속 물리 화력",
     "[crunch] + [ice-fang] + [psychic-fangs] 광범위 견제"
   ],
   "weaknesses": [
-    "[격투]·[전기]·[벌레]·[페어리]·[풀] 약점 다수",
+    "격투·전기·벌레·페어리·풀 약점 다수",
     "물리 내구 70/70으로 매우 취약",
-    "메가 진화 전 [speed-boost] 상태 1턴 소모"
+    "메가 진화 전 speed-boost 상태 1턴 소모"
   ],
   "recommendedMoves": [
     {
       "move": "crunch",
-      "reason": "[strong-jaw] 보정 주력 [악] STAB"
+      "reason": "[strong-jaw] 보정 주력 [dark] STAB"
     },
     {
       "move": "ice-fang",
-      "reason": "[strong-jaw] 보정 [드래곤]·[풀]·[비행] 견제"
+      "reason": "[strong-jaw] 보정 드래곤·풀·비행 견제"
     },
     {
       "move": "psychic-fangs",
-      "reason": "[strong-jaw] 보정 + 벽 파괴 [격투]·[독] 견제"
+      "reason": "[strong-jaw] 보정 + 벽 파괴 격투·독 견제"
     },
     {
       "move": "protect",
@@ -62,7 +62,7 @@
       "reason": "메가 진화를 위한 필수 아이템"
     }
   ],
-  "bodyMarkdown": "## 개요\n[메가샤크니아]는 [strong-jaw] 특성으로 송곳니 계열 기술의 위력이 1.5배 보정되는 [물]·[악] 고속 물리 어태커다. [crunch]·[ice-fang]·[psychic-fangs] 삼중 구성으로 광범위한 타입 견제가 가능하고, 105 스피드 + 140 공격으로 고속 물리 화력까지 확보한다.\n\n## 강점 분석\n[strong-jaw]는 송곳니 계열 기술 위력을 1.5배로 보정한다. [crunch]는 자속 + 보정으로 실질 위력 120 수준이 되고, [ice-fang]은 [드래곤]·[풀]·[비행]·[땅] 견제, [psychic-fangs]는 [격투]·[독] 견제 + [light-screen]/[reflect] 파괴 기능까지 겸한다. 140 공격 + 105 스피드 조합은 메타 고속권에서 확실한 물리 화력이다.\n\n## 약점과 대응\n물리 내구 70/70은 매우 취약하여 [bullet-punch]·[mach-punch] 선공기 한 방에 쓰러진다. 약점 타입이 5종으로 많고, 특히 [격투]·[전기] 약점은 메타에서 빈번한 공격기다. 메가 진화 1턴은 일반 샤크니아의 [speed-boost] 특성이 사라지므로 1턴 손해가 있다.\n\n## 추천 기술 구성\n[crunch]는 주력 [악] STAB. [ice-fang]과 [psychic-fangs]로 광범위 견제 가능. [protect]는 메가 진화 턴 안전 확보 + 파트너 셋업 기회 창출에 필수. [waterfall] 대신 송곳니 기술 3종을 선택하는 것이 [strong-jaw] 보정 관점에서 더 효율적이다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [sharpedonite] 고정이다. 특성은 메가 진화 후 [strong-jaw]로 자동 전환. 테라스탈은 [악]으로 [crunch] 자속 중첩 보정 극대화, 또는 [물]로 [전기] 약점 유지 대신 자속 보정 + [격투] 저항 획득.\n\n## 시너지와 파트너\n[tailwind] 세터로 스피드 초고속 유지, [fake-out] 유저로 1턴 보호 필수. [격투]·[전기] 약점 카운터로 [psychic]·[ground] 파트너 배치. 물리 내구 약점 보조로 [intimidate] 유저가 유효.\n\n## 운용 팁\n메가 진화 1턴은 [protect]로 안전 확보 후, 다음 턴부터 [crunch]·[ice-fang]·[psychic-fangs]로 고속 화력을 뿜는다. 상대 파티 타입에 따라 송곳니 3종을 유연하게 선택, 물리 내구 부족 때문에 교대 인 타이밍에 신중해야 한다.",
+  "bodyMarkdown": "## 개요\n[sharpedo-mega]는 [strong-jaw] 특성으로 송곳니 계열 기술의 위력이 1.5배 보정되는 [water]·[dark] 고속 물리 어태커다. [crunch]·[ice-fang]·[psychic-fangs] 삼중 구성으로 광범위한 타입 견제가 가능하고, 105 스피드 + 140 공격으로 고속 물리 화력까지 확보한다.\n\n## 강점 분석\n[strong-jaw]는 송곳니 계열 기술 위력을 1.5배로 보정한다. [crunch]는 자속 + 보정으로 실질 위력 120 수준이 되고, [ice-fang]은 드래곤·풀·비행·땅 견제, [psychic-fangs]는 격투·독 견제 + light-screen/reflect 파괴 기능까지 겸한다. 140 공격 + 105 스피드 조합은 메타 고속권에서 확실한 물리 화력이다.\n\n## 약점과 대응\n물리 내구 70/70은 매우 취약하여 bullet-punch·mach-punch 선공기 한 방에 쓰러진다. 약점 타입이 5종으로 많고, 특히 격투·전기 약점은 메타에서 빈번한 공격기다. 메가 진화 1턴은 일반 샤크니아의 speed-boost 특성이 사라지므로 1턴 손해가 있다.\n\n## 추천 기술 구성\n[crunch]는 주력 [dark] STAB. [ice-fang]과 [psychic-fangs]로 광범위 견제 가능. [protect]는 메가 진화 턴 안전 확보 + 파트너 셋업 기회 창출에 필수. waterfall 대신 송곳니 기술 3종을 선택하는 것이 [strong-jaw] 보정 관점에서 더 효율적이다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [sharpedonite] 고정이다. 특성은 메가 진화 후 [strong-jaw]로 자동 전환. 테라스탈은 [dark]으로 [crunch] 자속 중첩 보정 극대화, 또는 [water]로 전기 약점 유지 대신 자속 보정 + 격투 저항 획득.\n\n## 시너지와 파트너\ntailwind 세터로 스피드 초고속 유지, fake-out 유저로 1턴 보호 필수. 격투·전기 약점 카운터로 psychic·ground 파트너 배치. 물리 내구 약점 보조로 intimidate 유저가 유효.\n\n## 운용 팁\n메가 진화 1턴은 [protect]로 안전 확보 후, 다음 턴부터 [crunch]·[ice-fang]·[psychic-fangs]로 고속 화력을 뿜는다. 상대 파티 타입에 따라 송곳니 3종을 유연하게 선택, 물리 내구 부족 때문에 교대 인 타이밍에 신중해야 한다.",
   "tags": [
     "hoenn",
     "water",

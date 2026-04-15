@@ -25,47 +25,47 @@
     "spe": 32
   },
   "locale": "en",
-  "title": "[Lopunny] Battle Guide",
-  "summary": "A base 105 Speed [fake-out] [support] with [drain-punch] [recover]y and [u-turn] [pivot] utility that still earns a slot without Mega Evolution.",
+  "title": "[lopunny] Battle Guide",
+  "summary": "A base 105 Speed [fake-out] support with [drain-punch] recovery and [u-turn] pivot utility that still earns a slot without Mega Evolution.",
   "strengths": [
     "Base 105 Speed gives reliable [fake-out] initiative turn one",
-    "[limber] grants paralysis immunity, making [Lopunny] a strong answer to status spam",
-    "[drain-punch] and [u-turn] let [Lopunny] stay healthy and keep momentum flowing"
+    "[limber] grants paralysis immunity, making [lopunny] a strong answer to status spam",
+    "[drain-punch] and [u-turn] let [lopunny] stay healthy and keep momentum flowing"
   ],
   "weaknesses": [
     "Base 76 Atk is below wallbreaker thresholds without Mega Evolution",
-    "2x [Fighting] weakness with only 65/84/96 bulk folds to super-effective hits",
-    "[fake-out] and [return] are both worthless into [Ghost] types"
+    "2x [fighting] weakness with only 65/84/96 bulk folds to super-effective hits",
+    "[fake-out] and [return] are both worthless into Ghost types"
   ],
   "recommendedMoves": [
     {
       "move": "fake-out",
-      "reason": "is the guaranteed turn-zero flinch that anchors the [support] role"
+      "reason": "is the guaranteed turn-zero flinch that anchors the support role"
     },
     {
       "move": "return",
-      "reason": "is the STAB [Normal] main with max friendship damage output"
+      "reason": "is the STAB [normal] main with max friendship damage output"
     },
     {
       "move": "drain-punch",
-      "reason": "answers [Rock], [Dark], and [Steel] while also [recover]ing HP"
+      "reason": "answers Rock, Dark, and Steel while also recovering HP"
     },
     {
       "move": "u-turn",
-      "reason": "keeps [pivot] chains alive and scouts incoming switches"
+      "reason": "keeps pivot chains alive and scouts incoming switches"
     }
   ],
   "recommendedItems": [
     {
       "item": "sitrus-berry",
-      "reason": "stacks with [recover]y to keep alive across chains"
+      "reason": "stacks with recovery to keep alive across chains"
     },
     {
       "item": "silk-scarf",
       "reason": "pushes into kill-confirm ranges when a finisher is needed"
     }
   ],
-  "bodyMarkdown": "## Overview\nBase-form [Lopunny] is one of the rare [Normal] types in the format that can earn a real slot outside of its Mega role. Base 105 Speed, [fake-out], and [u-turn] combine to make it a genuine tempo-control [pivot] — the goal is not to break walls but to buy setup turns and scout the opposing team. You bring base-form [Lopunny] when you want the flexibility of not committing to Mega Evolution immediately.\n\n## Strengths\nBase 105 Speed sits above most of the unboosted metagame, so [fake-out] triggers reliably on turn one and creates the free setup turn your cleaner needs. [u-turn] makes losing matchups cheap because [Lopunny] just exits on the damage step instead of trading. [limber] shuts off paralysis entirely, which is significant in tiers where [thunder-wave] chip is a common form of disruption. [drain-punch] gives real coverage into [Rock], [Dark], and [Steel] walls while keeping HP topped off.\n\n## Weaknesses & Answers\nBase 76 Atk is the limiting factor — [Lopunny] cannot actually break walls, only harass them. 65/84/96 defenses look workable on paper, but with a 2x [Fighting] weakness any [close-combat] or [drain-punch] from the opponent removes most of [Lopunny]'s HP bar in one hit. [Ghost] types walk in and ignore both [fake-out] and [return], so the set completely collapses against any [Ghost] [pivot] that is not answered by [drain-punch] or [u-turn].\n\n## Recommended Moveset\n[fake-out] is a locked slot — skipping it deletes the main reason to run base [Lopunny]. [return] is the primary STAB, scaling off max happiness for steady unresisted damage. [drain-punch] is the [Fighting] coverage slot and the only reliable HP recovery on the set, so it double-dips as both offense and sustain. [u-turn] is the [pivot] closer, letting [Lopunny] exit bad matchups without giving up tempo. An [encore] variant works as a meta answer to heavy setup teams.\n\n## Item · Ability · Tera\n[sitrus-berry] is the default item; combined with [drain-punch] it absorbs a hit and tops [Lopunny]'s HP back to a workable range mid-match. [silk-scarf] is the more aggressive pick when you want [return] to close kill ranges directly. [limber] is the correct ability because the other options do nothing against the meta, and status immunity is actively valuable. For Tera, [Fighting] is the best overall pick — it scrubs the [Fighting] weakness, deepens [drain-punch], and keeps [return] as STAB thanks to [Normal] typing underneath.\n\n## Teammates & Synergy\n[Lopunny]'s job is to buy a turn for a setup ace, so pair it with [dragon-dance], [belly-drum], or [swords-dance] sweepers that can turn one free action into a snowball. A slow U-turn or Volt Switch [pivot] behind [Lopunny] keeps momentum flowing into your wincon. Include a [Dark] type to pressure [Ghost] pivots, since that matchup is [Lopunny]'s main dead zone.\n\n## Play Patterns\nLead with [Lopunny] to land [fake-out] on the opposing lead, then branch by matchup — [return] into soft targets, [drain-punch] into [Steel] or [Rock], [u-turn] out of anything that brings a [Ghost]. Keep HP above half whenever possible; [Lopunny] is a [support] unit, not a fight-to-the-last piece. Save the Mega Evolution for the Mega-form entry — the base form is the one you bring when the team composition prefers flexibility over raw damage.",
+  "bodyMarkdown": "## Overview\nBase-form [lopunny] is one of the rare [normal] types in the format that can earn a real slot outside of its Mega role. Base 105 Speed, [fake-out], and [u-turn] combine to make it a genuine tempo-control pivot — the goal is not to break walls but to buy setup turns and scout the opposing team. You bring base-form [lopunny] when you want the flexibility of not committing to Mega Evolution immediately.\n\n## Strengths\nBase 105 Speed sits above most of the unboosted metagame, so [fake-out] triggers reliably on turn one and creates the free setup turn your cleaner needs. [u-turn] makes losing matchups cheap because [lopunny] just exits on the damage step instead of trading. [limber] shuts off paralysis entirely, which is significant in tiers where thunder-wave chip is a common form of disruption. [drain-punch] gives real coverage into Rock, Dark, and Steel walls while keeping HP topped off.\n\n## Weaknesses & Answers\nBase 76 Atk is the limiting factor — [lopunny] cannot actually break walls, only harass them. 65/84/96 defenses look workable on paper, but with a 2x [fighting] weakness any close-combat or [drain-punch] from the opponent removes most of [lopunny]'s HP bar in one hit. Ghost types walk in and ignore both [fake-out] and [return], so the set completely collapses against any Ghost pivot that is not answered by [drain-punch] or [u-turn].\n\n## Recommended Moveset\n[fake-out] is a locked slot — skipping it deletes the main reason to run base [lopunny]. [return] is the primary STAB, scaling off max happiness for steady unresisted damage. [drain-punch] is the [fighting] coverage slot and the only reliable HP recovery on the set, so it double-dips as both offense and sustain. [u-turn] is the pivot closer, letting [lopunny] exit bad matchups without giving up tempo. An encore variant works as a meta answer to heavy setup teams.\n\n## Item · Ability · Tera\n[sitrus-berry] is the default item; combined with [drain-punch] it absorbs a hit and tops [lopunny]'s HP back to a workable range mid-match. [silk-scarf] is the more aggressive pick when you want [return] to close kill ranges directly. [limber] is the correct ability because the other options do nothing against the meta, and status immunity is actively valuable. For Tera, [fighting] is the best overall pick — it scrubs the [fighting] weakness, deepens [drain-punch], and keeps [return] as STAB thanks to [normal] typing underneath.\n\n## Teammates & Synergy\n[lopunny]'s job is to buy a turn for a setup ace, so pair it with dragon-dance, belly-drum, or swords-dance sweepers that can turn one free action into a snowball. A slow U-turn or Volt Switch pivot behind [lopunny] keeps momentum flowing into your wincon. Include a Dark type to pressure Ghost pivots, since that matchup is [lopunny]'s main dead zone.\n\n## Play Patterns\nLead with [lopunny] to land [fake-out] on the opposing lead, then branch by matchup — [return] into soft targets, [drain-punch] into Steel or Rock, [u-turn] out of anything that brings a Ghost. Keep HP above half whenever possible; [lopunny] is a support unit, not a fight-to-the-last piece. Save the Mega Evolution for the Mega-form entry — the base form is the one you bring when the team composition prefers flexibility over raw damage.",
   "tags": [
     "sinnoh",
     "normal",

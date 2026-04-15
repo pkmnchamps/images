@@ -26,34 +26,34 @@
     "spe": 32
   },
   "locale": "en",
-  "title": "[Beedrill] Battle Guide",
-  "summary": "A fragile [Bug]/[Poison] physical [pivot] that keeps tempo through [u-turn] loops and [knock-off] utility.",
+  "title": "[beedrill] Battle Guide",
+  "summary": "A fragile [bug]/[poison] physical pivot that keeps tempo through [u-turn] loops and [knock-off] utility.",
   "strengths": [
-    "[u-turn] creates a safe [pivot] loop for the whole team",
-    "[poison-jab] and [drill-run] cover Fairies, [Grass]es, [Steel]s, and [Rock]s",
-    "[knock-off] strips item resources from oppo[sing] walls"
+    "[u-turn] creates a safe pivot loop for the whole team",
+    "[poison-jab] and [drill-run] cover Fairies, Grasses, [steel]s, and Rocks",
+    "[knock-off] strips item resources from opposing walls"
   ],
   "weaknesses": [
     "40 Defense means any physical hit is potentially lethal",
-    "[Flying], [Fire], [Rock], and [psychic] 2x weaknesses are common",
+    "Flying, Fire, Rock, and psychic 2x weaknesses are common",
     "Lacks finishing damage until [swarm] activates below 1/3 HP"
   ],
   "recommendedMoves": [
     {
       "move": "u-turn",
-      "reason": "Core [Bug] STAB that keeps the [pivot] loop alive"
+      "reason": "Core [bug] STAB that keeps the pivot loop alive"
     },
     {
       "move": "poison-jab",
-      "reason": "Required [Poison] STAB for Fairies and mirror [Grass]"
+      "reason": "Required [poison] STAB for Fairies and mirror Grass"
     },
     {
       "move": "drill-run",
-      "reason": "[Ground] cove[rage] for [Steel], [Rock], and [Electric] walls"
+      "reason": "Ground coverage for [steel], Rock, and Electric walls"
     },
     {
       "move": "knock-off",
-      "reason": "Utility move that strips items from oppo[sing] teams"
+      "reason": "Utility move that strips items from opposing teams"
     }
   ],
   "recommendedItems": [
@@ -70,7 +70,7 @@
       "reason": "Boosts into a harder hit"
     }
   ],
-  "bodyMarkdown": "## Overview\n[Beedrill] is a lightweight [Bug]/[Poison] physical [pivot] whose Champions role revolves entirely around [u-turn] tempo and [knock-off] utility. 90 Attack with 75 Speed looks modest on paper, but pivoting safely, stripping items, and punishing Fairies and Grasses from one slot makes it a glue piece for [pivot]-heavy cores.\n\n## Strengths\n[u-turn] is the whole identity — every successful hit gives the team a free matchup re-evaluation and deals damage on the way out. [poison-jab] breaks Fairies and mirror [Grass], [drill-run] punishes Steels and Rocks that try to wall the [Bug] STAB, and [knock-off] eats the opposing item economy. Across a long match, that item removal alone can decide games.\n\n## Weaknesses & Answers\n40 Defense is extremely fragile — any physical neutral hit threatens a KO, and the [Rock], [Fire], [Flying], and [psychic] weaknesses are all common coverage moves. Priority attackers push [Beedrill] out of the game without [focus-sash], so item choice is non-optional. [swarm] only activates below 1/3 HP, so the damage floor is low against bulky walls; you have to force trades by pivoting into soft matchups.\n\n## Recommended Moveset\n[u-turn] is locked as the main [Bug] STAB because [pivot] tempo is the whole set. [poison-jab] is the mandatory [Poison] STAB for Fairies, and [drill-run] is the [Ground] coverage that punishes Steels, Rocks, and Electrics trying to wall the combo. The last slot is [knock-off] for item removal and long-game resource generation. A variant that replaces [knock-off] with [swords-dance] converts [Beedrill] into a one-shot setup sweeper.\n\n## Item · Ability · Tera\n[focus-sash] is the default because [Beedrill] needs one guaranteed survival turn against priority. [choice-scarf] is the alternative when the team needs a [revenge] killer, trading flexibility for Speed. [black-glasses] boosts [knock-off] into a harder hit, making the utility move double as a damage spike. Keep [swarm] as the ability for the low-HP damage spike. Pick Tera [Bug] for STAB damage or Tera [Steel] for the [Rock], [Flying], and [psychic] patch.\n\n## Teammates & Synergy\n[Beedrill] slots into [pivot] cores alongside [volt-switch] and [flip-turn] users to keep team momentum spinning. Pair it with a physical wall to cover the 40 Defense hole and a dedicated hazard remover so it can enter the field repeatedly without chip. A setup sweeper behind the [pivot] cycle capitalises on the chip and item removal it generates.\n\n## Play Patterns\nLead with [Beedrill] into a predicted passive matchup to start the [u-turn] loop, or bring it in on turn two to force a [knock-off] trade. Use Tera on a telegraphed [Flying] or [Rock] attack, and only hold position when [swarm] is active and a guaranteed KO is on the table.",
+  "bodyMarkdown": "## Overview\n[beedrill] is a lightweight [bug]/[poison] physical pivot whose Champions role revolves entirely around [u-turn] tempo and [knock-off] utility. 90 Attack with 75 Speed looks modest on paper, but pivoting safely, stripping items, and punishing Fairies and Grasses from one slot makes it a glue piece for pivot-heavy cores.\n\n## Strengths\n[u-turn] is the whole identity — every successful hit gives the team a free matchup re-evaluation and deals damage on the way out. [poison-jab] breaks Fairies and mirror Grass, [drill-run] punishes Steels and Rocks that try to wall the [bug] STAB, and [knock-off] eats the opposing item economy. Across a long match, that item removal alone can decide games.\n\n## Weaknesses & Answers\n40 Defense is extremely fragile — any physical neutral hit threatens a KO, and the Rock, Fire, Flying, and psychic weaknesses are all common coverage moves. Priority attackers push [beedrill] out of the game without [focus-sash], so item choice is non-optional. [swarm] only activates below 1/3 HP, so the damage floor is low against bulky walls; you have to force trades by pivoting into soft matchups.\n\n## Recommended Moveset\n[u-turn] is locked as the main [bug] STAB because pivot tempo is the whole set. [poison-jab] is the mandatory [poison] STAB for Fairies, and [drill-run] is the Ground coverage that punishes Steels, Rocks, and Electrics trying to wall the combo. The last slot is [knock-off] for item removal and long-game resource generation. A variant that replaces [knock-off] with swords-dance converts [beedrill] into a one-shot setup sweeper.\n\n## Item · Ability · Tera\n[focus-sash] is the default because [beedrill] needs one guaranteed survival turn against priority. [choice-scarf] is the alternative when the team needs a revenge killer, trading flexibility for Speed. [black-glasses] boosts [knock-off] into a harder hit, making the utility move double as a damage spike. Keep [swarm] as the ability for the low-HP damage spike. Pick Tera [bug] for STAB damage or Tera [steel] for the Rock, Flying, and psychic patch.\n\n## Teammates & Synergy\n[beedrill] slots into pivot cores alongside volt-switch and flip-turn users to keep team momentum spinning. Pair it with a physical wall to cover the 40 Defense hole and a dedicated hazard remover so it can enter the field repeatedly without chip. A setup sweeper behind the pivot cycle capitalises on the chip and item removal it generates.\n\n## Play Patterns\nLead with [beedrill] into a predicted passive matchup to start the [u-turn] loop, or bring it in on turn two to force a [knock-off] trade. Use Tera on a telegraphed Flying or Rock attack, and only hold position when [swarm] is active and a guaranteed KO is on the table.",
   "tags": [
     "kanto",
     "bug",

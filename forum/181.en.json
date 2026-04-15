@@ -25,22 +25,22 @@
     "spe": 0
   },
   "locale": "en",
-  "title": "[Ampharos] Battle Guide",
-  "summary": "A 115 Special Attack [Electric]-type bulky attacker that abuses [thunder-wave] and [volt-switch] to control the pace of the match.",
+  "title": "[ampharos] Battle Guide",
+  "summary": "A 115 Special Attack [electric]-type bulky attacker that abuses [thunder-wave] and [volt-switch] to control the pace of the match.",
   "strengths": [
     "115 Special Attack produces reliable breaker damage",
-    "90/85 dual bulk allows it to [tank] hits while attacking",
-    "[thunder-wave] breaks the oppo[sing] Speed tier for teammates"
+    "90/85 dual bulk allows it to tank hits while attacking",
+    "[thunder-wave] breaks the opposing Speed tier for teammates"
   ],
   "weaknesses": [
-    "55 Speed forces [Ampharos] to move last against almost everything",
-    "[Ground] type immunity blanks the [Electric] STAB",
-    "Narrow cove[rage] pool for a pure [Electric] build"
+    "55 Speed forces [ampharos] to move last against almost everything",
+    "Ground type immunity blanks the [electric] STAB",
+    "Narrow coverage pool for a pure [electric] build"
   ],
   "recommendedMoves": [
     {
       "move": "thunderbolt",
-      "reason": "Reliable [Electric] STAB for main damage output"
+      "reason": "Reliable [electric] STAB for main damage output"
     },
     {
       "move": "volt-switch",
@@ -48,24 +48,24 @@
     },
     {
       "move": "focus-blast",
-      "reason": "[Fighting] cove[rage] for [Rock], [Dark], and [Steel] walls"
+      "reason": "Fighting coverage for Rock, Dark, and Steel walls"
     },
     {
       "move": "thunder-wave",
-      "reason": "Cripples the oppo[sing] speed tier with paralysis"
+      "reason": "Cripples the opposing speed tier with paralysis"
     }
   ],
   "recommendedItems": [
     {
       "item": "magnet",
-      "reason": "Boosts [Electric] STAB damage without locking moves"
+      "reason": "Boosts [electric] STAB damage without locking moves"
     },
     {
       "item": "leftovers",
-      "reason": "Passive [recover]y for a -style build"
+      "reason": "Passive recovery for a -style build"
     }
   ],
-  "bodyMarkdown": "## Overview\n[Ampharos] is a pure [Electric] special attacker with an unusual stat distribution — 90 HP, 85 Special Defense, 115 Special Attack, and only 55 Speed. That combination reads as a slow breaker or bulky pivot rather than a traditional attacker, and that's exactly how it's used. [Ampharos] trades speed for durability, takes hits from opposing special attackers, and uses [thunder-wave] plus [volt-switch] to control the pace of the match for its teammates rather than racing for KOs.\n\n## Strengths\n115 Special Attack is strong enough to pressure most walls, and [Ampharos]'s bulk means it gets multiple turns of output instead of just one attack per entry. [thunderbolt] provides reliable STAB damage, and [volt-switch] turns every shaky matchup into a pivot opportunity. [thunder-wave] is the key utility move that converts [Ampharos]'s slow Speed into team-wide Speed control, paralyzing faster threats and letting teammates outrun them.\n\n## Weaknesses & Answers\n55 Speed means [Ampharos] almost always moves last, so any attacker threatening a one-shot removes it before it can act. The [Ground] immunity is the defining structural problem — any grounded [Ground] type walls [Electric] STAB, and the narrow coverage pool means [Ampharos] lacks clean answers beyond [focus-blast]. The low Speed tier also means priority attackers and faster choice-scarf users control the tempo of every [Ampharos] matchup.\n\n## Recommended Moveset\n[thunderbolt] is the locked [Electric] STAB. [volt-switch] provides the pivot role and is mandatory for team tempo. [focus-blast] fills the coverage slot as the best available [Fighting] move, though the 70 percent accuracy is a real drawback. [thunder-wave] is the team utility slot that extends [Ampharos]'s value beyond its own damage output. [dragon-pulse] is an alternate coverage pick for [Dragon] matchups.\n\n## Item · Ability · Tera\n[magnet] is the default — it boosts [Electric] STAB damage with no drawback and keeps move flexibility intact. [leftovers] is an alternate for the [tank] build that wants passive recovery over raw damage. The ability is [static] by default — plus is only useful in doubles, so it's a dead slot in singles. Tera [Electric] maxes [thunderbolt] damage, while Tera [Fairy] flips the [Dragon] resistances into a strong defensive profile.\n\n## Teammates & Synergy\nThe biggest structural need is a [Ground] answer — a [Grass] or [Flying] partner ensures the [Electric] STAB stays relevant. A [tailwind] setter or screens user accelerates [Ampharos]'s slow pace, and a physical wall covers the weakness to physical breakers. Fast cleaners on the back line convert [Ampharos]'s [thunder-wave] pressure into wins, and a hazard remover preserves the bulk over a long match.\n\n## Play Patterns\nEnter on predicted [Electric]-[absorb] targets or on a safe pivot, use [thunder-wave] against faster attackers, then [volt-switch] out to a faster teammate. Against bulky walls, use [focus-blast] as the coverage pick. Save [thunderbolt] for predictable flying or water matchups where STAB lands for full damage. Save the Tera specifically for a [Ground] attack — using it defensively almost always preserves [Ampharos] for the late game.",
+  "bodyMarkdown": "## Overview\n[ampharos] is a pure [electric] special attacker with an unusual stat distribution — 90 HP, 85 Special Defense, 115 Special Attack, and only 55 Speed. That combination reads as a slow breaker or bulky pivot rather than a traditional attacker, and that's exactly how it's used. [ampharos] trades speed for durability, takes hits from opposing special attackers, and uses [thunder-wave] plus [volt-switch] to control the pace of the match for its teammates rather than racing for KOs.\n\n## Strengths\n115 Special Attack is strong enough to pressure most walls, and [ampharos]'s bulk means it gets multiple turns of output instead of just one attack per entry. [thunderbolt] provides reliable STAB damage, and [volt-switch] turns every shaky matchup into a pivot opportunity. [thunder-wave] is the key utility move that converts [ampharos]'s slow Speed into team-wide Speed control, paralyzing faster threats and letting teammates outrun them.\n\n## Weaknesses & Answers\n55 Speed means [ampharos] almost always moves last, so any attacker threatening a one-shot removes it before it can act. The Ground immunity is the defining structural problem — any grounded Ground type walls [electric] STAB, and the narrow coverage pool means [ampharos] lacks clean answers beyond [focus-blast]. The low Speed tier also means priority attackers and faster choice-scarf users control the tempo of every [ampharos] matchup.\n\n## Recommended Moveset\n[thunderbolt] is the locked [electric] STAB. [volt-switch] provides the pivot role and is mandatory for team tempo. [focus-blast] fills the coverage slot as the best available Fighting move, though the 70 percent accuracy is a real drawback. [thunder-wave] is the team utility slot that extends [ampharos]'s value beyond its own damage output. dragon-pulse is an alternate coverage pick for Dragon matchups.\n\n## Item · Ability · Tera\n[magnet] is the default — it boosts [electric] STAB damage with no drawback and keeps move flexibility intact. [leftovers] is an alternate for the tank build that wants passive recovery over raw damage. The ability is [static] by default — plus is only useful in doubles, so it's a dead slot in singles. Tera [electric] maxes [thunderbolt] damage, while Tera [fairy] flips the Dragon resistances into a strong defensive profile.\n\n## Teammates & Synergy\nThe biggest structural need is a Ground answer — a Grass or Flying partner ensures the [electric] STAB stays relevant. A tailwind setter or screens user accelerates [ampharos]'s slow pace, and a physical wall covers the weakness to physical breakers. Fast cleaners on the back line convert [ampharos]'s [thunder-wave] pressure into wins, and a hazard remover preserves the bulk over a long match.\n\n## Play Patterns\nEnter on predicted [electric]-absorb targets or on a safe pivot, use [thunder-wave] against faster attackers, then [volt-switch] out to a faster teammate. Against bulky walls, use [focus-blast] as the coverage pick. Save [thunderbolt] for predictable flying or water matchups where STAB lands for full damage. Save the Tera specifically for a Ground attack — using it defensively almost always preserves [ampharos] for the late game.",
   "tags": [
     "johto",
     "electric",

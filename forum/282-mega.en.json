@@ -27,29 +27,29 @@
   },
   "locale": "en",
   "title": "Mega Gardevoir Battle Guide",
-  "summary": "The benchmark [pixilate] spread attacker — [hyper-voice] converts into a boosted [Fairy] STAB spread move off a 165 Special Attack stat.",
+  "summary": "The benchmark [pixilate] spread attacker — [hyper-voice] converts into a boosted [fairy] STAB spread move off a 165 Special Attack stat.",
   "strengths": [
-    "[hyper-voice] becomes a [Fairy] STAB spread via [pixilate]",
+    "[hyper-voice] becomes a [fairy] STAB spread via [pixilate]",
     "165 Special Attack is the highest among practical Mega attackers",
-    "Sound moves bypass [substitute]"
+    "Sound moves bypass substitute"
   ],
   "weaknesses": [
-    "Weak to [Steel], [Poison], [Ghost]",
+    "Weak to Steel, Poison, Ghost",
     "Speed 100 is outpaced by Scarf users",
     "Physical bulk 68/65 folds to priority attacks"
   ],
   "recommendedMoves": [
     {
       "move": "hyper-voice",
-      "reason": "Main spread [Fairy] STAB via [pixilate]"
+      "reason": "Main spread [fairy] STAB via [pixilate]"
     },
     {
       "move": "psyshock",
-      "reason": "Hits special walls like [blissey] on their Def"
+      "reason": "Hits special walls like blissey on their Def"
     },
     {
       "move": "moonblast",
-      "reason": "Single-target [Fairy] STAB with higher BP"
+      "reason": "Single-target [fairy] STAB with higher BP"
     },
     {
       "move": "protect",
@@ -62,7 +62,7 @@
       "reason": "Mandatory Mega Stone with no alternative"
     }
   ],
-  "bodyMarkdown": "## Overview\nMega Gardevoir is the benchmark [pixilate] spread attacker. The ability turns [normal]-type moves into [fairy] with a 1.2x boost, so [hyper-voice] becomes a spread [fairy] STAB with four stacking bonuses: 165 Special Attack, STAB, pixilate boost, and multi-target damage. In doubles, [hyper-voice] is one of the strongest spread moves in the metagame.\n\n## Strengths\n[hyper-voice] hits through [substitute] because it is a sound move, so setup threats cannot wall it behind a [substitute]. 165 Special Attack is tied for the highest on any practical Mega attacker, and the [Psychic]/[Fairy] typing gives clean immunity to [dragon] and [fighting] plus a solid resistance list.\n\n## Weaknesses & Answers\n[Steel] and [Poison] walls resist [hyper-voice] hard, and [ghost] attackers like [gengar] punish the [psychic] side. Physical bulk is 68/65, so any priority move ([bullet-punch], [sucker-punch], [shadow-sneak]) is a serious threat. Speed 100 loses to Scarf attackers and the top tier of natural speed.\n\n## Recommended Moveset\n[hyper-voice] is the whole game plan. [psyshock] targets Defense to break special walls and hit [Poison]-types (many of which have weaker Def). [moonblast] is single-target [fairy] STAB with higher BP for concentrated damage. [protect] is mandatory in doubles for Mega turn safety and partner setup.\n\n## Item · Ability · Tera\n[gardevoirite] is mandatory. [pixilate] activates after Mega Evolution. Tera [Fairy] stacks on top of [pixilate] for maximum [hyper-voice] damage; Tera [Psychic] boosts [psyshock] instead for a [Poison]-breaking plan.\n\n## Teammates & Synergy\nA [tailwind] setter solves the Speed 100 problem. [incineroar]'s [intimidate] buys physical bulk. Partners with [telepathy] (like [metagross]) ignore [hyper-voice] ally damage so you can fire freely without friendly fire.\n\n## Play Patterns\nProtect on the Mega turn, then spam [hyper-voice] into the opponent's pair. Switch to [psyshock] or [moonblast] when a [Poison] type is present. Keep it behind a bulky teammate to avoid priority KOs, and save Tera for an emergency damage boost.",
+  "bodyMarkdown": "## Overview\nMega Gardevoir is the benchmark [pixilate] spread attacker. The ability turns normal-type moves into [fairy] with a 1.2x boost, so [hyper-voice] becomes a spread [fairy] STAB with four stacking bonuses: 165 Special Attack, STAB, pixilate boost, and multi-target damage. In doubles, [hyper-voice] is one of the strongest spread moves in the metagame.\n\n## Strengths\n[hyper-voice] hits through substitute because it is a sound move, so setup threats cannot wall it behind a substitute. 165 Special Attack is tied for the highest on any practical Mega attacker, and the [psychic]/[fairy] typing gives clean immunity to dragon and fighting plus a solid resistance list.\n\n## Weaknesses & Answers\nSteel and Poison walls resist [hyper-voice] hard, and ghost attackers like gengar punish the [psychic] side. Physical bulk is 68/65, so any priority move (bullet-punch, sucker-punch, shadow-sneak) is a serious threat. Speed 100 loses to Scarf attackers and the top tier of natural speed.\n\n## Recommended Moveset\n[hyper-voice] is the whole game plan. [psyshock] targets Defense to break special walls and hit Poison-types (many of which have weaker Def). [moonblast] is single-target [fairy] STAB with higher BP for concentrated damage. [protect] is mandatory in doubles for Mega turn safety and partner setup.\n\n## Item · Ability · Tera\n[gardevoirite] is mandatory. [pixilate] activates after Mega Evolution. Tera [fairy] stacks on top of [pixilate] for maximum [hyper-voice] damage; Tera [psychic] boosts [psyshock] instead for a Poison-breaking plan.\n\n## Teammates & Synergy\nA tailwind setter solves the Speed 100 problem. incineroar's intimidate buys physical bulk. Partners with telepathy (like metagross) ignore [hyper-voice] ally damage so you can fire freely without friendly fire.\n\n## Play Patterns\nProtect on the Mega turn, then spam [hyper-voice] into the opponent's pair. Switch to [psyshock] or [moonblast] when a Poison type is present. Keep it behind a bulky teammate to avoid priority KOs, and save Tera for an emergency damage boost.",
   "tags": [
     "hoenn",
     "psychic",

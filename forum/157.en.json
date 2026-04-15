@@ -25,34 +25,34 @@
     "spe": 32
   },
   "locale": "en",
-  "title": "[Typhlosion] Battle Guide",
-  "summary": "A [Fire]-type special attacker that amplifies its STAB via [flash-fire] and runs [eruption] on a 100 Speed [choice-scarf] frame.",
+  "title": "[typhlosion] Battle Guide",
+  "summary": "A [fire]-type special attacker that amplifies its STAB via [flash-fire] and runs [eruption] on a 100 Speed [choice-scarf] frame.",
   "strengths": [
-    "[flash-fire] [absorb]s [Fire] attacks and boosts STAB damage",
+    "[flash-fire] absorbs [fire] attacks and boosts STAB damage",
     "100 Speed and 109 Special Attack is a reliable attacker line",
-    "[eruption] plus scarf is a powerful [revenge]-kill combo"
+    "[eruption] plus scarf is a powerful revenge-kill combo"
   ],
   "weaknesses": [
-    "[Water], [Ground], and [Rock] weaknesses are everywhere in the meta",
-    "Thin bulk makes special [revenge] attacks very dangerous",
-    "Pure [Fire] cove[rage] is narrow compared to other attackers"
+    "Water, Ground, and Rock weaknesses are everywhere in the meta",
+    "Thin bulk makes special revenge attacks very dangerous",
+    "Pure [fire] coverage is narrow compared to other attackers"
   ],
   "recommendedMoves": [
     {
       "move": "eruption",
-      "reason": "Base 150 power at full HP — the main [Fire] STAB"
+      "reason": "Base 150 power at full HP — the main [fire] STAB"
     },
     {
       "move": "focus-blast",
-      "reason": "[Fighting] cove[rage] for [Rock] and [Dark] walls"
+      "reason": "Fighting coverage for Rock and Dark walls"
     },
     {
       "move": "solar-beam",
-      "reason": "[Water] and [Ground] [counter] under sun teams"
+      "reason": "Water and Ground counter under sun teams"
     },
     {
       "move": "extrasensory",
-      "reason": "[Psychic] cove[rage] for [Poison] and [Fighting] threats"
+      "reason": "Psychic coverage for Poison and Fighting threats"
     }
   ],
   "recommendedItems": [
@@ -62,14 +62,14 @@
     },
     {
       "item": "charcoal",
-      "reason": "Raises [Fire] STAB damage without drawbacks"
+      "reason": "Raises [fire] STAB damage without drawbacks"
     },
     {
       "item": "focus-sash",
       "reason": "Guards the thin bulk on lead duty"
     }
   ],
-  "bodyMarkdown": "## Overview\n[Typhlosion] is a [Fire]-type special attacker built around a 100 Speed and 109 Special Attack line that keeps it reliably competitive as a mid-tier cleaner. The hidden ability [flash-fire] is the real draw — it absorbs incoming [Fire] attacks and then boosts [Typhlosion]'s own [Fire] STAB by 50 percent, meaning a single switch into a [fire] move produces one of the hardest-hitting [eruption] attacks. Role-wise [Typhlosion] is a classic glass-cannon special attacker with a narrow but reliable plan.\n\n## Strengths\nThe [flash-fire] interaction is the whole pitch. Absorbing a [Fire] attack instead of just resisting it turns every predicted [fire] move into an offensive opportunity. 100 Speed sits at a comfortable tier for scarfed attackers, and the 109 SpA is high enough to pressure switch-ins without extra investment. The coverage options ([focus-blast], [solar-beam], [extrasensory]) fill specific structural holes the [Fire] STAB leaves.\n\n## Weaknesses & Answers\nThe three weaknesses — [Water], [Ground], and [Rock] — are among the most common attack types in the format, which means a huge portion of the opposing roster counters [Typhlosion]. 78/78/85 defenses don't survive any of those threats, so [Typhlosion] has to enter on predicted switches or [revenge] kills. [eruption] is also HP-scaling, so any chip damage drops the output significantly and the slot loses value over a long game.\n\n## Recommended Moveset\n[eruption] is the locked [Fire] STAB because its base 150 power at full HP is the reason [Typhlosion] is on the team. [focus-blast] covers [Rock], [Dark], and [Steel] walls that would otherwise resist the [Fire] STAB. [solar-beam] is the sun-team coverage move that answers [Water], [Ground], and [Rock] threats in a single slot. [extrasensory] fills the coverage slot outside sun teams and hits [Poison] and [Fighting] targets.\n\n## Item · Ability · Tera\n[choice-scarf] is the default because locking [Typhlosion] into [eruption] as a [revenge]-killer is exactly the role it plays best. [charcoal] is the alternate for a four-move build that wants flexibility over raw speed. [focus-sash] fits a lead build that demands one guaranteed attack. The ability must be [flash-fire]. Tera [Fire] maxes the STAB damage, and Tera [Grass] is the defensive option that flips the [Water] weakness into a resist.\n\n## Teammates & Synergy\nA [Water] and [Ground] answer is mandatory. A dedicated sun setter boosts [Typhlosion]'s [Fire] damage and enables [solar-beam] in a single turn, turning the team into a focused offensive unit. A hazard remover preserves [Typhlosion]'s HP for [eruption] damage, and a special wall covers the [revenge] threats that would otherwise remove [Typhlosion] before it can sweep.\n\n## Play Patterns\nThe goal is to keep [Typhlosion] at full HP for [eruption]. Enter on predicted [Fire] attacks to trigger [flash-fire], then unload [eruption] for boosted damage. Switch out rather than tanking any incidental chip. [focus-blast] is the pick for [Rock] walls; [extrasensory] for [Poison] and [Fighting]. Save the Tera for the moment a [Water] or [Rock] move is about to land, and use it defensively to preserve the sweep.",
+  "bodyMarkdown": "## Overview\n[typhlosion] is a [fire]-type special attacker built around a 100 Speed and 109 Special Attack line that keeps it reliably competitive as a mid-tier cleaner. The hidden ability [flash-fire] is the real draw — it absorbs incoming [fire] attacks and then boosts [typhlosion]'s own [fire] STAB by 50 percent, meaning a single switch into a [fire] move produces one of the hardest-hitting [eruption] attacks. Role-wise [typhlosion] is a classic glass-cannon special attacker with a narrow but reliable plan.\n\n## Strengths\nThe [flash-fire] interaction is the whole pitch. Absorbing a [fire] attack instead of just resisting it turns every predicted [fire] move into an offensive opportunity. 100 Speed sits at a comfortable tier for scarfed attackers, and the 109 SpA is high enough to pressure switch-ins without extra investment. The coverage options ([focus-blast], [solar-beam], [extrasensory]) fill specific structural holes the [fire] STAB leaves.\n\n## Weaknesses & Answers\nThe three weaknesses — Water, Ground, and Rock — are among the most common attack types in the format, which means a huge portion of the opposing roster counters [typhlosion]. 78/78/85 defenses don't survive any of those threats, so [typhlosion] has to enter on predicted switches or revenge kills. [eruption] is also HP-scaling, so any chip damage drops the output significantly and the slot loses value over a long game.\n\n## Recommended Moveset\n[eruption] is the locked [fire] STAB because its base 150 power at full HP is the reason [typhlosion] is on the team. [focus-blast] covers Rock, Dark, and Steel walls that would otherwise resist the [fire] STAB. [solar-beam] is the sun-team coverage move that answers Water, Ground, and Rock threats in a single slot. [extrasensory] fills the coverage slot outside sun teams and hits Poison and Fighting targets.\n\n## Item · Ability · Tera\n[choice-scarf] is the default because locking [typhlosion] into [eruption] as a revenge-killer is exactly the role it plays best. [charcoal] is the alternate for a four-move build that wants flexibility over raw speed. [focus-sash] fits a lead build that demands one guaranteed attack. The ability must be [flash-fire]. Tera [fire] maxes the STAB damage, and Tera [grass] is the defensive option that flips the Water weakness into a resist.\n\n## Teammates & Synergy\nA Water and Ground answer is mandatory. A dedicated sun setter boosts [typhlosion]'s [fire] damage and enables [solar-beam] in a single turn, turning the team into a focused offensive unit. A hazard remover preserves [typhlosion]'s HP for [eruption] damage, and a special wall covers the revenge threats that would otherwise remove [typhlosion] before it can sweep.\n\n## Play Patterns\nThe goal is to keep [typhlosion] at full HP for [eruption]. Enter on predicted [fire] attacks to trigger [flash-fire], then unload [eruption] for boosted damage. Switch out rather than tanking any incidental chip. [focus-blast] is the pick for Rock walls; [extrasensory] for Poison and Fighting. Save the Tera for the moment a Water or Rock move is about to land, and use it defensively to preserve the sweep.",
   "tags": [
     "johto",
     "fire",

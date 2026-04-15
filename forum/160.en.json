@@ -25,30 +25,30 @@
     "spe": 32
   },
   "locale": "en",
-  "title": "[Feraligatr] Battle Guide",
-  "summary": "A [Water] physical setup sweeper whose [sheer-force] ability converts [liquidation], [crunch], and [ice-punch] into 1.3x boosted finishers after a [dragon-dance].",
+  "title": "[feraligatr] Battle Guide",
+  "summary": "A [water] physical setup sweeper whose [sheer-force] ability converts [liquidation], [crunch], and [ice-punch] into 1.3x boosted finishers after a [dragon-dance].",
   "strengths": [
     "[sheer-force] boosts every secondary-effect move by 30 percent",
     "[dragon-dance] solves the Speed tier problem in one turn",
-    "Broad cove[rage] pool — [Ghost], [Dragon], [Ground], and [Psychic] all covered"
+    "Broad coverage pool — Ghost, Dragon, Ground, and Psychic all covered"
   ],
   "weaknesses": [
     "78 Speed is too slow without a [dragon-dance] up",
-    "2x [Grass] and [Electric] weaknesses threaten the setup turn",
+    "2x Grass and Electric weaknesses threaten the setup turn",
     "Priority attackers easily interrupt the setup"
   ],
   "recommendedMoves": [
     {
       "move": "liquidation",
-      "reason": "Main [Water] STAB with a [sheer-force] boost"
+      "reason": "Main [water] STAB with a [sheer-force] boost"
     },
     {
       "move": "crunch",
-      "reason": "Mandatory [Psychic] and [Ghost] cove[rage]"
+      "reason": "Mandatory Psychic and Ghost coverage"
     },
     {
       "move": "ice-punch",
-      "reason": "Covers [Dragon], [Grass], and [Ground] walls"
+      "reason": "Covers Dragon, Grass, and Ground walls"
     },
     {
       "move": "dragon-dance",
@@ -58,14 +58,14 @@
   "recommendedItems": [
     {
       "item": "mystic-water",
-      "reason": "Boosts [Water] STAB damage with no drawback"
+      "reason": "Boosts [water] STAB damage with no drawback"
     },
     {
       "item": "lum-berry",
       "reason": "Absorbs one status move to secure the setup turn"
     }
   ],
-  "bodyMarkdown": "## Overview\n[Feraligatr] is a [Water]-type physical setup sweeper whose entire plan revolves around the [sheer-force] hidden ability plus [dragon-dance]. Base 105 Attack and 78 Speed look mediocre at first, but [sheer-force] boosts every secondary-effect move ([liquidation], [crunch], [ice-punch]) by 30 percent, and a single dance turns those into game-ending finishers. In the Champions format [Feraligatr] is a reliable late-game sweeper that closes out matches once the opposing walls have been weakened.\n\n## Strengths\n[sheer-force] is the damage scaler. [liquidation], [crunch], and [ice-punch] all qualify, so [Feraligatr]'s effective power is considerably higher than its raw stats suggest. [dragon-dance] solves the Speed tier in one turn. The coverage trio of [Water], [Dark], and [Ice] covers almost every wall in the format, making [Feraligatr] difficult to switch into after setup.\n\n## Weaknesses & Answers\nThe 78 Speed is the main structural issue. 2x [Grass] and [Electric] weaknesses mean any special attacker running those types threatens to end the setup turn. Priority attackers — [extreme-speed], [aqua-jet] from Scizor-style users.\n\n## Recommended Moveset\n[liquidation] is the locked [Water] STAB because [sheer-force] boosts it and it has a defense-lowering secondary that's a meaningful threat mid-sweep. [crunch] is the mandatory [Dark] move for [Ghost] and [Psychic] walls. [ice-punch] covers [Grass], [Dragon], and [Ground] attackers that would otherwise wall the [Water] STAB. [dragon-dance] fills the fourth slot. [earthquake] is an alternative for [Electric] coverage if the team needs it.\n\n## Item · Ability · Tera\n[mystic-water] is a clean [Water] STAB booster with no drawbacks and doesn't lock moves, making it the default for the four-attack set. [lum-berry] is the alternate that absorbs one status attempt and guarantees the setup turn. The ability must be [sheer-force]. Tera [Water] maxes [liquidation] damage, and Tera [Dark] turns the setup mid-sweep into a [crunch]-oriented cleaner with extra coverage resistance.\n\n## Teammates & Synergy\nThe biggest structural need is [Grass] and [Electric] coverage. A slow pivot creates the entry turns [Feraligatr] needs to dance, and an [intimidate] user on the back line reduces the priority pressure that would otherwise interrupt the setup. Hazard removal also matters for [Feraligatr]'s bulk over a long game.\n\n## Play Patterns\n[Feraligatr] wants a late-game setup slot. Enter on a predicted [Water]-weak switch, dance on the swap turn, and start chaining coverage attacks. Use [crunch] against [Ghost] and [Psychic] walls, [ice-punch] for Dragons and Grasses, and [liquidation] for everything neutral. Save the Tera for the moment a [Grass] or [Electric] move is confirmed.",
+  "bodyMarkdown": "## Overview\n[feraligatr] is a [water]-type physical setup sweeper whose entire plan revolves around the [sheer-force] hidden ability plus [dragon-dance]. Base 105 Attack and 78 Speed look mediocre at first, but [sheer-force] boosts every secondary-effect move ([liquidation], [crunch], [ice-punch]) by 30 percent, and a single dance turns those into game-ending finishers. In the Champions format [feraligatr] is a reliable late-game sweeper that closes out matches once the opposing walls have been weakened.\n\n## Strengths\n[sheer-force] is the damage scaler. [liquidation], [crunch], and [ice-punch] all qualify, so [feraligatr]'s effective power is considerably higher than its raw stats suggest. [dragon-dance] solves the Speed tier in one turn. The coverage trio of [water], [dark], and Ice covers almost every wall in the format, making [feraligatr] difficult to switch into after setup.\n\n## Weaknesses & Answers\nThe 78 Speed is the main structural issue. 2x Grass and Electric weaknesses mean any special attacker running those types threatens to end the setup turn. Priority attackers — extreme-speed, aqua-jet from Scizor-style users.\n\n## Recommended Moveset\n[liquidation] is the locked [water] STAB because [sheer-force] boosts it and it has a defense-lowering secondary that's a meaningful threat mid-sweep. [crunch] is the mandatory [dark] move for Ghost and Psychic walls. [ice-punch] covers Grass, Dragon, and Ground attackers that would otherwise wall the [water] STAB. [dragon-dance] fills the fourth slot. earthquake is an alternative for Electric coverage if the team needs it.\n\n## Item · Ability · Tera\n[mystic-water] is a clean [water] STAB booster with no drawbacks and doesn't lock moves, making it the default for the four-attack set. [lum-berry] is the alternate that absorbs one status attempt and guarantees the setup turn. The ability must be [sheer-force]. Tera [water] maxes [liquidation] damage, and Tera [dark] turns the setup mid-sweep into a [crunch]-oriented cleaner with extra coverage resistance.\n\n## Teammates & Synergy\nThe biggest structural need is Grass and Electric coverage. A slow pivot creates the entry turns [feraligatr] needs to dance, and an intimidate user on the back line reduces the priority pressure that would otherwise interrupt the setup. Hazard removal also matters for [feraligatr]'s bulk over a long game.\n\n## Play Patterns\n[feraligatr] wants a late-game setup slot. Enter on a predicted [water]-weak switch, dance on the swap turn, and start chaining coverage attacks. Use [crunch] against Ghost and Psychic walls, [ice-punch] for Dragons and Grasses, and [liquidation] for everything neutral. Save the Tera for the moment a Grass or Electric move is confirmed.",
   "tags": [
     "johto",
     "water",

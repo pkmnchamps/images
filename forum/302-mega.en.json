@@ -27,14 +27,14 @@
   },
   "locale": "en",
   "title": "Mega Sableye Battle Guide",
-  "summary": "A [magic-bounce] utility Mega that reflects [taunt], [stealth-rock], and [thunder-wave] while grinding opponents down with [will-o-wisp] and [recover].",
+  "summary": "A [magic-bounce] utility Mega that reflects taunt, stealth-rock, and thunder-wave while grinding opponents down with [will-o-wisp] and [recover].",
   "strengths": [
     "[magic-bounce] reflects status and hazards for free",
-    "[Dark]/[Ghost] is immune to [Psychic] and [Fighting]",
+    "[dark]/[ghost] is immune to Psychic and Fighting",
     "[recover] plus [will-o-wisp] beats most physical attackers"
   ],
   "weaknesses": [
-    "[Fairy] weakness is punished hard in current meta",
+    "[fairy] weakness is punished hard in current meta",
     "85 Attack means offensive pressure is weak",
     "Speed 50 forces a pivoting playstyle"
   ],
@@ -49,11 +49,11 @@
     },
     {
       "move": "foul-play",
-      "reason": "[Dark] STAB that scales off the target's Attack"
+      "reason": "[dark] STAB that scales off the target's Attack"
     },
     {
       "move": "shadow-ball",
-      "reason": "Secondary [Ghost] STAB for coverage"
+      "reason": "Secondary [ghost] STAB for coverage"
     }
   ],
   "recommendedItems": [
@@ -62,7 +62,7 @@
       "reason": "Mandatory Mega Stone with no alternative"
     }
   ],
-  "bodyMarkdown": "## Overview\nMega Sableye is a utility pivot built entirely around [magic-bounce]. The ability reflects status moves and hazards — [taunt], [stealth-rock], [thunder-wave], [encore], [leech-seed], etc. — so it single-handedly disables most common support Pokemon. Paired with [will-o-wisp] and [recover], Mega Sableye forms one of the most resilient stallwalls in the format.\n\n## Strengths\n[magic-bounce] is arguably the best utility ability in the metagame. Stall teams cannot set [stealth-rock], support leads cannot land [taunt], and paralysis strategies fail outright. [Dark]/[Ghost] typing is immune to [Psychic] and [Fighting] — a very clean defensive pivot against common threats like [urshifu] and [mewtwo]. [recover] gives it long-term sustain that physical attackers cannot outpace.\n\n## Weaknesses & Answers\n[Fairy] is the critical weakness in the current meta where [tapu-koko], [gardevoir], and friends are everywhere. 85 Attack means direct damage is weak — it leans hard on [foul-play] to punish setup sweepers instead. Speed 50 is very slow, so Mega Sableye only works as a switch-in, not a lead.\n\n## Recommended Moveset\n[will-o-wisp] is the primary answer to physical threats and pairs with [foul-play] to neuter attackers. [recover] is mandatory for the walling plan. [foul-play] uses the target's Attack stat, which means Mega Sableye actually becomes stronger against opposing setup sweepers. [shadow-ball] rounds out the set as a [Ghost] STAB.\n\n## Item · Ability · Tera\n[sablenite] is mandatory. [magic-bounce] activates only after Mega Evolution (the base form's [prankster] is not used). Tera [Fairy] flips the [Fighting], [Dark], and [Bug] weaknesses to resistances, while Tera [Dark] preserves the [Psychic] immunity and boosts [foul-play].\n\n## Teammates & Synergy\nPair Mega Sableye with a strong special attacker to cover its weak offense. [Steel] or [Poison] teammates handle the [Fairy] weakness. It also fits naturally on [trick-room] cores where its low Speed becomes an asset.\n\n## Play Patterns\nDo not lead — pivot Mega Sableye in on a predicted status move or setup turn to bounce back a hazard or [taunt]. Burn incoming physical attackers, then use [recover] to outlast them. Use [foul-play] as a finisher on boosted sweepers.",
+  "bodyMarkdown": "## Overview\nMega Sableye is a utility pivot built entirely around [magic-bounce]. The ability reflects status moves and hazards — taunt, stealth-rock, thunder-wave, encore, leech-seed, etc. — so it single-handedly disables most common support Pokemon. Paired with [will-o-wisp] and [recover], Mega Sableye forms one of the most resilient stallwalls in the format.\n\n## Strengths\n[magic-bounce] is arguably the best utility ability in the metagame. Stall teams cannot set stealth-rock, support leads cannot land taunt, and paralysis strategies fail outright. [dark]/[ghost] typing is immune to Psychic and Fighting — a very clean defensive pivot against common threats like urshifu and mewtwo. [recover] gives it long-term sustain that physical attackers cannot outpace.\n\n## Weaknesses & Answers\n[fairy] is the critical weakness in the current meta where tapu-koko, gardevoir, and friends are everywhere. 85 Attack means direct damage is weak — it leans hard on [foul-play] to punish setup sweepers instead. Speed 50 is very slow, so Mega Sableye only works as a switch-in, not a lead.\n\n## Recommended Moveset\n[will-o-wisp] is the primary answer to physical threats and pairs with [foul-play] to neuter attackers. [recover] is mandatory for the walling plan. [foul-play] uses the target's Attack stat, which means Mega Sableye actually becomes stronger against opposing setup sweepers. [shadow-ball] rounds out the set as a [ghost] STAB.\n\n## Item · Ability · Tera\n[sablenite] is mandatory. [magic-bounce] activates only after Mega Evolution (the base form's prankster is not used). Tera [fairy] flips the Fighting, [dark], and Bug weaknesses to resistances, while Tera [dark] preserves the Psychic immunity and boosts [foul-play].\n\n## Teammates & Synergy\nPair Mega Sableye with a strong special attacker to cover its weak offense. Steel or Poison teammates handle the [fairy] weakness. It also fits naturally on trick-room cores where its low Speed becomes an asset.\n\n## Play Patterns\nDo not lead — pivot Mega Sableye in on a predicted status move or setup turn to bounce back a hazard or taunt. Burn incoming physical attackers, then use [recover] to outlast them. Use [foul-play] as a finisher on boosted sweepers.",
   "tags": [
     "hoenn",
     "dark",

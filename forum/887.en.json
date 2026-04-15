@@ -27,26 +27,26 @@
     "spe": 32
   },
   "locale": "en",
-  "title": "[Dragapult] Battle Guide",
-  "summary": "A physical [Dragon]/[Ghost] [sweeper] whose base 142 Speed and [infiltrator] trait crack through screens and [substitute]s across the whole tier.",
+  "title": "[dragapult] Battle Guide",
+  "summary": "A physical [dragon]/[ghost] sweeper whose base 142 Speed and [infiltrator] trait crack through screens and substitutes across the whole tier.",
   "strengths": [
     "Base 142 Speed is top-tier without a scarf",
-    "[infiltrator] bypasses [light-screen], [reflect], and [substitute]",
+    "[infiltrator] bypasses light-screen, reflect, and substitute",
     "[dragon-darts] hits both targets in doubles at 75 BP each"
   ],
   "weaknesses": [
-    "[Ice], [Dragon], [Ghost], [Dark], and [Fairy] all hit for 2x",
-    "88/75 physical bulk folds to priority and [close-combat]",
-    "[Steel] walls neutralize the [Dragon] STAB"
+    "Ice, [dragon], [ghost], Dark, and [fairy] all hit for 2x",
+    "88/75 physical bulk folds to priority and close-combat",
+    "Steel walls neutralize the [dragon] STAB"
   ],
   "recommendedMoves": [
     {
       "move": "dragon-darts",
-      "reason": "Physical [Dragon] STAB that hits twice in doubles"
+      "reason": "Physical [dragon] STAB that hits twice in doubles"
     },
     {
       "move": "phantom-force",
-      "reason": "[Ghost] STAB with a one-turn invulnerability window"
+      "reason": "[ghost] STAB with a one-turn invulnerability window"
     },
     {
       "move": "u-turn",
@@ -60,14 +60,14 @@
   "recommendedItems": [
     {
       "item": "choice-scarf",
-      "reason": "Pushes the 142 Speed tier above every [revenge] killer"
+      "reason": "Pushes the 142 Speed tier above every revenge killer"
     },
     {
       "item": "focus-sash",
-      "reason": "Secures one priority hit so can [retaliate]"
+      "reason": "Secures one priority hit so can retaliate"
     }
   ],
-  "bodyMarkdown": "## Overview\n[Dragapult] is the 88/120/75/100/75/142 [Dragon]/[Ghost] [sweeper] that defines the top of the Champions MA Speed tier. Both physical and special builds exist, but this guide locks in the [jolly] physical profile because [dragon-darts] and [sucker-punch] are what make it a meta-defining [revenge] killer.\n\n## Strengths\n142 Speed means [Dragapult] moves before almost every unboosted attacker in the format, and [infiltrator] strips screens, [reflect], and [substitute] from the equation entirely — a whole archetype of defensive play is just switched off. [dragon-darts] is a two-hit 75 BP STAB that doubles as a spread move for doubles formats, and 120 Attack combined with STAB makes it a one-turn wallbreaker. Access to [sucker-punch] lets [Dragapult] finish even scarfed threats that out-speed it.\n\n## Weaknesses & Answers\n[Dragon]/[Ghost] stacks five 2x weaknesses: [Ice], [Dragon], [Ghost], [Dark], and [Fairy]. The 88/75 physical bulk means [ice-shard], [sucker-punch], and [mach-punch] users [revenge] kill it at low HP. Kingambit is the obvious [counter] because it threatens both priority and [Dark] STAB in one slot, and [Steel] walls like Gholdengo ignore [dragon-darts] outright.\n\n## Recommended Moveset\n[dragon-darts] is locked for STAB. [phantom-force] is the [Ghost] STAB of choice despite the one-turn [charge] because it also avoids strong answers that would otherwise force a switch. [u-turn] is the [pivot] that keeps [Dragapult] healthy and picks better matchups, and [sucker-punch] is the [revenge] tool against faster scarf users. For a special build, swap [dragon-darts] and [phantom-force] for [draco-meteor] and [shadow-ball].\n\n## Item · Ability · Tera\n[choice-scarf] is the primary item when [Dragapult]'s role is [revenge] killing — pushing Speed above any remaining scarfer locks in the role. [focus-sash] fits a [sucker-punch] build that needs one guaranteed priority survival. The ability must be [infiltrator]; clear-body is worse in nearly every matchup. Tera [Ghost] boosts [phantom-force] damage, while Tera [Fairy] erases [Dark] and [Dragon] weaknesses and gives a clean defensive profile.\n\n## Teammates & Synergy\n[Dragapult] wants partners that break [Steel] walls — [Fighting], [Ground], and [Fire] wallbreakers all qualify. A [Fairy] [pivot] covers [Dark] answers in the mirror, and an [intimidate] support helps cushion the weak physical bulk against priority. Hazard support from [stealth-rock] amplifies the value of every [u-turn] [pivot], because each forced switch chips another mon.\n\n## Play Patterns\nMid-game [u-turn] is the default click — keep recycling entries until the opposing core is chipped, then lock into [phantom-force] plus [dragon-darts] for the sweep. Never click a [Dragon] STAB into a known [Steel]; [pivot] out instead. Save Tera for the exact turn an [Ice] or [Dark] move is telegraphed — that swap usually flips the whole exchange. Below 50% HP, the [sucker-punch] line is the only clean finish.",
+  "bodyMarkdown": "## Overview\n[dragapult] is the 88/120/75/100/75/142 [dragon]/[ghost] sweeper that defines the top of the Champions MA Speed tier. Both physical and special builds exist, but this guide locks in the [jolly] physical profile because [dragon-darts] and [sucker-punch] are what make it a meta-defining revenge killer.\n\n## Strengths\n142 Speed means [dragapult] moves before almost every unboosted attacker in the format, and [infiltrator] strips screens, reflect, and substitute from the equation entirely — a whole archetype of defensive play is just switched off. [dragon-darts] is a two-hit 75 BP STAB that doubles as a spread move for doubles formats, and 120 Attack combined with STAB makes it a one-turn wallbreaker. Access to [sucker-punch] lets [dragapult] finish even scarfed threats that out-speed it.\n\n## Weaknesses & Answers\n[dragon]/[ghost] stacks five 2x weaknesses: Ice, [dragon], [ghost], Dark, and [fairy]. The 88/75 physical bulk means ice-shard, [sucker-punch], and mach-punch users revenge kill it at low HP. Kingambit is the obvious counter because it threatens both priority and Dark STAB in one slot, and Steel walls like Gholdengo ignore [dragon-darts] outright.\n\n## Recommended Moveset\n[dragon-darts] is locked for STAB. [phantom-force] is the [ghost] STAB of choice despite the one-turn charge because it also avoids strong answers that would otherwise force a switch. [u-turn] is the pivot that keeps [dragapult] healthy and picks better matchups, and [sucker-punch] is the revenge tool against faster scarf users. For a special build, swap [dragon-darts] and [phantom-force] for draco-meteor and shadow-ball.\n\n## Item · Ability · Tera\n[choice-scarf] is the primary item when [dragapult]'s role is revenge killing — pushing Speed above any remaining scarfer locks in the role. [focus-sash] fits a [sucker-punch] build that needs one guaranteed priority survival. The ability must be [infiltrator]; clear-body is worse in nearly every matchup. Tera [ghost] boosts [phantom-force] damage, while Tera [fairy] erases Dark and [dragon] weaknesses and gives a clean defensive profile.\n\n## Teammates & Synergy\n[dragapult] wants partners that break Steel walls — Fighting, Ground, and Fire wallbreakers all qualify. A [fairy] pivot covers Dark answers in the mirror, and an intimidate support helps cushion the weak physical bulk against priority. Hazard support from stealth-rock amplifies the value of every [u-turn] pivot, because each forced switch chips another mon.\n\n## Play Patterns\nMid-game [u-turn] is the default click — keep recycling entries until the opposing core is chipped, then lock into [phantom-force] plus [dragon-darts] for the sweep. Never click a [dragon] STAB into a known Steel; pivot out instead. Save Tera for the exact turn an Ice or Dark move is telegraphed — that swap usually flips the whole exchange. Below 50% HP, the [sucker-punch] line is the only clean finish.",
   "tags": [
     "galar",
     "dragon",
