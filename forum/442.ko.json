@@ -27,16 +27,16 @@
     "spe": 0
   },
   "locale": "ko",
-  "title": "[spiritomb] 배틀 운용 가이드",
-  "summary": "[ghost]·[dark] 복합으로 약점이 [fairy] 하나뿐인 양 내구 벽. [infiltrator]로 substitute·screen을 무시하고 [will-o-wisp]·[nasty-plot]을 동시에 굴린다.",
+  "title": "[화강돌] 배틀 운용 가이드",
+  "summary": "[고스트]·[악] 복합으로 약점이 [페어리] 하나뿐인 양 내구 벽. [infiltrator]로 [substitute]·screen을 무시하고 [will-o-wisp]·[nasty-plot]을 동시에 굴린다.",
   "strengths": [
-    "약점이 [fairy] 하나뿐인 희귀한 타입 조합",
-    "[infiltrator]로 substitute·light-screen·reflect 무시",
+    "약점이 [페어리] 하나뿐인 희귀한 타입 조합",
+    "[infiltrator]로 [substitute]·[light-screen]·[reflect] 무시",
     "양 내구 108/108 기반의 물리·특수 겸용 벽 역할"
   ],
   "weaknesses": [
     "HP 50으로 실효 내구가 생각보다 낮음",
-    "[fairy] 2배 약점이 진화 억제력으로 작용",
+    "[페어리] 2배 약점이 진화 억제력으로 작용",
     "스피드 35와 회복기 부재로 장기전 지속력 부족"
   ],
   "recommendedMoves": [
@@ -46,11 +46,11 @@
     },
     {
       "move": "dark-pulse",
-      "reason": "STAB [dark] 특수 주력기, [infiltrator] 보정 시너지"
+      "reason": "STAB [악] 특수 주력기, [infiltrator] 보정 시너지"
     },
     {
       "move": "shadow-ball",
-      "reason": "STAB [ghost] 견제기, 에스퍼·[ghost] 카운터"
+      "reason": "STAB [고스트] 견제기, [에스퍼]·[고스트] 카운터"
     },
     {
       "move": "nasty-plot",
@@ -64,10 +64,10 @@
     },
     {
       "item": "colbur-berry",
-      "reason": "[fairy] 카운터 1회 흡수용은 아닌 [dark] 약점 케어 대안"
+      "reason": "[페어리] 카운터 1회 흡수용은 아닌 [악] 약점 케어 대안"
     }
   ],
-  "bodyMarkdown": "## 개요\n[spiritomb]은 [ghost]·[dark] 복합이 제공하는 \"약점이 [fairy] 하나뿐\"이라는 희소한 저항 프로필 때문에 선택되는 양 내구 벽이다. HP 50이 치명적이지만 108/108의 대칭 내구와 [infiltrator] 특성이 substitute·스크린 팀을 찢어놓는 카드로 기능하게 만든다. 회복기가 없는 단점을 [nasty-plot] 기반 브레이커 전환으로 보완한다.\n\n## 강점 분석\n[ghost]·[dark] 저항 분포는 포맷 내에서도 손꼽힐 만큼 좋다 — 에스퍼·[ghost]·노말 공격이 대부분 반감·무효화되므로 진입 빈도가 높다. [infiltrator]는 substitute를 뚫고, light-screen·reflect를 무시하며, 심지어 안개·safeguard까지 관통하는 저평가된 공격 패시브다. 양 내구 108/108은 약점기 외의 대부분의 공격을 한 번씩은 흘려낸다. [nasty-plot] 한 랭크를 쌓으면 특수 공격 92가 180대 실효 수치로 올라가 갑작스런 브레이커 전환이 가능하다.\n\n## 약점과 대응\nHP 50이 실질 내구의 천장을 낮춘다. 108/108 방어는 숫자상 인상적이지만 HP 곱셈 없이는 실효 내구가 중간 수준이다. [fairy] 2배 약점이 유일한 약점이라 오히려 [fairy] 카드가 보이는 순간 [spiritomb]의 진입 옵션이 닫힌다. 회복기는 rest 외에 없어 장기 수동 벽 역할은 [leftovers] 누적에만 의존하게 된다.\n\n## 추천 기술 구성\n[will-o-wisp]은 물리 어태커 상대 공격력을 반으로 깎아 벽 역할의 중심을 잡는다. [dark-pulse]는 STAB 특수 주력기로, 20% 플린치 확률까지 함께 노린다. [shadow-ball]은 두 번째 STAB이자 에스퍼·[ghost] 카운터 슬롯이다. 마지막은 [nasty-plot]으로 벽에서 브레이커로 전환하는 갑작스런 공격 라인을 만든다. 대안으로 sucker-punch를 넣으면 스피드 35의 약점을 일부 보완할 수 있다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [leftovers]가 기본이다 — 회복기 부재 상태에서 유일한 턴당 HP 회복원이다. [colbur-berry]는 상대 [dark] 타입 브레이커를 대비해 1회 완충으로 쓴다. 특성은 [infiltrator] 고정이며, pressure는 벽 역할로도 밀리는 선택이다. 테라스탈은 [fairy] 약점을 지우는 [fairy] 테라가 최적이며, [dark] 테라로 [shadow-ball]·[dark-pulse] 양쪽을 동시에 강화하는 선택도 가능하다.\n\n## 시너지와 파트너\n[fairy] 카운터(독·강철 타입)가 반드시 필요하다. [spiritomb]이 물리·특수 양쪽을 흡수하는 동안 후방에서 셋업 스위퍼가 1턴을 쌓으면 팀 전체의 템포가 전환된다. 스테이터스 리무버(heal-bell 사용자)가 함께 있으면 [will-o-wisp] 반격 맞아도 장기전을 유지할 수 있다.\n\n## 운용 팁\n진입 직후 [will-o-wisp]로 물리 어태커의 화력을 반으로 깎고, [leftovers] 회복 페이스를 읽어가며 체력을 유지한다. [nasty-plot]은 상대 [fairy]가 모두 제거된 후반에만 사용해야 하며, 잘못된 턴에 쌓으면 바로 반격당한다. [dark-pulse] 플린치 확률을 템포 잡는 용도로 의식적으로 활용한다.",
+  "bodyMarkdown": "## 개요\n[화강돌]은 [고스트]·[악] 복합이 제공하는 \"약점이 [페어리] 하나뿐\"이라는 희소한 저항 프로필 때문에 선택되는 양 내구 벽이다. HP 50이 치명적이지만 108/108의 대칭 내구와 [infiltrator] 특성이 [substitute]·스크린 팀을 찢어놓는 카드로 기능하게 만든다. 회복기가 없는 단점을 [nasty-plot] 기반 브레이커 전환으로 보완한다.\n\n## 강점 분석\n[ghost]·[악] 저항 분포는 포맷 내에서도 손꼽힐 만큼 좋다 — [에스퍼]·[고스트]·[노말] 공격이 대부분 반감·무효화되므로 진입 빈도가 높다. [infiltrator]는 [substitute]를 뚫고, [light-screen]·[reflect]를 무시하며, 심지어 안개·[safeguard]까지 관통하는 저평가된 공격 패시브다. 양 내구 108/108은 약점기 외의 대부분의 공격을 한 번씩은 흘려낸다. [nasty-plot] 한 랭크를 쌓으면 특수 공격 92가 180대 실효 수치로 올라가 갑작스런 브레이커 전환이 가능하다.\n\n## 약점과 대응\nHP 50이 실질 내구의 천장을 낮춘다. 108/108 방어는 숫자상 인상적이지만 HP 곱셈 없이는 실효 내구가 중간 수준이다. [페어리] 2배 약점이 유일한 약점이라 오히려 [페어리] 카드가 보이는 순간 [화강돌]의 진입 옵션이 닫힌다. 회복기는 [rest] 외에 없어 장기 수동 벽 역할은 [leftovers] 누적에만 의존하게 된다.\n\n## 추천 기술 구성\n[will-o-wisp]은 물리 어태커 상대 공격력을 반으로 깎아 벽 역할의 중심을 잡는다. [dark-pulse]는 STAB 특수 주력기로, 20% 플린치 확률까지 함께 노린다. [shadow-ball]은 두 번째 STAB이자 [에스퍼]·[고스트] 카운터 슬롯이다. 마지막은 [nasty-plot]으로 벽에서 브레이커로 전환하는 갑작스런 공격 라인을 만든다. 대안으로 [sucker-punch]를 넣으면 스피드 35의 약점을 일부 보완할 수 있다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [leftovers]가 기본이다 — 회복기 부재 상태에서 유일한 턴당 HP 회복원이다. [colbur-berry]는 상대 [악] 타입 브레이커를 대비해 1회 완충으로 쓴다. 특성은 [infiltrator] 고정이며, pressure는 벽 역할로도 밀리는 선택이다. 테라스탈은 [페어리] 약점을 지우는 [페어리] 테라가 최적이며, [악] 테라로 [shadow-ball]·[dark-pulse] 양쪽을 동시에 강화하는 선택도 가능하다.\n\n## 시너지와 파트너\n[페어리] 카운터([독]·[강철] 타입)가 반드시 필요하다. [화강돌]이 물리·특수 양쪽을 흡수하는 동안 후방에서 셋업 스위퍼가 1턴을 쌓으면 팀 전체의 템포가 전환된다. 스테이터스 리무버([heal-bell] 사용자)가 함께 있으면 [will-o-wisp] 반격 맞아도 장기전을 유지할 수 있다.\n\n## 운용 팁\n진입 직후 [will-o-wisp]로 물리 어태커의 화력을 반으로 깎고, [leftovers] 회복 페이스를 읽어가며 체력을 유지한다. [nasty-plot]은 상대 [페어리]가 모두 제거된 후반에만 사용해야 하며, 잘못된 턴에 쌓으면 바로 반격당한다. [dark-pulse] 플린치 확률을 템포 잡는 용도로 의식적으로 활용한다.",
   "tags": [
     "sinnoh",
     "ghost",

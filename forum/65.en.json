@@ -25,8 +25,8 @@
     "spe": 32
   },
   "locale": "en",
-  "title": "[alakazam] Battle Guide",
-  "summary": "A [psychic] glass-cannon sweeper with [magic-guard], 135 SpA, and 120 Speed — the indirect-damage immunity lets [nasty-plot] setups stabilise despite paper-thin bulk.",
+  "title": "[Alakazam] Battle Guide",
+  "summary": "A [Psychic] glass-cannon [sweeper] with [magic-guard], 135 SpA, and 120 Speed — the indirect-damage immunity lets [nasty-plot] setups stabilise de[spite] paper-thin bulk.",
   "strengths": [
     "[magic-guard] removes all indirect damage sources",
     "Speed 120 outruns most of the top-tier metagame",
@@ -34,21 +34,21 @@
   ],
   "weaknesses": [
     "55/45/95 bulk is as fragile as it gets",
-    "Dark, Ghost, and Bug 2x weaknesses are common",
+    "[Dark], [Ghost], and [Bug] 2x weaknesses are common",
     "Priority attackers shut down the setup attempt"
   ],
   "recommendedMoves": [
     {
       "move": "psychic",
-      "reason": "Main [psychic] STAB with high coverage"
+      "reason": "Main [Psychic] STAB with high cove[rage]"
     },
     {
       "move": "focus-blast",
-      "reason": "Fighting coverage for Dark, Steel, and Normal walls"
+      "reason": "[Fighting] cove[rage] for [Dark], [Steel], and [Normal] walls"
     },
     {
       "move": "shadow-ball",
-      "reason": "Ghost coverage for mirrors and Ghost walls"
+      "reason": "[Ghost] cove[rage] for mirrors and [Ghost] walls"
     },
     {
       "move": "nasty-plot",
@@ -62,14 +62,14 @@
     },
     {
       "item": "life-orb",
-      "reason": "Stacks 1.3x damage without recoil via"
+      "reason": "Stacks 1.3x damage without re[coil] via"
     },
     {
       "item": "choice-scarf",
       "reason": "Alternative Speed-tier reshape"
     }
   ],
-  "bodyMarkdown": "## Overview\n[alakazam] is a classic glass-cannon [psychic] sweeper whose identity is defined by the combination of 135 SpA, 120 Speed, and [magic-guard]. The hidden ability negates all indirect damage, which effectively stabilises the paper-thin bulk and enables setup sets that would otherwise be impossible. In Champions, it serves as the dedicated fast special sweeper that punishes both offensive and defensive cores.\n\n## Strengths\n[magic-guard] is the whole reason this set functions. Every indirect damage source — poison, burn, stealth-rock, [life-orb] recoil, leech-seed — is negated, letting [alakazam] live longer than its 55/45/95 bulk suggests. Speed 120 is above most of the upper-tier metagame, and [nasty-plot] doubles SpA into a second-turn sweep win condition. The [psychic] / [focus-blast] / [shadow-ball] combination has no resisted neutral matchups among common walls.\n\n## Weaknesses & Answers\nBulk is the defining vulnerability. 55/45/95 means any neutral priority hit threatens a KO, and the Dark, Ghost, and Bug 2x weaknesses line up with common coverage moves. Scarfed threats that outspeed unboosted [alakazam] force a Speed-tier check, and pursuit-style trapping (or shadow-tag from Mega Gengar) is an effective hard counter. Always save [focus-sash] for a priority turn.\n\n## Recommended Moveset\n[psychic] is the locked STAB because the 100% accuracy and secondary effect support the sweep. [focus-blast] handles Dark, Steel, and Normal walls that would resist the [psychic] STAB. [shadow-ball] covers mirror [psychic] matchups and Ghost walls that otherwise wall the STAB. The last slot is [nasty-plot], the doubles-SpA setup move that turns a support attacker into a true sweeper.\n\n## Item · Ability · Tera\n[focus-sash] is the default item because it stacks perfectly with the glass-cannon + [magic-guard] identity, guaranteeing one safe setup turn. [life-orb] is the alternative — [magic-guard] nullifies the recoil, making it a pure 30% damage boost. [choice-scarf] is the Speed-tier reshape that drops setup for revenge-killing utility. Ability is [magic-guard], locked. Tera [psychic] maxes STAB while Tera [fairy] flips Dark and Dragon weaknesses defensively.\n\n## Teammates & Synergy\n[alakazam] wants fake-out leads or pivots that create a safe setup turn, plus [fairy] or Steel partners to cover the Dark and Ghost weaknesses. stealth-rock support pays off without hurting [alakazam] thanks to [magic-guard]. A priority blocker — taunt lead or a prankster ally — shuts down the fast revenge killers that threaten the sweep.\n\n## Play Patterns\nEnter on a predicted switch, [nasty-plot] on the free turn, then open with [psychic] on neutral matchups, [focus-blast] on Dark or Steel pivots, and [shadow-ball] on Ghost or [psychic] mirrors. Save [focus-sash] for the priority threat, and Tera on any telegraphed Dark or Ghost move.",
+  "bodyMarkdown": "## Overview\n[Alakazam] is a classic glass-cannon [Psychic] [sweeper] whose identity is defined by the combination of 135 SpA, 120 Speed, and [magic-guard]. The hidden ability negates all indirect damage, which effectively stabilises the paper-thin bulk and enables setup sets that would otherwise be impossible. In Champions, it serves as the dedicated fast special [sweeper] that punishes both offensive and defensive cores.\n\n## Strengths\n[magic-guard] is the whole reason this set functions. Every indirect damage source — poison, burn, [stealth-rock], [life-orb] recoil, [leech-seed] — is negated, letting [Alakazam] live longer than its 55/45/95 bulk suggests. Speed 120 is above most of the upper-tier metagame, and [nasty-plot] doubles SpA into a second-turn sweep win condition. The [psychic] / [focus-blast] / [shadow-ball] combination has no resisted neutral matchups among common walls.\n\n## Weaknesses & Answers\nBulk is the defining vulnerability. 55/45/95 means any neutral priority hit threatens a KO, and the [Dark], [Ghost], and [Bug] 2x weaknesses line up with common coverage moves. Scarfed threats that outspeed unboosted [Alakazam] force a Speed-tier check, and [pursuit]-style trapping (or [shadow-tag] from Mega Gengar) is an effective hard [counter]. Always save [focus-sash] for a priority turn.\n\n## Recommended Moveset\n[psychic] is the locked STAB because the 100% accuracy and secondary effect support the sweep. [focus-blast] handles [Dark], [Steel], and [Normal] walls that would resist the [psychic] STAB. [shadow-ball] covers mirror [psychic] matchups and [Ghost] walls that otherwise wall the STAB. The last slot is [nasty-plot], the doubles-SpA setup move that turns a support attacker into a true [sweeper].\n\n## Item · Ability · Tera\n[focus-sash] is the default item because it stacks perfectly with the glass-cannon + [magic-guard] identity, guaranteeing one safe setup turn. [life-orb] is the alternative — [magic-guard] nullifies the recoil, making it a pure 30% damage boost. [choice-scarf] is the Speed-tier reshape that drops setup for [revenge]-killing utility. Ability is [magic-guard], locked. Tera [psychic] maxes STAB while Tera [Fairy] flips [Dark] and [Dragon] weaknesses defensively.\n\n## Teammates & Synergy\n[Alakazam] wants [fake-out] leads or pivots that create a safe setup turn, plus [Fairy] or [Steel] partners to cover the [Dark] and [Ghost] weaknesses. [stealth-rock] support pays off without hurting [Alakazam] thanks to [magic-guard]. A priority blocker — [taunt] lead or a [prankster] ally — shuts down the fast [revenge] killers that threaten the sweep.\n\n## Play Patterns\nEnter on a predicted switch, [nasty-plot] on the free turn, then open with [psychic] on neutral matchups, [focus-blast] on [Dark] or [Steel] pivots, and [shadow-ball] on [Ghost] or [psychic] mirrors. Save [focus-sash] for the priority threat, and Tera on any telegraphed [Dark] or [Ghost] move.",
   "tags": [
     "kanto",
     "psychic",

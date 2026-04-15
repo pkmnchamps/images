@@ -26,30 +26,30 @@
     "spe": 32
   },
   "locale": "ko",
-  "title": "[charizard-mega-x] 배틀 운용 가이드",
-  "summary": "[tough-claws]로 접촉 기술 위력 1.3배 보정 받는 [fire]·[dragon] 물리 어태커. [flare-blitz]·[dragon-claw] 자속 조합이 폭발적.",
+  "title": "[메가리자몽X] 배틀 운용 가이드",
+  "summary": "[tough-claws]로 접촉 기술 위력 1.3배 보정 받는 [불]·[드래곤] 물리 어태커. [flare-blitz]·[dragon-claw] 자속 조합이 폭발적.",
   "strengths": [
     "[tough-claws] 접촉 기술 위력 1.3배 보정",
-    "[fire]·[dragon] 복합 자속 광범위 견제",
+    "[불]·[드래곤] 복합 자속 광범위 견제",
     "130 공격 + 100 스피드 고속권"
   ],
   "weaknesses": [
-    "[dragon]·바위·땅 약점",
+    "[드래곤]·[바위]·[땅] 약점",
     "내구 78/111/85 보통 수준",
-    "메가 진화 전 blaze 상태 1턴"
+    "메가 진화 전 [blaze] 상태 1턴"
   ],
   "recommendedMoves": [
     {
       "move": "flare-blitz",
-      "reason": "[tough-claws] 보정 [fire] 자속 접촉 주력"
+      "reason": "[tough-claws] 보정 [불] 자속 접촉 주력"
     },
     {
       "move": "dragon-claw",
-      "reason": "[tough-claws] 보정 [dragon] 자속 접촉"
+      "reason": "[tough-claws] 보정 [드래곤] 자속 접촉"
     },
     {
       "move": "earthquake",
-      "reason": "바위·강철·전기 견제 서브"
+      "reason": "[바위]·[강철]·[전기] 견제 서브"
     },
     {
       "move": "protect",
@@ -62,7 +62,7 @@
       "reason": "메가 진화를 위한 필수 아이템"
     }
   ],
-  "bodyMarkdown": "## 개요\n[charizard-mega-x]는 메가 진화 시 비행 타입이 [dragon]으로 전환되는 독특한 타입 변화 + [tough-claws] 특성으로 접촉 기술 위력이 1.3배 보정되는 물리 어태커다. [flare-blitz]·[dragon-claw] 자속 접촉 기술 조합이 폭발적이며, 메가 후 땅 기술이 유효해진다.\n\n## 강점 분석\n[tough-claws]는 접촉 기술 위력을 1.3배로 상승시킨다. [flare-blitz] 위력 120 + tough-claws 1.3배 + STAB 1.5배 = 실질 위력 234의 폭발적 [fire] 자속이고, [dragon-claw]도 동일 보정을 받는다. 비행 → [dragon] 타입 전환으로 땅 타입 약점을 획득하는 대신 [dragon-claw] 자속이 가능해지고, 물·전기 약점 유지 대신 격투 저항을 획득한다.\n\n## 약점과 대응\n메가 후 [dragon] 타입이 되면서 [dragon]·바위·땅 약점이 생긴다. 내구 78/111/85는 방어 중시로 개선되었지만 약점 공격에는 여전히 취약. 메가 진화 1턴은 일반 blaze 상태로 [tough-claws] 효과가 없고, 비행 타입 특성상 땅 무효가 없다.\n\n## 추천 기술 구성\n[flare-blitz]는 [tough-claws] 보정 [fire] 자속 접촉 주력. [dragon-claw]는 [tough-claws] 보정 [dragon] 자속 접촉. [earthquake]는 바위·강철·전기 견제용 서브로 필수. [protect]는 메가 진화 턴 안전 확보.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [charizardite-x] 고정. 특성은 메가 진화 후 [tough-claws]로 전환. 테라스탈은 [fire]로 [flare-blitz] 자속 중첩 보정, 또는 [dragon]으로 [dragon-claw] 자속 중첩 + 바위 4배 저항 획득.\n\n## 시너지와 파트너\n[dragon]·바위·땅 약점 카운터로 steel·페어리·water 파트너 배치. intimidate 유저로 물리 내구 보조, tailwind로 스피드 100 추가 확보.\n\n## 운용 팁\n메가 진화 + [protect] 안전 턴 확보 후 [flare-blitz]·[dragon-claw] 고속 물리 화력 연타. [tough-claws] 보정으로 대부분의 어태커보다 우위. 바위·땅 노출 시 즉시 교대, [flare-blitz] 리코일 관리도 필수다.",
+  "bodyMarkdown": "## 개요\n[메가리자몽X]는 메가 진화 시 [비행] 타입이 [드래곤]으로 전환되는 독특한 타입 변화 + [tough-claws] 특성으로 접촉 기술 위력이 1.3배 보정되는 물리 어태커다. [flare-blitz]·[dragon-claw] 자속 접촉 기술 조합이 폭발적이며, 메가 후 [땅] 기술이 유효해진다.\n\n## 강점 분석\n[tough-claws]는 접촉 기술 위력을 1.3배로 상승시킨다. [flare-blitz] 위력 120 + tough-claws 1.3배 + STAB 1.5배 = 실질 위력 234의 폭발적 [불] 자속이고, [dragon-claw]도 동일 보정을 받는다. [비행] → [드래곤] 타입 전환으로 [땅] 타입 약점을 획득하는 대신 [dragon-claw] 자속이 가능해지고, [물]·[전기] 약점 유지 대신 [격투] 저항을 획득한다.\n\n## 약점과 대응\n메가 후 [드래곤] 타입이 되면서 [드래곤]·[바위]·[땅] 약점이 생긴다. 내구 78/111/85는 방어 중시로 개선되었지만 약점 공격에는 여전히 취약. 메가 진화 1턴은 일반 [blaze] 상태로 [tough-claws] 효과가 없고, [비행] 타입 특성상 [땅] 무효가 없다.\n\n## 추천 기술 구성\n[flare-blitz]는 [tough-claws] 보정 [불] 자속 접촉 주력. [dragon-claw]는 [tough-claws] 보정 [드래곤] 자속 접촉. [earthquake]는 [바위]·[강철]·[전기] 견제용 서브로 필수. [protect]는 메가 진화 턴 안전 확보.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [charizardite-x] 고정. 특성은 메가 진화 후 [tough-claws]로 전환. 테라스탈은 [불]로 [flare-blitz] 자속 중첩 보정, 또는 [드래곤]으로 [dragon-claw] 자속 중첩 + [바위] 4배 저항 획득.\n\n## 시너지와 파트너\n[드래곤]·[바위]·[땅] 약점 카운터로 [steel]·[페어리]·[water] 파트너 배치. [intimidate] 유저로 물리 내구 보조, [tailwind]로 스피드 100 추가 확보.\n\n## 운용 팁\n메가 진화 + [protect] 안전 턴 확보 후 [flare-blitz]·[dragon-claw] 고속 물리 화력 연타. [tough-claws] 보정으로 대부분의 어태커보다 우위. [바위]·[땅] 노출 시 즉시 교대, [flare-blitz] 리코일 관리도 필수다.",
   "tags": [
     "kanto",
     "fire",

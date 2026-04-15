@@ -1,0 +1,83 @@
+{
+  "pokemonId": 38,
+  "nameKo": "알로라나인테일",
+  "nameEn": "ninetales-alola",
+  "formKey": "alola",
+  "types": [
+    "ice",
+    "fairy"
+  ],
+  "roles": [
+    "weather-setter",
+    "support"
+  ],
+  "recommendedAbility": "snow-warning",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "fairy",
+    "ice"
+  ],
+  "recommendedEv": {
+    "hp": 16,
+    "atk": 0,
+    "def": 0,
+    "spa": 16,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Alolan Ninetales Battle Guide",
+  "summary": "The canonical [aurora-veil] setter — [snow-warning] auto-sets snow so [Ice]/[Fairy] Ninetales can enable team-wide defensive boosts.",
+  "strengths": [
+    "Auto-sets snow for [aurora-veil] enable",
+    "109 Speed outruns most setup leads",
+    "[Dragon] immunity from [Fairy] typing"
+  ],
+  "weaknesses": [
+    "Weak to [Fire], [Rock], [Steel], [Poison]",
+    "73/75/100 bulk is physically fragile",
+    "81 Special Attack limits offensive ceiling"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "aurora-veil",
+      "reason": "Team-wide screen in snow"
+    },
+    {
+      "move": "blizzard",
+      "reason": "Accurate spread [Ice] STAB under snow"
+    },
+    {
+      "move": "moonblast",
+      "reason": "[Fairy] STAB for [Dragon] and [Dark]"
+    },
+    {
+      "move": "freeze-dry",
+      "reason": "SE on [Water] types"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "light-clay",
+      "reason": "Extends [aurora-veil] duration"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "Offensive speed variant"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "Setup-turn insurance"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nAlolan Ninetales is the premier [aurora-veil] enabler — [snow-warning] auto-sets snow, and [aurora-veil] provides 1.5x boost to both Defense and Special Defense to the entire team for 5 turns. At 109 Speed with [Fairy] secondary typing, Alolan Ninetales consistently outpaces setup leads and pivots into offensive attackers.\n\n## Strengths\n[snow-warning] + [aurora-veil] chains the team-wide screen setup reliably. [Fairy] typing grants [Dragon] immunity, covering a huge offensive threat class. [freeze-dry] is the signature tech — a [Water] super-effective [Ice] move that punishes [kingdra] and [gyarados]. [blizzard] becomes fully accurate in snow, making it the dominant [Ice] STAB.\n\n## Weaknesses & Answers\nFour weaknesses — [Fire], [Rock], [Steel], [Poison] — make Alolan Ninetales vulnerable to common meta attackers. Physical bulk at 73/75 folds to priority or super-effective hits. The 81 Special Attack stat limits damage ceiling, so it's primarily a support unit.\n\n## Recommended Moveset\n[aurora-veil] is the locked core utility move. [blizzard] is the accurate spread attack in snow. [moonblast] is the secondary STAB for [Dragon] and [Dark] targets. [freeze-dry] is the tech slot for [Water] coverage.\n\n## Item · Ability · Tera\n[light-clay] extends [aurora-veil] duration from 5 to 8 turns — the standard support item. [choice-scarf] works for faster offensive variants. [snow-warning] is mandatory. Tera [Fairy] stacks [moonblast] and improves defenses, Tera [Ice] maxes [blizzard] output.\n\n## Teammates & Synergy\nPair with strong offensive attackers who benefit from the [aurora-veil] boost — [Ice] sweepers like [kyurem] double up with snow damage. Cover [Fire] and [Steel] weaknesses with [Water] or [Ground] partners. [fake-out] support protects setup.\n\n## Play Patterns\nLead, set snow automatically, protect on risk turns, and click [aurora-veil] on the first safe turn. After screens are up, swap to an offensive threat. If Ninetales survives, start firing [blizzard] and [moonblast] while the team attacks behind screens.",
+  "tags": [
+    "alola",
+    "ice",
+    "fairy",
+    "regional-form",
+    "snow-warning",
+    "support"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

@@ -25,47 +25,47 @@
     "spe": 32
   },
   "locale": "en",
-  "title": "[luxray] Battle Guide",
-  "summary": "A physical [electric] pivot defined by [intimidate] on entry, [wild-charge] and [crunch] damage, and [volt-switch] escape routes despite only base 70 Speed.",
+  "title": "[Luxray] Battle Guide",
+  "summary": "A physical [Electric] [pivot] defined by [intimidate] on entry, [wild-charge] and [crunch] damage, and [volt-switch] escape routes de[spite] only base 70 Speed.",
   "strengths": [
-    "One of the only physical [electric] attackers in the format with native [intimidate]",
+    "One of the only physical [Electric] attackers in the format with native [intimidate]",
     "[wild-charge], [crunch], and [ice-fang] cover almost every physical target in two hits",
     "[volt-switch] escapes lose matchups and keeps momentum flowing"
   ],
   "weaknesses": [
-    "4x effective pressure from [ground] priority checks and base 70 Speed puts it behind the curve",
-    "Overshadowed by faster physical [electric] alternatives in the meta",
-    "[wild-charge] recoil makes long games expensive on its HP bar"
+    "4x effective pressure from [Ground] priority checks and base 70 Speed puts it behind the curve",
+    "Overshadowed by faster physical [Electric] alternatives in the meta",
+    "[wild-charge] re[coil] makes long games expensive on its HP bar"
   ],
   "recommendedMoves": [
     {
       "move": "wild-charge",
-      "reason": "Main STAB damage option, taking recoil for maximum hit power"
+      "reason": "Main STAB damage option, taking re[coil] for maximum hit power"
     },
     {
       "move": "crunch",
-      "reason": "punishes Ghosts and Psychics and catches [electric]-resist pivots"
+      "reason": "punishes [Ghost]s and [Psychic]s and catches [Electric]-resist [pivot]s"
     },
     {
       "move": "ice-fang",
-      "reason": "is the required coverage against Dragon, [ground], and Flying walls"
+      "reason": "is the required cove[rage] against [Dragon], [Ground], and [Flying] walls"
     },
     {
       "move": "volt-switch",
-      "reason": "preserves momentum in bad matchups and enables pivot chains"
+      "reason": "preserves momentum in bad matchups and enables [pivot] chains"
     }
   ],
   "recommendedItems": [
     {
       "item": "sitrus-berry",
-      "reason": "offsets one recoil cycle and extends setup windows"
+      "reason": "offsets one re[coil] cycle and extends setup windows"
     },
     {
       "item": "focus-sash",
-      "reason": "guarantees one turn of survival into scarfers or [ground] priority"
+      "reason": "guarantees one turn of survival into scarfers or [Ground] priority"
     }
   ],
-  "bodyMarkdown": "## Overview\n[luxray] earns its slot by being one of the only physical [electric] attackers in the format that carries [intimidate] on entry. The physical [electric] niche is thin, and almost every other option lacks a way to shave the opponent's Attack for free. Base 120 Atk and 70 Speed are awkward on their own, but [intimidate] plus [volt-switch] pivot play turn those numbers into real value.\n\n## Strengths\nSTAB [wild-charge] from 120 Atk with a Jolly nature puts [luxray] at the top of the physical [electric] damage chart even without a damage-boosting item. [crunch] breaks Ghost and Psychic walls while also catching Grass and [electric]-resist pivots that would otherwise stall it out. The real tool is [ice-fang], which turns the usual Dragon/[ground]/Flying answer list into a clean 4x coverage chart. Dropping in mid-turn with [intimidate] lets [luxray] blunt an incoming physical hit and then [volt-switch] out into the correct counter on your side.\n\n## Weaknesses & Answers\n[luxray] is 2x weak to [ground] and has a shallow 70 base Speed, so any Scarf user or priority physical threat forces it into trades it does not want. Physical [ground] walls such as Hippowdon-style tanks eat everything [luxray] has outside of [ice-fang] and hit back for huge damage. [wild-charge] recoil is the silent killer in long matches — stacked recoil plus stealth-rock chip will kill [luxray] before a second setup window ever opens.\n\n## Recommended Moveset\n[wild-charge] is the locked main STAB, but treat it like a kill-confirm button rather than a spam move — recoil is the biggest HP drain in its set. [crunch] is the secondary STAB-adjacent slot that lets [luxray] actually threaten Ghost and Psychic types and punish Grass pivots that would normally come in for free on an [electric]. [ice-fang] covers Dragon, [ground], and Flying all at once and is non-negotiable. The fourth slot is [volt-switch], which is what actually makes [luxray] a pivot rather than a worse version of other physical Electrics. A superpower swap-in is the best alternative if the team lacks a reliable answer to Normal, Rock, and Steel walls.\n\n## Item · Ability · Tera\n[sitrus-berry] is the default item — it offsets one [wild-charge] recoil cycle and pushes [luxray] over the HP threshold it needs to get a second attack off. [focus-sash] is the aggressive alternative that guarantees survival against one priority or Choice Scarf user and buys a free [volt-switch] turn. The ability is locked to [intimidate]; it is the entire reason to run [luxray]. For Tera, [electric] deepens [wild-charge] damage, while Tera [ground] removes the 2x [ground] weakness entirely and turns [luxray] into a surprise defensive check.\n\n## Teammates & Synergy\n[luxray] needs a Grass or Flying pivot to absorb the [ground] attacks that would otherwise force it out — pair it with a slow U-turn partner so that [volt-switch] and U-turn form a forced-momentum loop. A special cleaner in the back capitalizes on the physical cushion [intimidate] creates. A rocks-remover is nice but not mandatory, since [luxray] is not expected to switch in and out more than twice per match.\n\n## Play Patterns\nOn turn one, prioritize [intimidate] entry over offense — drop the opponent's Attack before committing to a damage move. Press [wild-charge] only on kill-confirmed ranges, since repeated recoil is what usually ends [luxray]'s game. Once HP dips below a third, [volt-switch] out and let the pivot chain do the cleanup work.",
+  "bodyMarkdown": "## Overview\n[Luxray] earns its slot by being one of the only physical [Electric] attackers in the format that carries [intimidate] on entry. The physical [Electric] niche is thin, and almost every other option lacks a way to shave the opponent's Attack for free. Base 120 Atk and 70 Speed are awkward on their own, but [intimidate] plus [volt-switch] [pivot] play turn those numbers into real value.\n\n## Strengths\nSTAB [wild-charge] from 120 Atk with a Jolly nature puts [Luxray] at the top of the physical [Electric] damage chart even without a damage-boosting item. [crunch] breaks [Ghost] and [Psychic] walls while also catching [Grass] and [Electric]-resist pivots that would otherwise stall it out. The real tool is [ice-fang], which turns the usual [Dragon]/[Ground]/[Flying] answer list into a clean 4x coverage chart. Dropping in mid-turn with [intimidate] lets [Luxray] blunt an incoming physical hit and then [volt-switch] out into the correct [counter] on your side.\n\n## Weaknesses & Answers\n[Luxray] is 2x weak to [Ground] and has a shallow 70 base Speed, so any Scarf user or priority physical threat forces it into trades it does not want. Physical [Ground] walls such as Hippowdon-style tanks eat everything [Luxray] has outside of [ice-fang] and hit back for huge damage. [wild-charge] recoil is the silent killer in long matches — stacked recoil plus [stealth-rock] chip will kill [Luxray] before a second setup window ever opens.\n\n## Recommended Moveset\n[wild-charge] is the locked main STAB, but treat it like a kill-confirm button rather than a spam move — recoil is the biggest HP drain in its set. [crunch] is the secondary STAB-adjacent slot that lets [Luxray] actually threaten [Ghost] and [Psychic] types and punish [Grass] pivots that would normally come in for free on an [Electric]. [ice-fang] covers [Dragon], [Ground], and [Flying] all at once and is non-negotiable. The fourth slot is [volt-switch], which is what actually makes [Luxray] a [pivot] rather than a worse version of other physical Electrics. A [superpower] swap-in is the best alternative if the team lacks a reliable answer to [Normal], [Rock], and [Steel] walls.\n\n## Item · Ability · Tera\n[sitrus-berry] is the default item — it offsets one [wild-charge] recoil cycle and pushes [Luxray] over the HP threshold it needs to get a second attack off. [focus-sash] is the aggressive alternative that guarantees survival against one priority or Choice Scarf user and buys a free [volt-switch] turn. The ability is locked to [intimidate]; it is the entire reason to run [Luxray]. For Tera, [Electric] deepens [wild-charge] damage, while Tera [Ground] removes the 2x [Ground] weakness entirely and turns [Luxray] into a surprise defensive check.\n\n## Teammates & Synergy\n[Luxray] needs a [Grass] or [Flying] [pivot] to [absorb] the [Ground] attacks that would otherwise force it out — pair it with a slow U-turn partner so that [volt-switch] and U-turn form a forced-momentum loop. A special cleaner in the back capitalizes on the physical cushion [intimidate] creates. A rocks-remover is nice but not mandatory, since [Luxray] is not expected to switch in and out more than twice per match.\n\n## Play Patterns\nOn turn one, prioritize [intimidate] entry over offense — drop the opponent's Attack before committing to a damage move. Press [wild-charge] only on kill-confirmed ranges, since repeated recoil is what usually ends [Luxray]'s game. Once HP dips below a third, [volt-switch] out and let the [pivot] chain do the cleanup work.",
   "tags": [
     "sinnoh",
     "electric",

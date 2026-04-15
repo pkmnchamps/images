@@ -26,29 +26,29 @@
   },
   "locale": "en",
   "title": "Mega Absol Battle Guide",
-  "summary": "A fast physical [dark] attacker with [magic-bounce] — 150 Attack, 115 Speed, and [sucker-punch] priority make it a terrifying glass cannon.",
+  "summary": "A fast physical [Dark] attacker with [magic-bounce] — 150 Attack, 115 Speed, and [sucker-punch] priority make it a terrifying glass cannon.",
   "strengths": [
     "[magic-bounce] reflects hazards and status",
     "150 Attack / 115 Speed is top-tier offensive profile",
     "[sucker-punch] priority handles faster threats"
   ],
   "weaknesses": [
-    "Weak to Fighting, Bug, and Fairy",
+    "Weak to [Fighting], [Bug], and [Fairy]",
     "Extremely frail at 65/60/60",
-    "Pre-Mega turn uses pressure with no bounce"
+    "Pre-Mega turn uses [pressure] with no bounce"
   ],
   "recommendedMoves": [
     {
       "move": "play-rough",
-      "reason": "Coverage for Dragon, Fighting, [dark]"
+      "reason": "Coverage for [Dragon], [Fighting], [Dark]"
     },
     {
       "move": "sucker-punch",
-      "reason": "Priority [dark] STAB finisher"
+      "reason": "Priority [Dark] STAB finisher"
     },
     {
       "move": "knock-off",
-      "reason": "[dark] STAB with item removal"
+      "reason": "[Dark] STAB with item removal"
     },
     {
       "move": "swords-dance",
@@ -61,7 +61,7 @@
       "reason": "Mandatory Mega Stone with no alternative"
     }
   ],
-  "bodyMarkdown": "## Overview\nMega Absol is a fast glass cannon defined by [magic-bounce], 150 base Attack, and 115 base Speed. It combines high offensive pressure with a utility ability that reflects hazards and status moves — a rare combination that punishes setup leads and stall pivots simultaneously.\n\n## Strengths\n[magic-bounce] reflects stealth-rock, taunt, thunder-wave, will-o-wisp, and similar status moves. Offensively, 150 Attack and 115 Speed let Mega Absol outpace most natural Speed and threaten KOs with [knock-off] or [play-rough]. [sucker-punch] is a natural priority STAB that catches faster Scarf users when predicted right.\n\n## Weaknesses & Answers\n65/60/60 bulk is among the frailest Mega forms — essentially every super-effective hit is a KO, and even neutral priority threatens it. Fighting, Bug, and Fairy weaknesses are common in the meta. The pre-Mega turn uses pressure, so [magic-bounce] does not work until the evolution completes.\n\n## Recommended Moveset\n[play-rough] hits the Fighting and Dragon types that resist [dark] STAB. [sucker-punch] is a must for priority cleanup. [knock-off] is the main [dark] STAB and removes items. [swords-dance] is optional — a boosted Mega Absol sweeps, but its frail bulk makes setup risky.\n\n## Item · Ability · Tera\n[absolite] is mandatory. [magic-bounce] activates after Mega Evolution. Tera [dark] stacks on [sucker-punch] and [knock-off], while Tera [ghost] creates Normal/Fighting immunities and a clean Psychic immunity for defensive reroutes.\n\n## Teammates & Synergy\nPair with fake-out and intimidate support to compensate for the bulk. Fairy and Psychic partners cover the Fighting weakness. tailwind extends the offensive window.\n\n## Play Patterns\nSwitch in on a predicted status move to bounce it back. Use [knock-off] or [play-rough] to pressure switch-ins, and [sucker-punch] to finish faster threats. If the opponent plays slowly, a [swords-dance] setup can immediately end the match — but only if Mega Absol can afford the free turn.",
+  "bodyMarkdown": "## Overview\nMega Absol is a fast glass cannon defined by [magic-bounce], 150 base Attack, and 115 base Speed. It combines high offensive pressure with a utility ability that reflects hazards and status moves — a rare combination that punishes setup leads and stall pivots simultaneously.\n\n## Strengths\n[magic-bounce] reflects [stealth-rock], [taunt], [thunder-wave], [will-o-wisp], and similar status moves. Offensively, 150 Attack and 115 Speed let Mega Absol outpace most natural Speed and threaten KOs with [knock-off] or [play-rough]. [sucker-punch] is a natural priority STAB that catches faster Scarf users when predicted right.\n\n## Weaknesses & Answers\n65/60/60 bulk is among the frailest Mega forms — essentially every super-effective hit is a KO, and even neutral priority threatens it. [Fighting], [Bug], and [Fairy] weaknesses are common in the meta. The pre-Mega turn uses [pressure], so [magic-bounce] does not work until the evolution completes.\n\n## Recommended Moveset\n[play-rough] hits the [Fighting] and [Dragon] types that resist [Dark] STAB. [sucker-punch] is a must for priority cleanup. [knock-off] is the main [Dark] STAB and removes items. [swords-dance] is optional — a boosted Mega Absol sweeps, but its frail bulk makes setup risky.\n\n## Item · Ability · Tera\n[absolite] is mandatory. [magic-bounce] activates after Mega Evolution. Tera [Dark] stacks on [sucker-punch] and [knock-off], while Tera [Ghost] creates [Normal]/[Fighting] immunities and a clean [Psychic] immunity for defensive reroutes.\n\n## Teammates & Synergy\nPair with [fake-out] and [intimidate] support to compensate for the bulk. [Fairy] and [Psychic] partners cover the [Fighting] weakness. [tailwind] extends the offensive window.\n\n## Play Patterns\nSwitch in on a predicted status move to bounce it back. Use [knock-off] or [play-rough] to pressure switch-ins, and [sucker-punch] to finish faster threats. If the opponent plays slowly, a [swords-dance] setup can immediately end the match — but only if Mega Absol can afford the free turn.",
   "tags": [
     "hoenn",
     "dark",

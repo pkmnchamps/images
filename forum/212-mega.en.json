@@ -27,21 +27,21 @@
   },
   "locale": "en",
   "title": "Mega Scizor Battle Guide",
-  "summary": "The canonical [technician] priority abuser — [bullet-punch] becomes an effective 60 BP [steel] STAB, and post-[swords-dance] cleanup is devastating.",
+  "summary": "The canonical [technician] priority abuser — [bullet-punch] becomes an effective 60 BP [Steel] STAB, and post-[swords-dance] cleanup is devastating.",
   "strengths": [
     "[technician]-boosted [bullet-punch] is a top-tier priority move",
     "[swords-dance] turns it into an unstoppable sweeper",
-    "Nine resistances including a 4x Fairy resist"
+    "Nine resistances including a 4x [Fairy] resist"
   ],
   "weaknesses": [
-    "4x Fire weakness — dies to any stray flamethrower",
+    "4x [Fire] weakness — dies to any stray [flamethrower]",
     "Speed 75 is outpaced by most Scarf users",
     "Pre-Mega turn still uses normal Scizor stats"
   ],
   "recommendedMoves": [
     {
       "move": "bullet-punch",
-      "reason": "Priority [steel] STAB boosted to 60 BP by [technician]"
+      "reason": "Priority [Steel] STAB boosted to 60 BP by [technician]"
     },
     {
       "move": "swords-dance",
@@ -62,7 +62,7 @@
       "reason": "Mandatory Mega Stone with no alternative"
     }
   ],
-  "bodyMarkdown": "## Overview\nMega Scizor is the definitional [technician] priority sweeper. [bullet-punch]'s 40 BP is raised to 60 BP by the ability, then STABbed into an effective ~90 BP [steel] priority move — one of the strongest priority attacks in the metagame. After one [swords-dance], most frail threats are cleanly KO'd before they can move.\n\n## Strengths\n[bullet-punch] pressures Fairy, Ice, Rock, and Psychic attackers from priority range, so Mega Scizor rarely needs to outspeed anything. [bug]/[steel] typing grants nine resistances including a 4x Fairy resist — it walls threats like tapu-koko and togekiss for free. Base 140 Attack plus [swords-dance] pushes its KO ranges deep into bulky targets.\n\n## Weaknesses & Answers\n4x Fire is the headline weakness — heatran, charizard, and random flamethrower users will OHKO. A single will-o-wisp cripples the entire set, so Fire attackers must be switched out of. Speed 75 is slow for a sweeper, so the game plan leans heavily on priority rather than winning speed ties.\n\n## Recommended Moveset\nLock in [bullet-punch]. [swords-dance] is the setup move — one boost is usually enough. [knock-off] punishes switch-ins by removing items; note that at 65 BP it falls outside [technician] range but still provides utility. [protect] is mandatory for the Mega turn and for setup windows in doubles.\n\n## Item · Ability · Tera\n[scizorite] is mandatory. [technician] activates post-Mega. Tera [steel] boosts STAB damage on [bullet-punch] and patches the Fire 4x weakness, while Tera [bug] unlocks maximum u-turn / [bug]-based damage on slower cores.\n\n## Teammates & Synergy\nPair with a Water or Ground attacker to cover the Fire weakness, and use incineroar intimidate + fake-out to buy setup time. A tailwind setter offsets Mega Scizor's mediocre speed for when priority isn't enough.\n\n## Play Patterns\nProtect on the Mega turn, then find a window for [swords-dance]. After boosting, spam [bullet-punch] on frail threats and save Tera for an incoming Fire move. Preserve Mega Scizor late-game so its priority cleans up remaining attackers.",
+  "bodyMarkdown": "## Overview\nMega Scizor is the definitional [technician] priority sweeper. [bullet-punch]'s 40 BP is raised to 60 BP by the ability, then STABbed into an effective ~90 BP [Steel] priority move — one of the strongest priority attacks in the metagame. After one [swords-dance], most frail threats are cleanly KO'd before they can move.\n\n## Strengths\n[bullet-punch] pressures [Fairy], [Ice], [Rock], and [Psychic] attackers from priority range, so Mega Scizor rarely needs to outspeed anything. [Bug]/[Steel] typing grants nine resistances including a 4x [Fairy] resist — it walls threats like [tapu-koko] and [togekiss] for free. Base 140 Attack plus [swords-dance] pushes its KO ranges deep into bulky targets.\n\n## Weaknesses & Answers\n4x [Fire] is the headline weakness — [heatran], [charizard], and random [flamethrower] users will OHKO. A single [will-o-wisp] cripples the entire set, so [Fire] attackers must be switched out of. Speed 75 is slow for a sweeper, so the game plan leans heavily on priority rather than winning speed ties.\n\n## Recommended Moveset\nLock in [bullet-punch]. [swords-dance] is the setup move — one boost is usually enough. [knock-off] punishes switch-ins by removing items; note that at 65 BP it falls outside [technician] range but still provides utility. [protect] is mandatory for the Mega turn and for setup windows in doubles.\n\n## Item · Ability · Tera\n[scizorite] is mandatory. [technician] activates post-Mega. Tera [Steel] boosts STAB damage on [bullet-punch] and patches the [Fire] 4x weakness, while Tera [Bug] unlocks maximum [u-turn] / [bug]-based damage on slower cores.\n\n## Teammates & Synergy\nPair with a [Water] or [Ground] attacker to cover the [Fire] weakness, and use [incineroar] [intimidate] + [fake-out] to buy setup time. A [tailwind] setter offsets Mega Scizor's mediocre speed for when priority isn't enough.\n\n## Play Patterns\nProtect on the Mega turn, then find a window for [swords-dance]. After boosting, spam [bullet-punch] on frail threats and save Tera for an incoming [Fire] move. Preserve Mega Scizor late-game so its priority cleans up remaining attackers.",
   "tags": [
     "johto",
     "bug",

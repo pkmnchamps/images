@@ -26,22 +26,22 @@
     "spe": 32
   },
   "locale": "en",
-  "title": "[jolteon] Battle Guide",
-  "summary": "A 130 Speed [electric] special attacker that defines the high-end Speed tier and uses [volt-switch] to hold tempo through long matches.",
+  "title": "[Jolteon] Battle Guide",
+  "summary": "A 130 Speed [Electric] special attacker that defines the high-end Speed tier and uses [volt-switch] to hold tempo through long matches.",
   "strengths": [
     "130 Speed sits above almost every unboosted attacker",
-    "[volt-absorb] completely blanks opposing [electric] damage",
-    "[volt-switch] lets [jolteon] farm damage while pivoting"
+    "[volt-absorb] completely blanks oppo[sing] [Electric] damage",
+    "[volt-switch] lets [Jolteon] farm damage while [pivot]ing"
   ],
   "weaknesses": [
-    "Ground type immunity walls the primary STAB outright",
+    "[Ground] type immunity walls the primary STAB outright",
     "Thin 65/60/95 defensive line folds to priority",
-    "Coverage pool is narrow for a pure [electric] build"
+    "Cove[rage] pool is narrow for a pure [Electric] build"
   ],
   "recommendedMoves": [
     {
       "move": "thunderbolt",
-      "reason": "Reliable [electric] STAB with clean accuracy"
+      "reason": "Reliable [Electric] STAB with clean accuracy"
     },
     {
       "move": "volt-switch",
@@ -49,11 +49,11 @@
     },
     {
       "move": "shadow-ball",
-      "reason": "Coverage for Ghost and Psychic special walls"
+      "reason": "Cove[rage] for [Ghost] and [Psychic] special walls"
     },
     {
       "move": "thunder-wave",
-      "reason": "Breaks the opposing Speed tier with paralysis"
+      "reason": "Breaks the oppo[sing] Speed tier with paralysis"
     }
   ],
   "recommendedItems": [
@@ -63,14 +63,14 @@
     },
     {
       "item": "magnet",
-      "reason": "Raises [electric] STAB damage without locking moves"
+      "reason": "Raises [Electric] STAB damage without locking moves"
     },
     {
       "item": "focus-sash",
-      "reason": "Guarantees one attack lands despite the thin bulk"
+      "reason": "Guarantees one attack lands de[spite] the thin bulk"
     }
   ],
-  "bodyMarkdown": "## Overview\n[jolteon] is a pure [electric] special attacker whose reputation is built on a 130 Speed tier paired with 110 Special Attack. In the Champions format that stat line is still above almost every unboosted threat, which keeps [jolteon] relevant as a high-speed pivot and opening cleaner. The [volt-absorb] ability is a nice cherry on top — [electric] attackers become free healing opportunities rather than threats, making [jolteon] one of the few single-type Electrics that can safely pivot into [electric] damage.\n\n## Strengths\nThe Speed tier is still the pitch. [jolteon] outpaces faster mega forms, choice-scarf users on lower-base threats, and every defensive Pokemon. [thunderbolt] delivers reliable STAB damage, and [volt-switch] turns every shaky matchup into a free pivot, building tempo across a long match instead of trading tempo away. [thunder-wave] on the fourth slot lets [jolteon] shut down the opposing Speed tier when a real sweeper is about to enter.\n\n## Weaknesses & Answers\nThe Ground immunity is the structural headache. Coverage on [jolteon] is narrow, since it learns few strong non-[electric] special moves, so one safe switch-in for the opponent can invalidate the slot for several turns. The bulk is thin on the physical side at 65/60, so any priority move or strong physical attacker revenge-kills it easily.\n\n## Recommended Moveset\n[thunderbolt] is the locked [electric] STAB. [volt-switch] is mandatory because it's the primary reason to run [jolteon]. [shadow-ball] is the best coverage slot available, punishing Ghost and Psychic walls that would blank the [electric] STAB. [thunder-wave] fills the fourth slot as a speed control tool for the team's cleaners. hidden-power [ice] is an alternate option for Ground coverage but loses damage floor overall.\n\n## Item · Ability · Tera\nchoice-scarf is the default build because it pushes [jolteon]'s already elite speed tier into one that answers every scarfed attacker in the metagame. [magnet] is an alternate for a more flexible build that trades speed for [electric] damage. [focus-sash] fits the lead role and guarantees one clean attack against a faster special attacker. The ability must be [volt-absorb]. Tera [ice] gives coverage for Dragon, Flying, and Ground attackers, while Tera [electric] maxes STAB damage for [thunderbolt].\n\n## Teammates & Synergy\nThe biggest structural requirement is a Ground answer. Slow u-turn partners extend the [volt-switch] pivot chain, which turns [jolteon]'s coverage problem into a managed rotation rather than a dead slot. A physical breaker behind [jolteon] cleans up walls that would otherwise absorb its output, and status-absorber teammates keep [jolteon]'s [thunder-wave] plan from being flipped back.\n\n## Play Patterns\n[jolteon] prefers to open the game. Drop [thunder-wave] on known setup sweepers that would otherwise outpace you, and use [shadow-ball] against Ghost pivots that try to swap in for free. Save the Tera for the moment a Ground or priority move is about to land, and always [volt-switch] out before committing to a locked coverage move against unknown walls.",
+  "bodyMarkdown": "## Overview\n[Jolteon] is a pure [Electric] special attacker whose reputation is built on a 130 Speed tier paired with 110 Special Attack. In the Champions format that stat line is still above almost every unboosted threat, which keeps [Jolteon] relevant as a high-speed [pivot] and opening cleaner. The [volt-absorb] ability is a nice cherry on top — [Electric] attackers become free healing opportunities rather than threats, making [Jolteon] one of the few single-type Electrics that can safely [pivot] into [Electric] damage.\n\n## Strengths\nThe Speed tier is still the pitch. [Jolteon] outpaces faster mega forms, choice-scarf users on lower-base threats, and every defensive Pokemon. [thunderbolt] delivers reliable STAB damage, and [volt-switch] turns every shaky matchup into a free [pivot], building tempo across a long match instead of trading tempo away. [thunder-wave] on the fourth slot lets [Jolteon] shut down the opposing Speed tier when a real [sweeper] is about to enter.\n\n## Weaknesses & Answers\nThe [Ground] immunity is the structural headache. Coverage on [Jolteon] is narrow, since it learns few strong non-[Electric] special moves, so one safe switch-in for the opponent can invalidate the slot for several turns. The bulk is thin on the physical side at 65/60, so any priority move or strong physical attacker [revenge]-kills it easily.\n\n## Recommended Moveset\n[thunderbolt] is the locked [Electric] STAB. [volt-switch] is mandatory because it's the primary reason to run [Jolteon]. [shadow-ball] is the best coverage slot available, punishing [Ghost] and [Psychic] walls that would blank the [Electric] STAB. [thunder-wave] fills the fourth slot as a speed control tool for the team's cleaners. [hidden-power] [ice] is an alternate option for [Ground] coverage but loses damage floor overall.\n\n## Item · Ability · Tera\nchoice-scarf is the default build because it pushes [Jolteon]'s already elite speed tier into one that answers every scarfed attacker in the metagame. [magnet] is an alternate for a more flexible build that trades speed for [Electric] damage. [focus-sash] fits the lead role and guarantees one clean attack against a faster special attacker. The ability must be [volt-absorb]. Tera [Ice] gives coverage for [Dragon], [Flying], and [Ground] attackers, while Tera [Electric] maxes STAB damage for [thunderbolt].\n\n## Teammates & Synergy\nThe biggest structural requirement is a [Ground] answer. Slow [u-turn] partners extend the [volt-switch] [pivot] chain, which turns [Jolteon]'s coverage problem into a managed rotation rather than a dead slot. A physical breaker behind [Jolteon] cleans up walls that would otherwise [absorb] its output, and status-absorber teammates keep [Jolteon]'s [thunder-wave] plan from being flipped back.\n\n## Play Patterns\n[Jolteon] prefers to open the game. Drop [thunder-wave] on known setup sweepers that would otherwise outpace you, and use [shadow-ball] against [Ghost] pivots that try to swap in for free. Save the Tera for the moment a [Ground] or priority move is about to land, and always [volt-switch] out before committing to a locked coverage move against unknown walls.",
   "tags": [
     "kanto",
     "electric",

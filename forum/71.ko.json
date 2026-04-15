@@ -26,26 +26,26 @@
     "spe": 32
   },
   "locale": "ko",
-  "title": "[victreebel] 배틀 운용 가이드",
-  "summary": "[chlorophyll]로 맑음 하 실질 스피드 140의 [grass]·[poison] 물리 스위퍼. [swords-dance] 셋업으로 폭발적 피니셔.",
+  "title": "[우츠보트] 배틀 운용 가이드",
+  "summary": "[chlorophyll]로 맑음 하 실질 스피드 140의 [풀]·[독] 물리 스위퍼. [swords-dance] 셋업으로 폭발적 피니셔.",
   "strengths": [
     "맑음 하 [chlorophyll]로 실질 스피드 140대",
     "105 공격 + [swords-dance]로 고화력 피니셔",
     "[sucker-punch] 선공기로 맑음 외 상황 대응"
   ],
   "weaknesses": [
-    "얼음·[fire]·비행·에스퍼 약점 다수",
+    "[얼음]·[불꽃]·[비행]·[에스퍼] 약점 다수",
     "80/65/70의 낮은 내구",
     "맑음이 지워지면 스피드 축 붕괴"
   ],
   "recommendedMoves": [
     {
       "move": "leaf-blade",
-      "reason": "주력 [grass] STAB 물리 피니셔"
+      "reason": "주력 [풀] STAB 물리 피니셔"
     },
     {
       "move": "poison-jab",
-      "reason": "페어리·[grass] 견제 [poison] STAB"
+      "reason": "[페어리]·[풀] 견제 [독] STAB"
     },
     {
       "move": "sucker-punch",
@@ -67,10 +67,10 @@
     },
     {
       "item": "miracle-seed",
-      "reason": "[grass] STAB 화력 강화"
+      "reason": "[풀] STAB 화력 강화"
     }
   ],
-  "bodyMarkdown": "## 개요\n[victreebel]는 [grass]·[poison] 타입의 물리 스위퍼로, [chlorophyll] 특성을 살려 맑음 팀에서 고속 피니셔 역할을 담당한다. 105 공격과 70 스피드는 평범하지만, 맑음 아래에서는 실질 스피드가 140대까지 치솟아 메타 대부분을 추월한다. 같은 [grass]·[poison] 타입 이상해꽃과는 달리 물리 축으로 설계된다는 점이 차별점이다.\n\n## 강점 분석\n[chlorophyll]은 맑음 하에서 스피드를 2배로 올리는 특성으로, [victreebel]를 실질 스피드 140대의 최상위권 물리 어태커로 바꿔준다. [swords-dance] 한 번이면 공격이 2배로 뛰어 [leaf-blade]·[poison-jab]이 확정 OHKO 범위에 들어가고, [sucker-punch]는 맑음 없는 상황이나 상대 선공기 대응 카드로 기능한다.\n\n## 약점과 대응\n[grass]·[poison] 조합은 얼음·[fire]·비행·에스퍼 약점이 모두 메타에 흔하다. 80/65/70의 내구로는 한 방을 버티기 어렵고, 맑음이 지워지면 스피드 축이 통째로 무너져 거의 모든 상위권 어태커에게 추월당한다. 상대 priority 유저가 있으면 [sucker-punch] 예측에 걸릴 수 있어 구도 판단이 필수다.\n\n## 추천 기술 구성\n[leaf-blade]를 주력 물리 [grass] STAB으로 고정해 고화력 피니셔 역할을 수행한다. [poison-jab]은 페어리·[grass] 견제용 두 번째 STAB이며, [sucker-punch]는 스피드 외 상황 대응 및 priority 유저 카운터로 기능한다. 마지막 슬롯은 [swords-dance]로 셋업해 스위퍼 전환을 완성한다. knock-off 변형도 있지만 결정력을 올리는 컨셉이 더 실전적이다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [life-orb]가 기본으로, 공격력 1.3배 보정을 받아 확정킬 범위를 크게 늘린다. [focus-sash]는 셋업 첫 턴 보험용, [miracle-seed]는 [grass] STAB 화력 추가 보정용이다. 특성은 [chlorophyll] 고정. 테라스탈은 [grass] 타입으로 [leaf-blade] 화력을 올리거나, [fire] 타입으로 얼음·[fire]·비행 약점을 뒤집는 선택이 실전적이다.\n\n## 시너지와 파트너\n[victreebel]는 맑음 설정 담당(나인테일 등)과 기본 묶음이다. 얼음·비행 약점 카운터로 [fire]·강철 파트너를 배치하고, 상대 날씨 유저 카운터로 taunt 사용자나 pivot 라인을 준비한다. stealth-rock 지우기 담당도 팀에 한 장 필요하며, 후속 클리너가 [victreebel]의 chip을 득점으로 전환한다.\n\n## 운용 팁\n맑음이 깔린 상태에서 2턴째 교대 인으로 진입해 [swords-dance] 1회, 그 다음 턴부터 [leaf-blade]·[poison-jab]으로 스위프한다. [sucker-punch]는 상대 priority 예측 시 사용하고, 테라스탈은 얼음·[fire] 약점기를 확정으로 맞을 때 즉시 발동한다.",
+  "bodyMarkdown": "## 개요\n[우츠보트]는 [풀]·[독] 타입의 물리 스위퍼로, [chlorophyll] 특성을 살려 맑음 팀에서 고속 피니셔 역할을 담당한다. 105 공격과 70 스피드는 평범하지만, 맑음 아래에서는 실질 스피드가 140대까지 치솟아 메타 대부분을 추월한다. 같은 [풀]·[독] 타입 이상해꽃과는 달리 물리 축으로 설계된다는 점이 차별점이다.\n\n## 강점 분석\n[chlorophyll]은 맑음 하에서 스피드를 2배로 올리는 특성으로, [우츠보트]를 실질 스피드 140대의 최상위권 물리 어태커로 바꿔준다. [swords-dance] 한 번이면 공격이 2배로 뛰어 [leaf-blade]·[poison-jab]이 확정 OHKO 범위에 들어가고, [sucker-punch]는 맑음 없는 상황이나 상대 선공기 대응 카드로 기능한다.\n\n## 약점과 대응\n[풀]·[독] 조합은 [얼음]·[불꽃]·[비행]·[에스퍼] 약점이 모두 메타에 흔하다. 80/65/70의 내구로는 한 방을 버티기 어렵고, 맑음이 지워지면 스피드 축이 통째로 무너져 거의 모든 상위권 어태커에게 추월당한다. 상대 priority 유저가 있으면 [sucker-punch] 예측에 걸릴 수 있어 구도 판단이 필수다.\n\n## 추천 기술 구성\n[leaf-blade]를 주력 물리 [풀] STAB으로 고정해 고화력 피니셔 역할을 수행한다. [poison-jab]은 [페어리]·[풀] 견제용 두 번째 STAB이며, [sucker-punch]는 스피드 외 상황 대응 및 priority 유저 카운터로 기능한다. 마지막 슬롯은 [swords-dance]로 셋업해 스위퍼 전환을 완성한다. [knock-off] 변형도 있지만 결정력을 올리는 컨셉이 더 실전적이다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [life-orb]가 기본으로, 공격력 1.3배 보정을 받아 확정킬 범위를 크게 늘린다. [focus-sash]는 셋업 첫 턴 보험용, [miracle-seed]는 [풀] STAB 화력 추가 보정용이다. 특성은 [chlorophyll] 고정. 테라스탈은 [풀] 타입으로 [leaf-blade] 화력을 올리거나, [불꽃] 타입으로 [얼음]·[불꽃]·[비행] 약점을 뒤집는 선택이 실전적이다.\n\n## 시너지와 파트너\n[우츠보트]는 맑음 설정 담당(나인테일 등)과 기본 묶음이다. [얼음]·[비행] 약점 카운터로 [불꽃]·[강철] 파트너를 배치하고, 상대 날씨 유저 카운터로 [taunt] 사용자나 pivot 라인을 준비한다. [stealth-rock] 지우기 담당도 팀에 한 장 필요하며, 후속 클리너가 [우츠보트]의 chip을 득점으로 전환한다.\n\n## 운용 팁\n맑음이 깔린 상태에서 2턴째 교대 인으로 진입해 [swords-dance] 1회, 그 다음 턴부터 [leaf-blade]·[poison-jab]으로 스위프한다. [sucker-punch]는 상대 priority 예측 시 사용하고, 테라스탈은 [얼음]·[불꽃] 약점기를 확정으로 맞을 때 즉시 발동한다.",
   "tags": [
     "kanto",
     "grass",

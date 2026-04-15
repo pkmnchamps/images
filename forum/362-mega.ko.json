@@ -25,30 +25,30 @@
     "spe": 32
   },
   "locale": "ko",
-  "title": "[glalie-mega] 배틀 운용 가이드",
-  "summary": "[refrigerate]로 normal 기술이 [ice] 자속으로 변환되는 균형 어태커. [explosion] [ice] 변환 120 자속 광역 폭발이 시그니처.",
+  "title": "[메가얼음귀신] 배틀 운용 가이드",
+  "summary": "[refrigerate]로 [normal] 기술이 [얼음] 자속으로 변환되는 균형 어태커. [explosion] [얼음] 변환 120 자속 광역 폭발이 시그니처.",
   "strengths": [
-    "[refrigerate] normal 기술 [ice] 변환 + 1.2배 보정",
-    "[explosion] [ice] 자속 광역 폭발 시그니처",
+    "[refrigerate] [normal] 기술 [얼음] 변환 + 1.2배 보정",
+    "[explosion] [얼음] 자속 광역 폭발 시그니처",
     "120/120 균형 공격 능력치 양 타입 운용"
   ],
   "weaknesses": [
-    "단일 [ice] 타입 약점 4종",
+    "단일 [얼음] 타입 약점 4종",
     "내구 80/80/80 보통 수준",
     "스피드 100 최상위권 후공"
   ],
   "recommendedMoves": [
     {
       "move": "return",
-      "reason": "[refrigerate] 변환 [ice] 자속 주력"
+      "reason": "[refrigerate] 변환 [얼음] 자속 주력"
     },
     {
       "move": "explosion",
-      "reason": "[refrigerate] 변환 [ice] 광역 폭발 피니셔"
+      "reason": "[refrigerate] 변환 [얼음] 광역 폭발 피니셔"
     },
     {
       "move": "earthquake",
-      "reason": "강철·불·바위 견제 서브"
+      "reason": "[강철]·[불]·[바위] 견제 서브"
     },
     {
       "move": "protect",
@@ -61,7 +61,7 @@
       "reason": "메가 진화를 위한 필수 아이템"
     }
   ],
-  "bodyMarkdown": "## 개요\n[glalie-mega]은 [refrigerate] 특성으로 normal 기술이 [ice] 타입 + 1.2배 보정으로 변환되는 균형 어태커다. 120/120의 물리/특공 동일 공격 능력치로 양 타입 운용이 가능하며, 시그니처는 [refrigerate] 변환 [explosion]의 [ice] 자속 광역 폭발이다.\n\n## 강점 분석\n[refrigerate]는 normal 기술을 [ice] 자속으로 변환 + 1.2배 보정을 중첩한다. [return] + STAB + refrigerate = 실질 위력 183 수준의 [ice] 자속 주력기, [explosion]은 광역 판정 + [ice] 변환으로 마무리 피니셔로 활용 가능. 120/120 균형 공격 프로필은 상대의 특수/물리 벽 구성에 따라 유연하게 대응할 수 있다.\n\n## 약점과 대응\n단일 [ice] 타입은 격투·불·바위·강철 4종 약점으로 저항 프로필이 좋지 않다. 내구 80/80/80은 보통 수준으로 약점 공격에 취약. 스피드 100은 메타 최상위권(110+)에 후공이라 tailwind 지원이 필수.\n\n## 추천 기술 구성\n[return]은 [refrigerate] 활용 주력기. [explosion]은 [ice] 변환 광역 폭발 피니셔. [earthquake]는 강철·불·바위 견제용 서브로 필수. [protect]는 메가 진화 턴 안전 확보.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [glalitite] 고정. 특성은 메가 진화 후 [refrigerate]로 자동 전환. 테라스탈은 [ice]으로 자속 + refrigerate 중첩 극대화, 또는 [ground]으로 전기 무효 + 불·바위 약점 역이용 저항 전환.\n\n## 시너지와 파트너\ntailwind 세터로 스피드 100 약점 상쇄 필수. 불·격투 약점 카운터로 water·psychic 파트너. [explosion] 폭발 후 교대 인 순서 구성된 팀에서 가장 효과적.\n\n## 운용 팁\n메가 진화 후 [return]·[earthquake]로 일반 어태커 운용하다가, 결정적 순간 [explosion] 광역 폭발로 게임을 마무리. 내구가 낮아 교대 인 타이밍에 신중해야 하고, 스피드 100 약점은 tailwind에 의존.",
+  "bodyMarkdown": "## 개요\n[메가얼음귀신]은 [refrigerate] 특성으로 [normal] 기술이 [얼음] 타입 + 1.2배 보정으로 변환되는 균형 어태커다. 120/120의 물리/특공 동일 공격 능력치로 양 타입 운용이 가능하며, 시그니처는 [refrigerate] 변환 [explosion]의 [얼음] 자속 광역 폭발이다.\n\n## 강점 분석\n[refrigerate]는 [normal] 기술을 [얼음] 자속으로 변환 + 1.2배 보정을 중첩한다. [return] + STAB + refrigerate = 실질 위력 183 수준의 [얼음] 자속 주력기, [explosion]은 광역 판정 + [얼음] 변환으로 마무리 피니셔로 활용 가능. 120/120 균형 공격 프로필은 상대의 특수/물리 벽 구성에 따라 유연하게 대응할 수 있다.\n\n## 약점과 대응\n단일 [얼음] 타입은 [격투]·[불]·[바위]·[강철] 4종 약점으로 저항 프로필이 좋지 않다. 내구 80/80/80은 보통 수준으로 약점 공격에 취약. 스피드 100은 메타 최상위권(110+)에 후공이라 [tailwind] 지원이 필수.\n\n## 추천 기술 구성\n[return]은 [refrigerate] 활용 주력기. [explosion]은 [얼음] 변환 광역 폭발 피니셔. [earthquake]는 [강철]·[불]·[바위] 견제용 서브로 필수. [protect]는 메가 진화 턴 안전 확보.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [glalitite] 고정. 특성은 메가 진화 후 [refrigerate]로 자동 전환. 테라스탈은 [얼음]으로 자속 + refrigerate 중첩 극대화, 또는 [땅]으로 [전기] 무효 + [불]·[바위] 약점 역이용 저항 전환.\n\n## 시너지와 파트너\n[tailwind] 세터로 스피드 100 약점 상쇄 필수. [불]·[격투] 약점 카운터로 [water]·[psychic] 파트너. [explosion] 폭발 후 교대 인 순서 구성된 팀에서 가장 효과적.\n\n## 운용 팁\n메가 진화 후 [return]·[earthquake]로 일반 어태커 운용하다가, 결정적 순간 [explosion] 광역 폭발로 게임을 마무리. 내구가 낮아 교대 인 타이밍에 신중해야 하고, 스피드 100 약점은 [tailwind]에 의존.",
   "tags": [
     "hoenn",
     "ice",

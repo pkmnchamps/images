@@ -1,0 +1,83 @@
+{
+  "pokemonId": 26,
+  "nameKo": "알로라라이츄",
+  "nameEn": "raichu-alola",
+  "formKey": "alola",
+  "types": [
+    "electric",
+    "psychic"
+  ],
+  "roles": [
+    "special-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "surge-surfer",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "electric",
+    "psychic"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Alolan Raichu Battle Guide",
+  "summary": "An [Electric]/[Psychic] special sweeper whose [surge-surfer] doubles Speed in electric terrain — effective Speed 220.",
+  "strengths": [
+    "[surge-surfer] doubles Speed under electric terrain",
+    "[Psychic] secondary typing gives [Fighting] immunity",
+    "[nasty-plot] setup leads to explosive special damage"
+  ],
+  "weaknesses": [
+    "Weak to [Ground], [Dark], [Ghost], [Bug]",
+    "60/50/85 bulk is very frail",
+    "Loses Speed advantage outside electric terrain"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "thunderbolt",
+      "reason": "Main [Electric] STAB"
+    },
+    {
+      "move": "psyshock",
+      "reason": "[Psychic] STAB that targets Defense"
+    },
+    {
+      "move": "nasty-plot",
+      "reason": "+2 SpA setup"
+    },
+    {
+      "move": "focus-blast",
+      "reason": "Coverage for [Dark] and [Steel]"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "Setup insurance for the first turn"
+    },
+    {
+      "item": "choice-specs",
+      "reason": "Maximizes raw damage under terrain"
+    },
+    {
+      "item": "light-clay",
+      "reason": "Support variant running screens"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nAlolan Raichu is an [Electric]/[Psychic] special sweeper whose identity comes from [surge-surfer] — a signature ability that doubles its Speed in electric terrain. Combined with base 110 Speed, this turns Alolan Raichu into a functional Speed 220 threat that outruns scarfed top-tier Pokemon.\n\n## Strengths\n[surge-surfer] under electric terrain is the whole game plan — at effective 220 Speed, Alolan Raichu outpaces almost everything. [Psychic] secondary typing adds a [Fighting] immunity and gives [psyshock] a secondary STAB. After [nasty-plot], [thunderbolt] and [psyshock] hit hard enough to threaten most neutral targets.\n\n## Weaknesses & Answers\n[Dark], [Ghost], [Bug], and [Ground] all threaten KOs. 60/50/85 bulk folds to any priority move. Most critically, without electric terrain the entire strategy falls apart — Speed 110 is merely average in the current meta.\n\n## Recommended Moveset\n[thunderbolt] is the locked STAB. [psyshock] is the secondary STAB that targets Defense for punishing special walls. [nasty-plot] is the setup move. [focus-blast] covers [Dark] and [Steel] walls like [tyranitar] and [heatran].\n\n## Item · Ability · Tera\n[focus-sash] provides setup insurance. [choice-specs] is an alternative for immediate damage without setup. [surge-surfer] is mandatory. Tera [Electric] stacks STAB on [thunderbolt] or Tera [Psychic] on [psyshock] — pick based on coverage needs.\n\n## Teammates & Synergy\nPair with an electric terrain setter — [tapu-koko] or [pincurchin] — this is non-negotiable. Cover [Ground] with [Grass] or [Flying], and [Dark]/[Bug] with [Fairy] or [Fire]. [fake-out] support protects the setup window.\n\n## Play Patterns\nSwitch in after electric terrain is up, [nasty-plot] on a predicted switch, then spam [thunderbolt] and [psyshock]. Race against the terrain timer and finish before the boost wears off. Switch out against [Dark] or [Ghost] types immediately.",
+  "tags": [
+    "alola",
+    "electric",
+    "psychic",
+    "regional-form",
+    "surge-surfer",
+    "special-sweeper"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

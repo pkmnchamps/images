@@ -24,34 +24,34 @@
     "spe": 32
   },
   "locale": "en",
-  "title": "[rampardos] Battle Guide",
-  "summary": "A one-shot physical [rock] wallbreaker built on base 165 Atk and [sheer-force] — [head-smash] loses its recoil and hits like a finisher on contact.",
+  "title": "[Rampardos] Battle Guide",
+  "summary": "A one-shot physical [Rock] wallbreaker built on base 165 Atk and [sheer-force] — [head-smash] loses its re[coil] and hits like a finisher on contact.",
   "strengths": [
     "Base 165 Atk is the top of the physical chart in the format",
-    "[sheer-force] nullifies [head-smash] recoil and boosts [zen-headbutt], stone-edge, and [crunch] by 1.3x",
-    "Coverage options line up cleanly: [earthquake], [zen-headbutt], and [crunch] cover every common [rock] resist"
+    "[sheer-force] nullifies [head-smash] re[coil] and boosts [zen-headbutt], [stone-edge], and [crunch] by 1.3x",
+    "Cove[rage] options line up cleanly: [earthquake], [zen-headbutt], and [crunch] cover every common [Rock] resist"
   ],
   "weaknesses": [
-    "Base 58 Speed and 60 Defense mean almost every offensive Pokemon outspeeds and one-shots [rampardos]",
-    "2x weak to Fighting, [ground], Water, and Grass — priority Fighting shuts it down completely",
+    "Base 58 Speed and 60 Defense mean almost every offensive Pokemon outspeeds and one-shots [Rampardos]",
+    "2x weak to [Fighting], [Ground], [Water], and [Grass] — priority [Fighting] shuts it down completely",
     "Without [focus-sash] it rarely gets a second turn"
   ],
   "recommendedMoves": [
     {
       "move": "head-smash",
-      "reason": "is the STAB nuke and [sheer-force] removes its recoil entirely"
+      "reason": "is the STAB nuke and [sheer-force] removes its re[coil] entirely"
     },
     {
       "move": "earthquake",
-      "reason": "is required coverage against Steel, Electric, and [rock]-resist walls"
+      "reason": "is required cove[rage] against [Steel], [Electric], and [Rock]-resist walls"
     },
     {
       "move": "zen-headbutt",
-      "reason": "handles Fighting and Poison pivots and is [sheer-force]-boosted"
+      "reason": "handles [Fighting] and [Poison] pivots and is [sheer-force]-boosted"
     },
     {
       "move": "crunch",
-      "reason": "breaks Psychic and Ghost walls and also gets the [sheer-force] boost"
+      "reason": "breaks [Psychic] and [Ghost] walls and also gets the [sheer-force] boost"
     }
   ],
   "recommendedItems": [
@@ -60,7 +60,7 @@
       "reason": "is the only realistic way to guarantee one turn of damage"
     }
   ],
-  "bodyMarkdown": "## Overview\n[rampardos] exists for exactly one reason: base 165 Atk is the highest physical Attack stat in the format, and [sheer-force] turns [head-smash] into a recoil-free STAB nuke. Base 58 Speed and 60 Defense are frankly terrible, so every game with [rampardos] is about landing exactly one [head-smash] at the right moment and accepting that the trade is often the first plan. You run [rampardos] as a dedicated single-target wallbreaker, not as a sweeper.\n\n## Strengths\nStacked with Jolly and STAB, [sheer-force] [head-smash] is one of the highest single-hit damage numbers available, and because [sheer-force] cancels recoil, [rampardos] can actually double-tap when the situation allows. [earthquake] lets it punch through the Steel, Electric, and [rock]-resist cores that normally wall mono-[rock]. [zen-headbutt] and [crunch] both get the [sheer-force] multiplier too, which means [rampardos] does not lose damage when it has to pivot into a coverage slot instead of the main STAB.\n\n## Weaknesses & Answers\nEverything stems from the defensive spread. 97/60/50 bulk means any 2x hit from Fighting, [ground], Water, or Grass is a likely OHKO, and 58 Speed hands initiative to almost every offensive Pokemon in the tier. Priority moves like mach-punch or bullet-punch end [rampardos] outright if [focus-sash] is already broken, and Scarf Fighting users shut the answer window completely.\n\n## Recommended Moveset\n[head-smash] is mandatory — everything else in the set is built around the fact that [sheer-force] erases its recoil clause. [earthquake] is the second locked slot, handling the Steel and Poison walls that would otherwise sit on [rock] STAB indefinitely. [zen-headbutt] is the Fighting answer and still benefits from [sheer-force], so it is not just filler coverage. The final slot is [crunch] to punch through Psychics and Ghosts; the alternative is stone-edge for a higher-damage secondary [rock] attack when coverage is less important than nuking.\n\n## Item · Ability · Tera\n[focus-sash] is the only correct item. 97/60 defenses make any other holdable effectively a one-turn cushion and sash at least guarantees [head-smash] one full send-off. [sheer-force] is locked and mold-breaker would cost too much damage to be worth considering. For Tera, [rock] is the standard for the extra STAB multiplier on [head-smash], and [ground] is the defensive swap that removes the Fighting weakness while still buffing [earthquake].\n\n## Teammates & Synergy\n[rampardos] needs a guaranteed entry turn, so fake-out users and slow pivots are mandatory support — anything that removes an opposing priority threat in advance. A setup sweeper in the back of the team should be ready to capitalize on the pace [head-smash] creates, since [rampardos] itself cannot clean. A [ground]-resistant pivot rounds out the team by soaking the attacks [rampardos] cannot switch into.\n\n## Play Patterns\nDo not send [rampardos] in while opposing Fighting or [ground] threats are healthy — wait until the counter list is gone, then drop it in on a predicted wall and fire [head-smash] for a forced KO. With [focus-sash] intact you can get a second turn — usually [earthquake] or [zen-headbutt] — but plan every game around the assumption that [rampardos] only gets one real action before exiting.",
+  "bodyMarkdown": "## Overview\n[Rampardos] exists for exactly one reason: base 165 Atk is the highest physical Attack stat in the format, and [sheer-force] turns [head-smash] into a recoil-free STAB nuke. Base 58 Speed and 60 Defense are frankly terrible, so every game with [Rampardos] is about landing exactly one [head-smash] at the right moment and accepting that the trade is often the first plan. You run [Rampardos] as a dedicated single-target wallbreaker, not as a sweeper.\n\n## Strengths\nStacked with Jolly and STAB, [sheer-force] [head-smash] is one of the highest single-hit damage numbers available, and because [sheer-force] cancels recoil, [Rampardos] can actually double-tap when the situation allows. [earthquake] lets it punch through the [Steel], [Electric], and [Rock]-resist cores that normally wall mono-[Rock]. [zen-headbutt] and [crunch] both get the [sheer-force] multiplier too, which means [Rampardos] does not lose damage when it has to pivot into a coverage slot instead of the main STAB.\n\n## Weaknesses & Answers\nEverything stems from the defensive spread. 97/60/50 bulk means any 2x hit from [Fighting], [Ground], [Water], or [Grass] is a likely OHKO, and 58 Speed hands initiative to almost every offensive Pokemon in the tier. Priority moves like [mach-punch] or [bullet-punch] end [Rampardos] outright if [focus-sash] is already broken, and Scarf [Fighting] users shut the answer window completely.\n\n## Recommended Moveset\n[head-smash] is mandatory — everything else in the set is built around the fact that [sheer-force] erases its recoil clause. [earthquake] is the second locked slot, handling the [Steel] and [Poison] walls that would otherwise sit on [Rock] STAB indefinitely. [zen-headbutt] is the [Fighting] answer and still benefits from [sheer-force], so it is not just filler coverage. The final slot is [crunch] to punch through Psychics and Ghosts; the alternative is [stone-edge] for a higher-damage secondary [Rock] attack when coverage is less important than nuking.\n\n## Item · Ability · Tera\n[focus-sash] is the only correct item. 97/60 defenses make any other holdable effectively a one-turn cushion and sash at least guarantees [head-smash] one full send-off. [sheer-force] is locked and [mold-breaker] would cost too much damage to be worth considering. For Tera, [Rock] is the standard for the extra STAB multiplier on [head-smash], and [Ground] is the defensive swap that removes the [Fighting] weakness while still buffing [earthquake].\n\n## Teammates & Synergy\n[Rampardos] needs a guaranteed entry turn, so [fake-out] users and slow pivots are mandatory support — anything that removes an opposing priority threat in advance. A setup sweeper in the back of the team should be ready to capitalize on the pace [head-smash] creates, since [Rampardos] itself cannot clean. A [Ground]-resistant pivot rounds out the team by soaking the attacks [Rampardos] cannot switch into.\n\n## Play Patterns\nDo not send [Rampardos] in while opposing [Fighting] or [Ground] threats are healthy — wait until the [counter] list is gone, then drop it in on a predicted wall and fire [head-smash] for a forced KO. With [focus-sash] intact you can get a second turn — usually [earthquake] or [zen-headbutt] — but plan every game around the assumption that [Rampardos] only gets one real action before exiting.",
   "tags": [
     "sinnoh",
     "rock",

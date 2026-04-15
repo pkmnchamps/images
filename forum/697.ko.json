@@ -26,30 +26,30 @@
     "spe": 32
   },
   "locale": "ko",
-  "title": "[tyrantrum] 배틀 운용 가이드",
-  "summary": "[strong-jaw] 보정 [head-smash]를 메인으로 삼는 [rock]·[dragon] 피지컬 브레이커. 121 공격 + 송곳니 배율로 풀 격파력을 내는 카드.",
+  "title": "[견고라스] 배틀 운용 가이드",
+  "summary": "[strong-jaw] 보정 [head-smash]를 메인으로 삼는 [바위]·[드래곤] 피지컬 브레이커. 121 공격 + 송곳니 배율로 [풀] 격파력을 내는 카드.",
   "strengths": [
-    "[strong-jaw]로 1.5배 배율의 [crunch]·fire-fang 견제가 초강력",
-    "[head-smash]는 [dragon] 타입이 받기 힘든 [flying]·불꽃 메타 킬러",
+    "[strong-jaw]로 1.5배 배율의 [crunch]·[fire-fang] 견제가 초강력",
+    "[head-smash]는 [드래곤] 타입이 받기 힘든 [비행]·[불꽃] 메타 킬러",
     "119 방어와 82 HP로 중립 물리 한두 번 정도는 버팀"
   ],
   "weaknesses": [
-    "격투 4배, 땅·강철·얼음·[dragon]·페어리 2배 — 약점이 과밀",
+    "[격투] 4배, [땅]·[강철]·[얼음]·[드래곤]·[페어리] 2배 — 약점이 과밀",
     "베이스 스피드 71로 [dragon-dance] 없이는 대부분의 어태커에 후공",
     "[head-smash]의 반동과 낮은 특방 59가 장기전을 불가능하게 만듦"
   ],
   "recommendedMoves": [
     {
       "move": "head-smash",
-      "reason": "[strong-jaw]와 무관하지만 압도적 화력의 [rock] STAB 메인"
+      "reason": "[strong-jaw]와 무관하지만 압도적 화력의 [바위] STAB 메인"
     },
     {
       "move": "dragon-claw",
-      "reason": "반동 없는 안정적 [dragon] STAB"
+      "reason": "반동 없는 안정적 [드래곤] STAB"
     },
     {
       "move": "crunch",
-      "reason": "[strong-jaw] 보정으로 1.5배 배율의 고스트·에스퍼 견제"
+      "reason": "[strong-jaw] 보정으로 1.5배 배율의 [고스트]·[에스퍼] 견제"
     },
     {
       "move": "dragon-dance",
@@ -59,14 +59,14 @@
   "recommendedItems": [
     {
       "item": "focus-sash",
-      "reason": "격투 4배 선공에 대비한 생존 보험"
+      "reason": "[격투] 4배 선공에 대비한 생존 보험"
     },
     {
       "item": "choice-scarf",
       "reason": "없이도 스피드 축을 확보하는 대안"
     }
   ],
-  "bodyMarkdown": "## 개요\n[tyrantrum]는 [rock]·[dragon] 타입의 물리 브레이커로, 121의 공격과 119의 방어를 동시에 지닌 구형 피지컬 에이스다. 챔피언스 MA에서 이 포켓몬의 존재 이유는 명확하다 — [head-smash]의 순수 화력과 숨겨진 특성으로 인상적인 [strong-jaw] 배율이 만드는 [crunch]·fire-fang 라인이다.\n\n## 강점 분석\n[adamant] 보정 공격 121은 [head-smash]로 거의 모든 [flying]·불꽃 타입을 한 방에 처리하고, [dragon]이 서브 STAB로 들어오면서 교환폭이 더 넓어진다. [strong-jaw]가 붙은 [crunch]는 실질적으로 웬만한 다크 STAB보다 강해 고스트·에스퍼를 즉시 벌주고, fire-fang은 강철을 견제한다. 119 방어와 82 HP 덕분에 중립 물리 한두 대는 버텨 낼 여력이 있다.\n\n## 약점과 대응\n격투 4배가 가장 뼈아프다. close-combat 한 방이 곧바로 퇴장 사유가 되므로 격투 포켓몬과 동시 대치하는 구도는 피해야 한다. 땅·강철·얼음·[dragon]·페어리가 전부 2배로 들어오고, 71의 베이스 스피드는 [dragon-dance] 없이는 대부분의 어태커에 후공이다. [head-smash]의 1/2 반동과 59의 특방은 장기전을 구조적으로 불가능하게 만든다.\n\n## 추천 기술 구성\n[head-smash]를 STAB 메인으로 박고, [dragon-claw]는 반동 없는 안정 STAB로 유지한다. [crunch]는 [strong-jaw] 보정으로 고스트·에스퍼 스위치인을 사냥하는 핵심 견제 슬롯이고, [dragon-dance]는 71의 베이스 스피드 문제를 단번에 해결한다. 팀이 스피드 컨트롤을 이미 갖췄다면 [dragon-dance] 대신 earthquake로 강철·불꽃 커버를 더 두껍게 할 수 있다.\n\n## 추천 도구 · 특성 · 테라스탈\n[focus-sash]는 격투 4배 선공에 대비한 필수 보험이고, [choice-scarf]는 [dragon-dance] 없이도 단번에 스피드 축을 확보하는 즉시 화력 옵션이다. 특성은 [strong-jaw] 고정. 테라스탈은 [head-smash]의 화력을 극대화하는 [dragon], 또는 격투 4배를 지워 내는 [flying]이 가장 쓰임새가 좋다.\n\n## 시너지와 파트너\n페어리와 격투 약점을 받아낼 강철·독 타입 파트너가 필수다. stealth-[rock] 선봉으로 상대 [flying]·불꽃의 교대 비용을 올려 두면 [head-smash]의 2타 라인이 단타 라인으로 바뀐다. 또한 [dragon-dance] 세팅을 지켜 줄 intimidate 막이나 fake-out 사이클러를 배치하면 셋업 턴을 벌 수 있다.\n\n## 운용 팁\n초반 턴은 교대 예측을 강요하는 용도로 쓴다. 상대가 [flying]·불꽃·격투를 뺄 것 같은 타이밍에만 직접 내보내야 하며, [dragon-dance]는 반드시 스위치 프레임 또는 상대가 격투 기술을 쓸 수 없는 턴에만 돌린다. 테라스탈은 close-combat이 확정적으로 들어오는 턴에 [flying] 타입으로 태워 완전히 플랜을 뒤집는 용도로 아껴 둬야 한다.",
+  "bodyMarkdown": "## 개요\n[견고라스]는 [바위]·[드래곤] 타입의 물리 브레이커로, 121의 공격과 119의 방어를 동시에 지닌 구형 피지컬 에이스다. 챔피언스 MA에서 이 포켓몬의 존재 이유는 명확하다 — [head-smash]의 순수 화력과 숨겨진 특성으로 인상적인 [strong-jaw] 배율이 만드는 [crunch]·[fire-fang] 라인이다.\n\n## 강점 분석\n[adamant] 보정 공격 121은 [head-smash]로 거의 모든 [비행]·[불꽃] 타입을 한 방에 처리하고, [드래곤]이 서브 STAB로 들어오면서 교환폭이 더 넓어진다. [strong-jaw]가 붙은 [crunch]는 실질적으로 웬만한 다크 STAB보다 강해 [고스트]·[에스퍼]를 즉시 벌주고, [fire-fang]은 [강철]을 견제한다. 119 방어와 82 HP 덕분에 중립 물리 한두 대는 버텨 낼 여력이 있다.\n\n## 약점과 대응\n[격투] 4배가 가장 뼈아프다. [close-combat] 한 방이 곧바로 퇴장 사유가 되므로 [격투] 포켓몬과 동시 대치하는 구도는 피해야 한다. [땅]·[강철]·[얼음]·[드래곤]·[페어리]가 전부 2배로 들어오고, 71의 베이스 스피드는 [dragon-dance] 없이는 대부분의 어태커에 후공이다. [head-smash]의 1/2 반동과 59의 특방은 장기전을 구조적으로 불가능하게 만든다.\n\n## 추천 기술 구성\n[head-smash]를 STAB 메인으로 박고, [dragon-claw]는 반동 없는 안정 STAB로 유지한다. [crunch]는 [strong-jaw] 보정으로 [고스트]·[에스퍼] 스위치인을 사냥하는 핵심 견제 슬롯이고, [dragon-dance]는 71의 베이스 스피드 문제를 단번에 해결한다. 팀이 스피드 컨트롤을 이미 갖췄다면 [dragon-dance] 대신 [earthquake]로 [강철]·[불꽃] 커버를 더 두껍게 할 수 있다.\n\n## 추천 도구 · 특성 · 테라스탈\n[focus-sash]는 [격투] 4배 선공에 대비한 필수 보험이고, [choice-scarf]는 [dragon-dance] 없이도 단번에 스피드 축을 확보하는 즉시 화력 옵션이다. 특성은 [strong-jaw] 고정. 테라스탈은 [head-smash]의 화력을 극대화하는 [드래곤], 또는 [격투] 4배를 지워 내는 [비행]이 가장 쓰임새가 좋다.\n\n## 시너지와 파트너\n[페어리]와 [격투] 약점을 받아낼 [강철]·[독] 타입 파트너가 필수다. stealth-[rock] 선봉으로 상대 [비행]·[불꽃]의 교대 비용을 올려 두면 [head-smash]의 2타 라인이 단타 라인으로 바뀐다. 또한 [dragon-dance] 세팅을 지켜 줄 [intimidate] 막이나 [fake-out] 사이클러를 배치하면 셋업 턴을 벌 수 있다.\n\n## 운용 팁\n초반 턴은 교대 예측을 강요하는 용도로 쓴다. 상대가 [비행]·[불꽃]·[격투]를 뺄 것 같은 타이밍에만 직접 내보내야 하며, [dragon-dance]는 반드시 스위치 프레임 또는 상대가 [격투] 기술을 쓸 수 없는 턴에만 돌린다. 테라스탈은 [close-combat]이 확정적으로 들어오는 턴에 [비행] 타입으로 태워 완전히 플랜을 뒤집는 용도로 아껴 둬야 한다.",
   "tags": [
     "kalos",
     "rock",

@@ -1,0 +1,83 @@
+{
+  "pokemonId": 479,
+  "nameKo": "로토무(히트)",
+  "nameEn": "rotom-heat",
+  "formKey": "heat",
+  "types": [
+    "electric",
+    "fire"
+  ],
+  "roles": [
+    "special-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "levitate",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "fire",
+    "electric"
+  ],
+  "recommendedEv": {
+    "hp": 16,
+    "atk": 0,
+    "def": 0,
+    "spa": 16,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Heat Rotom Battle Guide",
+  "summary": "An [Electric]/[Fire] special pivot with [levitate] — ignores [Ground] attacks and pressures [Steel]/[Water] walls with [overheat] and [thunderbolt].",
+  "strengths": [
+    "[levitate] ignores [Ground] moves completely",
+    "Four 4x resistances ([Bug], [Ice], [Steel], [Grass])",
+    "105 SpA with 86 Speed is a strong pivot profile"
+  ],
+  "weaknesses": [
+    "Weak to [Water] and [Rock]",
+    "50 HP is low despite 107/107 defenses",
+    "Ability swap negates [levitate]"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "overheat",
+      "reason": "Max BP [Fire] STAB with SpA drop"
+    },
+    {
+      "move": "thunderbolt",
+      "reason": "Reliable [Electric] STAB"
+    },
+    {
+      "move": "volt-switch",
+      "reason": "Pivot utility and momentum"
+    },
+    {
+      "move": "protect",
+      "reason": "Turn safety"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "choice-specs",
+      "reason": "Maximum damage output"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "Speed pivot variant"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "Mid-HP recovery"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nHeat Rotom is an [Electric]/[Fire] special pivot whose [levitate] ability makes it completely immune to [Ground] attacks. With only two weaknesses ([Water] and [Rock]) and four 4x resistances, it has one of the cleanest defensive profiles in the format while still hitting hard offensively.\n\n## Strengths\n[levitate] plus the [Electric]/[Fire] typing creates an incredible defensive checklist — [Bug], [Ice], [Steel], [Grass] all resisted 4x, [Ground] immune, plus seven other resistances. 105 Special Attack is strong enough to threaten offensive plays, and [volt-switch] makes Heat Rotom a reliable pivot.\n\n## Weaknesses & Answers\n50 HP is the weak point — even with 107/107 defenses, super-effective hits can KO. [Water] attackers pressure it heavily, as do [Rock] moves. [mold-breaker] users bypass [levitate] and can land [earthquake].\n\n## Recommended Moveset\n[overheat] is the main [Fire] STAB but has a SpA drop. [thunderbolt] is the reliable [Electric] STAB. [volt-switch] enables pivot plays. [protect] is standard.\n\n## Item · Ability · Tera\n[choice-specs] maximizes offensive damage. [choice-scarf] turns Heat Rotom into a speed pivot. [levitate] is locked — losing it breaks the defensive plan. Tera [Fire] or [Electric] stacks STAB.\n\n## Teammates & Synergy\nCover [Water] and [Rock] with [Grass] or [Fighting] partners. Pivot cores benefit from [volt-switch] momentum. [intimidate] support adds physical bulk.\n\n## Play Patterns\nSwitch in on predicted [Ground] moves to bait [earthquake] misses. Pressure [Steel] and [Water] walls with [overheat] and [thunderbolt]. Use [volt-switch] to reset the SpA drop from [overheat] and maintain pivot momentum.",
+  "tags": [
+    "sinnoh",
+    "electric",
+    "fire",
+    "appliance-form",
+    "levitate",
+    "special-pivot"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

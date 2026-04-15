@@ -26,30 +26,30 @@
     "spe": 0
   },
   "locale": "en",
-  "title": "[hatterene] Battle Guide",
-  "summary": "A [psychic]/[fairy] Trick Room wallbreaker that bounces hazards with [magic-bounce] while swinging 136 Special Attack on the slow side.",
+  "title": "[Hatterene] Battle Guide",
+  "summary": "A [Psychic]/[Fairy] Trick Room wallbreaker that [bounce]s hazards with [magic-bounce] while swinging 136 Special Attack on the slow side.",
   "strengths": [
-    "[magic-bounce] reflects stealth-rock, taunt, and status automatically",
-    "Base 136 SpA with [psychic]/[fairy] STAB covers Dark, Dragon, and Fighting",
+    "[magic-bounce] [reflect]s [stealth-rock], [taunt], and status automatically",
+    "Base 136 SpA with [Psychic]/[Fairy] STAB covers [Dark], [Dragon], and [Fighting]",
     "Base 29 Speed becomes top tier under [trick-room]"
   ],
   "weaknesses": [
-    "Stacked Steel, Poison, and Ghost 2x weaknesses",
-    "57/95 physical bulk folds to knock-off and u-turn",
+    "Stacked [Steel], [Poison], and [Ghost] 2x weaknesses",
+    "57/95 physical bulk folds to [knock-off] and [u-turn]",
     "Loses all tempo the second Trick Room expires"
   ],
   "recommendedMoves": [
     {
       "move": "psychic",
-      "reason": "Main STAB that leverages 136 Special Attack"
+      "reason": "Main STAB that leve[rage]s 136 Special Attack"
     },
     {
       "move": "dazzling-gleam",
-      "reason": "Spread [fairy] STAB for doubles"
+      "reason": "Spread [Fairy] STAB for doubles"
     },
     {
       "move": "mystical-fire",
-      "reason": "Required coverage for Steel switch-ins"
+      "reason": "Required cove[rage] for [Steel] switch-ins"
     },
     {
       "move": "trick-room",
@@ -59,14 +59,14 @@
   "recommendedItems": [
     {
       "item": "mental-herb",
-      "reason": "Blocks taunt and encore on the Trick Room setup turn"
+      "reason": "Blocks [taunt] and [encore] on the Trick Room setup turn"
     },
     {
       "item": "leftovers",
       "reason": "Sustains the long-game plan behind"
     }
   ],
-  "bodyMarkdown": "## Overview\n[hatterene] is the [psychic]/[fairy] piece that anchors Trick Room teams in Champions MA. The 57/95/136 offensive frame already hits hard, but the real value comes from [magic-bounce] — every stealth-rock, taunt, spore, and will-o-wisp the opponent throws comes right back at them for free.\n\n## Strengths\n136 SpA is still premium for doubles, and the [psychic]/[fairy] STAB combo cleanly threatens Dark, Dragon, Fighting, and Poison at once. Base 29 Speed reads like a liability but becomes the top of the Speed tier under [trick-room], which is why the [quiet] nature drops it even further. [magic-bounce] alone forces hazard leads to rethink turn one, which is a tempo win before the first move is clicked.\n\n## Weaknesses & Answers\nThe 2x weaknesses to Steel, Poison, and Ghost pile up fast. Gholdengo, Corviknight, and Metagross-style walls flip the matchup, and any knock-off or u-turn user chips through the 57 HP before Trick Room even goes up. Once Trick Room expires [hatterene]'s 29 Speed is exposed and priority Ghost attackers clean up.\n\n## Recommended Moveset\n[psychic] is the locked STAB for its raw numbers, and [dazzling-gleam] is the spread [fairy] STAB that doubles teams want. [mystical-fire] is mandatory coverage — without it Gholdengo and Metagross wall the set completely. The fourth slot is [trick-room] itself, because [hatterene] is both the setter and the main abuser. In singles, swap [dazzling-gleam] for psyshock to break specially defensive walls.\n\n## Item · Ability · Tera\n[mental-herb] is the premium pick: on the Trick Room setup turn it blocks taunt and encore, which is exactly when [hatterene] is most vulnerable. [leftovers] is the alternative for longer games where [magic-bounce] already does the turn-one work. The ability is locked to [magic-bounce]. Tera [fairy] cranks [dazzling-gleam], while Tera [water] erases Steel and Poison weaknesses and turns [hatterene] into a genuine wall.\n\n## Teammates & Synergy\n[hatterene] wants heavy slow wallbreakers behind it — anything that abuses inverted Speed. Fighting and Ground partners clear Steel answers like Gholdengo, a [fairy]-resistant pivot covers Poison threats, and an imprison or taunt user punishes opposing Trick Room mirrors. A priority-denying [fairy] or Fighting ally keeps Ghost sucker-punch lines from stealing kills.\n\n## Play Patterns\nLead [hatterene], click [trick-room] turn one, and start swinging 136 SpA attacks from turn two. Because [magic-bounce] is live, never switch out of a hazard lead — bait their click and reflect it. Save Tera for the turn a Steel or Ghost move is guaranteed so the swap to [water] or [fairy] flips the matchup. Do not click [psychic] into known Dark pivots; go [dazzling-gleam] for the safer line.",
+  "bodyMarkdown": "## Overview\n[Hatterene] is the [Psychic]/[Fairy] piece that anchors Trick Room teams in Champions MA. The 57/95/136 offensive frame already hits hard, but the real value comes from [magic-bounce] — every [stealth-rock], [taunt], [spore], and [will-o-wisp] the opponent throws comes right back at them for free.\n\n## Strengths\n136 SpA is still premium for doubles, and the [Psychic]/[Fairy] STAB combo cleanly threatens [Dark], [Dragon], [Fighting], and [Poison] at once. Base 29 Speed reads like a liability but becomes the top of the Speed tier under [trick-room], which is why the [quiet] nature drops it even further. [magic-bounce] alone forces hazard leads to rethink turn one, which is a tempo win before the first move is clicked.\n\n## Weaknesses & Answers\nThe 2x weaknesses to [Steel], [Poison], and [Ghost] pile up fast. Gholdengo, Corviknight, and Metagross-style walls flip the matchup, and any [knock-off] or [u-turn] user chips through the 57 HP before Trick Room even goes up. Once Trick Room expires [Hatterene]'s 29 Speed is exposed and priority [Ghost] attackers clean up.\n\n## Recommended Moveset\n[psychic] is the locked STAB for its raw numbers, and [dazzling-gleam] is the spread [Fairy] STAB that doubles teams want. [mystical-fire] is mandatory coverage — without it Gholdengo and Metagross wall the set completely. The fourth slot is [trick-room] itself, because [Hatterene] is both the setter and the main abuser. In singles, swap [dazzling-gleam] for [psyshock] to break specially defensive walls.\n\n## Item · Ability · Tera\n[mental-herb] is the premium pick: on the Trick Room setup turn it blocks [taunt] and [encore], which is exactly when [Hatterene] is most vulnerable. [leftovers] is the alternative for longer games where [magic-bounce] already does the turn-one work. The ability is locked to [magic-bounce]. Tera [Fairy] cranks [dazzling-gleam], while Tera [Water] erases [Steel] and [Poison] weaknesses and turns [Hatterene] into a genuine wall.\n\n## Teammates & Synergy\n[Hatterene] wants heavy slow wallbreakers behind it — anything that abuses inverted Speed. [Fighting] and [Ground] partners clear [Steel] answers like Gholdengo, a [Fairy]-resistant pivot covers [Poison] threats, and an [imprison] or [taunt] user punishes opposing Trick Room mirrors. A priority-denying [Fairy] or [Fighting] ally keeps [Ghost] [sucker-punch] lines from stealing kills.\n\n## Play Patterns\nLead [Hatterene], click [trick-room] turn one, and start swinging 136 SpA attacks from turn two. Because [magic-bounce] is live, never switch out of a hazard lead — bait their click and [reflect] it. Save Tera for the turn a [Steel] or [Ghost] move is guaranteed so the swap to [Water] or [Fairy] flips the matchup. Do not click [psychic] into known [Dark] pivots; go [dazzling-gleam] for the safer line.",
   "tags": [
     "galar",
     "psychic",

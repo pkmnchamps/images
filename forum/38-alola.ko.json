@@ -1,0 +1,83 @@
+{
+  "pokemonId": 38,
+  "nameKo": "알로라나인테일",
+  "nameEn": "ninetales-alola",
+  "formKey": "alola",
+  "types": [
+    "ice",
+    "fairy"
+  ],
+  "roles": [
+    "weather-setter",
+    "support"
+  ],
+  "recommendedAbility": "snow-warning",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "fairy",
+    "ice"
+  ],
+  "recommendedEv": {
+    "hp": 16,
+    "atk": 0,
+    "def": 0,
+    "spa": 16,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[알로라나인테일] 배틀 운용 가이드",
+  "summary": "[snow-warning]으로 눈 날씨를 자동 전개하는 [얼음]·[페어리] 서포트 어태커. 109 스피드로 고속 [aurora-veil] 세팅이 핵심이다.",
+  "strengths": [
+    "[snow-warning] 눈 날씨 자동 전개",
+    "눈 아래 [aurora-veil] 세팅 가능",
+    "[페어리] 추가 타입으로 [드래곤] 무효"
+  ],
+  "weaknesses": [
+    "[불]·[바위]·[강철]·[독] 약점 다수",
+    "73/75/100 내구 물리 약함",
+    "공격 수치 81로 화력 부족"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "aurora-veil",
+      "reason": "눈 아래 양쪽 방어·특방 동시 보정 벽"
+    },
+    {
+      "move": "blizzard",
+      "reason": "눈 아래 필중 [얼음] 광역 STAB"
+    },
+    {
+      "move": "moonblast",
+      "reason": "[페어리] 자속 단일 특수"
+    },
+    {
+      "move": "freeze-dry",
+      "reason": "[물] 효과굉장 특수 [얼음] 서브"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "light-clay",
+      "reason": "[aurora-veil] 지속 턴 연장"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "스피드 초고속 변형"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "세팅 첫 턴 보험"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[알로라나인테일]은 [snow-warning] 특성으로 눈 날씨를 자동 전개하면서 [aurora-veil]로 팀 전체에 방어·특방 1.5배 보정을 제공하는 서포트 어태커다. 109 스피드와 [페어리] 타입으로 [드래곤] 무효를 확보해 [kyurem]·[dragonite] 등 [드래곤] 어태커 상대에 안정적이다.\n\n## 강점 분석\n[snow-warning]으로 눈 전개 → [aurora-veil] 세팅 시 팀 전체에 방어·특방 1.5배 보정을 5턴간 제공하는 서포트 역할이 핵심. 109 스피드는 대부분의 메타 어태커를 추월해 세팅 선공을 확보한다. 눈 아래 [blizzard] 필중으로 [페어리] STAB과 함께 광범위 특수 공격까지 가능. [freeze-dry]는 [물] 타입에 효과굉장으로 들어가는 시그니처 유틸.\n\n## 약점과 대응\n[불]·[바위]·[강철]·[독] 4종 약점으로 저항 프로필 약함. 73/75/100 내구는 물리 어태커에 취약, 81 공격 수치는 주력 어태커 역할을 어렵게 한다. [aurora-veil] 세팅 후 교대 인 구성이 필수.\n\n## 추천 기술 구성\n[aurora-veil]는 서포트 역할의 핵심 기술. [blizzard]는 눈 아래 필중 광역 [얼음] 주력. [moonblast]는 [페어리] 자속 단일 특수. [freeze-dry]는 [물] 타입 효과굉장 시그니처 기술로 [kingdra]·[gyarados] 카운터.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [light-clay]로 [aurora-veil] 지속 턴을 5→8턴으로 연장. [choice-scarf]는 초고속 변형. 특성은 [snow-warning] 고정. 테라스탈은 [페어리]로 STAB 중첩 + [불]·[독] 저항 완화, 또는 [얼음]으로 [blizzard] 중첩 보정.\n\n## 시너지와 파트너\n눈 파티 + [aurora-veil] 서포트 역할. [눈설왕] 등 눈 활용 어태커와 시너지, 특히 [ice] 타입 공격형 어태커의 화력 증폭 백업이 됨. [불]·[강철] 약점 카운터로 [water]·[ground] 파트너 배치.\n\n## 운용 팁\n선봉으로 내고 눈 전개 → [aurora-veil] 세팅 → 교대 인으로 공격 어태커 전개하는 것이 기본 운용. 세팅 후엔 [blizzard]·[moonblast]로 공격 어태커 역할 전환, [focus-sash] 변형이면 세팅 1턴 보험 활용.",
+  "tags": [
+    "alola",
+    "ice",
+    "fairy",
+    "regional-form",
+    "snow-warning",
+    "support"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

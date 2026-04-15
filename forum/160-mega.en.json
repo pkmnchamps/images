@@ -28,29 +28,29 @@
   },
   "locale": "en",
   "title": "Mega Feraligatr Battle Guide",
-  "summary": "A [water]/[dragon] physical breaker whose [dragonize] ability turns [return] into a boosted [dragon] STAB on a 160 Attack frame.",
+  "summary": "A [Water]/[Dragon] physical breaker whose [dragonize] ability turns [return] into a boosted [Dragon] STAB on a 160 Attack frame.",
   "strengths": [
-    "[dragonize] converts [return] into a 1.2x boosted [dragon] STAB",
+    "[dragonize] converts [return] into a 1.2x boosted [Dragon] STAB",
     "160 base Attack produces game-ending damage output",
     "125 Defense stabilizes the setup turn"
   ],
   "weaknesses": [
-    "Gains a 2x Fairy weakness from the [dragon] type",
+    "Gains a 2x [Fairy] weakness from the [Dragon] type",
     "Still only 78 Speed before [dragon-dance]",
     "Turn one still runs the base ability pre-mega"
   ],
   "recommendedMoves": [
     {
       "move": "return",
-      "reason": "[dragonize] converts this into a boosted [dragon] STAB"
+      "reason": "[dragonize] converts this into a boosted [Dragon] STAB"
     },
     {
       "move": "waterfall",
-      "reason": "Secondary [water] STAB finisher"
+      "reason": "Secondary [Water] STAB finisher"
     },
     {
       "move": "earthquake",
-      "reason": "Covers Steel, Electric, and Fairy walls"
+      "reason": "Covers [Steel], [Electric], and [Fairy] walls"
     },
     {
       "move": "dragon-dance",
@@ -63,7 +63,7 @@
       "reason": "Required mega stone for the Feraligatr mega form"
     }
   ],
-  "bodyMarkdown": "## Overview\nMega Feraligatr evolves into a [water]/[dragon] physical breaker with the [dragonize] ability, which converts all Normal-type moves into [dragon] STAB with a 1.2x damage multiplier. 160 Attack paired with 125 Defense gives the mega form elite physical stats on both sides, and a single [dragon-dance] turns it into a sweeper that clears out most walls in the format. The role is a late-game physical breaker with enough setup potential to close games.\n\n## Strengths\nThe [dragonize] mechanic is the centerpiece. [return]'s 102 base power multiplied by STAB and the 1.2x ability boost produces effective damage that competes with the strongest single-target physical moves in the game, and 160 Attack puts those numbers into one-shot range against anything neutral. The 125/95 defensive line also means Mega Feraligatr survives setup turns that would break most other sweepers. [dragon]-type coverage also opens up angles against the [dragon] walls the base form can't touch.\n\n## Weaknesses & Answers\nThe new Fairy weakness is the structural cost of the [dragon] type. 78 Speed is still the pre-dance base, so any faster attacker gets the first move. The pre-mega turn runs the original ability (sheer-force or torrent), which changes how the first attack plays out compared to post-mega numbers.\n\n## Recommended Moveset\n[return] is the locked main attack because [dragonize] upgrades it into a boosted [dragon] STAB. [waterfall] is the secondary [water] STAB for targets that resist [dragon]. [earthquake] covers Steel, Electric, and Fairy walls that would wall the STAB combo. [dragon-dance] fills the fourth slot for the speed tier fix and the extra Attack boost. ice-punch is an alternate coverage pick if the team needs more specific [dragon] and Ground coverage.\n\n## Item · Ability · Tera\nThe item is always [feraligatrite]. The ability is locked to [dragonize] after mega evolving. Tera [dragon] maxes [return] damage further, while Tera [water] flips the Fairy weakness concern and boosts [waterfall] damage simultaneously. Tera choice depends on whether the team wants maximum offense or defensive fallback.\n\n## Teammates & Synergy\nA Fairy answer is mandatory. Speed control via tailwind or screens makes the pre-dance turns safer, and a fast pivot creates the entry windows Mega Feraligatr needs to set up. A dedicated hazard remover preserves the bulk on repeated entries, and a physical wall breaker on the back line picks up any Pokemon Mega Feraligatr can't break.\n\n## Play Patterns\nBring Mega Feraligatr in on a predicted switch, mega evolve, dance on the swap turn, then start attacking with the right move per target. [return] against neutral walls, [waterfall] against Steel and Rock, [earthquake] against Electric and Fairy, [dragon-dance] again if the opportunity exists. Save the Tera for the exact moment a Fairy move is telegraphed.",
+  "bodyMarkdown": "## Overview\nMega Feraligatr evolves into a [Water]/[Dragon] physical breaker with the [dragonize] ability, which converts all [Normal]-type moves into [Dragon] STAB with a 1.2x damage multiplier. 160 Attack paired with 125 Defense gives the mega form elite physical stats on both sides, and a single [dragon-dance] turns it into a [sweeper] that clears out most walls in the format. The role is a late-game physical breaker with enough setup potential to close games.\n\n## Strengths\nThe [dragonize] mechanic is the centerpiece. [return]'s 102 base power multiplied by STAB and the 1.2x ability boost produces effective damage that competes with the strongest single-target physical moves in the game, and 160 Attack puts those numbers into one-shot range against anything neutral. The 125/95 defensive line also means Mega Feraligatr survives setup turns that would break most other sweepers. [Dragon]-type coverage also opens up angles against the [Dragon] walls the base form can't touch.\n\n## Weaknesses & Answers\nThe new [Fairy] weakness is the structural cost of the [Dragon] type. 78 Speed is still the pre-dance base, so any faster attacker gets the first move. The pre-mega turn runs the original ability ([sheer-force] or [torrent]), which changes how the first attack plays out compared to post-mega numbers.\n\n## Recommended Moveset\n[return] is the locked main attack because [dragonize] upgrades it into a boosted [Dragon] STAB. [waterfall] is the secondary [Water] STAB for targets that resist [Dragon]. [earthquake] covers [Steel], [Electric], and [Fairy] walls that would wall the STAB combo. [dragon-dance] fills the fourth slot for the speed tier fix and the extra Attack boost. [ice-punch] is an alternate coverage pick if the team needs more specific [Dragon] and [Ground] coverage.\n\n## Item · Ability · Tera\nThe item is always [feraligatrite]. The ability is locked to [dragonize] after mega evolving. Tera [Dragon] maxes [return] damage further, while Tera [Water] flips the [Fairy] weakness concern and boosts [waterfall] damage simultaneously. Tera choice depends on whether the team wants maximum offense or defensive fallback.\n\n## Teammates & Synergy\nA [Fairy] answer is mandatory. Speed control via [tailwind] or screens makes the pre-dance turns safer, and a fast pivot creates the entry windows Mega Feraligatr needs to set up. A dedicated hazard remover preserves the bulk on repeated entries, and a physical wall breaker on the back line picks up any Pokemon Mega Feraligatr can't break.\n\n## Play Patterns\nBring Mega Feraligatr in on a predicted switch, mega evolve, dance on the swap turn, then start attacking with the right move per target. [return] against neutral walls, [waterfall] against [Steel] and [Rock], [earthquake] against [Electric] and [Fairy], [dragon-dance] again if the opportunity exists. Save the Tera for the exact moment a [Fairy] move is telegraphed.",
   "tags": [
     "johto",
     "water",

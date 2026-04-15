@@ -25,7 +25,7 @@
     "spe": 32
   },
   "locale": "en",
-  "title": "[pinsir] Battle Guide",
+  "title": "[Pinsir] Battle Guide",
   "summary": "A [moxie] snowball sweeper whose Attack climbs with every KO. One [swords-dance] is usually enough to break an entire bench.",
   "strengths": [
     "[moxie] stacks Attack on every KO for uncapped pressure",
@@ -33,39 +33,39 @@
     "[swords-dance] lets it overwhelm neutral walls outright"
   ],
   "weaknesses": [
-    "Stacked Fire, [flying], Rock, and psychic weaknesses",
+    "Stacked [Fire], [Flying], [Rock], and [psychic] weaknesses",
     "Thin bulk folds instantly to priority",
     "No pivoting move means bad switch-in timing is punished hard"
   ],
   "recommendedMoves": [
     {
       "move": "x-scissor",
-      "reason": "Reliable [bug] STAB with no drawbacks"
+      "reason": "Reliable [Bug] STAB with no drawbacks"
     },
     {
       "move": "close-combat",
-      "reason": "Mandatory coverage for Steel and Rock walls"
+      "reason": "Mandatory cove[rage] for [Steel] and [Rock] walls"
     },
     {
       "move": "stone-edge",
-      "reason": "Punishes the [flying] and Fire attackers that try to revenge [pinsir]"
+      "reason": "Punishes the [Flying] and [Fire] attackers that try to [revenge] [Pinsir]"
     },
     {
       "move": "swords-dance",
-      "reason": "One setup turn flips [pinsir] into a neutral-hit cleaner"
+      "reason": "One setup turn flips [Pinsir] into a neutral-hit cleaner"
     }
   ],
   "recommendedItems": [
     {
       "item": "focus-sash",
-      "reason": "Guarantees the first turn despite the frail bulk"
+      "reason": "Guarantees the first turn de[spite] the frail bulk"
     },
     {
       "item": "choice-scarf",
       "reason": "Trades setup for Speed, accelerating the snowball"
     }
   ],
-  "bodyMarkdown": "## Overview\n[pinsir] is a single-type [bug] physical attacker whose entire plan is wrapped around [moxie] — every KO it scores raises Attack by a stage, and that snowball is what keeps this old Kanto bruiser relevant in the Champions meta. 125 Attack and 85 Speed aren't top tier on paper, but one [swords-dance] turns [pinsir] into a neutral-hit juggernaut that breaks most walls in two hits. The role is simple: earn one safe setup turn and ride the [moxie] chain.\n\n## Strengths\nThe [moxie] plus [swords-dance] stack remains terrifying. A three-attack coverage core of [x-scissor], [close-combat], and [stone-edge] hits Steel, Fairy, [flying], and Fire pivots from useful angles, so switch-prediction against [pinsir] is nearly impossible for the opponent. [bug] STAB also happens to blast the Psychic and Dark cores that currently define the metagamePinsir's entry can single-handedly tip tempo in the whole game.\n\n## Weaknesses & Answers\nFire, [flying], Rock, and psychic all hit for super effective. Worse, [pinsir] is extremely vulnerable to extreme-speed and other priority — 65/100/70 defenses with a thin special side fold to one mistimed Hydro Pump as well. It has no pivot move, so once you commit [pinsir] to the field you are locked in. You must read the opposing lineup before committing the entry.\n\n## Recommended Moveset\n[x-scissor] is the locked STAB because it has no recoil or drop. [close-combat] is mandatory coverage against Steel and Rock tanks that would otherwise wall the [bug] STAB. [stone-edge] is the panic button that revenge-kills the [flying] and Fire attackers who try to ignore the [bug] STAB. The last slot should be [swords-dance] — two turns of setup is usually all [pinsir] needs to close a game. If you prefer extra ground coverage, earthquake swaps in for [stone-edge].\n\n## Item · Ability · Tera\n[focus-sash] is the default item since [pinsir]'s bulk is too thin to setup without insurance. [choice-scarf] is the alternate build that trades a dance for raw Speed, letting [moxie] chain off revenge kills instead. The ability is always [moxie] — hyper-cutter is too narrow against this coverage pool. Tera [flying] flips the Rock, Fighting, and Ground weaknesses into resists and also turns [close-combat] partners into frightening matchups, while Tera [bug] simply maxes STAB damage on a clean [x-scissor].\n\n## Teammates & Synergy\n[pinsir] wants a teammate that can create free setup turns — status spreaders, screens, or fast u-turn pivots all qualify. Intimidate users mitigate priority problems on the back line, and a dedicated answer to Rock or Fire attackers (bulky Waters or Ground types) keeps [pinsir] from getting revenge-killed before it starts its chain. A prankster taunt user also helps against opposing setup mirrors.\n\n## Play Patterns\nThe entire [pinsir] plan is built on the first setup turn. With [focus-sash], dance first, then pick the correct coverage move for the incoming switch. With [choice-scarf], come in to revenge a weakened threat and pick [x-scissor] or [close-combat] based on typing. Save the Tera for the exact moment a priority move or a quad weakness would otherwise end the sweep early",
+  "bodyMarkdown": "## Overview\n[Pinsir] is a single-type [Bug] physical attacker whose entire plan is wrapped around [moxie] — every KO it scores raises Attack by a stage, and that snowball is what keeps this old Kanto bruiser relevant in the Champions meta. 125 Attack and 85 Speed aren't top tier on paper, but one [swords-dance] turns [Pinsir] into a neutral-hit juggernaut that breaks most walls in two hits. The role is simple: earn one safe setup turn and ride the [moxie] chain.\n\n## Strengths\nThe [moxie] plus [swords-dance] stack remains terrifying. A three-attack coverage core of [x-scissor], [close-combat], and [stone-edge] hits [Steel], [Fairy], [Flying], and [Fire] pivots from useful angles, so switch-prediction against [Pinsir] is nearly impossible for the opponent. [Bug] STAB also happens to blast the [Psychic] and [Dark] cores that currently define the metagamePinsir's entry can single-handedly tip tempo in the whole game.\n\n## Weaknesses & Answers\n[Fire], [Flying], [Rock], and [psychic] all hit for super effective. Worse, [Pinsir] is extremely vulnerable to [extreme-speed] and other priority — 65/100/70 defenses with a thin special side fold to one mistimed Hydro Pump as well. It has no pivot move, so once you commit [Pinsir] to the field you are locked in. You must read the opposing lineup before committing the entry.\n\n## Recommended Moveset\n[x-scissor] is the locked STAB because it has no recoil or drop. [close-combat] is mandatory coverage against [Steel] and [Rock] tanks that would otherwise wall the [Bug] STAB. [stone-edge] is the panic button that [revenge]-kills the [Flying] and [Fire] attackers who try to ignore the [Bug] STAB. The last slot should be [swords-dance] — two turns of setup is usually all [Pinsir] needs to close a game. If you prefer extra ground coverage, [earthquake] swaps in for [stone-edge].\n\n## Item · Ability · Tera\n[focus-sash] is the default item since [Pinsir]'s bulk is too thin to setup without insurance. [choice-scarf] is the alternate build that trades a dance for raw Speed, letting [moxie] chain off [revenge] kills instead. The ability is always [moxie] — hyper-cutter is too narrow against this coverage pool. Tera [Flying] flips the [Rock], [Fighting], and [Ground] weaknesses into resists and also turns [close-combat] partners into frightening matchups, while Tera [Bug] simply maxes STAB damage on a clean [x-scissor].\n\n## Teammates & Synergy\n[Pinsir] wants a teammate that can create free setup turns — status spreaders, screens, or fast [u-turn] pivots all qualify. Intimidate users mitigate priority problems on the back line, and a dedicated answer to [Rock] or [Fire] attackers (bulky Waters or [Ground] types) keeps [Pinsir] from getting [revenge]-killed before it starts its chain. A [prankster] [taunt] user also helps against opposing setup mirrors.\n\n## Play Patterns\nThe entire [Pinsir] plan is built on the first setup turn. With [focus-sash], dance first, then pick the correct coverage move for the incoming switch. With [choice-scarf], come in to [revenge] a weakened threat and pick [x-scissor] or [close-combat] based on typing. Save the Tera for the exact moment a priority move or a quad weakness would otherwise end the sweep early",
   "tags": [
     "kanto",
     "bug",

@@ -27,29 +27,29 @@
   },
   "locale": "en",
   "title": "Mega Charizard X Battle Guide",
-  "summary": "A [fire]/[dragon] physical attacker with [tough-claws] — the ability boosts contact moves by 30%, and [flare-blitz] plus [dragon-claw] form a devastating dual STAB.",
+  "summary": "A [Fire]/[Dragon] physical attacker with [tough-claws] — the ability boosts contact moves by 30%, and [flare-blitz] plus [dragon-claw] form a devastating dual STAB.",
   "strengths": [
     "[tough-claws] boosts contact moves by 30%",
-    "[fire]/[dragon] dual STAB covers almost everything",
+    "[Fire]/[Dragon] dual STAB covers almost everything",
     "130 Attack and 100 Speed for reliable offense"
   ],
   "weaknesses": [
-    "Weak to [dragon], Rock, Ground",
+    "Weak to [Dragon], [Rock], [Ground]",
     "78/111/85 bulk is decent but not exceptional",
-    "Pre-Mega turn runs blaze with the base stats"
+    "Pre-Mega turn runs [blaze] with the base stats"
   ],
   "recommendedMoves": [
     {
       "move": "flare-blitz",
-      "reason": "[tough-claws]-boosted [fire] STAB contact move"
+      "reason": "[tough-claws]-boosted [Fire] STAB contact move"
     },
     {
       "move": "dragon-claw",
-      "reason": "[tough-claws]-boosted [dragon] STAB"
+      "reason": "[tough-claws]-boosted [Dragon] STAB"
     },
     {
       "move": "earthquake",
-      "reason": "Coverage for Rock, Steel, Electric"
+      "reason": "Coverage for [Rock], [Steel], [Electric]"
     },
     {
       "move": "protect",
@@ -62,7 +62,7 @@
       "reason": "Mandatory Mega Stone with no alternative"
     }
   ],
-  "bodyMarkdown": "## Overview\nMega Charizard X changes type from [fire]/Flying to [fire]/[dragon] on Mega Evolution and gains [tough-claws], which boosts contact moves by 30%. The result is a [flare-blitz] / [dragon-claw] dual-STAB physical attacker with 130 Attack, 100 Speed, and respectable bulk.\n\n## Strengths\n[tough-claws] compounds with STAB: [flare-blitz] reaches an effective ~234 BP and [dragon-claw] reaches ~156 BP. The typing flip gives Mega Charizard X immunity to Ground falling away, but it gains Grass and Bug 4x resistances and Electric/Water weaknesses shifting profile. [earthquake] is a key coverage move that loses the Flying type immunity restriction.\n\n## Weaknesses & Answers\nAfter Mega Evolution, [dragon], Rock, and Ground become live weaknesses — stone-edge and [earthquake] users threaten KOs. The pre-Mega turn uses the base [fire]/Flying typing and blaze, which means the first turn can be a little awkward for planning.\n\n## Recommended Moveset\n[flare-blitz] is the hardest-hitting STAB. [dragon-claw] is the safe [dragon] STAB for mirrors and [dragon]-weak targets. [earthquake] handles Rock/Steel/Electric walls. [protect] is mandatory for the Mega turn and setup plays.\n\n## Item · Ability · Tera\n[charizardite-x] is mandatory. [tough-claws] activates after Mega. Tera [fire] maxes [flare-blitz], Tera [dragon] maxes [dragon-claw] and shifts the defensive profile.\n\n## Teammates & Synergy\nCover [dragon] and Rock with Fairy and Water partners. intimidate support extends bulk. tailwind support or slow pivots make Mega Charizard X harder to answer.\n\n## Play Patterns\nProtect on the Mega turn to absorb any pressure, then commit to [flare-blitz] or [dragon-claw] each turn based on match-up. Watch for rock-slide and stone-edge users, and save Tera for an emergency survival moment or a guaranteed finishing KO.",
+  "bodyMarkdown": "## Overview\nMega Charizard X changes type from [Fire]/[Flying] to [Fire]/[Dragon] on Mega Evolution and gains [tough-claws], which boosts contact moves by 30%. The result is a [flare-blitz] / [dragon-claw] dual-STAB physical attacker with 130 Attack, 100 Speed, and respectable bulk.\n\n## Strengths\n[tough-claws] compounds with STAB: [flare-blitz] reaches an effective ~234 BP and [dragon-claw] reaches ~156 BP. The typing flip gives Mega Charizard X immunity to [Ground] falling away, but it gains [Grass] and [Bug] 4x resistances and [Electric]/[Water] weaknesses shifting profile. [earthquake] is a key coverage move that loses the [Flying] type immunity restriction.\n\n## Weaknesses & Answers\nAfter Mega Evolution, [Dragon], [Rock], and [Ground] become live weaknesses — [stone-edge] and [earthquake] users threaten KOs. The pre-Mega turn uses the base [Fire]/[Flying] typing and [blaze], which means the first turn can be a little awkward for planning.\n\n## Recommended Moveset\n[flare-blitz] is the hardest-hitting STAB. [dragon-claw] is the safe [Dragon] STAB for mirrors and [Dragon]-weak targets. [earthquake] handles [Rock]/[Steel]/[Electric] walls. [protect] is mandatory for the Mega turn and setup plays.\n\n## Item · Ability · Tera\n[charizardite-x] is mandatory. [tough-claws] activates after Mega. Tera [Fire] maxes [flare-blitz], Tera [Dragon] maxes [dragon-claw] and shifts the defensive profile.\n\n## Teammates & Synergy\nCover [Dragon] and [Rock] with [Fairy] and [Water] partners. [intimidate] support extends bulk. [tailwind] support or slow pivots make Mega Charizard X harder to answer.\n\n## Play Patterns\nProtect on the Mega turn to absorb any pressure, then commit to [flare-blitz] or [dragon-claw] each turn based on match-up. Watch for [rock-slide] and [stone-edge] users, and save Tera for an emergency survival moment or a guaranteed finishing KO.",
   "tags": [
     "kanto",
     "fire",

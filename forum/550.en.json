@@ -25,26 +25,26 @@
     "spe": 32
   },
   "locale": "en",
-  "title": "[basculin] Battle Guide",
+  "title": "[Basculin] Battle Guide",
   "summary": "A 98 Speed glass cannon whose [adaptability] [wave-crash] hits with an effective base power near 240.",
   "strengths": [
-    "[adaptability] doubles the [water] STAB multiplier to 2.0x",
+    "[adaptability] doubles the [Water] STAB multiplier to 2.0x",
     "98 Speed outruns almost every bulky threat in the tier",
-    "[flip-turn] keeps the pivot chain alive while chipping"
+    "[flip-turn] keeps the [pivot] chain alive while chipping"
   ],
   "weaknesses": [
     "65/55 physical and special bulk is paper thin",
-    "Grass and Electric 2x weaknesses from common attackers",
-    "[wave-crash] 33 percent recoil limits it to two or three clicks"
+    "[Grass] and [Electric] 2x weaknesses from common attackers",
+    "[wave-crash] 33 percent re[coil] limits it to two or three c[lick]s"
   ],
   "recommendedMoves": [
     {
       "move": "wave-crash",
-      "reason": "Main [water] STAB that with [adaptability] hits like effective base 240"
+      "reason": "Main [Water] STAB that with [adaptability] hits like effective base 240"
     },
     {
       "move": "aqua-jet",
-      "reason": "[adaptability] priority that finishes fast Electric and Ice threats"
+      "reason": "[adaptability] priority that finishes fast [Electric] and [Ice] threats"
     },
     {
       "move": "flip-turn",
@@ -52,24 +52,24 @@
     },
     {
       "move": "crunch",
-      "reason": "Dark coverage for psychic and [ghost] walls"
+      "reason": "[Dark] cove[rage] for [psychic] and [Ghost] walls"
     }
   ],
   "recommendedItems": [
     {
       "item": "mystic-water",
-      "reason": "Stacks a further 10 percent [water] boost on top of"
+      "reason": "Stacks a further 10 percent [Water] boost on top of"
     },
     {
       "item": "choice-scarf",
-      "reason": "Pushes 98 Speed into the top bracket without tailwind support"
+      "reason": "Pushes 98 Speed into the top bracket without [tailwind] support"
     },
     {
       "item": "sitrus-berry",
-      "reason": "One-shot heal that offsets recoil damage"
+      "reason": "One-shot heal that offsets re[coil] damage"
     }
   ],
-  "bodyMarkdown": "## Overview\n[basculin]'s stat line isn't special, but its ability line is. [adaptability] replaces the usual 1.5x STAB multiplier with a flat 2.0x, which turns [wave-crash] into something closer to an effective base 240 attack. Base 98 Speed lets it outrun most of the bulky attackers in the tier, so [basculin]'s job is to come in, click [water] STAB twice, and leave before anything retaliates.\n\n## Strengths\nThe [adaptability] multiplier turns even the [aqua-jet] priority slot into a real threat — Electric and Ice attackers that normally revenge [water]-types lose to a boosted priority hit. [wave-crash] at 120 base power and 2.0x STAB is the strongest single-click [water] attack in the format without needing setup or weather. [flip-turn] keeps the momentum chain going, and because it carries the same [adaptability] boost, the pivot damage is meaningful chip instead of a throwaway click.\n\n## Weaknesses & Answers\n[basculin] has 70/65/55 bulk, which is a step below acceptable — anything resisted or neutral coming back at it usually KOs. Grass and Electric attackers both hit for 2x and they're everywhere in the format. Priority users like Conkeldurr mach-punch or Fighting sucker-punch pivots revenge it before [aqua-jet] comes online. And [wave-crash] recoil chews 33 percent HP per click, so two hits is usually the hard cap before stealth-rock damage forces a retreat.\n\n## Recommended Moveset\n[wave-crash] is the locked STAB and the reason to play [basculin] at all. [aqua-jet] is non-negotiable as the priority finisher against revenge killers. [flip-turn] is the mandatory pivot slot and the only reason [basculin] doesn't feel like a Choice-locked mon — it keeps the Speed chain alive while chipping with STAB damage. [crunch] is the coverage slot for bulky psychic and [ghost] walls that would otherwise sit on [water] STAB forever. head-smash is a possible alternative when extra pressure on Ice walls is needed, but the stacked recoil with [wave-crash] rarely survives two clicks.\n\n## Item · Ability · Tera\n[mystic-water] is the primary item because the additional 10 percent [water] boost multiplies directly into the [adaptability] math. [choice-scarf] is the alternative when tailwind support isn't available and [basculin] needs to outpace scarf Hydreigon tier attackers. [sitrus-berry] is the sustain pick to offset [wave-crash] recoil. The ability must be [adaptability] — reckless scales the recoil alongside the damage, and mold-breaker is a fringe pick. Tera [water] stacks another 1.5x on top of everything for one massive click; Tera [ghost] is the defensive pick that deletes the Grass and Electric weaknesses, making it a genuine pivot Tera.\n\n## Teammates & Synergy\n[basculin] is a glass cannon and needs defensive pivots behind it — a Ground tank to absorb Electric hits and a Dragon or Grass pivot to eat Grass pressure. A tailwind setter covers the Speed axis without spending the [choice-scarf] slot. Intimidate support reduces the risk of priority revenge kills, and a Fairy or Fighting partner puts pressure on the Dark walls that sit on [crunch]. Fast cleaners behind [basculin] snowball on the chip damage it generates through [flip-turn].\n\n## Play Patterns\n[basculin] is a two-click pokemon, not a long-term answer. Bring it in on a forced switch during the mid-game, fire [wave-crash] into whatever is weak to [water], then [flip-turn] out before recoil plus rocks removes it. Save [aqua-jet] for the precise moment a faster threat drops into KO range — one wasted priority click is usually one too many. Tera [water] only when one massive hit ends the game; Tera [ghost] earlier if the matchup is full of priority and [basculin] needs to be the pivot spine.",
+  "bodyMarkdown": "## Overview\n[Basculin]'s stat line isn't special, but its ability line is. [adaptability] replaces the usual 1.5x STAB multiplier with a flat 2.0x, which turns [wave-crash] into something closer to an effective base 240 attack. Base 98 Speed lets it outrun most of the bulky attackers in the tier, so [Basculin]'s job is to come in, click [Water] STAB twice, and leave before anything retaliates.\n\n## Strengths\nThe [adaptability] multiplier turns even the [aqua-jet] priority slot into a real threat — [Electric] and [Ice] attackers that normally [revenge] [Water]-types lose to a boosted priority hit. [wave-crash] at 120 base power and 2.0x STAB is the strongest single-click [Water] attack in the format without needing setup or weather. [flip-turn] keeps the momentum chain going, and because it carries the same [adaptability] boost, the [pivot] damage is meaningful chip instead of a throwaway click.\n\n## Weaknesses & Answers\n[Basculin] has 70/65/55 bulk, which is a step below acceptable — anything resisted or neutral coming back at it usually KOs. [Grass] and [Electric] attackers both hit for 2x and they're everywhere in the format. Priority users like Conkeldurr [mach-punch] or [Fighting] [sucker-punch] pivots [revenge] it before [aqua-jet] comes online. And [wave-crash] recoil chews 33 percent HP per click, so two hits is usually the hard cap before [stealth-rock] damage forces a retreat.\n\n## Recommended Moveset\n[wave-crash] is the locked STAB and the reason to play [Basculin] at all. [aqua-jet] is non-negotiable as the priority finisher against [revenge] killers. [flip-turn] is the mandatory [pivot] slot and the only reason [Basculin] doesn't feel like a Choice-locked mon — it keeps the Speed chain alive while chipping with STAB damage. [crunch] is the coverage slot for bulky [psychic] and [Ghost] walls that would otherwise sit on [Water] STAB forever. [head-smash] is a possible alternative when extra pressure on [Ice] walls is needed, but the stacked recoil with [wave-crash] rarely survives two clicks.\n\n## Item · Ability · Tera\n[mystic-water] is the primary item because the additional 10 percent [Water] boost multiplies directly into the [adaptability] math. [choice-scarf] is the alternative when [tailwind] support isn't available and [Basculin] needs to outpace scarf Hydreigon tier attackers. [sitrus-berry] is the sustain pick to offset [wave-crash] recoil. The ability must be [adaptability] — reckless scales the recoil alongside the damage, and [mold-breaker] is a fringe pick. Tera [Water] stacks another 1.5x on top of everything for one massive click; Tera [Ghost] is the defensive pick that deletes the [Grass] and [Electric] weaknesses, making it a genuine [pivot] Tera.\n\n## Teammates & Synergy\n[Basculin] is a glass cannon and needs defensive pivots behind it — a [Ground] tank to [absorb] [Electric] hits and a [Dragon] or [Grass] [pivot] to eat [Grass] pressure. A [tailwind] setter covers the Speed axis without spending the [choice-scarf] slot. Intimidate support reduces the risk of priority [revenge] kills, and a [Fairy] or [Fighting] partner puts pressure on the [Dark] walls that sit on [crunch]. Fast cleaners behind [Basculin] snowball on the chip damage it generates through [flip-turn].\n\n## Play Patterns\n[Basculin] is a two-click pokemon, not a long-term answer. Bring it in on a forced switch during the mid-game, fire [wave-crash] into whatever is weak to [Water], then [flip-turn] out before recoil plus rocks removes it. Save [aqua-jet] for the precise moment a faster threat drops into KO range — one wasted priority click is usually one too many. Tera [Water] only when one massive hit ends the game; Tera [Ghost] earlier if the matchup is full of priority and [Basculin] needs to be the [pivot] spine.",
   "tags": [
     "unova",
     "water",

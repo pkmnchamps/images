@@ -1,0 +1,83 @@
+{
+  "pokemonId": 128,
+  "nameKo": "팔데아켄타로스(물결)",
+  "nameEn": "tauros-paldea-aqua-breed",
+  "formKey": "paldea-aqua-breed",
+  "types": [
+    "fighting",
+    "water"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "intimidate",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "water",
+    "fighting"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[팔데아켄타로스(물결)] 배틀 운용 가이드",
+  "summary": "[intimidate] + [물]·[격투] 복합 자속의 고속 물리 어태커. [raging-bull] 물 타입 시그니처 + 벽 파괴 유틸을 갖추었다.",
+  "strengths": [
+    "[intimidate] 서포트 + [물]·[격투] 양 자속",
+    "[raging-bull] 물 타입 시그니처 + 벽 파괴",
+    "[물] 자속으로 [불]·[바위]·[땅] 견제"
+  ],
+  "weaknesses": [
+    "[전기]·[풀]·[비행]·[심령]·[페어리] 약점",
+    "75/105/70 내구 평균",
+    "특수 내구 70 낮음"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "raging-bull",
+      "reason": "시그니처 [물] 자속 + 벽 파괴"
+    },
+    {
+      "move": "close-combat",
+      "reason": "[격투] 자속 주력"
+    },
+    {
+      "move": "aqua-jet",
+      "reason": "[물] 자속 선공기 피니셔"
+    },
+    {
+      "move": "protect",
+      "reason": "안전 턴 확보"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "life-orb",
+      "reason": "물리 화력 보정"
+    },
+    {
+      "item": "choice-band",
+      "reason": "1.5배 공격 변형"
+    },
+    {
+      "item": "mystic-water",
+      "reason": "[물] 기술 화력 강화"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[팔데아켄타로스(물결)]은 [물]·[격투] 복합 타입의 고속 물리 어태커로, 3개의 팔데아 품종 중 유일하게 [aqua-jet] 선공기를 자속으로 사용할 수 있다. [raging-bull]은 [물] 타입으로 발동되어 [불]·[바위]·[땅] 견제에 특화된다.\n\n## 강점 분석\n[raging-bull] 물결 품종은 [물] 타입으로 발동되어 [flamigo] 등 [불]·[바위] 상대 카운터 + 벽 파괴 이중 역할. [aqua-jet]은 [물] 자속 선공기로 스피드 초과자에 대한 피니싱 대응 가능. [물] 자속 + [격투] 자속 조합은 광범위 견제력을 제공한다.\n\n## 약점과 대응\n[전기]·[풀]·[비행]·[심령]·[페어리] 5종 약점으로 저항 프로필이 약하다. 특히 [전기] 어태커 즉사 위험 높음. 75/105/70 내구는 특히 특수 내구 70이 낮아 특수 약점 공격에 취약.\n\n## 추천 기술 구성\n[raging-bull]은 시그니처 [물] 자속 + 벽 파괴. [close-combat]은 [격투] 자속 주력. [aqua-jet]은 자속 선공기 피니셔 — 팔데아 3품종 중 유일한 이점. [protect]는 안전 턴 확보.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [life-orb]가 기본. [mystic-water]는 [물] 기술 화력 강화 변형. 특성은 [intimidate] 고정. 테라스탈은 [물]로 [raging-bull]·[aqua-jet] 자속 중첩, 또는 [격투]로 [close-combat] 중첩.\n\n## 시너지와 파트너\n[전기]·[풀] 약점 카운터로 [땅]·[불] 파트너. [심령]·[페어리] 약점으로 [악]·[벌레] 파트너. [tailwind]로 스피드 추가 확보.\n\n## 운용 팁\n선봉으로 [intimidate] 유발 후 [raging-bull]로 벽 파괴, [close-combat]·[aqua-jet]으로 물리 화력 연타. [전기]·[풀] 노출 시 즉시 교대, 스피드 초과자는 [aqua-jet] 선공기로 피니싱.",
+  "tags": [
+    "paldea",
+    "fighting",
+    "water",
+    "regional-form",
+    "intimidate",
+    "physical-attacker"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

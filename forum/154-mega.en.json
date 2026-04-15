@@ -28,29 +28,29 @@
   },
   "locale": "en",
   "title": "Mega Meganium Battle Guide",
-  "summary": "A [grass]/[fairy] bulky special tank with 143 Special Attack, combining strong offensive output with self-healing and defensive utility.",
+  "summary": "A [Grass]/[Fairy] bulky special [tank] with 143 Special Attack, combining strong offensive output with self-healing and defensive utility.",
   "strengths": [
     "143 Special Attack makes it hit harder than most walls",
-    "[grass]/[fairy] resists Dragon, Dark, and Fighting",
-    "115/115 dual bulk provides broad physical and special tanking"
+    "[Grass]/[Fairy] resists [Dragon], [Dark], and [Fighting]",
+    "115/115 dual bulk provides broad physical and special [tank]ing"
   ],
   "weaknesses": [
-    "Gains Poison and [steel] weaknesses from the [fairy] type",
+    "Gains [Poison] and [Steel] weaknesses from the [Fairy] type",
     "Still only 80 Speed — moves last against most attackers",
     "Turn one before mega evolving still runs the base ability"
   ],
   "recommendedMoves": [
     {
       "move": "giga-drain",
-      "reason": "[grass] STAB that heals on hit for sustain"
+      "reason": "[Grass] STAB that heals on hit for sustain"
     },
     {
       "move": "moonblast",
-      "reason": "[fairy] STAB for Dragon, Dark, and Fighting coverage"
+      "reason": "[Fairy] STAB for [Dragon], [Dark], and [Fighting] cove[rage]"
     },
     {
       "move": "earth-power",
-      "reason": "Special coverage for Poison and [steel] walls"
+      "reason": "Special cove[rage] for [Poison] and [Steel] walls"
     },
     {
       "move": "synthesis",
@@ -63,7 +63,7 @@
       "reason": "Required mega stone for the Meganium mega form"
     }
   ],
-  "bodyMarkdown": "## Overview\nMega Meganium evolves into a [grass]/[fairy] bulky special tank, gaining a 143 Special Attack stat and 115/115 defensive bulk to become one of the most flexible support tanks. The new typing resists Dragon, Dark, and Fighting — three of the most common offensive types in the tier. The 143 SpA means it isn't passive either; [moonblast] and [giga-drain] pressure switch-ins instead of just absorbing hits.\n\n## Strengths\nThe [grass]/[fairy] type combination is defensively excellent, offering a strong cluster of resistances that the base form can't reach. [moonblast] threatens Dragon, Dark, and Fighting attackers, [giga-drain] heals Mega Meganium while dealing damage, and [synthesis] provides a second layer of recovery on top of the passive drain from [giga-drain]. 115 Defense and 115 Special Defense means physical and special threats are both buffered effectively, making Mega Meganium one of the few dual-side special tanks in the metagame.\n\n## Weaknesses & Answers\nThe [fairy] type brings two new weaknesses. sludge-wave, sludge-bomb, and flash-cannon all threaten to break Mega Meganium's bulk faster than its sustain can recover. 80 Speed also means almost every opposing attacker moves first, so one prediction error is hard to recover from. The pre-mega turn still runs overgrow or leaf-guard, which can trip up the first attack if you're not careful.\n\n## Recommended Moveset\n[giga-drain] is the locked [grass] STAB for both damage and sustain. [moonblast] is the second STAB and handles the Dragon, Dark, and Fighting attackers Mega Meganium is meant to wall. [earth-power] covers Poison and [steel] walls that would otherwise resist the STAB. [synthesis] fills the fourth slot as a dedicated full-heal, though aromatherapy is a reasonable alternate if team-wide status removal is a bigger priority.\n\n## Item · Ability · Tera\nThe item is always [meganiumite]. The ability is locked to [mega-sol] after evolution. Tera [fairy] maxes [moonblast] damage and preserves the defensive profile, while Tera [steel] flips the new Poison weakness into an immunity and covers most of the remaining holes. Tera choice depends on which attackers the team struggles against most.\n\n## Teammates & Synergy\nA Poison and [steel] answer is mandatory. Speed control through tailwind, trick-room, or screens helps Mega Meganium land its attacks despite the 80 Speed tier. A fast cleaner on the back line converts the defensive turns Mega Meganium buys into wins, and a physical wall partner creates a defensive core that covers both sides of damage.\n\n## Play Patterns\nMega evolve as soon as Mega Meganium is safe, then run the [giga-drain] plus [synthesis] recovery loop to outlast whichever attacker it's walling. Use [moonblast] to break Dragon and Dark switch-ins, and [earth-power] for [steel] and Poison pivots. Save [synthesis] for moments when HP drops below 50 percent, and use the Tera exclusively on a telegraphed Poison or [steel] move.",
+  "bodyMarkdown": "## Overview\nMega Meganium evolves into a [Grass]/[Fairy] bulky special [tank], gaining a 143 Special Attack stat and 115/115 defensive bulk to become one of the most flexible [support] tanks. The new typing resists [Dragon], [Dark], and [Fighting] — three of the most common offensive types in the tier. The 143 SpA means it isn't passive either; [moonblast] and [giga-drain] pressure switch-ins instead of just absorbing hits.\n\n## Strengths\nThe [Grass]/[Fairy] type combination is defensively excellent, offering a strong cluster of resistances that the base form can't reach. [moonblast] threatens [Dragon], [Dark], and [Fighting] attackers, [giga-drain] heals Mega Meganium while dealing damage, and [synthesis] provides a second layer of recovery on top of the passive drain from [giga-drain]. 115 Defense and 115 Special Defense means physical and special threats are both buffered effectively, making Mega Meganium one of the few dual-side special tanks in the metagame.\n\n## Weaknesses & Answers\nThe [Fairy] type brings two new weaknesses. [sludge-wave], [sludge-bomb], and [flash-cannon] all threaten to break Mega Meganium's bulk faster than its sustain can [recover]. 80 Speed also means almost every opposing attacker moves first, so one prediction error is hard to [recover] from. The pre-mega turn still runs [overgrow] or leaf-guard, which can trip up the first attack if you're not careful.\n\n## Recommended Moveset\n[giga-drain] is the locked [Grass] STAB for both damage and sustain. [moonblast] is the second STAB and handles the [Dragon], [Dark], and [Fighting] attackers Mega Meganium is meant to wall. [earth-power] covers [Poison] and [Steel] walls that would otherwise resist the STAB. [synthesis] fills the fourth slot as a dedicated full-heal, though [aromatherapy] is a reasonable alternate if team-wide status removal is a bigger priority.\n\n## Item · Ability · Tera\nThe item is always [meganiumite]. The ability is locked to [mega-sol] after evolution. Tera [Fairy] maxes [moonblast] damage and preserves the defensive profile, while Tera [Steel] flips the new [Poison] weakness into an immunity and covers most of the remaining holes. Tera choice depends on which attackers the team struggles against most.\n\n## Teammates & Synergy\nA [Poison] and [Steel] answer is mandatory. Speed control through [tailwind], [trick-room], or screens helps Mega Meganium land its attacks despite the 80 Speed tier. A fast cleaner on the back line converts the defensive turns Mega Meganium buys into wins, and a physical wall partner creates a defensive core that covers both sides of damage.\n\n## Play Patterns\nMega evolve as soon as Mega Meganium is safe, then run the [giga-drain] plus [synthesis] recovery loop to outlast whichever attacker it's walling. Use [moonblast] to break [Dragon] and [Dark] switch-ins, and [earth-power] for [Steel] and [Poison] pivots. Save [synthesis] for moments when HP drops below 50 percent, and use the Tera exclusively on a telegraphed [Poison] or [Steel] move.",
   "tags": [
     "johto",
     "grass",

@@ -26,14 +26,14 @@
   },
   "locale": "en",
   "title": "Mega Glalie Battle Guide",
-  "summary": "A balanced attacker with [refrigerate] — [return] becomes a boosted [ice] STAB, and [explosion] turns into a spread [ice] bomb.",
+  "summary": "A balanced attacker with [refrigerate] — [return] becomes a boosted [Ice] STAB, and [explosion] turns into a spread [Ice] bomb.",
   "strengths": [
-    "[refrigerate] converts Normal moves into [ice] with 1.2x boost",
-    "[explosion] becomes a spread [ice]-type nuke",
+    "[refrigerate] converts [Normal] moves into [Ice] with 1.2x boost",
+    "[explosion] becomes a spread [Ice]-type nuke",
     "120/120 symmetrical offenses allow mixed sets"
   ],
   "weaknesses": [
-    "Mono [ice] has four weaknesses",
+    "Mono [Ice] has four weaknesses",
     "80/80/80 bulk is average at best",
     "Speed 100 is outrun by top-tier scarfers"
   ],
@@ -44,11 +44,11 @@
     },
     {
       "move": "explosion",
-      "reason": "Spread [ice] finisher via [refrigerate]"
+      "reason": "Spread [Ice] finisher via [refrigerate]"
     },
     {
       "move": "earthquake",
-      "reason": "Coverage for Steel, Fire, Rock"
+      "reason": "Coverage for [Steel], [Fire], [Rock]"
     },
     {
       "move": "protect",
@@ -61,7 +61,7 @@
       "reason": "Mandatory Mega Stone with no alternative"
     }
   ],
-  "bodyMarkdown": "## Overview\nMega Glalie's gimmick is [refrigerate] — Normal-type moves become [ice] with a 1.2x boost. The signature play is a [refrigerate]-boosted [explosion] that turns into an [ice]-type STAB spread bomb. 120 Attack and 120 Special Attack allow mixed sets, though physical is usually the main plan.\n\n## Strengths\n[return] boosted by STAB and [refrigerate] is extremely high damage, and [explosion] is a nuclear finisher that scales into a spread [ice] move. Symmetrical offensive stats let Mega Glalie flex into special coverage if needed.\n\n## Weaknesses & Answers\nPure [ice] has weaknesses to Fighting, Fire, Rock, and Steel — a rough defensive profile. 80/80/80 bulk folds to any super-effective hit. Speed 100 loses to the upper tier.\n\n## Recommended Moveset\n[return] is the main spam. [explosion] is the game-ending finisher. [earthquake] covers Steel and Fire walls. [protect] secures Mega evolution.\n\n## Item · Ability · Tera\n[glalitite] is mandatory. [refrigerate] activates post-Mega. Tera [ice] stacks on top of [refrigerate] for even bigger damage, while Tera [ground] patches multiple weaknesses.\n\n## Teammates & Synergy\ntailwind support compensates for the modest Speed. Cover Fire and Fighting with Water and Psychic partners. Position Mega Glalie late-game so [explosion] clears the board when one of your slots is already sacrificial.\n\n## Play Patterns\nPlay it as a standard attacker with [return] and [earthquake], then look for the moment where [explosion] trades Mega Glalie for two opposing KOs. [refrigerate] [explosion] is effectively the strongest spread move Mega Glalie has, and saving it for the right moment wins matches.",
+  "bodyMarkdown": "## Overview\nMega Glalie's gimmick is [refrigerate] — [Normal]-type moves become [Ice] with a 1.2x boost. The signature play is a [refrigerate]-boosted [explosion] that turns into an [Ice]-type STAB spread bomb. 120 Attack and 120 Special Attack allow mixed sets, though physical is usually the main plan.\n\n## Strengths\n[return] boosted by STAB and [refrigerate] is extremely high damage, and [explosion] is a nuclear finisher that scales into a spread [Ice] move. Symmetrical offensive stats let Mega Glalie flex into special coverage if needed.\n\n## Weaknesses & Answers\nPure [Ice] has weaknesses to [Fighting], [Fire], [Rock], and [Steel] — a rough defensive profile. 80/80/80 bulk folds to any super-effective hit. Speed 100 loses to the upper tier.\n\n## Recommended Moveset\n[return] is the main spam. [explosion] is the game-ending finisher. [earthquake] covers [Steel] and [Fire] walls. [protect] secures Mega evolution.\n\n## Item · Ability · Tera\n[glalitite] is mandatory. [refrigerate] activates post-Mega. Tera [Ice] stacks on top of [refrigerate] for even bigger damage, while Tera [Ground] patches multiple weaknesses.\n\n## Teammates & Synergy\n[tailwind] support compensates for the modest Speed. Cover [Fire] and [Fighting] with [Water] and [Psychic] partners. Position Mega Glalie late-game so [explosion] clears the board when one of your slots is already sacrificial.\n\n## Play Patterns\nPlay it as a standard attacker with [return] and [earthquake], then look for the moment where [explosion] trades Mega Glalie for two opposing KOs. [refrigerate] [explosion] is effectively the strongest spread move Mega Glalie has, and saving it for the right moment wins matches.",
   "tags": [
     "hoenn",
     "ice",

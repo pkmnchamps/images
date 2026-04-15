@@ -1,0 +1,83 @@
+{
+  "pokemonId": 80,
+  "nameKo": "가라르야도란",
+  "nameEn": "slowbro-galar",
+  "formKey": "galar",
+  "types": [
+    "poison",
+    "psychic"
+  ],
+  "roles": [
+    "mixed-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "regenerator",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "poison",
+    "psychic"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "en",
+  "title": "Galarian Slowbro Battle Guide",
+  "summary": "A [Poison]/[Psychic] bulky pivot with [regenerator] and signature [shell-side-arm] — restores 1/3 HP on switch and auto-picks the better attacking stat.",
+  "strengths": [
+    "[regenerator] recovers 1/3 HP on switch",
+    "[shell-side-arm] auto-targets the weaker defense",
+    "Resists [Fighting] and is 2x effective on [Fairy]"
+  ],
+  "weaknesses": [
+    "Weak to [Ground], [Ghost], [Psychic], [Dark]",
+    "Speed 30 forces [trick-room] or slow pivot",
+    "Limited coverage against [Steel] types"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "shell-side-arm",
+      "reason": "Signature move — picks the stronger split"
+    },
+    {
+      "move": "psychic",
+      "reason": "[Psychic] STAB special option"
+    },
+    {
+      "move": "slack-off",
+      "reason": "50% HP recovery"
+    },
+    {
+      "move": "protect",
+      "reason": "Turn safety"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "black-sludge",
+      "reason": "Passive recovery for [Poison] types"
+    },
+    {
+      "item": "assault-vest",
+      "reason": "Special bulk variant"
+    },
+    {
+      "item": "leftovers",
+      "reason": "Generic passive recovery"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nGalarian Slowbro is a bulky pivot defined by [regenerator] — every time it switches out, it recovers 1/3 HP, enabling an infinite-use defensive role. Its signature move [shell-side-arm] automatically picks whichever of its 100 Attack or 100 Special Attack targets the lower defense, making damage output consistently high without mixed investment.\n\n## Strengths\n[regenerator] is a top-tier ability in doubles. Combined with [slack-off], Galarian Slowbro maintains HP indefinitely. [shell-side-arm] removes the choice between physical and special output — it picks the better one automatically. The [Poison]/[Psychic] typing resists [Fighting] and gains [Fairy] super-effective coverage.\n\n## Weaknesses & Answers\n[Ground], [Ghost], [Psychic], and [Dark] are all common super-effective hits. Speed 30 locks it into [trick-room] or slow-pivot usage. [Steel] types like [heatran] wall the set completely.\n\n## Recommended Moveset\n[shell-side-arm] is mandatory — it's the whole identity of the set. [psychic] is the secondary STAB. [slack-off] sustains HP between pivots. [protect] is standard doubles utility.\n\n## Item · Ability · Tera\n[black-sludge] is ideal for passive recovery on a [Poison] type. [assault-vest] converts it into a special wall. [regenerator] is locked. Tera [Poison] grants a [Psychic] resistance, Tera [Psychic] stacks STAB on [psychic].\n\n## Teammates & Synergy\nFits on slow pivot cores with [intimidate] support and [trick-room] setters. Cover [Ground] and [Ghost] with [Flying] and [Dark] partners. The [regenerator] core means Galarian Slowbro can absorb status and still heal back.\n\n## Play Patterns\nSwitch in on a predicted resisted hit, click [shell-side-arm] or [psychic], then pivot out to trigger [regenerator]. Use [slack-off] when HP drops and a switch isn't safe. Against [Steel] walls, pivot out immediately.",
+  "tags": [
+    "galar",
+    "poison",
+    "psychic",
+    "regional-form",
+    "regenerator",
+    "bulky-pivot"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

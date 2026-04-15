@@ -26,25 +26,25 @@
   },
   "locale": "en",
   "title": "Mega Aggron Battle Guide",
-  "summary": "A pure [steel] physical fortress with 230 Defense and [filter] — super-effective hits are reduced to 75%, making it one of the bulkiest walls in the game.",
+  "summary": "A pure [Steel] physical fortress with 230 Defense and [filter] — super-effective hits are reduced to 75%, making it one of the bulkiest walls in the game.",
   "strengths": [
-    "Pure [steel] typing gives 11 resistances",
+    "Pure [Steel] typing gives 11 resistances",
     "[filter] reduces super-effective hits by 25%",
     "[heavy-slam] is max BP at 1425kg Mega weight"
   ],
   "weaknesses": [
-    "Fire, Fighting, and Ground still hurt even through [filter]",
+    "[Fire], [Fighting], and [Ground] still hurt even through [filter]",
     "Special bulk 80 is unreliable",
     "Speed 50 forces a slow, pivoting playstyle"
   ],
   "recommendedMoves": [
     {
       "move": "heavy-slam",
-      "reason": "Max BP [steel] STAB off 140 Attack"
+      "reason": "Max BP [Steel] STAB off 140 Attack"
     },
     {
       "move": "earthquake",
-      "reason": "Ground coverage for Fire and Electric walls"
+      "reason": "[Ground] coverage for [Fire] and [Electric] walls"
     },
     {
       "move": "stealth-rock",
@@ -61,7 +61,7 @@
       "reason": "Mandatory Mega Stone with no alternative"
     }
   ],
-  "bodyMarkdown": "## Overview\nMega Aggron drops the Rock typing on Mega Evolution and becomes a pure [steel] fortress with [filter], an ability that reduces super-effective damage to 75%. With 230 base Defense, 11 resistances, and only three weaknesses, it is one of the most reliable physical walls available to non-legendary teams.\n\n## Strengths\nPure [steel] resists 11 types and is immune to poison status. The three remaining weaknesses — Fire, Fighting, and Ground — are softened by [filter] to 1.5x instead of 2x. 230 Defense plus HP investment lets Mega Aggron survive [earthquake] or close-combat from top attackers at least once. [heavy-slam] off 1425kg weight is at maximum BP against most targets.\n\n## Weaknesses & Answers\nEven at 75%, Fire and Ground hits still do meaningful damage. close-combat users and heatran are switch-out moments. Special bulk of 80 is fine for neutral hits but crumbles against earth-power or fire-blast. Speed 50 means trick-room or slow pivoting only.\n\n## Recommended Moveset\n[heavy-slam] is the main STAB — at 1425kg Mega weight, almost every target takes max BP. [earthquake] handles the Fire and Electric types that resist [steel]. [stealth-rock] is the reliable hazard setter since you'll usually move second. [protect] is mandatory for the Mega turn.\n\n## Item · Ability · Tera\n[aggronite] is mandatory. [filter] activates after Mega Evolution. Tera [steel] stacks resistances further, while Tera [dragon] flips Fire, Water, Electric, and Grass to resistances — a strong defensive reroute.\n\n## Teammates & Synergy\nFits on trick-room cores where low speed becomes an advantage. Cover Fighting and Ground with Psychic and Flying partners. incineroar intimidate and will-o-wisp support extend Mega Aggron's physical longevity.\n\n## Play Patterns\nSwitch in on a resisted hit, Mega evolve, [protect] if unsure, then set [stealth-rock] on a predicted switch. Use [heavy-slam] as the main pressure tool and [earthquake] into Fire or Electric walls. Tera on a telegraphed 4x Fighting hit to survive.",
+  "bodyMarkdown": "## Overview\nMega Aggron drops the [Rock] typing on Mega Evolution and becomes a pure [Steel] fortress with [filter], an ability that reduces super-effective damage to 75%. With 230 base Defense, 11 resistances, and only three weaknesses, it is one of the most reliable physical walls available to non-legendary teams.\n\n## Strengths\nPure [Steel] resists 11 types and is immune to poison status. The three remaining weaknesses — [Fire], [Fighting], and [Ground] — are softened by [filter] to 1.5x instead of 2x. 230 Defense plus HP investment lets Mega Aggron survive [earthquake] or [close-combat] from top attackers at least once. [heavy-slam] off 1425kg weight is at maximum BP against most targets.\n\n## Weaknesses & Answers\nEven at 75%, [Fire] and [Ground] hits still do meaningful damage. [close-combat] users and [heatran] are switch-out moments. Special bulk of 80 is fine for neutral hits but crumbles against [earth-power] or [fire-blast]. Speed 50 means [trick-room] or slow pivoting only.\n\n## Recommended Moveset\n[heavy-slam] is the main STAB — at 1425kg Mega weight, almost every target takes max BP. [earthquake] handles the [Fire] and [Electric] types that resist [Steel]. [stealth-rock] is the reliable hazard setter since you'll usually move second. [protect] is mandatory for the Mega turn.\n\n## Item · Ability · Tera\n[aggronite] is mandatory. [filter] activates after Mega Evolution. Tera [Steel] stacks resistances further, while Tera [Dragon] flips [Fire], [Water], [Electric], and [Grass] to resistances — a strong defensive reroute.\n\n## Teammates & Synergy\nFits on [trick-room] cores where low speed becomes an advantage. Cover [Fighting] and [Ground] with [Psychic] and [Flying] partners. [incineroar] [intimidate] and [will-o-wisp] support extend Mega Aggron's physical longevity.\n\n## Play Patterns\nSwitch in on a resisted hit, Mega evolve, [protect] if unsure, then set [stealth-rock] on a predicted switch. Use [heavy-slam] as the main pressure tool and [earthquake] into [Fire] or [Electric] walls. Tera on a telegraphed 4x [Fighting] hit to survive.",
   "tags": [
     "hoenn",
     "steel",

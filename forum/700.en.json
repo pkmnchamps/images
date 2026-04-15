@@ -25,47 +25,47 @@
     "spe": 0
   },
   "locale": "en",
-  "title": "[sylveon] Battle Guide",
-  "summary": "A bulky [fairy] special attacker whose [pixilate] [hyper-voice] spam is shielded by base 130 SpD and refueled through [wish].",
+  "title": "[Sylveon] Battle Guide",
+  "summary": "A bulky [Fairy] special attacker whose [pixilate] [hyper-voice] spam is shielded by base 130 SpD and refueled through [wish].",
   "strengths": [
-    "[pixilate] converts [hyper-voice] into boosted [fairy] STAB spam",
+    "[pixilate] converts [hyper-voice] into boosted [Fairy] STAB spam",
     "Base 130 SpD plus 95 HP tanks one hit from nearly any unboosted special attacker",
     "[wish] doubles as self-heal and team-heal utility"
   ],
   "weaknesses": [
-    "2x Poison and 2x Steel — sludge-bomb and iron-head hit hard",
+    "2x [Poison] and 2x [Steel] — [sludge-bomb] and [iron-head] hit hard",
     "Base 60 Speed loses the race against essentially every offensive pivot",
     "Base 65 physical Def is easily cracked by any unresisted physical attacker"
   ],
   "recommendedMoves": [
     {
       "move": "hyper-voice",
-      "reason": "Converted into boosted [fairy] STAB by [pixilate] — the main spam button"
+      "reason": "Converted into boosted [Fairy] STAB by [pixilate] — the main spam button"
     },
     {
       "move": "mystical-fire",
-      "reason": "Punishes Steel switch-ins that would otherwise wall the set"
+      "reason": "Punishes [Steel] switch-ins that would otherwise [wall] the set"
     },
     {
       "move": "psyshock",
-      "reason": "Hits the physical Def stat to break special walls"
+      "reason": "Hits the physical Def stat to break special [wall]s"
     },
     {
       "move": "wish",
-      "reason": "Team and self recovery — converts defensive stats into sustain"
+      "reason": "Team and self [recover]y — converts defensive stats into sustain"
     }
   ],
   "recommendedItems": [
     {
       "item": "leftovers",
-      "reason": "Stacks passive recovery behind the base 130 SpD"
+      "reason": "Stacks passive [recover]y behind the base 130 SpD"
     },
     {
       "item": "sitrus-berry",
       "reason": "Half-HP trigger for a one-time burst of survival"
     }
   ],
-  "bodyMarkdown": "## Overview\n[sylveon] is a pure [fairy] special attacker whose real identity in Champions MA is a bulky pivot. Base 130 SpD and 95 HP give it the special durability to sit in on most unboosted attackers, and hidden ability [pixilate] converts [hyper-voice] into boosted [fairy] STAB — producing a single attack that functions as both coverage and spam button. Base 110 SpA makes the damage real, not symbolic.\n\n## Strengths\n[pixilate] applies a 1.2x boost and a type change to [hyper-voice], so the main attack effectively hits in the 130 base-power neighborhood as a [fairy] move with no drawback. Base 130 SpD means most unboosted special attackers simply cannot break [sylveon] in a single turn, and 95 HP extends that into a multi-turn window. [wish] is the support glue — it heals [sylveon] on the swap turn while also delivering a full HP pool to an incoming partner, which is the single best use of [sylveon]'s defensive stat allocation.\n\n## Weaknesses & Answers\nSteel and Poison both hit for 2x, and any iron-head or sludge-bomb can take a huge chunk out of [sylveon] in one click. Base 60 Speed means [sylveon] essentially always moves last against offensive threats, so it can't trade cleanly. Physical Def 65 is the structural weakness — a mid-tier physical attacker with any unresisted move cracks through easily, and priority users like mach-punch can punish [sylveon]'s already-eroded HP. taunt also disables both [wish] and the defensive loop entirely, so trapping taunt users are a hard counter.\n\n## Recommended Moveset\n[hyper-voice] is the locked main because [pixilate] makes it the most efficient damage button [sylveon] has access to. [mystical-fire] handles the Steel matchup directly, which is otherwise a hard wall on the set. [psyshock] is the third slot because it hits the physical Def stat, which lets [sylveon] break special walls that would otherwise soak [hyper-voice] all day. [wish] is the fourth slot — it's what justifies [sylveon] over the other [fairy] attackers, turning 130 SpD into actual team-wide recovery. shadow-ball is the alternative to [psyshock] if the team prefers Ghost coverage.\n\n## Item · Ability · Tera\n[leftovers] is the default because it stacks turn-by-turn recovery behind a 130 SpD wall. [sitrus-berry] is the alternative for offensive teams that want a single-trigger burst of sustain against choice-specs nukes. The ability must be [pixilate] — cute-charm is a completely different, much weaker archetype. Tera [fairy] pushes [hyper-voice] into guaranteed-KO range against neutral targets, and Tera [water] flips the Steel weakness, turning iron-head into a manageable hit.\n\n## Teammates & Synergy\n[sylveon] pairs best with Ground or Fighting attackers that abuse the Steel and Poison pressure, because [sylveon] forces opponents to bring exactly those types into the fight. A stealth-rock lead multiplies the damage [sylveon] projects, and any partner that can absorb [wish] passes gains enormous longevity. Intimidate users also cover the physical-attacker weakness that [sylveon] structurally cannot handle alone.\n\n## Play Patterns\n[sylveon] is a long-game piece. Open with [wish] to lock in the recovery cycle, then spam [hyper-voice] on every neutral turn. Switch out against any live Steel, Poison, or physical threat; do not try to trade into those matchups. Tera [water] is the emergency button for the moment a sludge-bomb or iron-head is telegraphed — clicking it once is often the difference between losing [sylveon] and keeping it alive for a three-turn snowball. Never overstay against a taunt user.",
+  "bodyMarkdown": "## Overview\n[Sylveon] is a pure [Fairy] special attacker whose real identity in Champions MA is a bulky pivot. Base 130 SpD and 95 HP give it the special durability to sit in on most unboosted attackers, and hidden ability [pixilate] converts [hyper-voice] into boosted [Fairy] STAB — producing a single attack that functions as both coverage and spam button. Base 110 SpA makes the damage real, not symbolic.\n\n## Strengths\n[pixilate] applies a 1.2x boost and a type change to [hyper-voice], so the main attack effectively hits in the 130 base-power neighborhood as a [Fairy] move with no drawback. Base 130 SpD means most unboosted special attackers simply cannot break [Sylveon] in a single turn, and 95 HP extends that into a multi-turn window. [wish] is the support glue — it heals [Sylveon] on the swap turn while also delivering a full HP pool to an incoming partner, which is the single best use of [Sylveon]'s defensive stat allocation.\n\n## Weaknesses & Answers\n[Steel] and [Poison] both hit for 2x, and any [iron-head] or [sludge-bomb] can take a huge chunk out of [Sylveon] in one click. Base 60 Speed means [Sylveon] essentially always moves last against offensive threats, so it can't trade cleanly. Physical Def 65 is the structural weakness — a mid-tier physical attacker with any unresisted move cracks through easily, and priority users like [mach-punch] can punish [Sylveon]'s already-eroded HP. [taunt] also disables both [wish] and the defensive loop entirely, so trapping [taunt] users are a hard [counter].\n\n## Recommended Moveset\n[hyper-voice] is the locked main because [pixilate] makes it the most efficient damage button [Sylveon] has access to. [mystical-fire] handles the [Steel] matchup directly, which is otherwise a hard [wall] on the set. [psyshock] is the third slot because it hits the physical Def stat, which lets [Sylveon] break special walls that would otherwise [soak] [hyper-voice] all day. [wish] is the fourth slot — it's what justifies [Sylveon] over the other [Fairy] attackers, turning 130 SpD into actual team-wide recovery. [shadow-ball] is the alternative to [psyshock] if the team prefers [Ghost] coverage.\n\n## Item · Ability · Tera\n[leftovers] is the default because it stacks turn-by-turn recovery behind a 130 SpD [wall]. [sitrus-berry] is the alternative for offensive teams that want a single-trigger burst of sustain against choice-specs nukes. The ability must be [pixilate] — cute-[charm] is a completely different, much weaker archetype. Tera [Fairy] pushes [hyper-voice] into guaranteed-KO range against neutral targets, and Tera [Water] flips the [Steel] weakness, turning [iron-head] into a manageable hit.\n\n## Teammates & Synergy\n[Sylveon] pairs best with [Ground] or [Fighting] attackers that abuse the [Steel] and [Poison] pressure, because [Sylveon] forces opponents to bring exactly those types into the fight. A [stealth-rock] lead multiplies the damage [Sylveon] projects, and any partner that can [absorb] [wish] passes gains enormous longevity. Intimidate users also cover the physical-attacker weakness that [Sylveon] structurally cannot handle alone.\n\n## Play Patterns\n[Sylveon] is a long-game piece. Open with [wish] to lock in the recovery cycle, then spam [hyper-voice] on every neutral turn. Switch out against any live [Steel], [Poison], or physical threat; do not try to trade into those matchups. Tera [Water] is the emergency button for the moment a [sludge-bomb] or [iron-head] is telegraphed — clicking it once is often the difference between losing [Sylveon] and keeping it alive for a three-turn snowball. Never overstay against a [taunt] user.",
   "tags": [
     "kalos",
     "fairy",

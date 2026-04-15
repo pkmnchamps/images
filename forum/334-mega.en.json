@@ -27,21 +27,21 @@
   },
   "locale": "en",
   "title": "Mega Altaria Battle Guide",
-  "summary": "A bulky [dragon]/[fairy] sweeper — [pixilate] converts [return] into a STAB [fairy] move, and [dragon-dance] turns it into a fast cleaner.",
+  "summary": "A bulky [Dragon]/[Fairy] sweeper — [pixilate] converts [return] into a STAB [Fairy] move, and [dragon-dance] turns it into a fast cleaner.",
   "strengths": [
-    "[pixilate] [return] is a boosted [fairy] STAB",
-    "[dragon]/[fairy] typing is immune to [dragon] and resists Fighting",
+    "[pixilate] [return] is a boosted [Fairy] STAB",
+    "[Dragon]/[Fairy] typing is immune to [Dragon] and resists [Fighting]",
     "[dragon-dance] boosts both Attack and Speed"
   ],
   "weaknesses": [
-    "Weak to Poison, Steel, Ice",
+    "Weak to [Poison], [Steel], [Ice]",
     "Speed 80 is slow before [dragon-dance]",
     "Bulk is serviceable but not exceptional"
   ],
   "recommendedMoves": [
     {
       "move": "return",
-      "reason": "Main [fairy] STAB via [pixilate]"
+      "reason": "Main [Fairy] STAB via [pixilate]"
     },
     {
       "move": "dragon-dance",
@@ -49,7 +49,7 @@
     },
     {
       "move": "earthquake",
-      "reason": "Coverage for Poison and Steel walls"
+      "reason": "Coverage for [Poison] and [Steel] walls"
     },
     {
       "move": "protect",
@@ -62,7 +62,7 @@
       "reason": "Mandatory Mega Stone with no alternative"
     }
   ],
-  "bodyMarkdown": "## Overview\nMega Altaria is a bulky physical sweeper built around [pixilate] — the ability turns normal-type moves into [fairy] with a 1.2x boost. [return] becomes an effective ~120 BP [fairy] STAB, and a single [dragon-dance] makes Mega Altaria fast enough to clean up most offensive teams. 110/110/110 Mega-form bulk gives it the durability to set up safely.\n\n## Strengths\n[return] through [pixilate] and STAB is a very high damage output per click. The [dragon]/[fairy] typing grants a clean [dragon] immunity and resistances to Fighting, Bug, and Dark — Mega Altaria walls dragon attackers for free. [dragon-dance] boosts both Attack and Speed simultaneously, so one setup opens the door for a sweep.\n\n## Weaknesses & Answers\nPoison and Steel both resist [return], and Steel attackers like iron-head users threaten direct KOs. Ice is a 2x weakness as well. Speed 80 is slow, so the first [dragon-dance] has to come against something passive or a setup turn.\n\n## Recommended Moveset\n[return] is locked — it is the whole game plan. [dragon-dance] is the setup move. [earthquake] handles Poison and Steel walls that resist [return]. [protect] secures Mega turn and provides setup opportunities in doubles.\n\n## Item · Ability · Tera\n[altarianite] is mandatory. [pixilate] activates after Mega Evolution. Tera [fairy] stacks on top of [pixilate] for maximum [return] output. Tera [dragon] keeps the Ice resistance and boosts any [dragon] move you run instead.\n\n## Teammates & Synergy\nGround and Fire partners cover Poison and Steel walls. intimidate support extends physical bulk during setup. tailwind lets Mega Altaria skip the [dragon-dance] step and immediately clean up.\n\n## Play Patterns\nMega evolve, [protect] to secure the turn, then look for a safe [dragon-dance] opportunity. After a boost, spam [return] into the opponent's pair and flex to [earthquake] when Steel is in range. Tera on a predicted super-effective hit to survive and finish.",
+  "bodyMarkdown": "## Overview\nMega Altaria is a bulky physical sweeper built around [pixilate] — the ability turns [normal]-type moves into [fairy] with a 1.2x boost. [return] becomes an effective ~120 BP [Fairy] STAB, and a single [dragon-dance] makes Mega Altaria fast enough to clean up most offensive teams. 110/110/110 Mega-form bulk gives it the durability to set up safely.\n\n## Strengths\n[return] through [pixilate] and STAB is a very high damage output per click. The [Dragon]/[Fairy] typing grants a clean [Dragon] immunity and resistances to [Fighting], [Bug], and [Dark] — Mega Altaria walls dragon attackers for free. [dragon-dance] boosts both Attack and Speed simultaneously, so one setup opens the door for a sweep.\n\n## Weaknesses & Answers\n[Poison] and [Steel] both resist [return], and [Steel] attackers like [iron-head] users threaten direct KOs. [Ice] is a 2x weakness as well. Speed 80 is slow, so the first [dragon-dance] has to come against something passive or a setup turn.\n\n## Recommended Moveset\n[return] is locked — it is the whole game plan. [dragon-dance] is the setup move. [earthquake] handles [Poison] and [Steel] walls that resist [return]. [protect] secures Mega turn and provides setup opportunities in doubles.\n\n## Item · Ability · Tera\n[altarianite] is mandatory. [pixilate] activates after Mega Evolution. Tera [Fairy] stacks on top of [pixilate] for maximum [return] output. Tera [Dragon] keeps the [Ice] resistance and boosts any [dragon] move you run instead.\n\n## Teammates & Synergy\n[Ground] and [Fire] partners cover [Poison] and [Steel] walls. [intimidate] support extends physical bulk during setup. [tailwind] lets Mega Altaria skip the [dragon-dance] step and immediately clean up.\n\n## Play Patterns\nMega evolve, [protect] to secure the turn, then look for a safe [dragon-dance] opportunity. After a boost, spam [return] into the opponent's pair and flex to [earthquake] when [Steel] is in range. Tera on a predicted super-effective hit to survive and finish.",
   "tags": [
     "hoenn",
     "dragon",

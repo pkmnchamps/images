@@ -1,0 +1,83 @@
+{
+  "pokemonId": 199,
+  "nameKo": "가라르야도킹",
+  "nameEn": "slowking-galar",
+  "formKey": "galar",
+  "types": [
+    "poison",
+    "psychic"
+  ],
+  "roles": [
+    "special-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "regenerator",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "poison",
+    "psychic"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "ko",
+  "title": "[가라르야도킹] 배틀 운용 가이드",
+  "summary": "[regenerator] 교대 회복 + [eerie-spell] 시그니처 기술로 상대 기술 PP를 깎는 [독]·[심령] 벌크 어태커. 110 특공/특방의 특수 벽 겸업이 가능하다.",
+  "strengths": [
+    "[regenerator] 교대 시 HP 1/3 회복",
+    "[eerie-spell] 시그니처 — PP 3 감소 유틸",
+    "110 특공 + 110 특방 안정적 특수 프로필"
+  ],
+  "weaknesses": [
+    "[땅]·[고스트]·[심령]·[악] 약점",
+    "스피드 30 반드시 후공",
+    "물리 내구 95/80 평균"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "eerie-spell",
+      "reason": "시그니처 [심령] 특수 + PP 3 감소 유틸"
+    },
+    {
+      "move": "sludge-bomb",
+      "reason": "[독] 자속 주력 특수"
+    },
+    {
+      "move": "slack-off",
+      "reason": "HP 50% 회복"
+    },
+    {
+      "move": "protect",
+      "reason": "안전 턴 확보"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "assault-vest",
+      "reason": "특수 내구 1.5배 강화"
+    },
+    {
+      "item": "black-sludge",
+      "reason": "[독] 타입 지속 회복"
+    },
+    {
+      "item": "leftovers",
+      "reason": "일반 지속 회복"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[가라르야도킹]은 [regenerator] 특성으로 교대마다 HP 1/3을 회복하는 특수 벌크 어태커다. 시그니처 기술 [eerie-spell]은 상대가 마지막으로 쓴 기술의 PP를 3 감소시키는 독특한 유틸로, 상대 에이스 기술을 빠르게 소진시키는 특수 전술이 가능하다. 110 특공 + 110 특방의 안정적 특수 프로필은 특수 어태커 겸 특수 벽으로 기능한다.\n\n## 강점 분석\n[regenerator]로 교대 회복이 가능하고, [slack-off]로 지속 탱킹도 가능해 실질 무한 HP 운용. [eerie-spell]은 위력 80 + 상대 기술 PP 3 감소로 [choice-specs] 유저의 에이스 기술을 빠르게 소진시키는 전략이 유효. 110 특공 + [독]·[심령] 자속 + [regenerator] 조합은 특수 어태커 겸 특수 벽이라는 이중 역할을 가능하게 한다.\n\n## 약점과 대응\n[땅]·[고스트]·[심령]·[악] 4종 약점. 스피드 30은 [trick-room] 외에는 반드시 후공. 물리 내구 95/80은 평균 수준으로 물리 어태커에는 취약, 특수 벽으로 운용이 기본.\n\n## 추천 기술 구성\n[eerie-spell]은 시그니처 [심령] 자속 + PP 감소 유틸. [sludge-bomb]은 [독] 자속 주력 특수 + 30% 독 부가 효과. [slack-off]는 지속 탱킹. [protect]는 안전 턴 확보.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [assault-vest]가 특수 벽 강화 메인 선택으로 특수 내구 1.5배. [black-sludge]는 [독] 지속 회복 변형. 특성은 [regenerator] 고정. 테라스탈은 [독]으로 [sludge-bomb] 자속 중첩, 또는 [심령]으로 [eerie-spell] 중첩.\n\n## 시너지와 파트너\n[trick-room] 파티에서 스피드 30이 장점. 교대 사이클 피벗 팀에서 최상 시너지. [땅]·[악] 약점 카운터로 [flying]·[fairy] 파트너 배치.\n\n## 운용 팁\n특수 어태커 상대로 교대 인 → [eerie-spell]로 에이스 기술 PP 빠르게 소진 → 교대 아웃 [regenerator] 회복 사이클. [sludge-bomb]으로 주력 딜링, [slack-off]는 긴급 회복. 장기전 운용이 핵심이다.",
+  "tags": [
+    "galar",
+    "poison",
+    "psychic",
+    "regional-form",
+    "regenerator",
+    "special-wall"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

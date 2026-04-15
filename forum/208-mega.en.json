@@ -27,25 +27,25 @@
   },
   "locale": "en",
   "title": "Mega Steelix Battle Guide",
-  "summary": "A [steel]/[ground] physical fortress with 230 Defense and [sand-force] — the heaviest Pokemon in the game turns [heavy-slam] into a max-power STAB.",
+  "summary": "A [Steel]/[Ground] physical fortress with 230 Defense and [sand-force] — the heaviest Pokemon in the game turns [heavy-slam] into a max-power STAB.",
   "strengths": [
     "230 Defense tanks almost any physical hit twice",
-    "[sand-force] gives 30% boost to [ground]/[steel]/Rock moves in sand",
+    "[sand-force] gives 30% boost to [Ground]/[Steel]/[Rock] moves in sand",
     "Doubles as a [stealth-rock] setter and damage dealer"
   ],
   "weaknesses": [
-    "4x weak to [ground], Water, Fire, Fighting",
-    "Speed 30 forces trick-room or last-slot usage",
+    "4x weak to [Ground], [Water], [Fire], [Fighting]",
+    "Speed 30 forces [trick-room] or last-slot usage",
     "230 Defense is useless against special attackers"
   ],
   "recommendedMoves": [
     {
       "move": "heavy-slam",
-      "reason": "Max BP [steel] STAB thanks to 1480kg Mega weight"
+      "reason": "Max BP [Steel] STAB thanks to 1480kg Mega weight"
     },
     {
       "move": "earthquake",
-      "reason": "Spread [ground] STAB boosted by [sand-force]"
+      "reason": "Spread [Ground] STAB boosted by [sand-force]"
     },
     {
       "move": "stealth-rock",
@@ -62,7 +62,7 @@
       "reason": "Mandatory Mega Stone with no alternative"
     }
   ],
-  "bodyMarkdown": "## Overview\nMega Steelix is a [steel]/[ground] physical wall defined by a 230 base Defense stat — one of the highest in the game. [sand-force] boosts [steel], [ground], and Rock moves by 30% under sand, letting Mega Steelix double as an offensive threat instead of a pure wall. Its 1480kg weight also guarantees the maximum damage tier on [heavy-slam].\n\n## Strengths\n230 Defense reduces almost every neutral physical hit to chip damage, and HP-invested spreads survive 2+ close-combats or [earthquake]s from top attackers. Under sand, [earthquake] reaches effective 130 BP and [heavy-slam] hits max weight BP, turning the wall into a credible attacker. The [steel]/[ground] typing resists [fairy], Flying, Rock, Electric (immune), and more — a wide defensive coverage.\n\n## Weaknesses & Answers\n4x weaknesses to Water, Fire, Fighting, and [ground] are all still live, and a hydro-pump or close-combat will still OHKO. Speed 30 makes it either a trick-room abuser or a slow pivot. Special attackers bypass the Defense stat entirely, so pair it with a special sponge.\n\n## Recommended Moveset\n[heavy-slam] is the locked [steel] STAB — the Mega form's 1480kg weight guarantees max BP against most targets. [earthquake] is the primary [ground] STAB and spreads damage in doubles. [stealth-rock] is the standard hazard option given the slow speed. [protect] secures the Mega turn and enables safe pivot plays.\n\n## Item · Ability · Tera\n[steelixite] is mandatory. [sand-force] activates after Mega Evolution. Tera [steel] adds resistances and patches the Fire weakness, while Tera [fairy] flips the Fighting 4x weakness into a resistance for a defensive reroute.\n\n## Teammates & Synergy\nPair with sand setters like tyranitar or hippowdon to activate [sand-force], and with trick-room leads like dusknoir or hatterene to bypass the Speed 30 problem. Cover the Water and Fighting weaknesses with Grass and Psychic partners respectively.\n\n## Play Patterns\nDo not lead — bring Mega Steelix in on a predicted switch or after trick-room/sand is up. Use [protect] on the Mega turn for safety, then start pressuring with [earthquake] and [heavy-slam]. Drop [stealth-rock] when the opponent is forced to pivot.",
+  "bodyMarkdown": "## Overview\nMega Steelix is a [Steel]/[Ground] physical wall defined by a 230 base Defense stat — one of the highest in the game. [sand-force] boosts [Steel], [Ground], and [Rock] moves by 30% under sand, letting Mega Steelix double as an offensive threat instead of a pure wall. Its 1480kg weight also guarantees the maximum damage tier on [heavy-slam].\n\n## Strengths\n230 Defense reduces almost every neutral physical hit to chip damage, and HP-invested spreads survive 2+ [close-combat]s or [earthquake]s from top attackers. Under sand, [earthquake] reaches effective 130 BP and [heavy-slam] hits max weight BP, turning the wall into a credible attacker. The [Steel]/[Ground] typing resists [Fairy], [Flying], [Rock], [Electric] (immune), and more — a wide defensive coverage.\n\n## Weaknesses & Answers\n4x weaknesses to [Water], [Fire], [Fighting], and [Ground] are all still live, and a [hydro-pump] or [close-combat] will still OHKO. Speed 30 makes it either a [trick-room] abuser or a slow pivot. Special attackers bypass the Defense stat entirely, so pair it with a special sponge.\n\n## Recommended Moveset\n[heavy-slam] is the locked [Steel] STAB — the Mega form's 1480kg weight guarantees max BP against most targets. [earthquake] is the primary [Ground] STAB and spreads damage in doubles. [stealth-rock] is the standard hazard option given the slow speed. [protect] secures the Mega turn and enables safe pivot plays.\n\n## Item · Ability · Tera\n[steelixite] is mandatory. [sand-force] activates after Mega Evolution. Tera [Steel] adds resistances and patches the [Fire] weakness, while Tera [Fairy] flips the [Fighting] 4x weakness into a resistance for a defensive reroute.\n\n## Teammates & Synergy\nPair with sand setters like [tyranitar] or [hippowdon] to activate [sand-force], and with [trick-room] leads like [dusknoir] or [hatterene] to bypass the Speed 30 problem. Cover the [Water] and [Fighting] weaknesses with [Grass] and [Psychic] partners respectively.\n\n## Play Patterns\nDo not lead — bring Mega Steelix in on a predicted switch or after [trick-room]/sand is up. Use [protect] on the Mega turn for safety, then start pressuring with [earthquake] and [heavy-slam]. Drop [stealth-rock] when the opponent is forced to pivot.",
   "tags": [
     "johto",
     "steel",

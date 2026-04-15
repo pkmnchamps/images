@@ -26,26 +26,26 @@
     "spe": 21
   },
   "locale": "en",
-  "title": "[azumarill] Battle Guide",
-  "summary": "A [water]/[fairy] physical breaker whose [huge-power] doubles Attack outright, with [aqua-jet] priority and an optional [belly-drum] win condition.",
+  "title": "[Azumarill] Battle Guide",
+  "summary": "A [Water]/[Fairy] physical breaker whose [huge-power] doubles Attack outright, with [aqua-jet] priority and an optional [belly-drum] win condition.",
   "strengths": [
     "[huge-power] doubles the base Attack to 200-plus effective damage",
-    "[water]/[fairy] STAB covers Dragon, Fighting, and Dark cleanly",
+    "[Water]/[Fairy] STAB covers [Dragon], [Fighting], and [Dark] cleanly",
     "[aqua-jet] provides priority to make up for low Speed"
   ],
   "weaknesses": [
     "50 Speed moves last against virtually everything",
-    "Electric, Grass, and Poison weaknesses are common in the format",
+    "[Electric], [Grass], and [Poison] weaknesses are common in the format",
     "Pre-setup damage is much weaker than post-setup damage"
   ],
   "recommendedMoves": [
     {
       "move": "liquidation",
-      "reason": "Main [water] STAB boosted by [huge-power]"
+      "reason": "Main [Water] STAB boosted by [huge-power]"
     },
     {
       "move": "play-rough",
-      "reason": "[fairy] STAB for Dragon, Dark, and Fighting targets"
+      "reason": "[Fairy] STAB for [Dragon], [Dark], and [Fighting] targets"
     },
     {
       "move": "aqua-jet",
@@ -59,14 +59,14 @@
   "recommendedItems": [
     {
       "item": "sitrus-berry",
-      "reason": "Triggers after to restore HP immediately"
+      "reason": "Triggers after to [rest]ore HP immediately"
     },
     {
       "item": "mystic-water",
-      "reason": "Boosts [water] STAB damage with no drawback"
+      "reason": "Boosts [Water] STAB damage with no drawback"
     }
   ],
-  "bodyMarkdown": "## Overview\n[azumarill] is a [water]/[fairy] physical breaker whose entire case is built on the [huge-power] ability, which doubles Attack. Its base 50 Attack looks low on paper, but [huge-power] pushes it into effective 200+ territory, making [azumarill] one of the hardest-hitting physical attackers in the tier despite its unassuming stats. The role splits between a four-attack priority pivot and a [belly-drum] setup sweeper depending on team needs.\n\n## Strengths\n[huge-power] is the damage scaler that makes [azumarill] real. [liquidation] is the main STAB finisher with a defense-drop secondary, and [play-rough] handles Dragon, Dark, and Fighting attackers that would otherwise wall [water]. [aqua-jet] provides +1 priority, which fixes the Speed problem for cleaner duty. [belly-drum] is the win-condition move.\n\n## Weaknesses & Answers\n50 Speed is the limiting factor. Electric, Grass, and Poison are all weaknesses that common special attackers carry, which means bringing [azumarill] in on the wrong switch can end the slot before it attacks. [belly-drum] also cuts HP to 50 percent, so the setup window requires precise planning and [sitrus-berry] recovery.\n\n## Recommended Moveset\n[liquidation] is the locked [water] STAB with [huge-power] scaling. [play-rough] is the [fairy] STAB for Dragon and Fighting targets. [aqua-jet] is the priority slot that cleans up revenge-kill threats that would otherwise outspeed [azumarill]. [belly-drum] fills the setup slot in the dedicated sweeper build, or superpower replaces it for extra Rock and Steel coverage in the four-attack variant.\n\n## Item · Ability · Tera\n[sitrus-berry] is the default for the [belly-drum] build — it triggers after the HP cost and restores a quarter of [azumarill]'s health, which is the difference between a committed sweeper and a wasted slot. [mystic-water] is the alternate for the four-attack build, boosting [water] STAB damage without locking moves. The ability must be [huge-power]. Tera [water] maxes [liquidation], and Tera [fairy] flips the defensive profile for [play-rough] focus.\n\n## Teammates & Synergy\nA slow pivot like a volt-switch user creates the safe entry turns [azumarill] needs to set up [belly-drum]. An Electric and Grass answer. Intimidate support on the back line keeps priority threats manageable, and a hazard remover preserves [azumarill]'s HP pool for [belly-drum]'s 50 percent cost.\n\n## Play Patterns\nFor the [belly-drum] build, enter on a predicted swap, use [belly-drum] on the safe turn, trigger [sitrus-berry] recovery, and start chaining [liquidation] plus priority [aqua-jet] KOs. For the four-attack build, use [aqua-jet] as a revenge-kill tool and save [play-rough] for known Dragon or Fighting targets. Save the Tera specifically for the moment an Electric or Grass move is telegraphed.",
+  "bodyMarkdown": "## Overview\n[Azumarill] is a [Water]/[Fairy] physical breaker whose entire case is built on the [huge-power] ability, which doubles Attack. Its base 50 Attack looks low on paper, but [huge-power] pushes it into effective 200+ territory, making [Azumarill] one of the hardest-hitting physical attackers in the tier despite its unassuming stats. The role splits between a four-attack priority pivot and a [belly-drum] setup [sweeper] depending on team needs.\n\n## Strengths\n[huge-power] is the damage scaler that makes [Azumarill] real. [liquidation] is the main STAB finisher with a defense-drop secondary, and [play-rough] handles [Dragon], [Dark], and [Fighting] attackers that would otherwise wall [Water]. [aqua-jet] provides +1 priority, which fixes the Speed problem for cleaner duty. [belly-drum] is the win-condition move.\n\n## Weaknesses & Answers\n50 Speed is the limiting factor. [Electric], [Grass], and [Poison] are all weaknesses that common special attackers carry, which means bringing [Azumarill] in on the wrong switch can end the slot before it attacks. [belly-drum] also cuts HP to 50 percent, so the setup window requires precise planning and [sitrus-berry] recovery.\n\n## Recommended Moveset\n[liquidation] is the locked [Water] STAB with [huge-power] scaling. [play-rough] is the [Fairy] STAB for [Dragon] and [Fighting] targets. [aqua-jet] is the priority slot that cleans up [revenge]-kill threats that would otherwise outspeed [Azumarill]. [belly-drum] fills the setup slot in the dedicated [sweeper] build, or [superpower] replaces it for extra [Rock] and [Steel] coverage in the four-attack variant.\n\n## Item · Ability · Tera\n[sitrus-berry] is the default for the [belly-drum] build — it triggers after the HP cost and restores a quarter of [Azumarill]'s health, which is the difference between a committed [sweeper] and a wasted slot. [mystic-water] is the alternate for the four-attack build, boosting [Water] STAB damage without locking moves. The ability must be [huge-power]. Tera [Water] maxes [liquidation], and Tera [Fairy] flips the defensive profile for [play-rough] focus.\n\n## Teammates & Synergy\nA slow pivot like a [volt-switch] user creates the safe entry turns [Azumarill] needs to set up [belly-drum]. An [Electric] and [Grass] answer. Intimidate support on the back line keeps priority threats manageable, and a hazard remover preserves [Azumarill]'s HP pool for [belly-drum]'s 50 percent cost.\n\n## Play Patterns\nFor the [belly-drum] build, enter on a predicted swap, use [belly-drum] on the safe turn, trigger [sitrus-berry] recovery, and start chaining [liquidation] plus priority [aqua-jet] KOs. For the four-attack build, use [aqua-jet] as a [revenge]-kill tool and save [play-rough] for known [Dragon] or [Fighting] targets. Save the Tera specifically for the moment an [Electric] or [Grass] move is telegraphed.",
   "tags": [
     "johto",
     "water",

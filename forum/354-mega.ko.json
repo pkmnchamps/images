@@ -25,22 +25,22 @@
     "spe": 16
   },
   "locale": "ko",
-  "title": "[banette-mega] 배틀 운용 가이드",
-  "summary": "[prankster]로 변화기 선공 보정받는 [ghost] 물리 어태커 겸 서포터. 165 공격 + [shadow-claw] 주력 + [will-o-wisp]/[taunt] 유틸 구성.",
+  "title": "[메가다크펫] 배틀 운용 가이드",
+  "summary": "[prankster]로 변화기 선공 보정받는 [고스트] 물리 어태커 겸 서포터. 165 공격 + [shadow-claw] 주력 + [will-o-wisp]/[taunt] 유틸 구성.",
   "strengths": [
     "[prankster]로 [will-o-wisp]·[taunt] 선공 보정",
-    "165 공격의 폭발적 [ghost] 물리 화력",
-    "[ghost] 일반·격투 무효 전환 타입"
+    "165 공격의 폭발적 [고스트] 물리 화력",
+    "[고스트] [일반]·[격투] 무효 전환 타입"
   ],
   "weaknesses": [
-    "악·[ghost] 약점",
+    "[악]·[고스트] 약점",
     "내구 64/75/83 전체적으로 낮음",
     "스피드 75 기본치 적층 수단 없음"
   ],
   "recommendedMoves": [
     {
       "move": "shadow-claw",
-      "reason": "[ghost] 자속 주력 물리 공격"
+      "reason": "[고스트] 자속 주력 물리 공격"
     },
     {
       "move": "will-o-wisp",
@@ -61,7 +61,7 @@
       "reason": "메가 진화를 위한 필수 아이템"
     }
   ],
-  "bodyMarkdown": "## 개요\n[banette-mega]은 [prankster] 특성으로 변화기에 우선도 보정을 받는 [ghost] 물리 어태커 겸 서포터다. 165 공격의 폭발적 물리 화력에 [will-o-wisp]·[taunt] 선공 보정 유틸리티를 결합하여, 단순 어태커가 아닌 게임 템포를 뒤집는 복합 역할을 수행한다.\n\n## 강점 분석\n[prankster]는 메가 진화 후 활성화되어 [will-o-wisp]·[taunt]·thunder-wave 등 변화기의 우선도를 +1로 올린다. 이 조합은 상대 셋업 어태커를 봉쇄하고, 물리 어태커를 화상시키며, 직접 공격으로 [shadow-claw] 165 공격 폭발 화력까지 뿜는다. [ghost] 단일 타입은 일반·격투 무효 특성으로 urshifu 등 격투 타입에게 안전 교대 인이 가능하다.\n\n## 약점과 대응\n내구 64/75/83은 전체적으로 낮아 공격 한 방에 쓰러질 위험이 크다. 악·[ghost] 타입 약점으로 mega-sableye·tyranitar 상대에게 불리. 스피드 75는 셋업 수단이 없어 선공 플레이에 전적으로 의존한다.\n\n## 추천 기술 구성\n[shadow-claw]는 주력 [ghost] STAB으로 165 공격 폭발 화력. [will-o-wisp]는 [prankster] 선공 보정으로 물리 어태커 봉쇄 핵심 유틸. [taunt]는 [prankster] 보정으로 상대 셋업 어태커 완전 차단. [sucker-punch]는 스피드 75 약점 보완 선공기 피니셔.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [banettite] 고정이다. 특성은 메가 진화 후 [prankster]로 전환(진화 전 insomnia 등은 무효). 테라스탈은 [ghost]로 자속 중첩 보정, 또는 [fairy]로 악·[ghost] 약점 저항 전환.\n\n## 시너지와 파트너\n내구 약점 보조로 intimidate 유저가 유효. fake-out으로 1턴 보호, tailwind로 스피드 보조하면 운용력이 크게 향상. 악·[ghost] 카운터로 [fairy] 파트너 배치.\n\n## 운용 팁\n메가 진화 1턴 후 [prankster] 활성화되면 [will-o-wisp]·[taunt]로 상대 템포를 장악한다. 물리 어태커 화상 후 [shadow-claw] 연타로 확정 KO, [sucker-punch]는 고속 어태커 피니셔용으로 활용. 내구가 낮아 교대 인 타이밍에 신중해야 한다.",
+  "bodyMarkdown": "## 개요\n[메가다크펫]은 [prankster] 특성으로 변화기에 우선도 보정을 받는 [고스트] 물리 어태커 겸 서포터다. 165 공격의 폭발적 물리 화력에 [will-o-wisp]·[taunt] 선공 보정 유틸리티를 결합하여, 단순 어태커가 아닌 게임 템포를 뒤집는 복합 역할을 수행한다.\n\n## 강점 분석\n[prankster]는 메가 진화 후 활성화되어 [will-o-wisp]·[taunt]·[thunder-wave] 등 변화기의 우선도를 +1로 올린다. 이 조합은 상대 셋업 어태커를 봉쇄하고, 물리 어태커를 화상시키며, 직접 공격으로 [shadow-claw] 165 공격 폭발 화력까지 뿜는다. [고스트] 단일 타입은 [일반]·[격투] 무효 특성으로 [urshifu] 등 [격투] 타입에게 안전 교대 인이 가능하다.\n\n## 약점과 대응\n내구 64/75/83은 전체적으로 낮아 공격 한 방에 쓰러질 위험이 크다. [악]·[고스트] 타입 약점으로 [mega-sableye]·[tyranitar] 상대에게 불리. 스피드 75는 셋업 수단이 없어 선공 플레이에 전적으로 의존한다.\n\n## 추천 기술 구성\n[shadow-claw]는 주력 [고스트] STAB으로 165 공격 폭발 화력. [will-o-wisp]는 [prankster] 선공 보정으로 물리 어태커 봉쇄 핵심 유틸. [taunt]는 [prankster] 보정으로 상대 셋업 어태커 완전 차단. [sucker-punch]는 스피드 75 약점 보완 선공기 피니셔.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [banettite] 고정이다. 특성은 메가 진화 후 [prankster]로 전환(진화 전 [insomnia] 등은 무효). 테라스탈은 [고스트]로 자속 중첩 보정, 또는 [페어리]로 [악]·[고스트] 약점 저항 전환.\n\n## 시너지와 파트너\n내구 약점 보조로 [intimidate] 유저가 유효. [fake-out]으로 1턴 보호, [tailwind]로 스피드 보조하면 운용력이 크게 향상. [악]·[고스트] 카운터로 [페어리] 파트너 배치.\n\n## 운용 팁\n메가 진화 1턴 후 [prankster] 활성화되면 [will-o-wisp]·[taunt]로 상대 템포를 장악한다. 물리 어태커 화상 후 [shadow-claw] 연타로 확정 KO, [sucker-punch]는 고속 어태커 피니셔용으로 활용. 내구가 낮아 교대 인 타이밍에 신중해야 한다.",
   "tags": [
     "hoenn",
     "ghost",

@@ -26,26 +26,26 @@
     "spe": 32
   },
   "locale": "en",
-  "title": "[rotom] Battle Guide",
-  "summary": "A fast [electric]/[ghost] special pivot that uses [levitate] to ignore ground moves while [volt-switch] cycles the tempo lead every turn.",
+  "title": "[Rotom] Battle Guide",
+  "summary": "A fast [electric]/[ghost] special [pivot] that uses [levitate] to ignore g[round] moves while [volt-switch] cycles the tempo lead every turn.",
   "strengths": [
-    "[levitate] zeroes out ground coverage",
-    "[electric]/[ghost] STAB has huge neutral reach",
+    "[levitate] zeroes out g[round] cove[rage]",
+    "[Electric]/[ghost] STAB has huge neutral reach",
     "[volt-switch] cycles momentum without tempo loss"
   ],
   "weaknesses": [
-    "Weak to dark and mirror [ghost] coverage",
+    "Weak to dark and mirror [ghost] cove[rage]",
     "Thin physical bulk gets cracked by priority",
     "[choice-scarf] locks are easy to read and switch on"
   ],
   "recommendedMoves": [
     {
       "move": "thunderbolt",
-      "reason": "Primary [electric] STAB"
+      "reason": "Primary [Electric] STAB"
     },
     {
       "move": "shadow-ball",
-      "reason": "[ghost] STAB to pressure psychic and [ghost]"
+      "reason": "[Ghost] STAB to pressure [psychic] and [ghost]"
     },
     {
       "move": "volt-switch",
@@ -70,7 +70,7 @@
       "reason": "Mid-game heal to extend the cycles"
     }
   ],
-  "bodyMarkdown": "## Overview\n[rotom] is the rare Champions pivot that combines an [electric]/[ghost] typing with the [levitate] ability. 95 SpA and 91 Speed are ordinary on paper, but the neutral coverage of its STAB pair is huge and the ground immunity means switch math almost always favours it. The role is clean — bring it in on a ground attacker, click [volt-switch], and repeat until the opponent runs out of safe pivots.\n\n## Strengths\n[levitate] wipes earthquake and earth-power off the threat list entirely, turning every ground attacker into a free switch opportunity. [thunderbolt] pressures Water and Flying cores, [shadow-ball] punches through psychic and [ghost] walls, and very few types resist both. [will-o-wisp] is the quiet workhorse of the set — one burn halves the damage of the opposing physical attacker and buys the backline breathing room.\n\n## Weaknesses & Answers\nDark and coverage [ghost] moves bypass everything [rotom] is good at, and with only 77/77 defences a single shadow-sneak can snap it in half when chipped. [ghost] mirrors become a pure Speed race. [choice-scarf] sets trade flexibility for tempo — once the locked move is known, any ground type becomes a free switch, so telegraphing [thunderbolt] on a predictable turn is a mistake.\n\n## Recommended Moveset\n[thunderbolt] is the locked [electric] STAB and the strongest click on most match-ups. [shadow-ball] is the [ghost] STAB that pries open psychic cores. [volt-switch] is the reason [rotom] is on the team at all — click it whenever the opponent is about to switch to ground, then replace [rotom] with a partner that punishes that switch. The last slot goes to [will-o-wisp] to soften physical attackers; trick is a reasonable alternative against passive walls.\n\n## Item · Ability · Tera\n[choice-scarf] is the primary item, promoting [volt-switch] to speed control and locking [rotom] above almost every unboosted threat. [magnet] is the offensive alternative when the team already has speed control elsewhere. [sitrus-berry] fits the long-game four-move build. The ability must be [levitate]. Tera [electric] amplifies [thunderbolt]; Tera [ghost] flips the dark weakness and absorbs a physical priority turn.\n\n## Teammates & Synergy\nPair [rotom] with a physically bulky tank that sponges the burnt attacker and the team breathes easier. Fairy, Normal, or Steel partners close the dark and [ghost] holes in the profile, and a hazard setter plus a dedicated [volt-switch] partner make the pivot loop sustainable across a long game.\n\n## Play Patterns\n[rotom] leads comfortably and also comes in on turn two once the opposing ground is known. Click [volt-switch] the moment a ground switch is telegraphed, and stash [will-o-wisp] for the first physical threat that enters. Hold Tera until a dark or [ghost] STAB is about to connect — that single turn of flipped weaknesses usually buys another full pivot rotation.",
+  "bodyMarkdown": "## Overview\n[Rotom] is the rare Champions [pivot] that combines an [Electric]/[ghost] typing with the [levitate] ability. 95 SpA and 91 Speed are ordinary on paper, but the neutral coverage of its STAB pair is huge and the ground immunity means switch math almost always favours it. The role is clean — bring it in on a ground attacker, click [volt-switch], and repeat until the opponent runs out of safe pivots.\n\n## Strengths\n[levitate] wipes [earthquake] and [earth-power] off the threat list entirely, turning every ground attacker into a free switch opportunity. [thunderbolt] pressures [Water] and [Flying] cores, [shadow-ball] punches through [psychic] and [ghost] walls, and very few types resist both. [will-o-wisp] is the quiet workhorse of the set — one burn halves the damage of the opposing physical attacker and buys the backline breathing room.\n\n## Weaknesses & Answers\n[Dark] and coverage [ghost] moves bypass everything [Rotom] is good at, and with only 77/77 defences a single [shadow-sneak] can snap it in half when chipped. [Ghost] mirrors become a pure Speed race. [choice-scarf] sets trade flexibility for tempo — once the locked move is known, any ground type becomes a free switch, so telegraphing [thunderbolt] on a predictable turn is a mistake.\n\n## Recommended Moveset\n[thunderbolt] is the locked [Electric] STAB and the strongest click on most match-ups. [shadow-ball] is the [Ghost] STAB that pries open [psychic] cores. [volt-switch] is the reason [Rotom] is on the team at all — click it whenever the opponent is about to switch to ground, then replace [Rotom] with a partner that punishes that switch. The last slot goes to [will-o-wisp] to soften physical attackers; [trick] is a reasonable alternative against passive walls.\n\n## Item · Ability · Tera\n[choice-scarf] is the primary item, promoting [volt-switch] to speed control and locking [Rotom] above almost every unboosted threat. [magnet] is the offensive alternative when the team already has speed control elsewhere. [sitrus-berry] fits the long-game four-move build. The ability must be [levitate]. Tera [Electric] amplifies [thunderbolt]; Tera [Ghost] flips the dark weakness and absorbs a physical priority turn.\n\n## Teammates & Synergy\nPair [Rotom] with a physically bulky tank that sponges the burnt attacker and the team breathes easier. [Fairy], [Normal], or [Steel] partners close the dark and [ghost] holes in the profile, and a hazard setter plus a dedicated [volt-switch] partner make the [pivot] loop sustainable across a long game.\n\n## Play Patterns\n[Rotom] leads comfortably and also comes in on turn two once the opposing ground is known. Click [volt-switch] the moment a ground switch is telegraphed, and stash [will-o-wisp] for the first physical threat that enters. Hold Tera until a dark or [ghost] STAB is about to connect — that single turn of flipped weaknesses usually buys another full [pivot] rotation.",
   "tags": [
     "sinnoh",
     "electric",

@@ -1,0 +1,81 @@
+{
+  "pokemonId": 128,
+  "nameKo": "팔데아켄타로스(투지)",
+  "nameEn": "tauros-paldea-combat-breed",
+  "formKey": "paldea-combat-breed",
+  "types": [
+    "fighting"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "intimidate",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "fighting",
+    "fire"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[팔데아켄타로스(투지)] 배틀 운용 가이드",
+  "summary": "[intimidate] 서포트 + 110 공격 + 100 스피드 [격투] 단일 물리 어태커. [close-combat] 자속 주력의 공격형 피벗이다.",
+  "strengths": [
+    "[intimidate] 등장 시 상대 공격 1단계 하락",
+    "110 공격 + 100 스피드 고속 물리 화력",
+    "순수 [격투] 타입 [악]·[일반]·[바위] 견제"
+  ],
+  "weaknesses": [
+    "[비행]·[심령]·[페어리] 약점",
+    "75/105/70 물리 내구 평균",
+    "[격투] 단일 타입으로 자속 견제 제한"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "close-combat",
+      "reason": "[격투] 자속 최대 위력 물리"
+    },
+    {
+      "move": "rock-slide",
+      "reason": "[비행] 견제 + 더블 광역 플린치"
+    },
+    {
+      "move": "earthquake",
+      "reason": "[독]·[강철]·[전기] 견제 광역"
+    },
+    {
+      "move": "protect",
+      "reason": "안전 턴 확보"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "life-orb",
+      "reason": "물리 화력 보정"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "스피드 초고속 변형"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "HP 50% 이하 회복 보조"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[팔데아켄타로스(투지)]는 순수 [격투] 타입 단일로, [intimidate] 서포트 + 110 공격 + 100 스피드의 고속 물리 어태커다. 원본 [켄타로스]와 달리 [격투] 자속으로 순수 [격투] 약점 타입 대응에 특화되어 있다.\n\n## 강점 분석\n[intimidate]는 등장 시 상대 물리 공격자 2체의 공격을 1단계 하락시키는 강력한 서포트 특성. 110 공격 + 100 스피드는 [close-combat] 자속 주력으로 고속 물리 화력을 뿜는다. 순수 [격투] 타입으로 [악]·[일반]·[바위]·[강철]·[얼음] 5종 견제가 가능하고, [rock-slide]와 [earthquake] 광역기로 더블 VGC에서 효율적이다.\n\n## 약점과 대응\n[비행]·[심령]·[페어리] 약점은 메타 핵심 공격 타입이다. [fairy] 어태커 상대로 즉사 가능. 75/105/70 내구는 평균 수준으로 약점 공격에 취약. [격투] 단일 타입은 자속 견제 범위가 제한적.\n\n## 추천 기술 구성\n[close-combat]은 [격투] 자속 주력 최대 위력 물리. [rock-slide]는 [비행] 견제 + 더블 광역 플린치. [earthquake]는 [독]·[강철]·[전기] 견제 광역. [protect]는 안전 턴 확보.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [life-orb]가 물리 화력 보정 메인. [choice-scarf]는 초고속 변형. 특성은 [intimidate] 고정. 테라스탈은 [격투]로 [close-combat] 자속 중첩, 또는 [불]로 [비행] 약점 완화 + [벌레]·[얼음] 저항 획득.\n\n## 시너지와 파트너\n[비행]·[심령] 약점 카운터로 [전기]·[악]·[벌레] 파트너. [tailwind]로 스피드 추가 확보, [follow-me] 유저로 1턴 보호 구성.\n\n## 운용 팁\n선봉으로 [intimidate] 유발 후 [close-combat]·[rock-slide] 주력 공격. 더블에서 [rock-slide]+[earthquake] 광역 조합으로 양쪽 상대 동시 공격 가능. [심령]·[페어리] 노출 시 즉시 교대 필수.",
+  "tags": [
+    "paldea",
+    "fighting",
+    "regional-form",
+    "intimidate",
+    "physical-attacker"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

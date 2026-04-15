@@ -25,26 +25,26 @@
     "spe": 32
   },
   "locale": "en",
-  "title": "[arbok] Battle Guide",
-  "summary": "A pure-[poison] physical sweeper that uses [intimidate] on entry and [coil] to snowball its way to a sweep.",
+  "title": "[Arbok] Battle Guide",
+  "summary": "A pure-[Poison] physical sweeper that uses [intimidate] on entry and [coil] to snowball its way to a sweep.",
   "strengths": [
     "[intimidate] softens physical attackers on switch-in",
     "[coil] boosts Attack, Defense, and accuracy in one slot",
     "[sucker-punch] covers the low Speed with priority"
   ],
   "weaknesses": [
-    "[ground] and psychic 2x weaknesses gate entries",
+    "[Ground] and [psychic] 2x weaknesses gate entries",
     "Speed 80 loses races before a setup turn is secured",
     "60/69/79 bulk leaves very little setup room"
   ],
   "recommendedMoves": [
     {
       "move": "gunk-shot",
-      "reason": "High-damage [poison] STAB main move"
+      "reason": "High-damage [Poison] STAB main move"
     },
     {
       "move": "earthquake",
-      "reason": "[ground] coverage for Steel, Rock, and Electric"
+      "reason": "[Ground] cove[rage] for [Steel], [Rock], and [Electric]"
     },
     {
       "move": "coil",
@@ -66,10 +66,10 @@
     },
     {
       "item": "sitrus-berry",
-      "reason": "Mid-game HP restore at the 50% threshold"
+      "reason": "Mid-game HP [rest]ore at the 50% threshold"
     }
   ],
-  "bodyMarkdown": "## Overview\n[arbok] is a pure-[poison] physical sweeper that builds its plan around [intimidate] on entry and [coil] for setup. 60/69/79 bulk and Speed 80 are plain, but [intimidate] softens incoming physical attackers while [coil] stacks Attack, Defense, and accuracy in one move, letting [arbok] convert a single setup turn into a legitimate sweep attempt.\n\n## Strengths\n[intimidate] drops the opposing physical attackers Attack by one stage on switch-in, effectively padding [arbok] bulk without investment. [coil] is the key move — one use turns [arbok] into a 1.5x Attack, 1.5x Defense threat with guaranteed [gunk-shot] accuracy. [sucker-punch] patches the Speed tier by scoring KOs on weakened attackers regardless of Speed, which is how the sweep ends cleanly against fast cleaners.\n\n## Weaknesses & Answers\n[ground] and psychic both hit for 2x, and any respectable [earthquake] user threatens [arbok] before it can [coil]. The thin 60/69/79 bulk means it cannot take a boosted neutral hit, and psychic sweepers race past [arbok] Speed to end the setup before it starts. Entering without [intimidate] active (such as from a predicted U-turn) is usually a losing proposition.\n\n## Recommended Moveset\n[gunk-shot] is the locked [poison] STAB because the damage ceiling after a [coil] boost is the whole finisher. [earthquake] is the mandatory coverage for Steel, Rock, and Electric walls that would otherwise wall the STAB. [coil] is the setup slot — one use is enough to kick off a sweep attempt, and the accuracy boost removes any [gunk-shot] miss worries. [sucker-punch] is the last slot for priority cleanup against faster threats.\n\n## Item · Ability · Tera\n[life-orb] is the default because the 30% damage boost lets [coil]-boosted attacks reach higher OHKO rolls. [focus-sash] is the insurance pick that guarantees one setup turn, and [sitrus-berry] is a rarer mid-game heal for longer setup plans. Ability stays [intimidate] — shed-skin and unnerve are not competitive. Tera [poison] maxes STAB damage while Tera [ground] flips the psychic weakness and boosts [earthquake].\n\n## Teammates & Synergy\n[arbok] relies on forced switches to get a free [coil] turn, so pair it with volt-switch and u-turn pivots that create matchup advantages. A Dark partner handles the psychic weakness, and Flying or Grass allies cover the [ground] weakness. A stealth-rock user behind [arbok] widens the OHKO ranges after a [coil] boost, turning 2HKOs into guaranteed KOs.\n\n## Play Patterns\nBring [arbok] in on a predicted switch or a soft matchup, [coil] on the free turn, then start [gunk-shot] + [earthquake] cleanup. Use [sucker-punch] only against weakened attackers, and Tera on a telegraphed psychic or [ground] move to buy the decisive turn.",
+  "bodyMarkdown": "## Overview\n[Arbok] is a pure-[Poison] physical sweeper that builds its plan around [intimidate] on entry and [coil] for setup. 60/69/79 bulk and Speed 80 are plain, but [intimidate] softens incoming physical attackers while [coil] stacks Attack, Defense, and accuracy in one move, letting [Arbok] convert a single setup turn into a legitimate sweep attempt.\n\n## Strengths\n[intimidate] drops the opposing physical attackers Attack by one stage on switch-in, effectively padding [Arbok] bulk without investment. [coil] is the key move — one use turns [Arbok] into a 1.5x Attack, 1.5x Defense threat with guaranteed [gunk-shot] accuracy. [sucker-punch] patches the Speed tier by scoring KOs on weakened attackers regardless of Speed, which is how the sweep ends cleanly against fast cleaners.\n\n## Weaknesses & Answers\n[Ground] and [psychic] both hit for 2x, and any respectable [earthquake] user threatens [Arbok] before it can [coil]. The thin 60/69/79 bulk means it cannot take a boosted neutral hit, and [psychic] sweepers race past [Arbok] Speed to end the setup before it starts. Entering without [intimidate] active (such as from a predicted U-turn) is usually a losing proposition.\n\n## Recommended Moveset\n[gunk-shot] is the locked [Poison] STAB because the damage ceiling after a [coil] boost is the whole finisher. [earthquake] is the mandatory coverage for [Steel], [Rock], and [Electric] walls that would otherwise wall the STAB. [coil] is the setup slot — one use is enough to kick off a sweep attempt, and the accuracy boost removes any [gunk-shot] miss worries. [sucker-punch] is the last slot for priority cleanup against faster threats.\n\n## Item · Ability · Tera\n[life-orb] is the default because the 30% damage boost lets [coil]-boosted attacks reach higher OHKO rolls. [focus-sash] is the insurance pick that guarantees one setup turn, and [sitrus-berry] is a rarer mid-game heal for longer setup plans. Ability stays [intimidate] — shed-skin and [unnerve] are not competitive. Tera [Poison] maxes STAB damage while Tera [Ground] flips the [psychic] weakness and boosts [earthquake].\n\n## Teammates & Synergy\n[Arbok] relies on forced switches to get a free [coil] turn, so pair it with [volt-switch] and [u-turn] pivots that create matchup advantages. A [Dark] partner handles the [psychic] weakness, and [Flying] or [Grass] allies cover the [Ground] weakness. A [stealth-rock] user behind [Arbok] widens the OHKO ranges after a [coil] boost, turning 2HKOs into guaranteed KOs.\n\n## Play Patterns\nBring [Arbok] in on a predicted switch or a soft matchup, [coil] on the free turn, then start [gunk-shot] + [earthquake] cleanup. Use [sucker-punch] only against weakened attackers, and Tera on a telegraphed [psychic] or [Ground] move to buy the decisive turn.",
   "tags": [
     "kanto",
     "poison",

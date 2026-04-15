@@ -1,0 +1,82 @@
+{
+  "pokemonId": 157,
+  "nameKo": "히스이블레이범",
+  "nameEn": "typhlosion-hisui",
+  "formKey": "hisui",
+  "types": [
+    "fire",
+    "ghost"
+  ],
+  "roles": [
+    "special-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "blaze",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "ghost",
+    "fire"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[히스이블레이범] 배틀 운용 가이드",
+  "summary": "[불]·[고스트] 복합 특수 어태커. 119 특공의 고화력 + [infernal-parade] 시그니처 기술을 활용한다.",
+  "strengths": [
+    "[불]·[고스트] 복합 [일반]·[격투] 무효",
+    "[infernal-parade] 시그니처 — 상태이상 시 위력 2배",
+    "119 특공 + 95 스피드 특수 어태커 프로필"
+  ],
+  "weaknesses": [
+    "[물]·[바위]·[땅]·[악]·[고스트] 약점 다수",
+    "73/78/85 내구 평균",
+    "스피드 95는 고속권에 후공"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "infernal-parade",
+      "reason": "시그니처 [고스트] 자속 — 상태이상 시 위력 2배"
+    },
+    {
+      "move": "fire-blast",
+      "reason": "[불] 자속 최대 위력 특수"
+    },
+    {
+      "move": "focus-blast",
+      "reason": "[악]·[바위] 견제 [격투] 서브"
+    },
+    {
+      "move": "protect",
+      "reason": "안전 턴 확보"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "choice-specs",
+      "reason": "특공 1.5배 화력 변형"
+    },
+    {
+      "item": "life-orb",
+      "reason": "유연한 화력 보정"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "1회 확정 생존"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[히스이블레이범]은 [불]·[고스트] 복합 특수 어태커로, 시그니처 기술 [infernal-parade]가 상태이상 상대에게 위력 2배가 되는 독특한 판정을 가진다. [일반]·[격투] 무효 타입이라 [urshifu]·[kangaskhan-mega] 등 [격투]·[일반] 어태커에게 안전 교대 인이 가능하다.\n\n## 강점 분석\n[infernal-parade]는 기본 위력 60 + 30% 화상 부가 효과 + 상태이상 상대에 위력 2배 = 실질 120의 폭발적 [고스트] 자속 특수기. [will-o-wisp]·[toxic] 상태이상 유저와 조합하면 2배 보정을 안정적으로 발동 가능. [불]·[고스트] 복합 타입은 [일반]·[격투] 무효 + [풀]·[얼음]·[벌레] 저항을 가진다.\n\n## 약점과 대응\n[물]·[바위]·[땅]·[악]·[고스트] 5종 약점으로 저항 프로필 약함. 73/78/85 내구는 평균 수준으로 약점 공격에 취약. 95 스피드는 메타 고속권에 후공이라 [tailwind] 지원 필요.\n\n## 추천 기술 구성\n[infernal-parade]는 시그니처 [고스트] 자속 핵심기. [fire-blast]는 [불] 자속 최대 위력 특수. [focus-blast]는 [악]·[바위] 견제 [격투] 서브. [protect]는 안전 턴 확보.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [choice-specs]가 특공 1.5배 화력 메인. [life-orb]는 유연한 기술 선택 변형. 특성은 [blaze] 또는 [frisk]. 테라스탈은 [고스트]로 [infernal-parade] 자속 중첩 + [격투] 무효 유지, 또는 [불]로 [fire-blast] 자속 중첩.\n\n## 시너지와 파트너\n[will-o-wisp]·[toxic] 상태이상 세터 파트너와 조합으로 [infernal-parade] 2배 발동. [물]·[바위] 약점 카운터로 [전기]·[풀] 파트너, [tailwind]로 스피드 보조.\n\n## 운용 팁\n상태이상 세터 후속으로 교대 인 → [infernal-parade] 2배 판정으로 폭발적 [고스트] 화력. [fire-blast]는 [강철]·[벌레] 타입 견제, [focus-blast]는 [악]·[바위] 카운터. 약점 공격 노출 시 즉시 교대.",
+  "tags": [
+    "hisui",
+    "fire",
+    "ghost",
+    "regional-form",
+    "special-sweeper"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

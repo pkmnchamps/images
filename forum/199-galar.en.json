@@ -1,0 +1,83 @@
+{
+  "pokemonId": 199,
+  "nameKo": "가라르야도킹",
+  "nameEn": "slowking-galar",
+  "formKey": "galar",
+  "types": [
+    "poison",
+    "psychic"
+  ],
+  "roles": [
+    "special-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "regenerator",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "poison",
+    "psychic"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "en",
+  "title": "Galarian Slowking Battle Guide",
+  "summary": "A [Poison]/[Psychic] special tank with [regenerator] and the signature [eerie-spell] — drains 3 PP from the target's last move for hyper-disruption.",
+  "strengths": [
+    "[regenerator] recovers 1/3 HP on switch",
+    "[eerie-spell] drains 3 PP from the target's last move",
+    "110 SpA and 110 SpD are extremely balanced"
+  ],
+  "weaknesses": [
+    "Weak to [Ground], [Ghost], [Psychic], [Dark]",
+    "Speed 30 is [trick-room] or slow pivot only",
+    "Physical bulk 95/80 is average"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "eerie-spell",
+      "reason": "Signature [Psychic] STAB that drains PP"
+    },
+    {
+      "move": "sludge-bomb",
+      "reason": "[Poison] STAB with poison chance"
+    },
+    {
+      "move": "slack-off",
+      "reason": "50% HP recovery"
+    },
+    {
+      "move": "protect",
+      "reason": "Turn safety"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "assault-vest",
+      "reason": "1.5x Special Defense boost"
+    },
+    {
+      "item": "black-sludge",
+      "reason": "Passive recovery for [Poison] type"
+    },
+    {
+      "item": "leftovers",
+      "reason": "Generic passive recovery"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nGalarian Slowking is a special-oriented [Poison]/[Psychic] tank built around [regenerator] and its signature move [eerie-spell]. The latter drains 3 PP from the opponent's last-used move — a rare disruption tool that cripples [choice-specs] or [choice-band] attackers by burning through their main attacking move.\n\n## Strengths\n[regenerator] combined with [slack-off] creates effectively infinite HP. [eerie-spell] at 80 BP plus 3 PP drain is the strongest disruption move in the game — Choice item users can be neutralized in two or three hits. 110 SpA and 110 SpD are a perfect offensive/defensive hybrid stat line for a bulky special attacker.\n\n## Weaknesses & Answers\n[Ground], [Ghost], [Psychic], and [Dark] are all common meta weaknesses. Speed 30 forces slow pivot play or [trick-room] cores. Physical bulk is average, so it primarily tanks special hits.\n\n## Recommended Moveset\n[eerie-spell] is the signature STAB. [sludge-bomb] adds [Poison] STAB and poison chance. [slack-off] is mandatory for sustain. [protect] is standard doubles utility.\n\n## Item · Ability · Tera\n[assault-vest] is the default — it turns Galarian Slowking into an extreme special wall. [black-sludge] is a leftovers alternative specific to [Poison] types. [regenerator] is locked. Tera [Poison] or [Psychic] stacks STAB and shifts defensive typing.\n\n## Teammates & Synergy\nFits slow-pivot or [trick-room] cores. Cover [Ground] and [Ghost] weaknesses with [Flying] and [Dark] partners. Pair with other [regenerator] users like Galarian Slowbro for a durability-focused core.\n\n## Play Patterns\nSwitch in on a predicted special attack, click [eerie-spell] to drain PP from the target's Choice-locked move, then pivot out to heal with [regenerator]. Use [sludge-bomb] for damage pressure and [slack-off] when a switch isn't safe.",
+  "tags": [
+    "galar",
+    "poison",
+    "psychic",
+    "regional-form",
+    "regenerator",
+    "special-wall"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

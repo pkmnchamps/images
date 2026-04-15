@@ -26,30 +26,30 @@
     "spe": 0
   },
   "locale": "en",
-  "title": "[aurorus] Battle Guide",
-  "summary": "A [rock]/[ice] [snow-warning] lead whose [freeze-dry] punishes [water] cores other [ice] attackers can't touch, while setting up the whole snow plan.",
+  "title": "[Aurorus] Battle Guide",
+  "summary": "A [Rock]/[Ice] [snow-warning] [lead] whose [freeze-dry] punishes [Water] cores other [Ice] attackers can't touch, while setting up the whole snow plan.",
   "strengths": [
-    "123 HP absorbs a neutral special hit for a free utility turn",
-    "[freeze-dry] reads [water] types as 2x, an angle no other [ice] move provides",
-    "[snow-warning] auto-starts Snow for slush-rush and aurora-veil partners"
+    "123 HP [absorb]s a neutral special hit for a free utility turn",
+    "[freeze-dry] reads [Water] types as 2x, an angle no other [Ice] move provides",
+    "[snow-warning] auto-starts Snow for slush-rush and [aurora-veil] partners"
   ],
   "weaknesses": [
-    "4x Fighting and 4x Steel — close-combat or iron-head is an instant OHKO",
+    "4x [Fighting] and 4x [Steel] — [close-combat] or [iron-head] is an instant OHKO",
     "Base 58 Speed leaves it underneath essentially every offensive threat",
-    "72 physical Def cannot absorb any unresisted physical attack"
+    "72 physical Def cannot [absorb] any unresisted physical attack"
   ],
   "recommendedMoves": [
     {
       "move": "freeze-dry",
-      "reason": "Hits [water] for 2x — [aurorus]'s unique damage angle"
+      "reason": "Hits [Water] for 2x — [Aurorus]'s unique damage angle"
     },
     {
       "move": "earth-power",
-      "reason": "Mandatory coverage for Steel and Fire switch-ins"
+      "reason": "Mandatory cove[rage] for [Steel] and [Fire] switch-ins"
     },
     {
       "move": "ancient-power",
-      "reason": "Reliable [rock] STAB for Flying and Bug punishment"
+      "reason": "Reliable [Rock] STAB for [Flying] and [Bug] [punishment]"
     },
     {
       "move": "stealth-rock",
@@ -63,10 +63,10 @@
     },
     {
       "item": "leftovers",
-      "reason": "Turns 123 HP into a long-game recovery pool"
+      "reason": "Turns 123 HP into a long-game [recover]y pool"
     }
   ],
-  "bodyMarkdown": "## Overview\n[aurorus] is a huge-bodied [rock]/[ice] special attacker whose value in Champions MA comes from two specific things: the hidden ability [snow-warning] auto-starts Snow on entry, and [freeze-dry] reads [water]-types as 2x damage. That combination gives it an offensive angle that no other [ice] special attacker in the pool can reproduce, and it slots cleanly as a lead/utility piece for any Snow-based team build.\n\n## Strengths\n[freeze-dry] is the headline. Most [ice] attackers are walled by [water] cores; [aurorus] hits them for 2x and uses 99 SpA to actually capitalize. Stealth-[rock] on the same set means the first turn contributes both an entry hazard and a hard damage click, and [snow-warning] immediately unlocks aurora-veil, slush-rush, and [ice]-body payoffs for the rest of the team. The 123 HP pool is enormous — with investment it can absorb a single neutral special attack and continue working, which is plenty for a lead role.\n\n## Weaknesses & Answers\nFighting and Steel both hit for 4x. A single close-combat or iron-head is a guaranteed OHKO, and Ground, [water], and [rock] all land for 2x. Base 58 Speed means [aurorus] loses the Speed race to every offensive threat that matters, so it essentially cannot safely switch in on a live attacker — it has to come in on a predicted swap. The 72 physical Def is also fragile enough that even uninvested physical attackers can punch through it. The honest answer is that [aurorus] is a one-to-two-turn utility piece that leaves the field by design, not a wincon that wants to stick around.\n\n## Recommended Moveset\n[freeze-dry] is the locked STAB main specifically for its 2x [water] matchup. [earth-power] fills the coverage slot, answering Steel and Fire switch-ins that would otherwise wall the set. [ancient-power] is the reliable [rock] STAB for Flying and Bug targets (power-gem isn't in the legal learnset here). The last slot is [stealth-rock], which is what justifies [aurorus] as a lead over other [ice] attackers — one turn of setup multiplies every follow-up attacker's KO potential. If the team already carries a rocks setter, blizzard is the alternative damage slot.\n\n## Item · Ability · Tera\n[focus-sash] is the default — with 58 Speed and a stacked weakness list, the sash guarantees at least one utility turn. [leftovers] is the long-game alternative for teams that want [aurorus] to linger in back as a passive damage sponge, leveraging the 123 HP pool. The ability must be [snow-warning] — refrigerate is an offensive gimmick that only works on Normal moves [aurorus] doesn't run. Tera [ice] maxes [freeze-dry] damage for a one-shot window, and Tera [water] flips the 4x Fighting matchup by turning close-combat into a resisted hit.\n\n## Teammates & Synergy\nAn aurora-veil setter (Alolan Ninetales if available; otherwise a dedicated screen user) is the primary partner — [aurorus] starts the Snow, the setter puts up the screen, and the rest of the team sweeps behind the veil. A Fighting-resist pivot (Psychic or Fairy ally) is mandatory to cover the 4x weakness, and a slush-rush user scales directly off the Snow that [aurorus] turns on. Because [aurorus] already brings [stealth-rock], don't double-stack another rocks setter.\n\n## Play Patterns\nLead [aurorus], turn one drop [stealth-rock] while Snow starts automatically, turn two either swap out or click [freeze-dry] into a predicted [water] switch-in. Do not try to stay in on any live Fighting or Steel attacker; eat the first turn of damage only if it's special. Save Tera [water] for the moment a close-combat is telegraphed and either survive the flip or pivot on the resisted hit. [aurorus] is a two-turn card that leaves the field by design — stretching it further is almost always a losing trade.",
+  "bodyMarkdown": "## Overview\n[Aurorus] is a huge-bodied [Rock]/[Ice] special attacker whose value in Champions MA comes from two specific things: the hidden ability [snow-warning] auto-starts Snow on entry, and [freeze-dry] reads [Water]-types as 2x damage. That combination gives it an offensive angle that no other [Ice] special attacker in the pool can reproduce, and it slots cleanly as a [lead]/utility piece for any Snow-based team build.\n\n## Strengths\n[freeze-dry] is the headline. Most [Ice] attackers are walled by [Water] cores; [Aurorus] hits them for 2x and uses 99 SpA to actually capitalize. Stealth-[rock] on the same set means the first turn contributes both an entry hazard and a hard damage click, and [snow-warning] immediately unlocks [aurora-veil], slush-rush, and [ice]-body payoffs for the [rest] of the team. The 123 HP pool is enormous — with investment it can [absorb] a single neutral special attack and continue working, which is plenty for a [lead] role.\n\n## Weaknesses & Answers\n[Fighting] and [Steel] both hit for 4x. A single [close-combat] or [iron-head] is a guaranteed OHKO, and [Ground], [Water], and [Rock] all land for 2x. Base 58 Speed means [Aurorus] loses the Speed race to every offensive threat that matters, so it essentially cannot safely switch in on a live attacker — it has to come in on a predicted swap. The 72 physical Def is also fragile enough that even uninvested physical attackers can punch through it. The honest answer is that [Aurorus] is a one-to-two-turn utility piece that leaves the field by design, not a wincon that wants to stick around.\n\n## Recommended Moveset\n[freeze-dry] is the locked STAB main specifically for its 2x [Water] matchup. [earth-power] fills the coverage slot, answering [Steel] and [Fire] switch-ins that would otherwise wall the set. [ancient-power] is the reliable [Rock] STAB for [Flying] and [Bug] targets ([power-gem] isn't in the legal learnset here). The last slot is [stealth-rock], which is what justifies [Aurorus] as a [lead] over other [Ice] attackers — one turn of setup multiplies every follow-up attacker's KO potential. If the team already carries a rocks setter, [blizzard] is the alternative damage slot.\n\n## Item · Ability · Tera\n[focus-sash] is the default — with 58 Speed and a stacked weakness list, the sash guarantees at least one utility turn. [leftovers] is the long-game alternative for teams that want [Aurorus] to linger in back as a passive damage sponge, leveraging the 123 HP pool. The ability must be [snow-warning] — refrigerate is an offensive gimmick that only works on [Normal] moves [Aurorus] doesn't run. Tera [Ice] maxes [freeze-dry] damage for a one-shot window, and Tera [Water] flips the 4x [Fighting] matchup by turning [close-combat] into a resisted hit.\n\n## Teammates & Synergy\nAn [aurora-veil] setter (Alolan Ninetales if available; otherwise a dedicated screen user) is the primary partner — [Aurorus] starts the Snow, the setter puts up the screen, and the [rest] of the team sweeps behind the veil. A [Fighting]-resist pivot ([Psychic] or [Fairy] ally) is mandatory to cover the 4x weakness, and a slush-rush user scales directly off the Snow that [Aurorus] turns on. Because [Aurorus] already brings [stealth-rock], don't double-stack another rocks setter.\n\n## Play Patterns\nLead [Aurorus], turn one drop [stealth-rock] while Snow starts automatically, turn two either swap out or click [freeze-dry] into a predicted [Water] switch-in. Do not try to stay in on any live [Fighting] or [Steel] attacker; eat the first turn of damage only if it's special. Save Tera [Water] for the moment a [close-combat] is telegraphed and either survive the flip or pivot on the resisted hit. [Aurorus] is a two-turn card that leaves the field by design — stretching it further is almost always a losing trade.",
   "tags": [
     "kalos",
     "ice",

@@ -1,0 +1,81 @@
+{
+  "pokemonId": 128,
+  "nameKo": "팔데아켄타로스(투지)",
+  "nameEn": "tauros-paldea-combat-breed",
+  "formKey": "paldea-combat-breed",
+  "types": [
+    "fighting"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "intimidate",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "fighting",
+    "fire"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Paldean Tauros (Combat) Battle Guide",
+  "summary": "A pure [Fighting] physical attacker — [intimidate] support with 110 Attack and 100 Speed, built around [close-combat] STAB and spread utility.",
+  "strengths": [
+    "[intimidate] reduces two opposing Attack stats",
+    "110 Attack and 100 Speed enable fast STAB hits",
+    "Pure [Fighting] covers [Dark]/[Normal]/[Rock]/[Steel]/[Ice]"
+  ],
+  "weaknesses": [
+    "Weak to [Flying], [Psychic], [Fairy]",
+    "75/105/70 bulk is average",
+    "Mono [Fighting] has limited STAB coverage"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "close-combat",
+      "reason": "Main [Fighting] STAB with max BP"
+    },
+    {
+      "move": "rock-slide",
+      "reason": "[Flying] coverage and spread flinch"
+    },
+    {
+      "move": "earthquake",
+      "reason": "Spread [Ground] coverage"
+    },
+    {
+      "move": "protect",
+      "reason": "Turn safety"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "life-orb",
+      "reason": "Offensive damage boost"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "Speed tier extension"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "Mid-HP recovery"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nPaldean Tauros (Combat Breed) is a pure [Fighting] physical attacker with [intimidate] — offering both support utility and 110 Attack / 100 Speed offensive profile. Unlike the base form, this variant leans into [Fighting] STAB and dual spread moves ([rock-slide] + [earthquake]) for doubles efficiency.\n\n## Strengths\n[intimidate] gives immediate tempo value on entry. 110 Attack and 100 Speed put it in a strong offensive tier, and [close-combat] is hard to switch into with [Dark], [Normal], [Rock], [Steel], and [Ice] all taking super-effective hits. [rock-slide] + [earthquake] combo covers both opposing Pokemon simultaneously in doubles.\n\n## Weaknesses & Answers\n[Flying], [Psychic], and [Fairy] are all common weakness types in the meta. Mono [Fighting] means STAB coverage ends at one type, and switch-ins like [tapu-fini] shut down [close-combat].\n\n## Recommended Moveset\n[close-combat] is the main STAB. [rock-slide] covers [Flying] and adds flinch pressure. [earthquake] is the spread coverage move. [protect] is mandatory in doubles.\n\n## Item · Ability · Tera\n[life-orb] is the default. [choice-scarf] gives more speed control. [intimidate] is locked. Tera [Fighting] stacks STAB; Tera [Fire] patches the [Flying] weakness to a resistance.\n\n## Teammates & Synergy\nPair with [Electric], [Dark], or [Bug] to cover [Flying] and [Psychic]. [tailwind] support helps it outpace scarfers. [follow-me] protects setup turns.\n\n## Play Patterns\nLead to trigger [intimidate], then spam [close-combat] into neutral targets. Use [rock-slide] for doubles spread flinches, and [earthquake] in double-Ground strategies. Switch out against [Psychic] or [Fairy] leads.",
+  "tags": [
+    "paldea",
+    "fighting",
+    "regional-form",
+    "intimidate",
+    "physical-attacker"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

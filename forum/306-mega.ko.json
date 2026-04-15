@@ -25,26 +25,26 @@
     "spe": 0
   },
   "locale": "ko",
-  "title": "[aggron-mega] 배틀 운용 가이드",
-  "summary": "[filter] 특성으로 효과가 굉장한 기술을 3/4로 경감 받는 순수 [steel] 요새. 230 방어 + 약점 경감 조합으로 확정 탱킹을 실현한다.",
+  "title": "[메가보스로라] 배틀 운용 가이드",
+  "summary": "[filter] 특성으로 효과가 굉장한 기술을 3/4로 경감 받는 순수 [강철] 요새. 230 방어 + 약점 경감 조합으로 확정 탱킹을 실현한다.",
   "strengths": [
     "[filter]로 효과굉장 기술 25% 경감",
-    "230 방어 + 순수 [steel] 11개 타입 저항",
+    "230 방어 + 순수 [강철] 11개 타입 저항",
     "[heavy-slam] 체중 1425kg 최대 위력"
   ],
   "weaknesses": [
-    "불·격투·땅 약점 — [filter]로도 치명적",
+    "[불]·[격투]·[땅] 약점 — [filter]로도 치명적",
     "특수 내구 80으로 특수 약점 공격에 취약",
     "스피드 50 후공 고정"
   ],
   "recommendedMoves": [
     {
       "move": "heavy-slam",
-      "reason": "메가 후 1425kg 체중 최대 위력 [steel] STAB"
+      "reason": "메가 후 1425kg 체중 최대 위력 [강철] STAB"
     },
     {
       "move": "earthquake",
-      "reason": "불·전기·바위 견제 서브"
+      "reason": "[불]·[전기]·[바위] 견제 서브"
     },
     {
       "move": "stealth-rock",
@@ -61,7 +61,7 @@
       "reason": "메가 진화를 위한 필수 아이템"
     }
   ],
-  "bodyMarkdown": "## 개요\n[aggron-mega]는 메가 진화 시 rock 타입이 사라지고 순수 [steel] 단일 타입이 되며, [filter] 특성으로 효과가 굉장한 기술을 25% 경감하는 극단적 물리 요새다. 230 방어 + 11개 타입 저항 + 약점 3개만이라는 순수 [steel] 저항 프로필은 메타에서 가장 견고한 물리 벽 중 하나다.\n\n## 강점 분석\n순수 [steel] 단일 타입은 11개 타입에 저항을 가지고 약점은 불·격투·땅 3개뿐이다. [filter]는 이 약점들의 피해를 25% 경감해주어, 사실상 약점 공격도 1.5배 피해로 받게 된다. 230 방어 + HP 보정으로 [earthquake] 같은 약점 공격도 1회 이상 확정 탱킹한다. [heavy-slam]은 메가 후 1425kg 체중으로 최대 위력 판정을 보장.\n\n## 약점과 대응\n[filter]로 경감되어도 불·격투·땅 약점은 여전히 치명적이다. close-combat·earth-power·heat-wave 유저에게는 교대를 우선해야 한다. 특수 내구 80은 약한 편이라 fire-blast·earth-power 특수 약점 공격에는 취약하다. 스피드 50으로 trick-room 외엔 반드시 후공한다.\n\n## 추천 기술 구성\n[heavy-slam]은 메가 후 1425kg 체중 + 140 공격으로 주력 화력이 된다. [earthquake]는 불·전기·바위 대응 서브로 필수. [stealth-rock]은 느린 스피드와 [filter] 생존력을 활용한 안정적 해저드 세팅. [protect]는 메가 진화 턴 안전 확보.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [aggronite] 고정이다. 특성은 메가 진화 후 [filter]로 자동 전환. 테라스탈은 [steel]로 자속 유지 + [filter] 중첩 방어, 또는 [dragon]으로 불·물·전기·풀 4종 저항 전환이 효과적이다.\n\n## 시너지와 파트너\ntrick-room 파티에서 스피드 50이 장점이 된다. 불·격투·땅 약점 카운터로 water·flying·psychic 파트너 필수. incineroar의 intimidate로 물리 내구 추가 보조, will-o-wisp 파트너로 물리 어태커 화상 지원.\n\n## 운용 팁\n선봉으로 안 쓰고 trick-room 세팅 후 교대 인으로 등장시킨다. 메가 진화 + [protect]로 안전 턴 확보 후 [stealth-rock] 세팅, 이후 [earthquake]·[heavy-slam]으로 물리 화력을 뿜는다. 약점 기술 노출 시 즉시 교대 또는 테라스탈로 대응.",
+  "bodyMarkdown": "## 개요\n[메가보스로라]는 메가 진화 시 [rock] 타입이 사라지고 순수 [강철] 단일 타입이 되며, [filter] 특성으로 효과가 굉장한 기술을 25% 경감하는 극단적 물리 요새다. 230 방어 + 11개 타입 저항 + 약점 3개만이라는 순수 [강철] 저항 프로필은 메타에서 가장 견고한 물리 벽 중 하나다.\n\n## 강점 분석\n순수 [강철] 단일 타입은 11개 타입에 저항을 가지고 약점은 [불]·[격투]·[땅] 3개뿐이다. [filter]는 이 약점들의 피해를 25% 경감해주어, 사실상 약점 공격도 1.5배 피해로 받게 된다. 230 방어 + HP 보정으로 [earthquake] 같은 약점 공격도 1회 이상 확정 탱킹한다. [heavy-slam]은 메가 후 1425kg 체중으로 최대 위력 판정을 보장.\n\n## 약점과 대응\n[filter]로 경감되어도 [불]·[격투]·[땅] 약점은 여전히 치명적이다. [close-combat]·[earth-power]·[heat-wave] 유저에게는 교대를 우선해야 한다. 특수 내구 80은 약한 편이라 [fire-blast]·[earth-power] 특수 약점 공격에는 취약하다. 스피드 50으로 [trick-room] 외엔 반드시 후공한다.\n\n## 추천 기술 구성\n[heavy-slam]은 메가 후 1425kg 체중 + 140 공격으로 주력 화력이 된다. [earthquake]는 [불]·[전기]·[바위] 대응 서브로 필수. [stealth-rock]은 느린 스피드와 [filter] 생존력을 활용한 안정적 해저드 세팅. [protect]는 메가 진화 턴 안전 확보.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [aggronite] 고정이다. 특성은 메가 진화 후 [filter]로 자동 전환. 테라스탈은 [강철]로 자속 유지 + [filter] 중첩 방어, 또는 [dragon]으로 [불]·[물]·[전기]·[풀] 4종 저항 전환이 효과적이다.\n\n## 시너지와 파트너\n[trick-room] 파티에서 스피드 50이 장점이 된다. [불]·[격투]·[땅] 약점 카운터로 [water]·[flying]·[psychic] 파트너 필수. [incineroar]의 [intimidate]로 물리 내구 추가 보조, [will-o-wisp] 파트너로 물리 어태커 화상 지원.\n\n## 운용 팁\n선봉으로 안 쓰고 [trick-room] 세팅 후 교대 인으로 등장시킨다. 메가 진화 + [protect]로 안전 턴 확보 후 [stealth-rock] 세팅, 이후 [earthquake]·[heavy-slam]으로 물리 화력을 뿜는다. 약점 기술 노출 시 즉시 교대 또는 테라스탈로 대응.",
   "tags": [
     "hoenn",
     "steel",

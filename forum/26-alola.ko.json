@@ -1,0 +1,83 @@
+{
+  "pokemonId": 26,
+  "nameKo": "알로라라이츄",
+  "nameEn": "raichu-alola",
+  "formKey": "alola",
+  "types": [
+    "electric",
+    "psychic"
+  ],
+  "roles": [
+    "special-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "surge-surfer",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "electric",
+    "psychic"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[알로라라이츄] 배틀 운용 가이드",
+  "summary": "일렉트릭필드 아래 스피드 2배가 되는 [전기]·[심령] 특수 스위퍼. [surge-surfer]로 일렉트릭필드 아래 최상위 스피드권에 진입한다.",
+  "strengths": [
+    "[surge-surfer] 일렉트릭필드 아래 스피드 2배 (220 상당)",
+    "[심령] 추가 타입으로 [격투] 약점 카운터",
+    "[nasty-plot] 셋업 후 폭발적 특수 화력"
+  ],
+  "weaknesses": [
+    "[땅]·[악]·[고스트]·[벌레] 약점 증가",
+    "60/50/85 내구 약함",
+    "일렉트릭필드 없으면 스피드 110 평범"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "thunderbolt",
+      "reason": "[전기] 자속 주력기"
+    },
+    {
+      "move": "psyshock",
+      "reason": "[심령] 자속 + 물방 대상 특수 견제"
+    },
+    {
+      "move": "nasty-plot",
+      "reason": "특공 2단계 셋업"
+    },
+    {
+      "move": "focus-blast",
+      "reason": "[악]·[강철] 견제 [격투] 서브"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "셋업 첫 턴 보험용"
+    },
+    {
+      "item": "choice-specs",
+      "reason": "일렉트릭필드 특수 화력 극대화"
+    },
+    {
+      "item": "light-clay",
+      "reason": "팀 지원 운용 시 벽 지속"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[알로라라이츄]는 [surge-surfer] 특성으로 일렉트릭필드 아래 스피드가 2배가 되는 [전기]·[심령] 복합 특수 스위퍼다. 기본 스피드 110이 일렉트릭필드 아래 실질 220에 도달하여 메가 포켓몬을 포함한 대부분의 메타 고속권을 추월한다.\n\n## 강점 분석\n[surge-surfer]는 일렉트릭필드 상태에서 스피드를 2배로 만드는 시그니처 특성이다. [tapu-koko]나 [electric-terrain] 세터와 조합하면 실질 스피드 220이 되어 스카프 유저를 넘어선다. [전기]·[심령] 복합 자속은 [격투] 무효 + [물]·[독]·[fighting] 견제가 가능한 공격 프로필을 제공한다. [nasty-plot] 1회 셋업 후 [thunderbolt]·[psyshock] 주력기는 대부분의 프레일 포켓몬을 확정 KO한다.\n\n## 약점과 대응\n[심령] 타입 추가로 [악]·[고스트]·[벌레] 약점이 늘어났고, [땅] 약점도 여전하다. 60/50/85의 내구는 매우 약해 선공기 한 방에 쓰러질 수 있다. 일렉트릭필드 없는 상태에서는 평범한 스피드 110으로 작동해 [surge-surfer] 시너지 없이는 결정력이 반감된다.\n\n## 추천 기술 구성\n[thunderbolt]는 [전기] 자속 주력기로 반드시 채택. [psyshock]은 [심령] 자속 + 물방 대상 판정으로 특수 내구 높은 상대 견제 가능. [nasty-plot]은 셋업 핵심. [focus-blast]는 [악]·[강철] 견제용 [격투] 서브로 [tyranitar]·[heatran] 대응.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [focus-sash]가 기본으로, 셋업 첫 턴 보험 역할. [choice-specs]는 일렉트릭필드 아래 특수 화력 극대화 변형. 특성은 [surge-surfer] 고정으로 일렉트릭필드 시너지 필수. 테라스탈은 [전기]로 [thunderbolt] STAB 중첩, 또는 [심령]으로 [psyshock] 강화 선택.\n\n## 시너지와 파트너\n[tapu-koko] 또는 [pincurchin] 등 [electric-terrain] 세터 파트너 필수. [땅] 약점 카운터로 [비행]·[풀] 파트너, [악]·[벌레] 약점으로 [fairy]·[fire] 파트너 배치. [fake-out]으로 1턴 셋업 보호하는 구성.\n\n## 운용 팁\n일렉트릭필드 전개 후 교대 인으로 등장, [nasty-plot] 안전 셋업 후 실질 스피드 220으로 메타 추월하며 [thunderbolt]·[psyshock] 연타. [악]·[고스트] 노출 시 즉시 교대, 일렉트릭필드 만료 전 결정타를 마쳐야 한다.",
+  "tags": [
+    "alola",
+    "electric",
+    "psychic",
+    "regional-form",
+    "surge-surfer",
+    "special-sweeper"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

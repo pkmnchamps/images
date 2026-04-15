@@ -26,26 +26,26 @@
     "spe": 32
   },
   "locale": "en",
-  "title": "[houndoom] Battle Guide",
-  "summary": "A [dark]/[fire] special sweeper that uses [flash-fire] as a pivot into [nasty-plot], then deletes special walls with [dark-pulse] and [flamethrower].",
+  "title": "[Houndoom] Battle Guide",
+  "summary": "A [Dark]/[Fire] special [sweeper] that uses [flash-fire] as a pivot into [nasty-plot], then deletes special walls with [dark-pulse] and [flamethrower].",
   "strengths": [
-    "[dark] and [fire] STAB pressure Ghost, Psychic, Steel, and Grass simultaneously",
-    "[flash-fire] lets it switch into [fire] moves and hit back at +50%",
-    "A single [nasty-plot] pushes effective Special Attack past 220"
+    "[Dark] and [Fire] STAB pressure [Ghost], [Psychic], [Steel], and [Grass] simultaneously",
+    "[flash-fire] lets it switch into [Fire] moves and hit back at +50%",
+    "A [sing]le [nasty-plot] pushes effective Special Attack past 220"
   ],
   "weaknesses": [
-    "2x weak to Fighting, Ground, Rock, and Water — plenty of revenge killers",
+    "2x weak to [Fighting], [Ground], [Rock], and [Water] — plenty of [revenge] killers",
     "50 Defense / 80 Special Defense folds to almost any neutral hit",
-    "Base 95 Speed is not fast enough to outrun every meta sweeper"
+    "Base 95 Speed is not fast enough to outrun every meta [sweeper]"
   ],
   "recommendedMoves": [
     {
       "move": "dark-pulse",
-      "reason": "Main [dark] STAB with solid power and flinch utility"
+      "reason": "Main [Dark] STAB with solid power and flinch utility"
     },
     {
       "move": "flamethrower",
-      "reason": "Reliable [fire] STAB over [fire]-blast for accuracy"
+      "reason": "Reliable [Fire] STAB over [fire]-blast for accuracy"
     },
     {
       "move": "nasty-plot",
@@ -53,7 +53,7 @@
     },
     {
       "move": "sludge-bomb",
-      "reason": "Coverage against Fairy switch-ins like Azumarill or Tapu Koko"
+      "reason": "Cove[rage] against [Fairy] switch-ins like Azumarill or Tapu Koko"
     }
   ],
   "recommendedItems": [
@@ -62,7 +62,7 @@
       "reason": "Guarantees a turn even into a priority hit"
     }
   ],
-  "bodyMarkdown": "## Overview\n[houndoom] is a [dark]/[fire] special attacker whose Champions MA niche is the [flash-fire] pivot into [nasty-plot]. The ability turns any predicted [fire] move into a free 50% power boost, and once one [nasty-plot] goes up the entire back line of the opponent starts falling to [dark-pulse] and [flamethrower] double-STAB.\n\n## Strengths\n[flash-fire] is the reason to run this over other special [fire] attackers — it gives [houndoom] a free pivot slot and stacks on top of the 110 Special Attack. [dark] and [fire] as a STAB pair has almost no shared resistances — Psychic, Ghost, Grass, Ice, Bug, and Steel all take neutral or super-effective damage from one side or the other. One [nasty-plot] puts effective Special Attack above 220, enough that even bulky Aegislash lines get 2HKO'd. [sludge-bomb] patches the one real hole, the Fairy switch-in.\n\n## Weaknesses & Answers\n[dark]/[fire] is 2x weak to Fighting, Ground, Rock, and Water, which lines up with most of the meta's common revenge killers — Swampert, Excadrill, and Keldeo all beat [houndoom] in a direct matchup. Base 50 Defense and 80 Special Defense means even neutral hits often 2HKO. Priority users with aqua-jet, mach-punch, or bullet-punch can revenge the sash. stealth-rock chip also deletes 25% HP on every entry, which is lethal to the [focus-sash] plan.\n\n## Recommended Moveset\n[dark-pulse] is the main STAB — reliable power plus a flinch chance. [flamethrower] is picked over [fire]-blast because accuracy matters when the set is trying to string together kills after a plot. [nasty-plot] is the whole win condition and takes the third slot. [sludge-bomb] handles Fairy switch-ins like Tapu Koko or Azumarill that otherwise wall the [dark] STAB. Swap [sludge-bomb] for sucker-punch if the team lacks priority.\n\n## Item · Ability · Tera\n[focus-sash] is the default item, guaranteeing a [nasty-plot] turn even against a priority lead. The ability is [flash-fire] — the pivot potential is worth more than the raw power of solar-power in the base form. Tera [fire] maximizes STAB [flamethrower] output, while Tera [dark] leans on the [dark-pulse] line for late-game sweep confirmation.\n\n## Teammates & Synergy\nA stealth-rock remover (defog or rapid-spin user) is effectively mandatory because [houndoom] loses 25% on every entry otherwise. Defensive Fighting and Ground answers (Latias, Gliscor) buffer the exact weaknesses that revenge [houndoom], and a Water-type removal partner (Grass or Electric sweeper) clears the way for it to click plot safely. fake-out support is the cleanest way to buy the setup turn.\n\n## Play Patterns\nSwitch [houndoom] in on a predicted [fire] move to activate [flash-fire], then click [nasty-plot] the same turn the opponent swaps. After the boost is up, click [dark-pulse] for safe damage and save [flamethrower] for when the [flash-fire] buff is still active. Tera only on the turn a super-effective move is telegraphed, or when [dark-pulse] is confirming a KO — those are the two moments the Tera actually wins the game.",
+  "bodyMarkdown": "## Overview\n[Houndoom] is a [Dark]/[Fire] special attacker whose Champions MA niche is the [flash-fire] pivot into [nasty-plot]. The ability turns any predicted [Fire] move into a free 50% power boost, and once one [nasty-plot] goes up the entire back line of the opponent starts falling to [dark-pulse] and [flamethrower] double-STAB.\n\n## Strengths\n[flash-fire] is the reason to run this over other special [Fire] attackers — it gives [Houndoom] a free pivot slot and stacks on top of the 110 Special Attack. [Dark] and [Fire] as a STAB pair has almost no shared resistances — [Psychic], [Ghost], [Grass], [Ice], [Bug], and [Steel] all take neutral or super-effective damage from one side or the other. One [nasty-plot] puts effective Special Attack above 220, enough that even bulky Aegislash lines get 2HKO'd. [sludge-bomb] patches the one real hole, the [Fairy] switch-in.\n\n## Weaknesses & Answers\n[Dark]/[Fire] is 2x weak to [Fighting], [Ground], [Rock], and [Water], which lines up with most of the meta's common [revenge] killers — Swampert, Excadrill, and Keldeo all beat [Houndoom] in a direct matchup. Base 50 Defense and 80 Special Defense means even neutral hits often 2HKO. Priority users with [aqua-jet], [mach-punch], or [bullet-punch] can [revenge] the sash. [stealth-rock] chip also deletes 25% HP on every entry, which is lethal to the [focus-sash] plan.\n\n## Recommended Moveset\n[dark-pulse] is the main STAB — reliable power plus a flinch chance. [flamethrower] is picked over [fire]-blast because accuracy matters when the set is trying to string together kills after a plot. [nasty-plot] is the whole win condition and takes the third slot. [sludge-bomb] handles [Fairy] switch-ins like Tapu Koko or Azumarill that otherwise wall the [Dark] STAB. Swap [sludge-bomb] for [sucker-punch] if the team lacks priority.\n\n## Item · Ability · Tera\n[focus-sash] is the default item, guaranteeing a [nasty-plot] turn even against a priority lead. The ability is [flash-fire] — the pivot potential is worth more than the raw power of [solar-power] in the base form. Tera [Fire] maximizes STAB [flamethrower] output, while Tera [Dark] leans on the [dark-pulse] line for late-game sweep confirmation.\n\n## Teammates & Synergy\nA [stealth-rock] remover ([defog] or [rapid-spin] user) is effectively mandatory because [Houndoom] loses 25% on every entry otherwise. Defensive [Fighting] and [Ground] answers (Latias, Gliscor) buffer the exact weaknesses that [revenge] [Houndoom], and a [Water]-type removal partner ([Grass] or [Electric] [sweeper]) clears the way for it to click plot safely. [fake-out] support is the cleanest way to buy the setup turn.\n\n## Play Patterns\nSwitch [Houndoom] in on a predicted [Fire] move to activate [flash-fire], then click [nasty-plot] the same turn the opponent swaps. After the boost is up, click [dark-pulse] for safe damage and save [flamethrower] for when the [flash-fire] buff is still active. Tera only on the turn a super-effective move is telegraphed, or when [dark-pulse] is confirming a KO — those are the two moments the Tera actually wins the game.",
   "tags": [
     "johto",
     "dark",

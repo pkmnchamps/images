@@ -1,0 +1,83 @@
+{
+  "pokemonId": 59,
+  "nameKo": "히스이윈디",
+  "nameEn": "arcanine-hisui",
+  "formKey": "hisui",
+  "types": [
+    "fire",
+    "rock"
+  ],
+  "roles": [
+    "physical-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "intimidate",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "fire",
+    "rock"
+  ],
+  "recommendedEv": {
+    "hp": 20,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 12
+  },
+  "locale": "en",
+  "title": "Hisuian Arcanine Battle Guide",
+  "summary": "A bulky [Fire]/[Rock] physical attacker with [intimidate] — combines utility support with [rock-slide] spread flinches and signature [extreme-speed] priority.",
+  "strengths": [
+    "[intimidate] reduces two opposing Attack stats",
+    "Dual STAB [rock-slide] + [flare-blitz]",
+    "+2 priority [extreme-speed] signature move"
+  ],
+  "weaknesses": [
+    "4x weak to [Water]",
+    "Also weak to [Ground], [Fighting], [Rock]",
+    "Speed 90 is outsped by the top offensive tier"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "rock-slide",
+      "reason": "Spread [Rock] STAB with flinch chance"
+    },
+    {
+      "move": "flare-blitz",
+      "reason": "Max BP [Fire] STAB off 115 Attack"
+    },
+    {
+      "move": "extreme-speed",
+      "reason": "+2 priority signature finisher"
+    },
+    {
+      "move": "protect",
+      "reason": "Turn-safe support"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "life-orb",
+      "reason": "Offensive damage amp"
+    },
+    {
+      "item": "assault-vest",
+      "reason": "Special bulk variant"
+    },
+    {
+      "item": "safety-goggles",
+      "reason": "Blocks spore and powder moves"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nHisuian Arcanine is a bulky physical attacker built around [intimidate] utility and dual [Fire]/[Rock] STAB. 115 Attack and 95 HP let it trade into opposing physical attackers, while [rock-slide] exploits doubles with spread damage and flinches. Its signature [extreme-speed] provides reliable +2 priority.\n\n## Strengths\n[intimidate] is one of the most impactful support abilities in doubles — cutting two attackers' damage at the same time. [rock-slide] threatens to flinch both opposing Pokemon per turn, creating tempo-winning moments. [flare-blitz] is the hardest-hitting [Fire] STAB at this Attack tier. [extreme-speed] handles priority races cleanly.\n\n## Weaknesses & Answers\nThe [Rock] type introduces a 4x weakness to [Water] — [hydro-pump] or [surf] ends the set immediately. [Ground], [Fighting], and [Rock] are also live weaknesses. Speed 90 is too slow to outrun top threats, so Hisuian Arcanine leans on [intimidate] and priority to compensate.\n\n## Recommended Moveset\n[rock-slide] is the spread damage core. [flare-blitz] is the single-target STAB. [extreme-speed] is the priority finisher. [protect] is mandatory for doubles tempo.\n\n## Item · Ability · Tera\n[life-orb] is the default offensive item. [assault-vest] turns it into a special wall variant. [safety-goggles] counters spore spam. [intimidate] is locked. Tera [Fire] or [Rock] stacks STAB; Tera [Rock] also softens the [Water] 4x.\n\n## Teammates & Synergy\nMust have a [Water] counter — [Electric] or [Grass] partner is mandatory. [Fairy] and [Flying] cover the [Fighting] weakness. [tailwind] and [follow-me] extend the game plan.\n\n## Play Patterns\nLead to trigger [intimidate], pressure with [rock-slide] for flinch tempo, and click [flare-blitz] for committed KOs. Save [extreme-speed] for revenge kills on faster frail threats. Switch out immediately against [Water] attackers.",
+  "tags": [
+    "hisui",
+    "fire",
+    "rock",
+    "regional-form",
+    "intimidate",
+    "physical-attacker"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

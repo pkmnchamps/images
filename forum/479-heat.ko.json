@@ -1,0 +1,83 @@
+{
+  "pokemonId": 479,
+  "nameKo": "로토무(히트)",
+  "nameEn": "rotom-heat",
+  "formKey": "heat",
+  "types": [
+    "electric",
+    "fire"
+  ],
+  "roles": [
+    "special-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "levitate",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "fire",
+    "electric"
+  ],
+  "recommendedEv": {
+    "hp": 16,
+    "atk": 0,
+    "def": 0,
+    "spa": 16,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[로토무(히트)] 배틀 운용 가이드",
+  "summary": "[levitate] [땅] 무효 + [전기]·[불] 복합 타입 특수 어태커. [overheat]·[thunderbolt] 양 자속 화력이 핵심.",
+  "strengths": [
+    "[levitate] [땅] 완전 무효",
+    "[전기]·[불] 복합 [벌레]·[얼음]·[강철]·[풀] 4종 4배 저항",
+    "105 특공 + 86 스피드 안정적 특수 프로필"
+  ],
+  "weaknesses": [
+    "[물]·[바위] 약점",
+    "50/107/107 HP 낮음",
+    "특성 변경 시 [levitate] 무효"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "overheat",
+      "reason": "[불] 자속 최대 위력 특수"
+    },
+    {
+      "move": "thunderbolt",
+      "reason": "[전기] 자속 주력"
+    },
+    {
+      "move": "volt-switch",
+      "reason": "피벗 수익 + 스위치 유틸"
+    },
+    {
+      "move": "protect",
+      "reason": "안전 턴 확보"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "choice-specs",
+      "reason": "특공 1.5배 화력 극대화"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "스피드 초고속 + 특수 피벗"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "HP 50% 회복 보조"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[로토무(히트)]는 [levitate] 특성으로 [땅] 타입을 완전 무효화하는 [전기]·[불] 복합 특수 어태커다. 4배 저항 4종 + [땅] 무효라는 독특한 저항 프로필과 105 특공의 안정적 화력을 결합하여, 다목적 피벗 어태커 역할을 수행한다.\n\n## 강점 분석\n[levitate]로 [땅] 기술 완전 무효는 [earthquake]·[earth-power] 유저에게 안전 교대 인을 가능하게 한다. [전기]·[불] 복합 타입은 [벌레]·[얼음]·[강철]·[풀] 4종에 4배 저항을 가지는 독특한 저항 프로필. [overheat] + [thunderbolt]는 양 자속 고화력으로 [물]·[강철]·[비행] 등 광범위 견제가 가능. [volt-switch]로 피벗 수익까지 확보한다.\n\n## 약점과 대응\n[물]·[바위] 2종 약점만 있지만, 50/107/107 HP가 낮아 효과굉장 공격 한 방에 쓰러질 위험. [mold-breaker] 특성 유저의 [earthquake]는 [levitate] 무시로 피해 입음. 특성이 변경되면 [levitate] 효과 사라짐.\n\n## 추천 기술 구성\n[overheat]는 [불] 자속 최대 위력이지만 특공 2단계 하락 페널티. [thunderbolt]는 [전기] 자속 주력 안정 화력. [volt-switch]는 피벗 수익 + 불리 매치업 이탈. [protect]는 안전 턴 확보.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [choice-specs]가 특공 1.5배 화력 메인. [choice-scarf]는 피벗 변형. 특성은 [levitate] 고정. 테라스탈은 [불]로 [overheat] 자속 중첩, 또는 [전기]로 [thunderbolt] 중첩 + [물] 저항 획득.\n\n## 시너지와 파트너\n[물]·[바위] 약점 카운터로 [풀]·[격투] 파트너. 피벗 사이클 팀에서 [volt-switch] 수익 시너지. [intimidate] 유저로 물리 내구 보조.\n\n## 운용 팁\n[땅] 어태커 상대로 교대 인 안정성 활용 → [thunderbolt]·[overheat] 주력 딜링. [overheat] 후 [volt-switch]로 특공 하락 리셋 교대. 불리 매치업에서 [volt-switch]로 이탈, 유리 매치업에서 [choice-specs] 고정 딜링.",
+  "tags": [
+    "sinnoh",
+    "electric",
+    "fire",
+    "appliance-form",
+    "levitate",
+    "special-pivot"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

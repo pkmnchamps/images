@@ -1,0 +1,83 @@
+{
+  "pokemonId": 59,
+  "nameKo": "히스이윈디",
+  "nameEn": "arcanine-hisui",
+  "formKey": "hisui",
+  "types": [
+    "fire",
+    "rock"
+  ],
+  "roles": [
+    "physical-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "intimidate",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "fire",
+    "rock"
+  ],
+  "recommendedEv": {
+    "hp": 20,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 12
+  },
+  "locale": "ko",
+  "title": "[히스이윈디] 배틀 운용 가이드",
+  "summary": "[intimidate] 서포트 + [rock-slide]·[flare-blitz] 물리 화력을 결합한 [불]·[바위] 벌크 어태커. 더블에서 [rock-slide] 광역 플린치가 강력하다.",
+  "strengths": [
+    "[intimidate]로 상대 공격 1단계 하락 지원",
+    "[불]·[바위] 복합 [불] 자속 + 광범위 [바위] 견제",
+    "115 공격 + 95 HP 벌크 어태커 프로필"
+  ],
+  "weaknesses": [
+    "[물]·[땅]·[격투]·[바위] 4종 약점",
+    "[rock] 추가로 [물] 4배 약점 생성",
+    "스피드 90 중간권"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "rock-slide",
+      "reason": "[바위] 자속 광역 + 플린치 부가 효과"
+    },
+    {
+      "move": "flare-blitz",
+      "reason": "[불] 자속 최대 위력 물리"
+    },
+    {
+      "move": "extreme-speed",
+      "reason": "시그니처 +2 우선도 선공기"
+    },
+    {
+      "move": "protect",
+      "reason": "안전 턴 확보"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "life-orb",
+      "reason": "물리 화력 추가 보정"
+    },
+    {
+      "item": "assault-vest",
+      "reason": "특수 내구 보조"
+    },
+    {
+      "item": "safety-goggles",
+      "reason": "버섯포자·분진 방지"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[히스이윈디]는 [불]·[바위] 복합 타입의 벌크 물리 어태커로, [intimidate] 서포트 특성과 [rock-slide] 광역 플린치를 결합한 더블 VGC에서 효과적인 운용이 가능하다. 115 공격 + 95 HP의 안정적 수치로 교대 인 운용 및 중속 물리 화력이 가능하다.\n\n## 강점 분석\n[intimidate]는 등장 시 상대 물리 공격자 2체의 공격을 1단계 하락시키는 가장 강력한 서포트 특성 중 하나. [rock-slide]는 더블에서 양쪽 상대를 동시에 공격하고 30% 플린치 확률로 턴 템포 장악. [flare-blitz]는 [불] 자속 + 115 공격으로 주력 화력 담당. [extreme-speed]는 [히스이윈디]의 시그니처 기술로 +2 우선도 선공기를 제공한다.\n\n## 약점과 대응\n[rock] 타입 추가로 [물] 4배 약점이 생성되어 [hydro-pump]·[surf] 한 방에 즉사 가능. [격투]·[땅]·[바위] 약점도 있어 저항 프로필 약함. 스피드 90은 메타 고속권에 후공이라 [extreme-speed] 선공기와 [intimidate] 디버프에 의존.\n\n## 추천 기술 구성\n[rock-slide]는 더블 광역 플린치 핵심. [flare-blitz]는 [불] 자속 최대 위력 물리. [extreme-speed]는 시그니처 +2 우선도 선공기. [protect]는 안전 턴 확보 + 파트너 셋업 기회 창출.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [life-orb]가 물리 화력 보정 메인 선택지. [assault-vest]는 특수 내구 보조 변형. 특성은 [intimidate] 고정. 테라스탈은 [불]로 [flare-blitz] 자속 중첩, 또는 [바위]로 [rock-slide] 중첩 + [물] 4배 약점 완화.\n\n## 시너지와 파트너\n[물] 약점 카운터로 [전기]·[풀] 파트너 필수. [격투] 약점으로 [비행]·[fairy] 파트너. [tailwind] 세터로 스피드 90 보조, [follow-me] 유저로 1턴 보호 구성.\n\n## 운용 팁\n선봉으로 [intimidate] 유발 후 [rock-slide] 광역 플린치로 템포 장악. [불] 자속 [flare-blitz]로 주력 딜링, 스피드 추월 상황에서 [extreme-speed] 선공기 피니셔 활용. [물] 타입 노출 시 즉시 교대 필수.",
+  "tags": [
+    "hisui",
+    "fire",
+    "rock",
+    "regional-form",
+    "intimidate",
+    "physical-attacker"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

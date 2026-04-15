@@ -26,15 +26,15 @@
     "spe": 32
   },
   "locale": "ko",
-  "title": "[gardevoir-mega] 배틀 운용 가이드",
+  "title": "[메가가디안] 배틀 운용 가이드",
   "summary": "[pixilate]로 [hyper-voice]가 [fairy] 자속 광역기로 변환되는 특수 에이스. 165 특공 + STAB + pixilate 보정으로 화력이 폭발적이다.",
   "strengths": [
     "[pixilate] [hyper-voice] 변환 + 1.2배 보정 [fairy] 자속 광역",
     "165 특공 최고 종족값의 순수 특수 어태커",
-    "substitute 무시 음성 판정"
+    "[substitute] 무시 음성 판정"
   ],
   "weaknesses": [
-    "강철·독·고스트 약점 — 독 타입에 [hyper-voice] 반감",
+    "[강철]·[독]·[고스트] 약점 — [독] 타입에 [hyper-voice] 반감",
     "스피드 100으로 최상위권 스카프에 후공",
     "물리 내구 68/65로 물리 공격에 취약"
   ],
@@ -45,7 +45,7 @@
     },
     {
       "move": "psyshock",
-      "reason": "특수 내구 낮은 독 타입 물리 방어 공략"
+      "reason": "특수 내구 낮은 [독] 타입 물리 방어 공략"
     },
     {
       "move": "moonblast",
@@ -62,7 +62,7 @@
       "reason": "메가 진화를 위한 필수 아이템"
     }
   ],
-  "bodyMarkdown": "## 개요\n[gardevoir-mega]은 [pixilate] 특성으로 normal 기술이 [fairy] 타입으로 변환 + 1.2배 보정을 받는 특수 에이스다. 대표적으로 [hyper-voice]가 광역 [fairy] 자속으로 변환되어, 165 특공 + STAB + pixilate + 광역 선택지라는 네 가지 보너스를 동시에 적용받는 메타 최강급 특수 광역기가 된다.\n\n## 강점 분석\n[hyper-voice]는 substitute 판정을 무시하는 음성기 판정이라, substitute·light-screen 소멸 효과를 우회한다. 165 특공 종족값은 메가 어태커 중 최상위권이고, [pixilate] 변환 + STAB으로 [fairy] 자속 보정이 실질 위력을 극대화한다. [psychic]·[fairy] 복합 타입은 fighting·dragon 무효 포함 핵심 저항들을 가진다.\n\n## 약점과 대응\n강철·독·고스트 타입 약점이 있고, 특히 독 타입에게는 [hyper-voice]가 반감당해 독 견제용 서브 기술이 필수다. 물리 내구 68/65는 매우 낮아 sucker-punch·shadow-sneak·bullet-punch 등 선공기 한 방에 쓰러질 수 있다. 스피드 100은 최상위권(110+)에게 후공한다.\n\n## 추천 기술 구성\n[hyper-voice]는 [pixilate] 활용의 핵심 주력기로 반드시 채택. [psyshock]은 물방 대상 판정으로 독 타입 특수 내구 무시 공격이 가능하다. [moonblast]는 [pixilate] 보정 없는 단일 [fairy] STAB 최대 위력. [protect]는 메가 진화 + 파트너 셋업 보조용이다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [gardevoirite] 고정이다. 특성은 메가 진화 후 [pixilate]. 테라스탈은 [fairy]로 자속 + [pixilate] 중첩 보정 극대화하거나, [psychic]로 독 반감 벽을 넘는 [psyshock] 화력 강화 옵션이 있다.\n\n## 시너지와 파트너\ntailwind 세터로 스피드 100 약점 상쇄가 필수. incineroar의 intimidate로 물리 내구 보조, 독 타입 견제용 steel·ground 파트너를 배치한다. 광역기 아군 면역 특성(telepathy 등) 파트너가 있으면 [hyper-voice] 운용이 자유롭다.\n\n## 운용 팁\n메가 진화 1턴은 [protect]로 안전 확보 후, 다음 턴부터 [hyper-voice] 광역 화력을 뿜는다. 상대 파티에 독 타입이 없으면 [hyper-voice] 스팸으로 압박 유지, 독 노출 시 [psyshock]으로 즉시 전환한다. 선공기 주의 — 체력 관리가 생존의 핵심이다.",
+  "bodyMarkdown": "## 개요\n[메가가디안]은 [pixilate] 특성으로 [normal] 기술이 [fairy] 타입으로 변환 + 1.2배 보정을 받는 특수 에이스다. 대표적으로 [hyper-voice]가 광역 [fairy] 자속으로 변환되어, 165 특공 + STAB + pixilate + 광역 선택지라는 네 가지 보너스를 동시에 적용받는 메타 최강급 특수 광역기가 된다.\n\n## 강점 분석\n[hyper-voice]는 [substitute] 판정을 무시하는 음성기 판정이라, [substitute]·[light-screen] 소멸 효과를 우회한다. 165 특공 종족값은 메가 어태커 중 최상위권이고, [pixilate] 변환 + STAB으로 [fairy] 자속 보정이 실질 위력을 극대화한다. [psychic]·[fairy] 복합 타입은 [fighting]·[dragon] 무효 포함 핵심 저항들을 가진다.\n\n## 약점과 대응\n[강철]·[독]·[고스트] 타입 약점이 있고, 특히 [독] 타입에게는 [hyper-voice]가 반감당해 [독] 견제용 서브 기술이 필수다. 물리 내구 68/65는 매우 낮아 [sucker-punch]·[shadow-sneak]·[bullet-punch] 등 선공기 한 방에 쓰러질 수 있다. 스피드 100은 최상위권(110+)에게 후공한다.\n\n## 추천 기술 구성\n[hyper-voice]는 [pixilate] 활용의 핵심 주력기로 반드시 채택. [psyshock]은 물방 대상 판정으로 [독] 타입 특수 내구 무시 공격이 가능하다. [moonblast]는 [pixilate] 보정 없는 단일 [fairy] STAB 최대 위력. [protect]는 메가 진화 + 파트너 셋업 보조용이다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [gardevoirite] 고정이다. 특성은 메가 진화 후 [pixilate]. 테라스탈은 [fairy]로 자속 + [pixilate] 중첩 보정 극대화하거나, [psychic]로 [독] 반감 벽을 넘는 [psyshock] 화력 강화 옵션이 있다.\n\n## 시너지와 파트너\n[tailwind] 세터로 스피드 100 약점 상쇄가 필수. [incineroar]의 [intimidate]로 물리 내구 보조, [독] 타입 견제용 [steel]·[ground] 파트너를 배치한다. 광역기 아군 면역 특성([telepathy] 등) 파트너가 있으면 [hyper-voice] 운용이 자유롭다.\n\n## 운용 팁\n메가 진화 1턴은 [protect]로 안전 확보 후, 다음 턴부터 [hyper-voice] 광역 화력을 뿜는다. 상대 파티에 [독] 타입이 없으면 [hyper-voice] 스팸으로 압박 유지, [독] 노출 시 [psyshock]으로 즉시 전환한다. 선공기 주의 — 체력 관리가 생존의 핵심이다.",
   "tags": [
     "hoenn",
     "psychic",

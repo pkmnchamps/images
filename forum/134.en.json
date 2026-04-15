@@ -26,22 +26,22 @@
     "spe": 0
   },
   "locale": "en",
-  "title": "[vaporeon] Battle Guide",
-  "summary": "A massive-HP [water] wall that locks down [water] attackers via [water-absorb] and runs a full [wish] and [protect] recovery loop for the team.",
+  "title": "[Vaporeon] Battle Guide",
+  "summary": "A massive-HP [Water] [wall] that locks down [Water] attackers via [water-absorb] and runs a full [wish] and [protect] [recover]y loop for the team.",
   "strengths": [
-    "130 base HP turns average defenses into effective bulk",
-    "[water-absorb] completely shuts down [water] STAB attackers",
+    "130 base HP turns ave[rage] defenses into effective bulk",
+    "[water-absorb] completely shuts down [Water] STAB attackers",
     "[wish] and [protect] loop heals the entire team passively"
   ],
   "weaknesses": [
-    "2x Electric and Grass weaknesses against special attackers",
+    "2x [Electric] and [Grass] weaknesses against special attackers",
     "Low raw Defense makes physical breakers dangerous",
     "Offensive output is minimal without a Special Attack investment"
   ],
   "recommendedMoves": [
     {
       "move": "scald",
-      "reason": "Main [water] STAB with burn chance against physical attackers"
+      "reason": "Main [Water] STAB with burn chance against physical attackers"
     },
     {
       "move": "wish",
@@ -53,20 +53,20 @@
     },
     {
       "move": "ice-beam",
-      "reason": "Special coverage for Grass and Dragon attackers"
+      "reason": "Special cove[rage] for [Grass] and [Dragon] attackers"
     }
   ],
   "recommendedItems": [
     {
       "item": "leftovers",
-      "reason": "Passive recovery that stacks with the and loop"
+      "reason": "Passive [recover]y that stacks with the and loop"
     },
     {
       "item": "sitrus-berry",
       "reason": "Emergency healing the first time HP drops below 50 percent"
     }
   ],
-  "bodyMarkdown": "## Overview\n[vaporeon] is a [water]-type wall built around its massive 130 base HP and the [water-absorb] ability, which makes it a natural answer to any team leaning on [water] STAB offense. It isn't an offensive Pokemon in the traditional sense — its role is team healing and board control through the [wish] and [protect] loop, keeping partner Pokemon alive over a long game. 60 raw Defense looks thin, but combined with the HP stat the effective physical bulk is much higher than it looks.\n\n## Strengths\n[water-absorb] doesn't just null the damage from [water] moves — it restores 25 percent HP on contact, which means opposing [water] attackers actively stabilize [vaporeon] instead of threatening it. The [wish] move is the main support tool in the tier: it heals an incoming ally for half of [vaporeon]'s max HP on the next turn, which keeps sweepers like setup attackers online through a long game. [protect] covers the [wish] turn and stalls passive damage like toxic ticks or weather chip.\n\n## Weaknesses & Answers\nElectric and Grass hit for 2x, and any special attacker running thunderbolt or energy-ball is a real threat. The raw Defense stat is 60, so a strong physical breaker is dangerous if it bypasses the HP pool. Offensively [vaporeon] barely pressures any wall, which means taunt users can neuter it. Running out of [wish] PP in a long game is also an edge case worth watching.\n\n## Recommended Moveset\n[scald] is the locked [water] STAB because its burn chance makes physical attackers think twice about pressing the attack button. [wish] is the core support slot. [protect] covers [wish] turns and stalls, and [ice-beam] fills the last slot with Grass, Dragon, and [ground] coverage. heal-bell is an alternate last slot if the team desperately needs status removal over coverage.\n\n## Item · Ability · Tera\n[leftovers] is the default. [sitrus-berry] is an alternate for one big healing pulse when HP drops below 50 percent, useful when the team needs [vaporeon] alive at half rather than healing forever. The ability must be [water-absorb]. Tera [fairy] gives resistances to Fighting and Dragon, while Tera [ground] flips Electric weakness into immunity.\n\n## Teammates & Synergy\nWish support works best on defensive cores, so a Steel wall that absorbs physical hits for [vaporeon] is the natural partner. An Electric answer. Cleaners on the back line convert the [wish] sustain into wins, and a teammate with heal-bell reduces status pressure if you didn't run it on [vaporeon] itself.\n\n## Play Patterns\nThe basic cycle is a two-turn loop: [wish] turn one, [protect] turn two, and pass the heal to a partner by switching out on turn three. Let opposing [water] attackers in freely to trigger [water-absorb], and switch out when an Electric or Grass attacker is about to come in. Save the Tera for the exact moment a thunderbolt or energy-ball is about to land.",
+  "bodyMarkdown": "## Overview\n[Vaporeon] is a [Water]-type [wall] built around its massive 130 base HP and the [water-absorb] ability, which makes it a natural answer to any team leaning on [Water] STAB offense. It isn't an offensive Pokemon in the traditional sense — its role is team healing and board control through the [wish] and [protect] loop, keeping partner Pokemon alive over a long game. 60 raw Defense looks thin, but combined with the HP stat the effective physical bulk is much higher than it looks.\n\n## Strengths\n[water-absorb] doesn't just null the damage from [Water] moves — it restores 25 percent HP on contact, which means opposing [Water] attackers actively stabilize [Vaporeon] instead of threatening it. The [wish] move is the main [support] tool in the tier: it heals an incoming ally for half of [Vaporeon]'s max HP on the next turn, which keeps sweepers like setup attackers online through a long game. [protect] covers the [wish] turn and stalls passive damage like [toxic] ticks or weather chip.\n\n## Weaknesses & Answers\n[Electric] and [Grass] hit for 2x, and any special attacker running [thunderbolt] or [energy-ball] is a real threat. The raw Defense stat is 60, so a strong physical breaker is dangerous if it bypasses the HP pool. Offensively [Vaporeon] barely pressures any [wall], which means [taunt] users can neuter it. Running out of [wish] PP in a long game is also an edge case worth watching.\n\n## Recommended Moveset\n[scald] is the locked [Water] STAB because its burn chance makes physical attackers think twice about pressing the attack button. [wish] is the core [support] slot. [protect] covers [wish] turns and stalls, and [ice-beam] fills the last slot with [Grass], [Dragon], and [Ground] coverage. [heal-bell] is an alternate last slot if the team desperately needs status removal over coverage.\n\n## Item · Ability · Tera\n[leftovers] is the default. [sitrus-berry] is an alternate for one big healing pulse when HP drops below 50 percent, useful when the team needs [Vaporeon] alive at half rather than healing forever. The ability must be [water-absorb]. Tera [Fairy] gives resistances to [Fighting] and [Dragon], while Tera [Ground] flips [Electric] weakness into immunity.\n\n## Teammates & Synergy\nWish [support] works best on defensive cores, so a [Steel] [wall] that absorbs physical hits for [Vaporeon] is the natural partner. An [Electric] answer. Cleaners on the back line convert the [wish] sustain into wins, and a teammate with [heal-bell] reduces status pressure if you didn't run it on [Vaporeon] itself.\n\n## Play Patterns\nThe basic cycle is a two-turn loop: [wish] turn one, [protect] turn two, and pass the heal to a partner by switching out on turn three. Let opposing [Water] attackers in freely to trigger [water-absorb], and switch out when an [Electric] or [Grass] attacker is about to come in. Save the Tera for the exact moment a [thunderbolt] or [energy-ball] is about to land.",
   "tags": [
     "kanto",
     "water",

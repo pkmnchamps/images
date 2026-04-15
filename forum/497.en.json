@@ -25,16 +25,16 @@
     "spe": 32
   },
   "locale": "en",
-  "title": "[serperior] Battle Guide",
-  "summary": "A paradoxical special setup sweeper that turns [leaf-storm] into a +2 SpA boost every click thanks to [contrary], and rides 113 Speed to close games.",
+  "title": "[Serperior] Battle Guide",
+  "summary": "A paradoxical special setup sweeper that turns [leaf-storm] into a +2 SpA boost every c[lick] thanks to [contrary], and rides 113 Speed to close games.",
   "strengths": [
-    "[contrary] + [leaf-storm] stacks +2 SpA per attack click",
+    "[contrary] + [leaf-storm] stacks +2 SpA per attack c[lick]",
     "113 Speed outruns most unboosted attackers",
     "[giga-drain] sustains HP while maintaining pressure"
   ],
   "weaknesses": [
-    "Stacked Ice, [fire], Poison, Bug, and Flying weaknesses",
-    "Narrow coverage pool is walled by Steel and Poison pivots",
+    "Stacked [Ice], [Fire], [Poison], [Bug], and [Flying] weaknesses",
+    "Narrow cove[rage] pool is walled by [Steel] and [Poison] pivots",
     "Priority attackers shut the plan down before setup lands"
   ],
   "recommendedMoves": [
@@ -44,11 +44,11 @@
     },
     {
       "move": "giga-drain",
-      "reason": "Safe STAB once boosted, recovers HP for long games"
+      "reason": "Safe STAB once boosted, [recover]s HP for long games"
     },
     {
       "move": "dragon-pulse",
-      "reason": "Coverage for Dragon and [grass] mirrors"
+      "reason": "Cove[rage] for [Dragon] and [Grass] mirrors"
     },
     {
       "move": "glare",
@@ -62,14 +62,14 @@
     },
     {
       "item": "leftovers",
-      "reason": "Passive recovery for long-game loops"
+      "reason": "Passive [recover]y for long-game loops"
     },
     {
       "item": "miracle-seed",
-      "reason": "Bumps [grass] STAB damage without locking the move"
+      "reason": "Bumps [Grass] STAB damage without locking the move"
     }
   ],
-  "bodyMarkdown": "## Overview\n[serperior] is a mono-[grass] special sweeper whose entire competitive identity comes from the [contrary] ability. 75 Special Attack looks ordinary, but because [contrary] inverts stat drops, every click of [leaf-storm] raises SpA by two stages instead of lowering it. After two attack turns, [serperior] is already at +4 and usually winning the damage race against every neutral wall. Base 113 Speed lets it outrun most unboosted attackers, and 95/95 mixed bulk expands its survivable matchup list significantly.\n\n## Strengths\nThe [contrary] + [leaf-storm] core is one of the strongest setup loops in the meta because no dedicated setup turn is required. Every attack is both damage and a boost. [giga-drain] provides passive recovery once the sweep starts rolling, [dragon-pulse] covers Dragon and mirror [grass] matchups that [leaf-storm] cannot punish, and [glare] is the utility card that steals turns from faster attackers via paralysis. Because the setup is the attack itself, opponents cannot easily punish the 'wasted' setup turn.\n\n## Weaknesses & Answers\nFive 2x weaknesses — Ice, [fire], Poison, Bug, and Flying — make [serperior] a liability against offense. Its coverage pool is narrow, so Steel, [fire], and Poison pivots wall it cleanly and force hard switches. Priority moves and choice-scarf users also threaten to remove [serperior] before the second boosted [leaf-storm] lands. If the first two turns aren't safe, the sweep never starts. Tera [fire] is the canonical flip that patches the worst weakness spread in one move.\n\n## Recommended Moveset\n[leaf-storm] is the locked-in primary STAB because it's both the damage and the setup. After two clicks [serperior] sits at +4 SpA, at which point [giga-drain] becomes the safe cleanup option that recovers HP on impact. [dragon-pulse] handles Dragon and mirror [grass] pivots that resist the STAB combo. The last slot is [glare], whose paralysis chance turns fast revenge killers into free [serperior] turns. taunt is a reasonable alternative if the team already has enough status support.\n\n## Item · Ability · Tera\n[focus-sash] is the default insurance against priority so the first [leaf-storm] always fires. [leftovers] is the alternate item for long-game teams that rely on [giga-drain] recovery loops. [miracle-seed] boosts [grass] STAB without locking the move, which helps when early damage breakpoints are critical. The ability must always be [contrary] — no other option exists competitively. Tera [fire] flips the worst defensive weaknesses, while Tera [grass] maxes raw STAB output for a pure offensive ceiling.\n\n## Teammates & Synergy\n[serperior] appreciates a Steel or Poison remover teammate — Ground or [fire] attackers that can soften the walls [serperior] cannot break. Priority counters like Intimidate users or magic-guard partners reduce the early-game risk, and a fast cleaner behind [serperior] takes advantage of the [glare] paralysis turns by starting its own setup. A lead hazard remover is also valuable because [serperior] hates entering into chip damage.\n\n## Play Patterns\nOpen the first [leaf-storm] into a physical wall to maximize the boost curve, because [serperior]'s special bulk comfortably absorbs neutral physical hits. Once at +4, transition to [giga-drain] for the HP recovery loop, and save [dragon-pulse] for the exact moment a [grass]-resistant pivot appears. Deploy the Tera trigger the moment a 2x weakness move is telegraphed — that single swap is typically what carries the sweep to the end of the game.",
+  "bodyMarkdown": "## Overview\n[Serperior] is a mono-[Grass] special sweeper whose entire competitive identity comes from the [contrary] ability. 75 Special Attack looks ordinary, but because [contrary] inverts stat drops, every click of [leaf-storm] raises SpA by two stages instead of lowering it. After two attack turns, [Serperior] is already at +4 and usually winning the damage race against every neutral wall. Base 113 Speed lets it outrun most unboosted attackers, and 95/95 mixed bulk expands its survivable matchup list significantly.\n\n## Strengths\nThe [contrary] + [leaf-storm] core is one of the strongest setup loops in the meta because no dedicated setup turn is required. Every attack is both damage and a boost. [giga-drain] provides passive recovery once the sweep starts rolling, [dragon-pulse] covers [Dragon] and mirror [Grass] matchups that [leaf-storm] cannot punish, and [glare] is the utility card that steals turns from faster attackers via paralysis. Because the setup is the attack itself, opponents cannot easily punish the 'wasted' setup turn.\n\n## Weaknesses & Answers\nFive 2x weaknesses — [Ice], [Fire], [Poison], [Bug], and [Flying] — make [Serperior] a liability against offense. Its coverage pool is narrow, so [Steel], [Fire], and [Poison] pivots wall it cleanly and force hard switches. Priority moves and choice-scarf users also threaten to remove [Serperior] before the second boosted [leaf-storm] lands. If the first two turns aren't safe, the sweep never starts. Tera [Fire] is the canonical flip that patches the worst weakness spread in one move.\n\n## Recommended Moveset\n[leaf-storm] is the locked-in primary STAB because it's both the damage and the setup. After two clicks [Serperior] sits at +4 SpA, at which point [giga-drain] becomes the safe cleanup option that recovers HP on impact. [dragon-pulse] handles [Dragon] and mirror [Grass] pivots that resist the STAB combo. The last slot is [glare], whose paralysis chance turns fast [revenge] killers into free [Serperior] turns. [taunt] is a reasonable alternative if the team already has enough status support.\n\n## Item · Ability · Tera\n[focus-sash] is the default insurance against priority so the first [leaf-storm] always fires. [leftovers] is the alternate item for long-game teams that rely on [giga-drain] recovery loops. [miracle-seed] boosts [Grass] STAB without locking the move, which helps when early damage breakpoints are critical. The ability must always be [contrary] — no other option exists competitively. Tera [Fire] flips the worst defensive weaknesses, while Tera [Grass] maxes raw STAB output for a pure offensive ceiling.\n\n## Teammates & Synergy\n[Serperior] appreciates a [Steel] or [Poison] remover teammate — [Ground] or [Fire] attackers that can soften the walls [Serperior] cannot break. Priority counters like Intimidate users or [magic-guard] partners reduce the early-game risk, and a fast cleaner behind [Serperior] takes advantage of the [glare] paralysis turns by starting its own setup. A lead hazard remover is also valuable because [Serperior] hates entering into chip damage.\n\n## Play Patterns\nOpen the first [leaf-storm] into a physical wall to maximize the boost curve, because [Serperior]'s special bulk comfortably absorbs neutral physical hits. Once at +4, transition to [giga-drain] for the HP recovery loop, and save [dragon-pulse] for the exact moment a [Grass]-resistant pivot appears. Deploy the Tera trigger the moment a 2x weakness move is telegraphed — that single swap is typically what carries the sweep to the end of the game.",
   "tags": [
     "unova",
     "grass",

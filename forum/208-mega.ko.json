@@ -26,22 +26,22 @@
     "spe": 0
   },
   "locale": "ko",
-  "title": "[steelix-mega] 배틀 운용 가이드",
-  "summary": "230 물방으로 메타 최상위 물리 요새가 된 [steel]·[ground] 복합 탱어태커. 모래팟에서 [sand-force]로 주력기 화력 30% 보정을 받는다.",
+  "title": "[메가강철톤] 배틀 운용 가이드",
+  "summary": "230 물방으로 메타 최상위 물리 요새가 된 [강철]·[땅] 복합 탱어태커. 모래팟에서 [sand-force]로 주력기 화력 30% 보정을 받는다.",
   "strengths": [
     "230 방어·75/95 특수내구로 물리 확정 탱킹",
-    "[sand-force] 모래 아래 [steel]·[ground] 위력 +30%",
+    "[sand-force] 모래 아래 [강철]·[땅] 위력 +30%",
     "[stealth-rock] 필드 세팅 + 공격 겸업"
   ],
   "weaknesses": [
-    "[ground]·불·물·격투 4배 약점 구조",
-    "스피드 30 고정 후공으로 trick-room 의존",
+    "[땅]·[불]·[물]·[격투] 4배 약점 구조",
+    "스피드 30 고정 후공으로 [trick-room] 의존",
     "특수 공격에 방어 230 이점이 사라짐"
   ],
   "recommendedMoves": [
     {
       "move": "heavy-slam",
-      "reason": "메가 후 체중 1480kg 최고 위력 [steel] STAB"
+      "reason": "메가 후 체중 1480kg 최고 위력 [강철] STAB"
     },
     {
       "move": "earthquake",
@@ -62,7 +62,7 @@
       "reason": "메가 진화를 위한 필수 아이템"
     }
   ],
-  "bodyMarkdown": "## 개요\n[steelix-mega]은 방어 종족값 230이라는 메타 최상위 물리 요새를 제공하는 [steel]·[ground] 복합 탱어태커다. [sand-force] 특성으로 모래 아래에서 [steel]·바위·[ground] 기술의 위력이 30% 상승하여, 단순한 방어형 포켓몬을 넘어 물리 화력도 뒷받침된다. 체중 1480kg은 [heavy-slam] 최대 위력 판정을 보장한다.\n\n## 강점 분석\n230 방어는 대부분의 무보정 물리 공격을 절반 이하의 피해로 흡수하고, HP·방어 특화 시 close-combat·[earthquake] 유저도 2회 이상 버틴다. [sand-force] 모래팟에서는 [earthquake]가 실질 위력 130, [heavy-slam]이 체중 차이 기반 최고 위력 판정과 겹쳐 물리 화력도 충분하다. 복합 [steel]·[ground] 저항 목록이 넓어 [fairy]·flying·rock·electric 4배 저항 포함 9개 타입에 안정적으로 들어간다.\n\n## 약점과 대응\n[ground]·물·불·격투 4배 약점 구조는 메가 후에도 유지되며, 특히 water hydro-pump·[ground] [earthquake] 유저에게 즉사할 수 있다. 스피드 30은 최하위권이라 trick-room 파티가 아니면 반드시 후공한다. 특수 공격에는 방어 230이 무의미하므로 특수 어태커 견제는 파트너에게 맡긴다.\n\n## 추천 기술 구성\n[heavy-slam]은 메가 후 1480kg 체중을 활용한 최고 위력 [steel] STAB이다. [earthquake]는 [sand-force] 보정 + 광역 판정으로 더블에서 핵심. [stealth-rock]은 스피드 30 후공을 활용한 안정적 세팅 유틸이고, [protect]는 메가 진화 1턴 안전 확보 + 턴 세이브에 쓴다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [steelixite] 고정이며 대안이 없다. 특성은 메가 진화 후 [sand-force]로 자동 전환된다. 테라스탈은 [steel]로 [fairy]·ice 약점 추가 내성을 얻거나, [fairy]로 fighting 4배 약점을 역이용 가능한 내성 타입으로 전환한다.\n\n## 시너지와 파트너\n모래팟 세팅이 가능한 tyranitar 또는 hippowdon과의 시너지가 가장 좋고, trick-room 세터인 dusknoir·hatterene 파트너와 스피드 30 약점을 상쇄한다. 물·격투 약점 카운터로 grass·psychic 타입 파트너가 필수다.\n\n## 운용 팁\n선봉으로 내지 말고 trick-room 또는 모래팟이 전개된 뒤 교대 인으로 등장시킨다. 메가 진화 1턴은 [protect]로 안전 확보 후, 다음 턴부터 [earthquake]·[heavy-slam]으로 물리 화력을 뿜는다. [stealth-rock]은 상대 교대 예측 턴에 세팅한다.",
+  "bodyMarkdown": "## 개요\n[메가강철톤]은 방어 종족값 230이라는 메타 최상위 물리 요새를 제공하는 [강철]·[땅] 복합 탱어태커다. [sand-force] 특성으로 모래 아래에서 [강철]·[바위]·[땅] 기술의 위력이 30% 상승하여, 단순한 방어형 포켓몬을 넘어 물리 화력도 뒷받침된다. 체중 1480kg은 [heavy-slam] 최대 위력 판정을 보장한다.\n\n## 강점 분석\n230 방어는 대부분의 무보정 물리 공격을 절반 이하의 피해로 흡수하고, HP·방어 특화 시 [close-combat]·[earthquake] 유저도 2회 이상 버틴다. [sand-force] 모래팟에서는 [earthquake]가 실질 위력 130, [heavy-slam]이 체중 차이 기반 최고 위력 판정과 겹쳐 물리 화력도 충분하다. 복합 [강철]·[땅] 저항 목록이 넓어 [fairy]·[flying]·[rock]·[electric] 4배 저항 포함 9개 타입에 안정적으로 들어간다.\n\n## 약점과 대응\n[땅]·[물]·[불]·[격투] 4배 약점 구조는 메가 후에도 유지되며, 특히 [water] [hydro-pump]·[ground] [earthquake] 유저에게 즉사할 수 있다. 스피드 30은 최하위권이라 [trick-room] 파티가 아니면 반드시 후공한다. 특수 공격에는 방어 230이 무의미하므로 특수 어태커 견제는 파트너에게 맡긴다.\n\n## 추천 기술 구성\n[heavy-slam]은 메가 후 1480kg 체중을 활용한 최고 위력 [강철] STAB이다. [earthquake]는 [sand-force] 보정 + 광역 판정으로 더블에서 핵심. [stealth-rock]은 스피드 30 후공을 활용한 안정적 세팅 유틸이고, [protect]는 메가 진화 1턴 안전 확보 + 턴 세이브에 쓴다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [steelixite] 고정이며 대안이 없다. 특성은 메가 진화 후 [sand-force]로 자동 전환된다. 테라스탈은 [강철]로 [fairy]·[ice] 약점 추가 내성을 얻거나, [fairy]로 [fighting] 4배 약점을 역이용 가능한 내성 타입으로 전환한다.\n\n## 시너지와 파트너\n모래팟 세팅이 가능한 [tyranitar] 또는 [hippowdon]과의 시너지가 가장 좋고, [trick-room] 세터인 [dusknoir]·[hatterene] 파트너와 스피드 30 약점을 상쇄한다. [물]·[격투] 약점 카운터로 [grass]·[psychic] 타입 파트너가 필수다.\n\n## 운용 팁\n선봉으로 내지 말고 [trick-room] 또는 모래팟이 전개된 뒤 교대 인으로 등장시킨다. 메가 진화 1턴은 [protect]로 안전 확보 후, 다음 턴부터 [earthquake]·[heavy-slam]으로 물리 화력을 뿜는다. [stealth-rock]은 상대 교대 예측 턴에 세팅한다.",
   "tags": [
     "johto",
     "steel",

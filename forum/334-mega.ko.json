@@ -26,22 +26,22 @@
     "spe": 16
   },
   "locale": "ko",
-  "title": "[altaria-mega] 배틀 운용 가이드",
-  "summary": "[pixilate]로 [return]·body-slam이 [fairy] 자속으로 변환되는 [dragon]·[fairy] 벌크 어태커. [dragon-dance] 셋업이 핵심이다.",
+  "title": "[메가파비코리] 배틀 운용 가이드",
+  "summary": "[pixilate]로 [return]·[body-slam]이 [페어리] 자속으로 변환되는 [드래곤]·[페어리] 벌크 어태커. [dragon-dance] 셋업이 핵심이다.",
   "strengths": [
-    "[pixilate] [return]·body-slam [fairy] 변환 + 1.2배 보정",
-    "[dragon]·[fairy] 복합 [dragon] 무효 + 격투 저항",
+    "[pixilate] [return]·[body-slam] [페어리] 변환 + 1.2배 보정",
+    "[dragon]·[페어리] 복합 [드래곤] 무효 + [격투] 저항",
     "[dragon-dance]로 공격·스피드 동시 적층"
   ],
   "weaknesses": [
-    "독·강철·얼음 약점 추가",
+    "[독]·[강철]·[얼음] 약점 추가",
     "스피드 80 기본치는 적층 전 후공",
     "특수 내구 105 있지만 물리 내구 110/110은 보통"
   ],
   "recommendedMoves": [
     {
       "move": "return",
-      "reason": "[pixilate] 변환 주력 [fairy] 자속"
+      "reason": "[pixilate] 변환 주력 [페어리] 자속"
     },
     {
       "move": "dragon-dance",
@@ -49,7 +49,7 @@
     },
     {
       "move": "earthquake",
-      "reason": "독·강철 견제 서브"
+      "reason": "[독]·[강철] 견제 서브"
     },
     {
       "move": "protect",
@@ -62,7 +62,7 @@
       "reason": "메가 진화를 위한 필수 아이템"
     }
   ],
-  "bodyMarkdown": "## 개요\n[altaria-mega]는 [pixilate] 특성으로 normal 기술이 [fairy] 타입 + 1.2배 보정으로 변환되는 [dragon]·[fairy] 벌크 어태커다. [dragon-dance]로 셋업 후 [return] 또는 body-slam 주력 자속 공격을 퍼붓는 것이 핵심 운용법이며, 110/110/110의 메가 후 내구로 셋업 기회가 충분하다.\n\n## 강점 분석\n[pixilate]는 normal 기술을 [fairy] 자속으로 변환 + 1.2배 보정을 중첩한다. [return] 위력 102 + STAB + pixilate 보정 = 실질 위력 183 수준의 폭발적 주력기다. [dragon]·[fairy] 복합 타입은 [dragon] 무효 + 격투·벌레·악 저항 프로필로 공격형 벌크 어태커에 최적이다. [dragon-dance]는 공격·스피드 동시 적층으로 단일 셋업만으로 스윕 상태에 진입할 수 있다.\n\n## 약점과 대응\n독·강철·얼음·[fairy]·[dragon] 약점이 있는 복잡한 저항 구조. 메타 steel 타입에게는 [return]이 반감당하고 iron-head 역습을 받으므로 [earthquake] 견제가 필수다. 스피드 80 기본치는 [dragon-dance] 적층 전에는 대부분 후공이므로 셋업 타이밍이 중요.\n\n## 추천 기술 구성\n[return]은 [pixilate] 활용의 핵심 주력기. [dragon-dance]는 공격·스피드 동시 적층 셋업으로 반드시 채택. [earthquake]는 독·강철 견제용 서브로 필수. [protect]는 메가 진화 + 셋업 기회 창출. body-slam은 [return] 대신 마비 부가 효과 원할 때 선택.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [altarianite] 고정이다. 특성은 메가 진화 후 [pixilate]로 자동 전환. 테라스탈은 [fairy]로 자속 + [pixilate] 중첩 보정 극대화, 또는 [dragon]으로 얼음 저항 유지 + 자속 [dragon]기 강화.\n\n## 시너지와 파트너\n독·강철 약점 카운터로 ground·fire 파트너 배치. intimidate 유저로 물리 내구 보조, tailwind로 [dragon-dance] 적층 전 스피드 보조하면 셋업 기회가 크게 늘어난다.\n\n## 운용 팁\n메가 진화 + [protect]로 안전 턴 확보 후 [dragon-dance] 적층 기회를 노린다. 적층 완료 후 [return]으로 주력 공격, steel 노출 시 [earthquake] 즉시 전환. 특수 어태커에게는 셋업 기회가 안전하므로 우선 타겟팅한다.",
+  "bodyMarkdown": "## 개요\n[메가파비코리]는 [pixilate] 특성으로 [normal] 기술이 [페어리] 타입 + 1.2배 보정으로 변환되는 [드래곤]·[페어리] 벌크 어태커다. [dragon-dance]로 셋업 후 [return] 또는 [body-slam] 주력 자속 공격을 퍼붓는 것이 핵심 운용법이며, 110/110/110의 메가 후 내구로 셋업 기회가 충분하다.\n\n## 강점 분석\n[pixilate]는 [normal] 기술을 [페어리] 자속으로 변환 + 1.2배 보정을 중첩한다. [return] 위력 102 + STAB + pixilate 보정 = 실질 위력 183 수준의 폭발적 주력기다. [dragon]·[페어리] 복합 타입은 [드래곤] 무효 + [격투]·[벌레]·[악] 저항 프로필로 공격형 벌크 어태커에 최적이다. [dragon-dance]는 공격·스피드 동시 적층으로 단일 셋업만으로 스윕 상태에 진입할 수 있다.\n\n## 약점과 대응\n[독]·[강철]·[얼음]·[페어리]·[드래곤] 약점이 있는 복잡한 저항 구조. 메타 [steel] 타입에게는 [return]이 반감당하고 [iron-head] 역습을 받으므로 [earthquake] 견제가 필수다. 스피드 80 기본치는 [dragon-dance] 적층 전에는 대부분 후공이므로 셋업 타이밍이 중요.\n\n## 추천 기술 구성\n[return]은 [pixilate] 활용의 핵심 주력기. [dragon-dance]는 공격·스피드 동시 적층 셋업으로 반드시 채택. [earthquake]는 [독]·[강철] 견제용 서브로 필수. [protect]는 메가 진화 + 셋업 기회 창출. [body-slam]은 [return] 대신 마비 부가 효과 원할 때 선택.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [altarianite] 고정이다. 특성은 메가 진화 후 [pixilate]로 자동 전환. 테라스탈은 [페어리]로 자속 + [pixilate] 중첩 보정 극대화, 또는 [드래곤]으로 [얼음] 저항 유지 + 자속 [dragon]기 강화.\n\n## 시너지와 파트너\n[독]·[강철] 약점 카운터로 [ground]·[fire] 파트너 배치. [intimidate] 유저로 물리 내구 보조, [tailwind]로 [dragon-dance] 적층 전 스피드 보조하면 셋업 기회가 크게 늘어난다.\n\n## 운용 팁\n메가 진화 + [protect]로 안전 턴 확보 후 [dragon-dance] 적층 기회를 노린다. 적층 완료 후 [return]으로 주력 공격, [steel] 노출 시 [earthquake] 즉시 전환. 특수 어태커에게는 셋업 기회가 안전하므로 우선 타겟팅한다.",
   "tags": [
     "hoenn",
     "dragon",

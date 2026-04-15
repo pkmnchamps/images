@@ -1,0 +1,82 @@
+{
+  "pokemonId": 157,
+  "nameKo": "히스이블레이범",
+  "nameEn": "typhlosion-hisui",
+  "formKey": "hisui",
+  "types": [
+    "fire",
+    "ghost"
+  ],
+  "roles": [
+    "special-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "blaze",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "ghost",
+    "fire"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Hisuian Typhlosion Battle Guide",
+  "summary": "A [Fire]/[Ghost] special attacker whose signature [infernal-parade] doubles damage against statused targets — 119 SpA and [Normal]/[Fighting] immunity.",
+  "strengths": [
+    "[Fire]/[Ghost] is immune to [Normal] and [Fighting]",
+    "[infernal-parade] doubles on statused targets",
+    "119 SpA and 95 Speed offensive spread"
+  ],
+  "weaknesses": [
+    "Weak to [Water], [Rock], [Ground], [Dark], [Ghost]",
+    "73/78/85 bulk is average",
+    "95 Speed is outsped by top threats"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "infernal-parade",
+      "reason": "Signature [Ghost] STAB doubled on status"
+    },
+    {
+      "move": "fire-blast",
+      "reason": "Max BP [Fire] STAB"
+    },
+    {
+      "move": "focus-blast",
+      "reason": "Coverage for [Dark] and [Rock]"
+    },
+    {
+      "move": "protect",
+      "reason": "Turn safety"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "choice-specs",
+      "reason": "Massive SpA boost"
+    },
+    {
+      "item": "life-orb",
+      "reason": "Flexible damage amp"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "Setup insurance"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nHisuian Typhlosion is a [Fire]/[Ghost] special attacker built around its signature move [infernal-parade] — a base 60 BP [Ghost] STAB that doubles against statused targets and has a 30% burn chance. With 119 Special Attack and immunity to [Normal] and [Fighting], it pivots into [urshifu] and [kangaskhan-mega] safely.\n\n## Strengths\n[infernal-parade] effectively becomes 120 BP on burned, paralyzed, or poisoned targets — an easy double damage amp when paired with status setters. [Fire]/[Ghost] is an uncommon typing that dodges [Normal] and [Fighting] moves outright. [fire-blast] + [focus-blast] covers most common defensive types.\n\n## Weaknesses & Answers\nFive weaknesses — [Water], [Rock], [Ground], [Dark], [Ghost] — plus mirror-match parity with other [Ghost] attackers. Bulk is average, and 95 Speed is outsped by common scarfers.\n\n## Recommended Moveset\n[infernal-parade] is the signature STAB. [fire-blast] is the backup [Fire] STAB. [focus-blast] handles [Dark] and [Rock] walls. [protect] is standard.\n\n## Item · Ability · Tera\n[choice-specs] maximizes damage. [life-orb] keeps flexibility. [blaze] is standard. Tera [Ghost] stacks [infernal-parade]; Tera [Fire] stacks [fire-blast].\n\n## Teammates & Synergy\nPair with [will-o-wisp] or [toxic] users to reliably trigger the [infernal-parade] double damage. Cover [Water] and [Rock] with [Electric] and [Grass] partners. [tailwind] support handles the Speed issue.\n\n## Play Patterns\nWait for a status to land on the opposing field, then pivot in and click [infernal-parade] for guaranteed 2x damage. Use [fire-blast] on [Steel] and [Grass] walls. Switch out against [Water] or [Dark] attackers.",
+  "tags": [
+    "hisui",
+    "fire",
+    "ghost",
+    "regional-form",
+    "special-sweeper"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

@@ -1,0 +1,83 @@
+{
+  "pokemonId": 128,
+  "nameKo": "팔데아켄타로스(화염)",
+  "nameEn": "tauros-paldea-blaze-breed",
+  "formKey": "paldea-blaze-breed",
+  "types": [
+    "fighting",
+    "fire"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "intimidate",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "fire",
+    "fighting"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Paldean Tauros (Blaze) Battle Guide",
+  "summary": "A [Fighting]/[Fire] physical attacker with [intimidate] — [raging-bull] is a signature [Fire] STAB that also shatters screens.",
+  "strengths": [
+    "[intimidate] utility plus dual STAB coverage",
+    "[raging-bull] breaks [light-screen] and [reflect]",
+    "110 Attack and 100 Speed offensive spread"
+  ],
+  "weaknesses": [
+    "Weak to [Water], [Ground], [Flying], [Psychic]",
+    "75/105/70 bulk is average",
+    "No sun abuse without external setup"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "raging-bull",
+      "reason": "Signature [Fire] STAB that breaks screens"
+    },
+    {
+      "move": "close-combat",
+      "reason": "Max BP [Fighting] STAB"
+    },
+    {
+      "move": "flare-blitz",
+      "reason": "Alternative [Fire] STAB"
+    },
+    {
+      "move": "protect",
+      "reason": "Turn safety"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "life-orb",
+      "reason": "Default damage amp"
+    },
+    {
+      "item": "choice-band",
+      "reason": "1.5x Attack variant"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "Mid-HP recovery"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nPaldean Tauros (Blaze Breed) adds [Fire] STAB on top of the Combat Breed's [Fighting] identity. Its signature move [raging-bull] becomes [Fire]-typed, gains a respectable BP, and breaks opposing screens — making it a highly flexible anti-stall attacker. [intimidate] support and 110/100 offensive profile complete the toolkit.\n\n## Strengths\n[raging-bull] is the unique feature — a signature move that changes type by breed and additionally shatters [light-screen] and [reflect]. This turns Blaze Breed Tauros into a counter to screen-based stall teams. [Fighting]/[Fire] dual STAB is an excellent offensive combination that covers [Steel], [Ice], [Dark], [Bug], and [Grass] at a minimum.\n\n## Weaknesses & Answers\n[Water], [Ground], [Flying], and [Psychic] are all active weaknesses, and [Water] attackers threaten outright KOs. Bulk is average, so predicting around weaknesses matters.\n\n## Recommended Moveset\n[raging-bull] is the signature [Fire] STAB. [close-combat] is the [Fighting] STAB. [flare-blitz] is an alternative to [raging-bull] for more raw damage but loses the screen-break utility. [protect] is mandatory.\n\n## Item · Ability · Tera\n[life-orb] for offensive flexibility. [choice-band] for maximum damage. [intimidate] is locked. Tera [Fire] stacks [raging-bull] and [flare-blitz], Tera [Fighting] stacks [close-combat].\n\n## Teammates & Synergy\nCover [Water] and [Ground] with [Electric] and [Grass] partners. [Dark] and [Bug] cover [Psychic]. [tailwind] extends the sweeping window.\n\n## Play Patterns\nLead to trigger [intimidate], then click [raging-bull] against screen leads or [close-combat] into neutral targets. Flex [flare-blitz] when screen-breaking isn't needed. Switch out against [Water] attackers.",
+  "tags": [
+    "paldea",
+    "fighting",
+    "fire",
+    "regional-form",
+    "intimidate",
+    "physical-attacker"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

@@ -27,33 +27,33 @@
   },
   "locale": "en",
   "title": "Mega Manectric Battle Guide",
-  "summary": "An [electric] special sweeper that opens with [intimidate] on entry, then runs the meta down with 135/135 SpA and Speed.",
+  "summary": "An [Electric] special [sweeper] that opens with [in[timid]ate] on entry, then runs the meta down with 135/135 SpA and Speed.",
   "strengths": [
     "Post-Mega 135/135 SpA and Speed put it in the top Speed tier",
-    "[intimidate] drops opposing Atk on every entry",
-    "[volt-switch] enables a constant pivot and chip plan"
+    "[in[timid]ate] drops oppo[sing] Atk on every entry",
+    "[volt-switch] enables a constant [pivot] and chip plan"
   ],
   "weaknesses": [
-    "Ground coverage still hits it for 2x",
+    "[Ground] cove[rage] still hits it for 2x",
     "Thin 70/80/80 defenses fold to one retaliation hit",
     "The Mega slot is locked — no alternative item plans"
   ],
   "recommendedMoves": [
     {
       "move": "thunderbolt",
-      "reason": "Main [electric] STAB with clean finishing power"
+      "reason": "Main [Electric] STAB with clean finishing power"
     },
     {
       "move": "volt-switch",
-      "reason": "Reuses [intimidate] via pivot plays"
+      "reason": "Reuses [in[timid]ate] via [pivot] plays"
     },
     {
       "move": "flamethrower",
-      "reason": "Coverage for Steel and Grass switch-ins"
+      "reason": "Cove[rage] for [Steel] and [Grass] switch-ins"
     },
     {
       "move": "hidden-power",
-      "reason": "[ice] coverage for Ground and Dragon pivots"
+      "reason": "[Ice] cove[rage] for [Ground] and [Dragon] [pivot]s"
     }
   ],
   "recommendedItems": [
@@ -62,7 +62,7 @@
       "reason": "Mandatory Mega Stone — no alternative"
     }
   ],
-  "bodyMarkdown": "## Overview\nMega Manectric combines intimidate, 135 SpA, and 135 Speed into one of the cleanest [electric] pivots in the format. Base Manectric sits at a mediocre 105/105 line, but the Mega pushes both stats into the top of the Speed tier and simultaneously drops opposing Attack on every entry. Because pure [electric] has a single weakness to manage, Mega Manectric slots neatly into any cycle team as a pressure-and-pivot engine that rarely loses a turn.\n\n## Strengths\n135 Speed outruns virtually every unboosted attacker without needing choice-scarf, and [volt-switch] recycles intimidate on every rotation, slowly grinding down physical-offense teams match after match. [thunderbolt] two-shots the Water and Flying cores that the metagame leans on, while [flamethrower] punishes the Steel and Grass pivots (notably Venusaur and Garchomp counters) that would otherwise wall the plan. The pre-Mega intimidate turn also bakes in a free matchup advantage before the actual Mega Evolution takes effect.\n\n## Weaknesses & Answers\nGround is still a 2x weakness, and any earthquake or earth-power user threatens an immediate KO. Mega Manectric's 70/80/80 defensive line is on the fragile side for a Mega — one clean retaliation will remove half of its HP. Priority attackers like bullet-punch and [ice]-shard users plus choice-scarf Dragons are the main revenge threats, so do not try to stay in when those mons are telegraphed. Tera [ice] flips the Ground weakness, while Tera [electric] maxes STAB damage.\n\n## Recommended Moveset\n[thunderbolt] is locked in as the main STAB. [volt-switch] is the heart of the cycle plan because it maintains momentum while letting intimidate reset on every pivot. The third slot is [flamethrower], which punishes Steel and Grass switch-ins who try to wall the STAB combo. The last slot is [hidden-power] [ice], which hits Ground and Dragon pivots that would otherwise be safe against the coverage triangle. overheat and thunder-wave are valid swaps depending on whether the team wants a nuker or a status spreader.\n\n## Item · Ability · Tera\n[manectite] is the only item — no alternative exists. intimidate locks in automatically after Mega Evolution, so the pre-Mega ability is effectively irrelevant. [timid] is the standard nature to max out the Speed tier. For Tera, [electric] deepens [thunderbolt] output for maximum offensive ceiling, while [ice] is the defensive flip that removes the Ground weakness and turns Mega Manectric into a surprise answer for Ground-type sweepers.\n\n## Teammates & Synergy\nGrass and Water partners remove the Ground threats that Mega Manectric cannot handle directly. A Water pivot paired with Mega Manectric creates an infinite [volt-switch] + U-turn cycle that grinds most offense into dust. A taunt user on the back line prevents opposing setup sweepers from snowballing, and a dedicated priority cleaner handles the late-game finishing work once Mega Manectric has chipped the opposing team down.\n\n## Play Patterns\nAlways enter on a turn where intimidate matters — the free physical debuff is the reason Mega Manectric exists. After that, rotate via [volt-switch] to protect its thin bulk and reuse intimidate repeatedly. Click [thunderbolt] only for confirmed KOs so you minimize retaliation exposure. Save the Tera trigger for a telegraphed earthquake or priority move that would otherwise remove Mega Manectric from the field.",
+  "bodyMarkdown": "## Overview\nMega Manectric combines intimidate, 135 SpA, and 135 Speed into one of the cleanest [electric] pivots in the format. Base Manectric sits at a mediocre 105/105 line, but the Mega pushes both stats into the top of the Speed tier and simultaneously drops opposing Attack on every entry. Because pure [Electric] has a single weakness to manage, Mega Manectric slots neatly into any cycle team as a pressure-and-[pivot] engine that rarely loses a turn.\n\n## Strengths\n135 Speed outruns virtually every unboosted attacker without needing choice-scarf, and [volt-switch] recycles intimidate on every rotation, slowly grinding down physical-offense teams match after match. [thunderbolt] two-shots the [Water] and [Flying] cores that the metagame leans on, while [flamethrower] punishes the [Steel] and [Grass] pivots (notably Venusaur and Garchomp counters) that would otherwise wall the plan. The pre-Mega intimidate turn also bakes in a free matchup advantage before the actual Mega Evolution takes effect.\n\n## Weaknesses & Answers\n[Ground] is still a 2x weakness, and any [earthquake] or [earth-power] user threatens an immediate KO. Mega Manectric's 70/80/80 defensive line is on the fragile side for a Mega — one clean retaliation will remove half of its HP. Priority attackers like [bullet-punch] and [ice]-shard users plus choice-scarf Dragons are the main [revenge] threats, so do not try to stay in when those mons are telegraphed. Tera [Ice] flips the [Ground] weakness, while Tera [Electric] maxes STAB damage.\n\n## Recommended Moveset\n[thunderbolt] is locked in as the main STAB. [volt-switch] is the heart of the cycle plan because it maintains momentum while letting intimidate reset on every [pivot]. The third slot is [flamethrower], which punishes [Steel] and [Grass] switch-ins who try to wall the STAB combo. The last slot is [hidden-power] [Ice], which hits [Ground] and [Dragon] pivots that would otherwise be safe against the coverage triangle. [overheat] and [thunder-wave] are valid swaps depending on whether the team wants a nuker or a status spreader.\n\n## Item · Ability · Tera\n[manectite] is the only item — no alternative exists. intimidate locks in automatically after Mega Evolution, so the pre-Mega ability is effectively irrelevant. [timid] is the standard nature to max out the Speed tier. For Tera, [Electric] deepens [thunderbolt] output for maximum offensive ceiling, while [Ice] is the defensive flip that removes the [Ground] weakness and turns Mega Manectric into a surprise answer for [Ground]-type sweepers.\n\n## Teammates & Synergy\n[Grass] and [Water] partners remove the [Ground] threats that Mega Manectric cannot handle directly. A [Water] [pivot] paired with Mega Manectric creates an infinite [volt-switch] + U-turn cycle that grinds most offense into dust. A [taunt] user on the back line prevents opposing setup sweepers from snowballing, and a dedicated priority cleaner handles the late-game finishing work once Mega Manectric has chipped the opposing team down.\n\n## Play Patterns\nAlways enter on a turn where intimidate matters — the free physical debuff is the reason Mega Manectric exists. After that, rotate via [volt-switch] to [protect] its thin bulk and reuse intimidate repeatedly. Click [thunderbolt] only for confirmed KOs so you [minimize] retaliation exposure. Save the Tera trigger for a telegraphed [earthquake] or priority move that would otherwise remove Mega Manectric from the field.",
   "tags": [
     "hoenn",
     "electric",

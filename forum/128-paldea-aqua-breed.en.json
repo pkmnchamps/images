@@ -1,0 +1,83 @@
+{
+  "pokemonId": 128,
+  "nameKo": "팔데아켄타로스(물결)",
+  "nameEn": "tauros-paldea-aqua-breed",
+  "formKey": "paldea-aqua-breed",
+  "types": [
+    "fighting",
+    "water"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "intimidate",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "water",
+    "fighting"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Paldean Tauros (Aqua) Battle Guide",
+  "summary": "A [Fighting]/[Water] physical attacker with [intimidate] — the only Paldean Tauros variant with STAB [aqua-jet] priority.",
+  "strengths": [
+    "[intimidate] support plus dual STAB coverage",
+    "[raging-bull] is a [Water] STAB that breaks screens",
+    "STAB [aqua-jet] priority — unique to this breed"
+  ],
+  "weaknesses": [
+    "Weak to [Electric], [Grass], [Flying], [Psychic], [Fairy]",
+    "75/105/70 bulk is average",
+    "70 Special Defense is notably low"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "raging-bull",
+      "reason": "Signature [Water] STAB that breaks screens"
+    },
+    {
+      "move": "close-combat",
+      "reason": "Max BP [Fighting] STAB"
+    },
+    {
+      "move": "aqua-jet",
+      "reason": "Priority [Water] STAB finisher"
+    },
+    {
+      "move": "protect",
+      "reason": "Turn safety"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "life-orb",
+      "reason": "Offensive damage boost"
+    },
+    {
+      "item": "choice-band",
+      "reason": "Max damage variant"
+    },
+    {
+      "item": "mystic-water",
+      "reason": "Boosts [Water] STAB"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nPaldean Tauros (Aqua Breed) is the only variant with access to STAB [aqua-jet] — a priority move that makes it unique among the three breeds. The [Fighting]/[Water] typing plus [intimidate] support covers [Fire], [Rock], [Ground], [Steel], [Dark], and [Ice] threats with just two STAB moves.\n\n## Strengths\n[raging-bull] becomes a [Water] STAB with screen-breaking utility. [aqua-jet] priority is a defining advantage in doubles — it lets Aqua Breed finish weakened fast threats before they can act. [intimidate] on entry adds further tempo value.\n\n## Weaknesses & Answers\nFive weaknesses — [Electric], [Grass], [Flying], [Psychic], [Fairy] — make it susceptible to common meta attackers. 70 Special Defense folds to [thunderbolt] or [moonblast].\n\n## Recommended Moveset\n[raging-bull] is the signature STAB. [close-combat] is the [Fighting] STAB. [aqua-jet] is the breed-unique priority move. [protect] is mandatory.\n\n## Item · Ability · Tera\n[life-orb] is the standard damage item. [mystic-water] stacks [Water] damage specifically. [intimidate] is locked. Tera [Water] boosts [raging-bull] and [aqua-jet] priority, Tera [Fighting] stacks [close-combat].\n\n## Teammates & Synergy\nCover [Electric] and [Grass] with [Ground] and [Fire] partners. Handle [Psychic] and [Fairy] with [Dark] and [Steel] teammates. [tailwind] support maximizes the sweeping window.\n\n## Play Patterns\nLead for [intimidate], click [raging-bull] against screen leads, and pressure with [close-combat] on neutral targets. Save [aqua-jet] for faster weakened threats. Switch out against [Electric] attackers immediately.",
+  "tags": [
+    "paldea",
+    "fighting",
+    "water",
+    "regional-form",
+    "intimidate",
+    "physical-attacker"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}
