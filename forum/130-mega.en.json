@@ -28,33 +28,33 @@
   },
   "locale": "en",
   "title": "Mega Gyarados Battle Guide",
-  "summary": "A bulky [Water]/[Dark] setup sweeper that sheds the [Electric] weakness and gains [mold-breaker] to ignore ability-based resists.",
+  "summary": "A bulky [water]/[dark] setup sweeper that sheds the Electric weakness and gains [mold-breaker] to ignore ability-based resists.",
   "strengths": [
-    "Loses the 4x [Electric] weakness on mega evolution",
-    "[mold-breaker] ignores [water]-[absorb], [volt-absorb], and similar",
+    "Loses the 4x Electric weakness on mega evolution",
+    "[mold-breaker] ignores [water]-absorb, volt-absorb, and similar",
     "109/130 bulk makes [dragon-dance] setup consistent"
   ],
   "weaknesses": [
-    "Gains a 2x [Fairy] weakness from the [Dark] type",
-    "2x [Fighting] weakness stays on the special side",
+    "Gains a 2x Fairy weakness from the [dark] type",
+    "2x Fighting weakness stays on the special side",
     "Turn one still runs the base ability before mega evolving"
   ],
   "recommendedMoves": [
     {
       "move": "waterfall",
-      "reason": "Reliable [Water] STAB with a flinch chance"
+      "reason": "Reliable [water] STAB with a flinch chance"
     },
     {
       "move": "crunch",
-      "reason": "[Dark] STAB cove[rage] for [Psychic] and [Ghost] walls"
+      "reason": "[dark] STAB coverage for Psychic and Ghost walls"
     },
     {
       "move": "earthquake",
-      "reason": "Mandatory cove[rage] for [Electric] and [Steel] attackers"
+      "reason": "Mandatory coverage for Electric and [steel] attackers"
     },
     {
       "move": "dragon-dance",
-      "reason": "Attack and Speed boost in a [sing]le turn"
+      "reason": "Attack and Speed boost in a single turn"
     }
   ],
   "recommendedItems": [
@@ -63,7 +63,7 @@
       "reason": "Required mega stone for the Gyarados mega form"
     }
   ],
-  "bodyMarkdown": "## Overview\nMega Gyarados is a [Water]/[Dark] physical setup sweeper and one of the most consistent win conditions. Mega evolution removes the original 4x [Electric] weakness entirely, which instantly fixes the structural hole that limits base Gyarados, and the new [mold-breaker] ability bypasses ability-based resistances like [water]-[absorb], [sap-sipper], and [thick-fat]. With 155 Attack and 81 Speed.\n\n## Strengths\n[mold-breaker] is the defining ability change. It ignores [volt-absorb], [water]-[absorb], [flash-fire], and [thick-fat], which means walls that normally swap in on Gyarados now get hit for full damage. The new 109/130 defensive line holds up against hits that would [revenge] base Gyarados, and once [dragon-dance] goes up the effective Speed clears 160 while Attack pushes past 600 damage. [Water] and [Dark] STAB cover [Psychic], [Ghost], [Steel], and [Rock], while [earthquake] handles the remaining [Electric] and [Steel] pivots.\n\n## Weaknesses & Answers\nThe [Dark] typing brings a 2x [Fairy] weakness that didn't exist on the base form, so any [Fairy] attacker. The 2x [Fighting] weakness stays active from the [Water] half of the combo, meaning [focus-blast] or [aura-sphere] from special attackers can still punish it. Turn one before mega evolving still runs the base [intimidate] or [moxie], so the entry move isn't exactly predictable.\n\n## Recommended Moveset\n[waterfall] is the locked [Water] STAB for accuracy and flinch pressure. [crunch] is the mandatory [Dark] STAB for [Psychic] and [Ghost] walls that would otherwise [absorb] the [Water] hit. [earthquake] is the coverage slot for [Electric] and [Steel] walls. The fourth slot is [dragon-dance]. [ice-fang] is available as an alternate if the metagame leans heavy on [Dragon] and [Flying] pivots.\n\n## Item · Ability · Tera\nThe item is always [gyaradosite]. The post-mega ability is locked to [mold-breaker], so the base ability ([moxie] or [intimidate]) is more or less ignored after turn one. Tera [Dark] maxes [crunch] damage and doesn't shift the defensive profile significantly, while Tera [Steel] erases the new [Fairy] weakness and further reinforces the special bulk.\n\n## Teammates & Synergy\nThe biggest structural requirement is a dedicated [Fairy] answer. A [Flying] or [Psychic] attacker answers [Fighting] special attackers that could otherwise punch through it. A [rapid-spin] or [defog] user keeps hazards from chipping the bulk, and a slow pivot (like a [volt-switch] user) creates the entry turns Mega Gyarados needs to start its dance.\n\n## Play Patterns\nBring Mega Gyarados in on a forced switch, mega evolve, dance on the predicted swap turn, and pick the correct coverage move for whoever comes in. [crunch] and [earthquake] are often better than [waterfall] after the setup because they punish specific switch-ins rather than throwing damage into the locked wall. Save the Tera for the moment a [Fairy] or [Fighting] attack is about to land, since one defensive swap usually secures the sweep.",
+  "bodyMarkdown": "## Overview\nMega Gyarados is a [water]/[dark] physical setup sweeper and one of the most consistent win conditions. Mega evolution removes the original 4x Electric weakness entirely, which instantly fixes the structural hole that limits base Gyarados, and the new [mold-breaker] ability bypasses ability-based resistances like [water]-absorb, sap-sipper, and thick-fat. With 155 Attack and 81 Speed.\n\n## Strengths\n[mold-breaker] is the defining ability change. It ignores volt-absorb, [water]-absorb, flash-fire, and thick-fat, which means walls that normally swap in on Gyarados now get hit for full damage. The new 109/130 defensive line holds up against hits that would revenge base Gyarados, and once [dragon-dance] goes up the effective Speed clears 160 while Attack pushes past 600 damage. [water] and [dark] STAB cover Psychic, Ghost, [steel], and Rock, while [earthquake] handles the remaining Electric and [steel] pivots.\n\n## Weaknesses & Answers\nThe [dark] typing brings a 2x Fairy weakness that didn't exist on the base form, so any Fairy attacker. The 2x Fighting weakness stays active from the [water] half of the combo, meaning focus-blast or aura-sphere from special attackers can still punish it. Turn one before mega evolving still runs the base intimidate or moxie, so the entry move isn't exactly predictable.\n\n## Recommended Moveset\n[waterfall] is the locked [water] STAB for accuracy and flinch pressure. [crunch] is the mandatory [dark] STAB for Psychic and Ghost walls that would otherwise absorb the [water] hit. [earthquake] is the coverage slot for Electric and [steel] walls. The fourth slot is [dragon-dance]. ice-fang is available as an alternate if the metagame leans heavy on Dragon and Flying pivots.\n\n## Item · Ability · Tera\nThe item is always [gyaradosite]. The post-mega ability is locked to [mold-breaker], so the base ability (moxie or intimidate) is more or less ignored after turn one. Tera [dark] maxes [crunch] damage and doesn't shift the defensive profile significantly, while Tera [steel] erases the new Fairy weakness and further reinforces the special bulk.\n\n## Teammates & Synergy\nThe biggest structural requirement is a dedicated Fairy answer. A Flying or Psychic attacker answers Fighting special attackers that could otherwise punch through it. A rapid-spin or defog user keeps hazards from chipping the bulk, and a slow pivot (like a volt-switch user) creates the entry turns Mega Gyarados needs to start its dance.\n\n## Play Patterns\nBring Mega Gyarados in on a forced switch, mega evolve, dance on the predicted swap turn, and pick the correct coverage move for whoever comes in. [crunch] and [earthquake] are often better than [waterfall] after the setup because they punish specific switch-ins rather than throwing damage into the locked wall. Save the Tera for the moment a Fairy or Fighting attack is about to land, since one defensive swap usually secures the sweep.",
   "tags": [
     "kanto",
     "water",

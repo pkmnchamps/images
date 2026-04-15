@@ -26,26 +26,26 @@
     "spe": 32
   },
   "locale": "ko",
-  "title": "[메가킬라플로르] 배틀 운용 가이드",
-  "summary": "[adaptability]로 자속 보정이 2배가 되는 [바위]·[독] 특수 어태커 + 해저드 세터. 150 특공 + 자속 [power-gem]·[sludge-bomb] 화력이 폭발적이다.",
+  "title": "[glimmora-mega] 배틀 운용 가이드",
+  "summary": "[adaptability]로 자속 보정이 2배가 되는 [rock]·[poison] 특수 어태커 + 해저드 세터. 150 특공 + 자속 [power-gem]·[sludge-bomb] 화력이 폭발적이다.",
   "strengths": [
     "[adaptability] 자속 2배 보정",
     "150 특공의 최상급 특수 화력",
-    "[stealth-rock] + [toxic-spikes] 해저드 세터 겸업"
+    "[stealth-rock] + toxic-spikes 해저드 세터 겸업"
   ],
   "weaknesses": [
-    "[땅]·[물]·[심령]·[강철] 약점 다수",
-    "[rock] 타입 [격투]·[땅] 4배 약점은 없음",
+    "땅·물·심령·강철 약점 다수",
+    "[rock] 타입 격투·땅 4배 약점은 없음",
     "내구 83/105/96 평균 수준"
   ],
   "recommendedMoves": [
     {
       "move": "power-gem",
-      "reason": "[adaptability] 2배 [바위] 자속 주력"
+      "reason": "[adaptability] 2배 [rock] 자속 주력"
     },
     {
       "move": "sludge-bomb",
-      "reason": "[adaptability] 2배 [독] 자속 + 독 확률"
+      "reason": "[adaptability] 2배 [poison] 자속 + 독 확률"
     },
     {
       "move": "stealth-rock",
@@ -53,7 +53,7 @@
     },
     {
       "move": "earth-power",
-      "reason": "[강철] 견제 특수 서브"
+      "reason": "강철 견제 특수 서브"
     }
   ],
   "recommendedItems": [
@@ -62,7 +62,7 @@
       "reason": "메가 진화를 위한 필수 아이템"
     }
   ],
-  "bodyMarkdown": "## 개요\n[메가킬라플로르]는 [adaptability] 특성으로 자속 보정이 1.5배에서 2배로 상승하는 [바위]·[독] 특수 어태커 + 해저드 세터 복합 역할을 수행한다. 150 특공의 최상급 특수 화력 + 자속 2배 보정으로 [power-gem]·[sludge-bomb]이 메타 최상급 특수 어태커 반열에 오른다.\n\n## 강점 분석\n[adaptability] 보정으로 [power-gem] 위력 80 + 자속 2배 = 실질 위력 160의 폭발적 [바위] 특수 어태커. [sludge-bomb]도 동일 보정으로 [페어리]·[풀] 견제가 가능하다. 150 특공 + 101 스피드 조합은 메타 고속권에서 안정적 선공 어태커 역할을 한다. 해저드 세터로 [stealth-rock]·[toxic-spikes] 세팅 기능까지 겸한다.\n\n## 약점과 대응\n[땅]·[물]·[심령]·[강철] 4종 약점이 있고, 특히 [땅] 2배 약점은 [earthquake] 유저에게 치명적이다. 내구 83/105/96은 평균 수준으로 약점 공격에 한 방 리스크가 존재. [unaware] 특성 무시 공격이 없어 셋업 스위퍼 대응은 제한적.\n\n## 추천 기술 구성\n[power-gem]은 [adaptability] 2배 [바위] 자속 주력기. [sludge-bomb]은 [adaptability] 2배 [독] 자속 + 30% 독 부가 효과. [stealth-rock]은 해저드 세팅 핵심 유틸. [earth-power]는 [강철] 견제 특수 서브로 [heatran]·[ferrothorn] 대응.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [glimmorite] 고정. 특성은 메가 진화 후 [adaptability]로 전환. 테라스탈은 [독]으로 [sludge-bomb] 자속 중첩 극대화 + [땅] 무효 획득, 또는 [바위]로 [power-gem] 자속 중첩.\n\n## 시너지와 파트너\n[땅]·[물] 약점 카운터로 [grass]·[flying] 파트너 배치. [심령] 약점으로 [악]·[벌레] 파트너. [tailwind]로 스피드 101 초과 확보, 해저드 세팅 후 교대 사이클 운용.\n\n## 운용 팁\n교대 인 1턴에 [stealth-rock] 세팅 후, 다음 턴부터 [power-gem]·[sludge-bomb] 고속 특수 화력 연타. [강철] 타입 노출 시 [earth-power]로 전환, [땅] 타입 노출 시 즉시 교대. 해저드 세팅 + 공격 어태커 복합 역할이 핵심이다.",
+  "bodyMarkdown": "## 개요\n[glimmora-mega]는 [adaptability] 특성으로 자속 보정이 1.5배에서 2배로 상승하는 [rock]·[poison] 특수 어태커 + 해저드 세터 복합 역할을 수행한다. 150 특공의 최상급 특수 화력 + 자속 2배 보정으로 [power-gem]·[sludge-bomb]이 메타 최상급 특수 어태커 반열에 오른다.\n\n## 강점 분석\n[adaptability] 보정으로 [power-gem] 위력 80 + 자속 2배 = 실질 위력 160의 폭발적 [rock] 특수 어태커. [sludge-bomb]도 동일 보정으로 페어리·풀 견제가 가능하다. 150 특공 + 101 스피드 조합은 메타 고속권에서 안정적 선공 어태커 역할을 한다. 해저드 세터로 [stealth-rock]·toxic-spikes 세팅 기능까지 겸한다.\n\n## 약점과 대응\n땅·물·심령·강철 4종 약점이 있고, 특히 땅 2배 약점은 earthquake 유저에게 치명적이다. 내구 83/105/96은 평균 수준으로 약점 공격에 한 방 리스크가 존재. unaware 특성 무시 공격이 없어 셋업 스위퍼 대응은 제한적.\n\n## 추천 기술 구성\n[power-gem]은 [adaptability] 2배 [rock] 자속 주력기. [sludge-bomb]은 [adaptability] 2배 [poison] 자속 + 30% 독 부가 효과. [stealth-rock]은 해저드 세팅 핵심 유틸. [earth-power]는 강철 견제 특수 서브로 heatran·ferrothorn 대응.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [glimmorite] 고정. 특성은 메가 진화 후 [adaptability]로 전환. 테라스탈은 [poison]으로 [sludge-bomb] 자속 중첩 극대화 + 땅 무효 획득, 또는 [rock]로 [power-gem] 자속 중첩.\n\n## 시너지와 파트너\n땅·물 약점 카운터로 grass·flying 파트너 배치. 심령 약점으로 악·벌레 파트너. tailwind로 스피드 101 초과 확보, 해저드 세팅 후 교대 사이클 운용.\n\n## 운용 팁\n교대 인 1턴에 [stealth-rock] 세팅 후, 다음 턴부터 [power-gem]·[sludge-bomb] 고속 특수 화력 연타. 강철 타입 노출 시 [earth-power]로 전환, 땅 타입 노출 시 즉시 교대. 해저드 세팅 + 공격 어태커 복합 역할이 핵심이다.",
   "tags": [
     "paldea",
     "rock",

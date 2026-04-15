@@ -27,25 +27,25 @@
   },
   "locale": "en",
   "title": "Mega Glimmora Battle Guide",
-  "summary": "A [Rock]/[Poison] special attacker with [adaptability] — STAB is doubled, 150 Special Attack is massive, and it still sets [stealth-rock].",
+  "summary": "A [rock]/[poison] special attacker with [adaptability] — STAB is doubled, 150 Special Attack is massive, and it still sets [stealth-rock].",
   "strengths": [
     "[adaptability] upgrades STAB from 1.5x to 2x",
     "150 Special Attack is top-tier",
     "Doubles as a [stealth-rock] setter"
   ],
   "weaknesses": [
-    "Weak to [Ground], [Water], [Psychic], [Steel]",
-    "No 4x Ground weakness thanks to [Poison] typing",
+    "Weak to Ground, Water, Psychic, Steel",
+    "No 4x Ground weakness thanks to [poison] typing",
     "Bulk 83/105/96 is average"
   ],
   "recommendedMoves": [
     {
       "move": "power-gem",
-      "reason": "Primary [Rock] STAB doubled by [adaptability]"
+      "reason": "Primary [rock] STAB doubled by [adaptability]"
     },
     {
       "move": "sludge-bomb",
-      "reason": "Doubled [Poison] STAB with poison chance"
+      "reason": "Doubled [poison] STAB with poison chance"
     },
     {
       "move": "stealth-rock",
@@ -53,7 +53,7 @@
     },
     {
       "move": "earth-power",
-      "reason": "Coverage for [Steel] walls"
+      "reason": "Coverage for Steel walls"
     }
   ],
   "recommendedItems": [
@@ -62,7 +62,7 @@
       "reason": "Mandatory Mega Stone with no alternative"
     }
   ],
-  "bodyMarkdown": "## Overview\nMega Glimmora is a [Rock]/[Poison] special attacker that keeps its core identity as a hazard setter while gaining [adaptability] to double its STAB damage. 150 Special Attack, 101 Speed, and two STAB moves getting a 2x boost make it one of the most pressuring hazard leads in the format.\n\n## Strengths\nUnder [adaptability], [power-gem] becomes an effective ~160 BP [Rock] STAB and [sludge-bomb] hits just as hard for [Fairy] and [Grass] coverage. 101 Speed outruns most natural-speed attackers, and setting [stealth-rock] on turn one is still a valid play because of how threatening the attacking moveset is.\n\n## Weaknesses & Answers\n[Ground], [Water], [Psychic], and [Steel] are all active weaknesses. Thankfully the [Poison] half removes the 4x [Ground] weakness that its [Rock] typing would normally imply. 83/105/96 bulk is average — survives one neutral hit but not a super-effective one.\n\n## Recommended Moveset\n[power-gem] is the main STAB. [sludge-bomb] is the secondary STAB with a poison proc. [stealth-rock] maintains its hazard role. [earth-power] covers [Steel] walls like [heatran] and [ferrothorn].\n\n## Item · Ability · Tera\n[glimmorite] is mandatory. [adaptability] activates post-Mega. Tera [Poison] stacks on [sludge-bomb] and grants a [Ground] immunity; Tera [Rock] boosts [power-gem] instead.\n\n## Teammates & Synergy\n[Grass] and [Flying] partners cover [Ground] and [Water]. [Dark] or [Bug] partners cover [Psychic]. [tailwind] extends the sweeping window.\n\n## Play Patterns\nLead with Mega Glimmora, Mega evolve, and set [stealth-rock] on a predicted switch. Follow up with [power-gem] and [sludge-bomb] spam, pivoting to [earth-power] against [Steel] walls. Tera on the turn you commit to pressuring — the double STAB damage is usually a KO.",
+  "bodyMarkdown": "## Overview\nMega Glimmora is a [rock]/[poison] special attacker that keeps its core identity as a hazard setter while gaining [adaptability] to double its STAB damage. 150 Special Attack, 101 Speed, and two STAB moves getting a 2x boost make it one of the most pressuring hazard leads in the format.\n\n## Strengths\nUnder [adaptability], [power-gem] becomes an effective ~160 BP [rock] STAB and [sludge-bomb] hits just as hard for Fairy and Grass coverage. 101 Speed outruns most natural-speed attackers, and setting [stealth-rock] on turn one is still a valid play because of how threatening the attacking moveset is.\n\n## Weaknesses & Answers\nGround, Water, Psychic, and Steel are all active weaknesses. Thankfully the [poison] half removes the 4x Ground weakness that its [rock] typing would normally imply. 83/105/96 bulk is average — survives one neutral hit but not a super-effective one.\n\n## Recommended Moveset\n[power-gem] is the main STAB. [sludge-bomb] is the secondary STAB with a poison proc. [stealth-rock] maintains its hazard role. [earth-power] covers Steel walls like heatran and ferrothorn.\n\n## Item · Ability · Tera\n[glimmorite] is mandatory. [adaptability] activates post-Mega. Tera [poison] stacks on [sludge-bomb] and grants a Ground immunity; Tera [rock] boosts [power-gem] instead.\n\n## Teammates & Synergy\nGrass and Flying partners cover Ground and Water. Dark or Bug partners cover Psychic. tailwind extends the sweeping window.\n\n## Play Patterns\nLead with Mega Glimmora, Mega evolve, and set [stealth-rock] on a predicted switch. Follow up with [power-gem] and [sludge-bomb] spam, pivoting to [earth-power] against Steel walls. Tera on the turn you commit to pressuring — the double STAB damage is usually a KO.",
   "tags": [
     "paldea",
     "rock",

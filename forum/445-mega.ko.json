@@ -26,30 +26,30 @@
     "spe": 32
   },
   "locale": "ko",
-  "title": "[메가한카리아스] 배틀 운용 가이드",
-  "summary": "170 공격의 폭발적 물리 화력 + [sand-force] 모래팟 보정을 받는 [드래곤]·[땅] 어태커. 모래팟 아래 [earthquake] 실질 위력이 최상급.",
+  "title": "[garchomp-mega] 배틀 운용 가이드",
+  "summary": "170 공격의 폭발적 물리 화력 + [sand-force] 모래팟 보정을 받는 [dragon]·[ground] 어태커. 모래팟 아래 [earthquake] 실질 위력이 최상급.",
   "strengths": [
     "170 공격의 최상급 물리 화력",
-    "[sand-force] 모래팟 [drain]·[바위]·[땅] +30%",
+    "[sand-force] 모래팟 drain·바위·[ground] +30%",
     "[dragon]·[ground] 복합 광범위 자속 견제"
   ],
   "weaknesses": [
-    "[얼음] 4배 약점 — [ice-beam] 즉사",
+    "얼음 4배 약점 — ice-beam 즉사",
     "스피드 92로 스카프 유저에게 후공",
-    "메가 진화 전 [rough-skin] 효과 1턴 손실"
+    "메가 진화 전 rough-skin 효과 1턴 손실"
   ],
   "recommendedMoves": [
     {
       "move": "earthquake",
-      "reason": "[sand-force] 보정 주력 [땅] STAB"
+      "reason": "[sand-force] 보정 주력 [ground] STAB"
     },
     {
       "move": "dragon-claw",
-      "reason": "[드래곤] 자속 단일 공격"
+      "reason": "[dragon] 자속 단일 공격"
     },
     {
       "move": "stone-edge",
-      "reason": "[sand-force] 보정 [비행]·[불]·[벌레] 견제"
+      "reason": "[sand-force] 보정 비행·불·벌레 견제"
     },
     {
       "move": "protect",
@@ -62,7 +62,7 @@
       "reason": "메가 진화를 위한 필수 아이템"
     }
   ],
-  "bodyMarkdown": "## 개요\n[메가한카리아스]는 170 공격 종족값의 폭발적 물리 화력 + [sand-force] 모래팟 보정을 결합한 [드래곤]·[땅] 최상위 물리 어태커다. 모래팟 아래에서는 [earthquake]·[stone-edge] 위력이 30% 상승하여 메타 최상급 물리 어태커 반열에 오른다.\n\n## 강점 분석\n170 공격은 메타 물리 어태커 최상위권이고, [sand-force] 보정 [earthquake]는 실질 위력 130 + STAB으로 확정 KO 범위가 극단적으로 넓다. [dragon]·[ground] 복합 자속 견제 범위는 [전기] 무효 포함 광범위하고, 특수 공격 종족값 120도 높아 혼합 어태커로도 활용 가능.\n\n## 약점과 대응\n[얼음] 4배 약점은 [ice-beam]·[blizzard] 즉사를 의미한다. [mamoswine]·[weavile] 등 [얼음] 타입 어태커 상대에게 교대 인 금지. 스피드 92는 최상위권(110+)에게 후공이라 [tailwind] 지원이 필요하다.\n\n## 추천 기술 구성\n[earthquake]는 [sand-force] 보정 주력 [땅] STAB으로 더블 광역 판정까지 겸한다. [dragon-claw]는 [드래곤] 자속 단일 공격. [stone-edge]는 [sand-force] 보정 [비행]·[불]·[벌레] 견제로 [charizard]·[dragonite] 카운터. [protect]는 메가 진화 턴 안전 확보 필수.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [garchompite] 고정. 특성은 메가 진화 후 [sand-force]로 전환. 테라스탈은 [땅]으로 자속 + [sand-force] 중첩 보정, 또는 [드래곤]으로 [얼음] 4배 약점 완화 + [dragon-claw] 강화.\n\n## 시너지와 파트너\n모래팟 세팅이 가능한 [tyranitar]·[hippowdon] 파트너 필수. [얼음] 약점 카운터로 [steel]·[fire] 파트너 배치. [tailwind]로 스피드 92 약점 상쇄.\n\n## 운용 팁\n모래팟이 전개된 후 교대 인으로 등장시키고, [protect]로 메가 진화 턴 확보 후 [earthquake]·[stone-edge] 고속 화력을 뿜는다. [얼음] 타입 노출 시 즉시 교대, 테라스탈은 [얼음] 약점 방어용으로 아껴둔다.",
+  "bodyMarkdown": "## 개요\n[garchomp-mega]는 170 공격 종족값의 폭발적 물리 화력 + [sand-force] 모래팟 보정을 결합한 [dragon]·[ground] 최상위 물리 어태커다. 모래팟 아래에서는 [earthquake]·[stone-edge] 위력이 30% 상승하여 메타 최상급 물리 어태커 반열에 오른다.\n\n## 강점 분석\n170 공격은 메타 물리 어태커 최상위권이고, [sand-force] 보정 [earthquake]는 실질 위력 130 + STAB으로 확정 KO 범위가 극단적으로 넓다. [dragon]·[ground] 복합 자속 견제 범위는 전기 무효 포함 광범위하고, 특수 공격 종족값 120도 높아 혼합 어태커로도 활용 가능.\n\n## 약점과 대응\n얼음 4배 약점은 ice-beam·blizzard 즉사를 의미한다. mamoswine·weavile 등 얼음 타입 어태커 상대에게 교대 인 금지. 스피드 92는 최상위권(110+)에게 후공이라 tailwind 지원이 필요하다.\n\n## 추천 기술 구성\n[earthquake]는 [sand-force] 보정 주력 [ground] STAB으로 더블 광역 판정까지 겸한다. [dragon-claw]는 [dragon] 자속 단일 공격. [stone-edge]는 [sand-force] 보정 비행·불·벌레 견제로 charizard·dragonite 카운터. [protect]는 메가 진화 턴 안전 확보 필수.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [garchompite] 고정. 특성은 메가 진화 후 [sand-force]로 전환. 테라스탈은 [ground]으로 자속 + [sand-force] 중첩 보정, 또는 [dragon]으로 얼음 4배 약점 완화 + [dragon-claw] 강화.\n\n## 시너지와 파트너\n모래팟 세팅이 가능한 tyranitar·hippowdon 파트너 필수. 얼음 약점 카운터로 steel·fire 파트너 배치. tailwind로 스피드 92 약점 상쇄.\n\n## 운용 팁\n모래팟이 전개된 후 교대 인으로 등장시키고, [protect]로 메가 진화 턴 확보 후 [earthquake]·[stone-edge] 고속 화력을 뿜는다. 얼음 타입 노출 시 즉시 교대, 테라스탈은 얼음 약점 방어용으로 아껴둔다.",
   "tags": [
     "sinnoh",
     "dragon",

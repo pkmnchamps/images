@@ -27,29 +27,29 @@
   },
   "locale": "en",
   "title": "Mega Emboar Battle Guide",
-  "summary": "A bulky [Fire]/[Fighting] mixed attacker with [mold-breaker] — ignores target abilities and uses 148/110 offenses with 110 HP.",
+  "summary": "A bulky [fire]/[fighting] mixed attacker with [mold-breaker] — ignores target abilities and uses 148/110 offenses with 110 HP.",
   "strengths": [
     "[mold-breaker] bypasses defensive abilities",
     "148 Attack and 110 Special Attack for mixed sets",
     "110 HP supports a bulky pivot role"
   ],
   "weaknesses": [
-    "Weak to [Flying], [Psychic], [Ground], [Water]",
+    "Weak to Flying, Psychic, Ground, Water",
     "Speed 75 usually moves second",
     "Physical bulk 75 is average"
   ],
   "recommendedMoves": [
     {
       "move": "flare-blitz",
-      "reason": "Main [Fire] STAB with max BP"
+      "reason": "Main [fire] STAB with max BP"
     },
     {
       "move": "close-combat",
-      "reason": "[Fighting] STAB for broad coverage"
+      "reason": "[fighting] STAB for broad coverage"
     },
     {
       "move": "earthquake",
-      "reason": "Spread [Ground] move — bypasses [levitate]"
+      "reason": "Spread Ground move — bypasses levitate"
     },
     {
       "move": "protect",
@@ -62,7 +62,7 @@
       "reason": "Mandatory Mega Stone with no alternative"
     }
   ],
-  "bodyMarkdown": "## Overview\nMega Emboar is a bulky mixed [Fire]/[Fighting] attacker whose gimmick is [mold-breaker] — it ignores target abilities. This lets [earthquake] hit [levitate] users, [flare-blitz] bypass [flash-fire], and [close-combat] work against [bulletproof] walls. 148 Attack and 110 Special Attack allow mixed sets, and 110 HP gives it pivot durability.\n\n## Strengths\n[mold-breaker] is the defining feature — passive immunities like [levitate], [flash-fire], [water-absorb], [sturdy], and [unaware] all disappear. Against a [rotom-heat], [earthquake] suddenly becomes a valid KO option; against [sturdy] users, no [focus-sash] escape. 148 Attack plus STAB is hard to switch into, and the [Fire]/[Fighting] dual STAB covers almost everything neutrally.\n\n## Weaknesses & Answers\n[Flying], [Psychic], [Ground], and [Water] are all common weaknesses, so switch reads matter. [Water] attackers threaten outright KOs and [psychic] moves punish [Fighting] STAB. Speed 75 means Mega Emboar moves second against most of the meta.\n\n## Recommended Moveset\n[flare-blitz] is the main STAB. [close-combat] completes the dual-STAB plan. [earthquake] is the [mold-breaker] punish move that also spreads damage in doubles. [protect] secures the Mega turn.\n\n## Item · Ability · Tera\n[emboarite] is mandatory. [mold-breaker] activates after Mega Evolution. Tera [Fire] boosts STAB, while Tera [Fighting] adds resistances to [Flying] and [Psychic].\n\n## Teammates & Synergy\nCover [Water], [Flying], and [Psychic] with [Electric], [Dark], and [Fairy] partners. [intimidate] support extends physical bulk. [trick-room] cores benefit from the slow Speed.\n\n## Play Patterns\nMega evolve and immediately start clicking dual STAB. Use [earthquake] against [levitate] or [sturdy] users as a surprise. Pivot out when [Water] or [Psychic] pressure appears, and Tera on the turn you commit to sweeping.",
+  "bodyMarkdown": "## Overview\nMega Emboar is a bulky mixed [fire]/[fighting] attacker whose gimmick is [mold-breaker] — it ignores target abilities. This lets [earthquake] hit levitate users, [flare-blitz] bypass flash-fire, and [close-combat] work against bulletproof walls. 148 Attack and 110 Special Attack allow mixed sets, and 110 HP gives it pivot durability.\n\n## Strengths\n[mold-breaker] is the defining feature — passive immunities like levitate, flash-fire, water-absorb, sturdy, and unaware all disappear. Against a rotom-heat, [earthquake] suddenly becomes a valid KO option; against sturdy users, no focus-sash escape. 148 Attack plus STAB is hard to switch into, and the [fire]/[fighting] dual STAB covers almost everything neutrally.\n\n## Weaknesses & Answers\nFlying, Psychic, Ground, and Water are all common weaknesses, so switch reads matter. Water attackers threaten outright KOs and psychic moves punish [fighting] STAB. Speed 75 means Mega Emboar moves second against most of the meta.\n\n## Recommended Moveset\n[flare-blitz] is the main STAB. [close-combat] completes the dual-STAB plan. [earthquake] is the [mold-breaker] punish move that also spreads damage in doubles. [protect] secures the Mega turn.\n\n## Item · Ability · Tera\n[emboarite] is mandatory. [mold-breaker] activates after Mega Evolution. Tera [fire] boosts STAB, while Tera [fighting] adds resistances to Flying and Psychic.\n\n## Teammates & Synergy\nCover Water, Flying, and Psychic with Electric, Dark, and Fairy partners. intimidate support extends physical bulk. trick-room cores benefit from the slow Speed.\n\n## Play Patterns\nMega evolve and immediately start clicking dual STAB. Use [earthquake] against levitate or sturdy users as a surprise. Pivot out when Water or Psychic pressure appears, and Tera on the turn you commit to sweeping.",
   "tags": [
     "unova",
     "fire",

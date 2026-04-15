@@ -26,34 +26,34 @@
     "spe": 32
   },
   "locale": "ko",
-  "title": "[일레도리자드] 배틀 운용 가이드",
-  "summary": "[solar-power] 맑음 팀의 서브 에이스로 109 특공·109 스피드를 동시에 돌리는 [전기]·[노말] 특수 스위퍼.",
+  "title": "[heliolisk] 배틀 운용 가이드",
+  "summary": "[solar-power] 맑음 팀의 서브 에이스로 109 특공·109 스피드를 동시에 돌리는 [electric]·[normal] 특수 스위퍼.",
   "strengths": [
     "[solar-power] 보정으로 실질 특공이 160대까지 상승",
     "베이스 스피드 109로 비-스카프 어태커 대부분을 추월",
-    "맑음 판정 [weather-ball]이 [불꽃] 기술로 변해 [풀]·[강철] 견제"
+    "맑음 판정 [weather-ball]이 불꽃 기술로 변해 풀·강철 견제"
   ],
   "weaknesses": [
-    "[격투] 2배·[땅] 2배, [close-combat]/[earthquake]에 즉사",
+    "격투 2배·[ground] 2배, close-combat/earthquake에 즉사",
     "HP 62·방어 52로 어떤 중립 공격도 버티기 어려움",
     "맑음이 지워지면 화력 보정이 사라져 애매한 중형 특수 어태커로 전락"
   ],
   "recommendedMoves": [
     {
       "move": "thunderbolt",
-      "reason": "명중이 안정적인 [전기] STAB 메인"
+      "reason": "명중이 안정적인 [electric] STAB 메인"
     },
     {
       "move": "hyper-voice",
-      "reason": "[substitute]·disguise 벽을 무시하는 [노말] STAB"
+      "reason": "substitute·disguise 벽을 무시하는 [normal] STAB"
     },
     {
       "move": "weather-ball",
-      "reason": "맑음에서 [불꽃] 판정으로 [풀]·[강철] 견제"
+      "reason": "맑음에서 불꽃 판정으로 풀·강철 견제"
     },
     {
       "move": "focus-blast",
-      "reason": "[바위]·[강철] 4배 라인을 찢는 [격투] 견제"
+      "reason": "바위·강철 4배 라인을 찢는 격투 견제"
     }
   ],
   "recommendedItems": [
@@ -66,7 +66,7 @@
       "reason": "맑음 밖 턴에도 스피드 축을 유지"
     }
   ],
-  "bodyMarkdown": "## 개요\n[일레도리자드]는 베이스 특공 109와 스피드 109를 나란히 가진 [전기]·[노말] 특수 어태커로, 맑음 팀의 서브 에이스 자리를 겨냥한다. 같은 사이클의 다른 특수 어태커들과 차별화되는 지점은 숨겨진 특성 [solar-power] — 맑음만 깔리면 실질 특공이 160대까지 뛰어 109라는 중간대 수치가 단번에 톱 티어 화력으로 바뀐다.\n\n## 강점 분석\n맑음 하의 [thunderbolt]는 [물]·[비행] 타입을 한 방에 녹이고, [hyper-voice]는 [substitute]와 disguise 방어까지 벗겨내는 두 번째 STAB다. 베이스 109 스피드는 [timid] 기준 실제 스피드 357로, 비-스카프 어태커 대부분을 선공으로 누른다. 맑음에서 [불꽃] 판정으로 바뀌는 [weather-ball]이 [풀]·[강철]·[벌레]를 정리해 주어 별도 [불꽃] 슬롯 없이도 견제 폭이 넓다.\n\n## 약점과 대응\n[격투] 2배·[땅] 2배가 구조적 약점이다. 62의 HP와 52의 방어로는 [close-combat]이나 [earthquake] 한 방이 곧장 lethal이므로 선공을 절대 내주면 안 된다. [solar-power]는 매 턴 HP의 1/8을 깎기 때문에 맑음 타이머가 곧 생존 타이머다. [extreme-speed]·[ice-shard] 같은 선공기에는 구조적으로 답이 없고, 상대 비·눈·모래가 올라오면 특공 보정이 사라져 화력만 손해다.\n\n## 추천 기술 구성\n[thunderbolt]를 상시 주력으로 두고, [hyper-voice]로 [substitute] 전술을 부수며, [weather-ball]은 맑음에서 [불꽃] 판정으로 변해 [풀]·[강철] 견제를 혼자 떠안는다. 마지막 슬롯 [focus-blast]는 명중 70%의 부담이 있지만 [바위]·[강철] 4배 라인을 무너뜨릴 유일한 카드다. 팀이 실수를 용납하지 않는다면 [focus-blast] 대신 [dark-pulse]로 안정성을 챙겨도 된다.\n\n## 추천 도구 · 특성 · 테라스탈\n[focus-sash]는 선공기 한 발을 버티고 반격하는 기본 옵션이고, [choice-scarf]는 맑음 지속이 불안정할 때 스피드 축을 유지하는 대안이다. 특성은 반드시 hidden인 [solar-power] — dry-skin 채용은 완전히 다른 아키타입이다. 테라스탈은 [thunderbolt]를 극대화하는 [전기], 또는 [땅] 약점을 뒤집는 [땅] 타입이 구조적으로 가장 쓰임새가 좋다.\n\n## 시너지와 파트너\n맑음 고정 요원(나인테일)은 사실상 필수. [격투]·[땅] 약점을 받아낼 [비행]·부유 서브 스위퍼와, 선공기 스위퍼를 견제할 intimidate 막이 한 장이 추가로 필요하다. [stealth-rock] 선봉으로 칩 데미지를 확보해 두면 [thunderbolt]·[hyper-voice]의 2타 라인이 단타 라인으로 바뀌어 [일레도리자드]의 테라스탈 의존도가 훨씬 낮아진다.\n\n## 운용 팁\n1턴째 나인테일이 맑음을 깔고, 2턴째 교대 타이밍에 [일레도리자드]를 넣는 것이 표준이다. 상대 교대 예측이 서는 구도에서는 [weather-ball]로 [풀]·[강철] 스위치인을 벌주고, [substitute]·[protect]가 예상되는 턴에는 [hyper-voice]를 먼저 던진다. [focus-blast]는 매치업을 결정하는 슬롯이니 반드시 실패를 감수할 수 있는 HP 상태에서만 클릭한다. 테라스탈은 [close-combat]이나 [earthquake]가 예고되는 턴에 아끼지 말고 태운다 — 한 번 놓치면 [일레도리자드]는 그대로 퇴장한다.",
+  "bodyMarkdown": "## 개요\n[heliolisk]는 베이스 특공 109와 스피드 109를 나란히 가진 [electric]·[normal] 특수 어태커로, 맑음 팀의 서브 에이스 자리를 겨냥한다. 같은 사이클의 다른 특수 어태커들과 차별화되는 지점은 숨겨진 특성 [solar-power] — 맑음만 깔리면 실질 특공이 160대까지 뛰어 109라는 중간대 수치가 단번에 톱 티어 화력으로 바뀐다.\n\n## 강점 분석\n맑음 하의 [thunderbolt]는 물·비행 타입을 한 방에 녹이고, [hyper-voice]는 substitute와 disguise 방어까지 벗겨내는 두 번째 STAB다. 베이스 109 스피드는 [timid] 기준 실제 스피드 357로, 비-스카프 어태커 대부분을 선공으로 누른다. 맑음에서 불꽃 판정으로 바뀌는 [weather-ball]이 풀·강철·벌레를 정리해 주어 별도 불꽃 슬롯 없이도 견제 폭이 넓다.\n\n## 약점과 대응\n격투 2배·[ground] 2배가 구조적 약점이다. 62의 HP와 52의 방어로는 close-combat이나 earthquake 한 방이 곧장 lethal이므로 선공을 절대 내주면 안 된다. [solar-power]는 매 턴 HP의 1/8을 깎기 때문에 맑음 타이머가 곧 생존 타이머다. extreme-speed·ice-shard 같은 선공기에는 구조적으로 답이 없고, 상대 비·눈·모래가 올라오면 특공 보정이 사라져 화력만 손해다.\n\n## 추천 기술 구성\n[thunderbolt]를 상시 주력으로 두고, [hyper-voice]로 substitute 전술을 부수며, [weather-ball]은 맑음에서 불꽃 판정으로 변해 풀·강철 견제를 혼자 떠안는다. 마지막 슬롯 [focus-blast]는 명중 70%의 부담이 있지만 바위·강철 4배 라인을 무너뜨릴 유일한 카드다. 팀이 실수를 용납하지 않는다면 [focus-blast] 대신 dark-pulse로 안정성을 챙겨도 된다.\n\n## 추천 도구 · 특성 · 테라스탈\n[focus-sash]는 선공기 한 발을 버티고 반격하는 기본 옵션이고, [choice-scarf]는 맑음 지속이 불안정할 때 스피드 축을 유지하는 대안이다. 특성은 반드시 hidden인 [solar-power] — dry-skin 채용은 완전히 다른 아키타입이다. 테라스탈은 [thunderbolt]를 극대화하는 [electric], 또는 [ground] 약점을 뒤집는 [ground] 타입이 구조적으로 가장 쓰임새가 좋다.\n\n## 시너지와 파트너\n맑음 고정 요원(나인테일)은 사실상 필수. 격투·[ground] 약점을 받아낼 비행·부유 서브 스위퍼와, 선공기 스위퍼를 견제할 intimidate 막이 한 장이 추가로 필요하다. stealth-rock 선봉으로 칩 데미지를 확보해 두면 [thunderbolt]·[hyper-voice]의 2타 라인이 단타 라인으로 바뀌어 [heliolisk]의 테라스탈 의존도가 훨씬 낮아진다.\n\n## 운용 팁\n1턴째 나인테일이 맑음을 깔고, 2턴째 교대 타이밍에 [heliolisk]를 넣는 것이 표준이다. 상대 교대 예측이 서는 구도에서는 [weather-ball]로 풀·강철 스위치인을 벌주고, substitute·protect가 예상되는 턴에는 [hyper-voice]를 먼저 던진다. [focus-blast]는 매치업을 결정하는 슬롯이니 반드시 실패를 감수할 수 있는 HP 상태에서만 클릭한다. 테라스탈은 close-combat이나 earthquake가 예고되는 턴에 아끼지 말고 태운다 — 한 번 놓치면 [heliolisk]는 그대로 퇴장한다.",
   "tags": [
     "kalos",
     "electric",

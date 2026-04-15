@@ -27,17 +27,17 @@
     "spe": 0
   },
   "locale": "ko",
-  "title": "[망나뇽] 배틀 운용 가이드",
-  "summary": "[multiscale]로 [풀] HP 기준 피해 반감을 받는 [드래곤]·[비행] 셋업 스위퍼. [extreme-speed] + [dragon-dance] 조합이 종결자.",
+  "title": "[dragonite] 배틀 운용 가이드",
+  "summary": "[multiscale]로 풀 HP 기준 피해 반감을 받는 [dragon]·[flying] 셋업 스위퍼. [extreme-speed] + [dragon-dance] 조합이 종결자.",
   "strengths": [
-    "[multiscale]로 [풀] HP 진입 시 피해 절반",
+    "[multiscale]로 풀 HP 진입 시 피해 절반",
     "[extreme-speed] 선공으로 클리너 역할 수행",
     "[dragon-dance] + 134 공격의 폭발적 결정력"
   ],
   "weaknesses": [
-    "[얼음] 4배 약점이 치명적",
+    "얼음 4배 약점이 치명적",
     "[multiscale] 해제 후 내구 체감 약화",
-    "[stealth-rock]에 진입마다 25% 손실"
+    "stealth-rock에 진입마다 25% 손실"
   ],
   "recommendedMoves": [
     {
@@ -50,11 +50,11 @@
     },
     {
       "move": "earthquake",
-      "reason": "[강철]·[바위]·[전기] 견제 필수"
+      "reason": "[steel]·바위·전기 견제 필수"
     },
     {
       "move": "outrage",
-      "reason": "[드래곤] STAB 결정타"
+      "reason": "[dragon] STAB 결정타"
     }
   ],
   "recommendedItems": [
@@ -67,7 +67,7 @@
       "reason": "유지와 장기 셋업 지원"
     }
   ],
-  "bodyMarkdown": "## 개요\n[망나뇽]은 [드래곤]·[비행] 복합 타입의 셋업 스위퍼이자 종결자로, 숨겨진 특성 [multiscale]을 활용한 [풀] HP 진입 기반 플레이가 핵심이다. 134 공격 + 91 HP / 95 방어 / 100 특방의 양내구 라인은 탱커와 어태커의 하이브리드 역할을 가능하게 하며, [extreme-speed] 선공기와 [dragon-dance] 셋업의 조합으로 종결자 역할을 수행할 수 있다. 챔피언스 메타에서도 여전히 상위권 슬롯을 차지하는 고전 에이스.\n\n## 강점 분석\n[multiscale]은 [망나뇽]이 [풀] HP로 진입했을 때 받는 모든 피해를 절반으로 줄여주는 특성으로, 사실상 한 대를 더 버티는 효과를 만든다. 여기에 [dragon-dance] 한 번만 쌓으면 실질 스피드 120대에 실질 공격 200대 수준의 폭발적 결정력이 확보된다. [extreme-speed]는 우선도 +2의 드문 선공기로, 셋업 없이도 클리너 역할을 수행할 수 있는 핵심 슬롯이다.\n\n## 약점과 대응\n[망나뇽]의 가장 치명적 약점은 [얼음] 4배 약점이다. [ice-beam]·[ice-shard]·[icicle-crash] 한 방이면 [multiscale]이 있어도 위험하며, 선공 얼음기에는 거의 즉사한다. [stealth-rock] 진입마다 HP의 25%를 손실해 [multiscale] 유지가 깨지는 것도 큰 부담이므로, 반드시 hazard 제거 파트너를 편성해야 한다. 셋업 전 상대 특수 어태커에게 교대 강요당할 수 있는 구조적 한계도 존재.\n\n## 추천 기술 구성\n[dragon-dance]는 셋업의 기본이며 한 번만 쌓아도 승부가 결정될 수 있다. [extreme-speed]는 우선도 +2의 선공기로 클리너 역할을 수행, [earthquake]는 [강철]·[바위]·[전기] 어태커 견제 필수다. 마지막 슬롯은 [outrage]로 [드래곤] STAB 결정타를 확보하거나, [dragon]-claw로 lock-in 없는 안정적 STAB을 선택할 수 있다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [lum-berry]로 상대의 [thunder-wave]·[will-o-wisp] 한 회를 무효화해 셋업 턴을 보장하는 것이 1순위다. [leftovers]는 [multiscale] 유지와 장기 셋업 플랜을 지원하는 대체 옵션. 특성은 [multiscale] 고정이며 inner-focus는 활용도가 낮다. 테라스탈은 [노말]로 [얼음] 약점을 지우며 [extreme-speed] 위력을 극대화하거나, [강철]로 [얼음]·[드래곤] 약점을 동시에 뒤집는 방향이 실전적이다.\n\n## 시너지와 파트너\n[얼음] 대응을 위해 [강철]·[불꽃] 파트너를 반드시 편성하고, [stealth-rock] 제거 요원으로 [rapid-spin] 또는 [defog] 사용자를 추가한다. [multiscale] 유지가 중요하므로 잔존 HP 회복 지원을 위해 [wish] 사용자를 뒷라인에 두면 안정성이 크게 올라간다. 상대 물리 벽 대응을 위해 특수 브레이커도 팀에 포함해 양면 공격을 구축한다.\n\n## 운용 팁\n기본 플랜은 hazard 제거 후 [multiscale] 상태로 진입 → [dragon-dance] → 클리너 전환이다. [extreme-speed]는 HP가 한 자리 수로 빠진 상대의 선공 클리너를 처단하는 마지막 카드로 아껴두고, 테라스탈은 [얼음] 공격이 들어올 각이 확정되는 순간을 위해 반드시 보존한다.",
+  "bodyMarkdown": "## 개요\n[dragonite]은 [dragon]·[flying] 복합 타입의 셋업 스위퍼이자 종결자로, 숨겨진 특성 [multiscale]을 활용한 풀 HP 진입 기반 플레이가 핵심이다. 134 공격 + 91 HP / 95 방어 / 100 특방의 양내구 라인은 탱커와 어태커의 하이브리드 역할을 가능하게 하며, [extreme-speed] 선공기와 [dragon-dance] 셋업의 조합으로 종결자 역할을 수행할 수 있다. 챔피언스 메타에서도 여전히 상위권 슬롯을 차지하는 고전 에이스.\n\n## 강점 분석\n[multiscale]은 [dragonite]이 풀 HP로 진입했을 때 받는 모든 피해를 절반으로 줄여주는 특성으로, 사실상 한 대를 더 버티는 효과를 만든다. 여기에 [dragon-dance] 한 번만 쌓으면 실질 스피드 120대에 실질 공격 200대 수준의 폭발적 결정력이 확보된다. [extreme-speed]는 우선도 +2의 드문 선공기로, 셋업 없이도 클리너 역할을 수행할 수 있는 핵심 슬롯이다.\n\n## 약점과 대응\n[dragonite]의 가장 치명적 약점은 얼음 4배 약점이다. ice-beam·ice-shard·icicle-crash 한 방이면 [multiscale]이 있어도 위험하며, 선공 얼음기에는 거의 즉사한다. stealth-rock 진입마다 HP의 25%를 손실해 [multiscale] 유지가 깨지는 것도 큰 부담이므로, 반드시 hazard 제거 파트너를 편성해야 한다. 셋업 전 상대 특수 어태커에게 교대 강요당할 수 있는 구조적 한계도 존재.\n\n## 추천 기술 구성\n[dragon-dance]는 셋업의 기본이며 한 번만 쌓아도 승부가 결정될 수 있다. [extreme-speed]는 우선도 +2의 선공기로 클리너 역할을 수행, [earthquake]는 [steel]·바위·전기 어태커 견제 필수다. 마지막 슬롯은 [outrage]로 [dragon] STAB 결정타를 확보하거나, [dragon]-claw로 lock-in 없는 안정적 STAB을 선택할 수 있다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [lum-berry]로 상대의 thunder-wave·will-o-wisp 한 회를 무효화해 셋업 턴을 보장하는 것이 1순위다. [leftovers]는 [multiscale] 유지와 장기 셋업 플랜을 지원하는 대체 옵션. 특성은 [multiscale] 고정이며 inner-focus는 활용도가 낮다. 테라스탈은 [normal]로 얼음 약점을 지우며 [extreme-speed] 위력을 극대화하거나, [steel]로 얼음·[dragon] 약점을 동시에 뒤집는 방향이 실전적이다.\n\n## 시너지와 파트너\n얼음 대응을 위해 [steel]·불꽃 파트너를 반드시 편성하고, stealth-rock 제거 요원으로 rapid-spin 또는 defog 사용자를 추가한다. [multiscale] 유지가 중요하므로 잔존 HP 회복 지원을 위해 wish 사용자를 뒷라인에 두면 안정성이 크게 올라간다. 상대 물리 벽 대응을 위해 특수 브레이커도 팀에 포함해 양면 공격을 구축한다.\n\n## 운용 팁\n기본 플랜은 hazard 제거 후 [multiscale] 상태로 진입 → [dragon-dance] → 클리너 전환이다. [extreme-speed]는 HP가 한 자리 수로 빠진 상대의 선공 클리너를 처단하는 마지막 카드로 아껴두고, 테라스탈은 얼음 공격이 들어올 각이 확정되는 순간을 위해 반드시 보존한다.",
   "tags": [
     "kanto",
     "dragon",

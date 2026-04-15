@@ -27,29 +27,29 @@
   },
   "locale": "en",
   "title": "Mega Charizard Y Battle Guide",
-  "summary": "A [Fire]/[Flying] special attacker that auto-sets sun with [drought] — 159 Special Attack plus sun-boosted [fire-blast] and one-turn [solar-beam] is one of the format's best nukes.",
+  "summary": "A [fire]/[flying] special attacker that auto-sets sun with [drought] — 159 Special Attack plus sun-boosted [fire-blast] and one-turn [solar-beam] is one of the format's best nukes.",
   "strengths": [
     "[drought] auto-sets sun for weather abuse",
     "159 Special Attack is the highest among practical Megas",
     "Sun-boosted [fire-blast] and instant [solar-beam] synergy"
   ],
   "weaknesses": [
-    "4x weak to [Rock]",
-    "Weak to [Electric] and [Water]",
+    "4x weak to Rock",
+    "Weak to Electric and Water",
     "78/78 physical bulk is average"
   ],
   "recommendedMoves": [
     {
       "move": "fire-blast",
-      "reason": "Main [Fire] STAB boosted 50% in sun"
+      "reason": "Main [fire] STAB boosted 50% in sun"
     },
     {
       "move": "solar-beam",
-      "reason": "One-turn [Grass] coverage under sun"
+      "reason": "One-turn Grass coverage under sun"
     },
     {
       "move": "air-slash",
-      "reason": "[Flying] STAB with flinch chance"
+      "reason": "[flying] STAB with flinch chance"
     },
     {
       "move": "protect",
@@ -62,7 +62,7 @@
       "reason": "Mandatory Mega Stone with no alternative"
     }
   ],
-  "bodyMarkdown": "## Overview\nMega Charizard Y is a sun-setting special attacker — [drought] auto-activates sun on entry, 159 Special Attack drops it behind only a handful of legendaries, and the sun-boosted [fire-blast] + one-turn [solar-beam] combination is one of the most lethal two-move sets in the format.\n\n## Strengths\n[drought] means you do not need another sun setter. Sun makes [fire-blast] 50% stronger and turns [solar-beam] into a one-turn [Grass] move for coverage. 159 Special Attack plus STAB plus the sun boost compounds into a nuke that punches through most neutral walls. [air-slash] adds [Flying] STAB with a flinch chance for unexpected tempo plays.\n\n## Weaknesses & Answers\n4x [Rock] is catastrophic — [stealth-rock] halves HP on entry, and [stone-edge] or [rock-slide] are guaranteed KOs. [Electric] and [Water] weaknesses are common, and [78/78] physical bulk does not survive priority hits from strong attackers.\n\n## Recommended Moveset\n[fire-blast] is the primary STAB. [solar-beam] is the sun-abuse move that wrecks [Water] and [Ground] walls. [air-slash] adds [Flying] STAB with flinch utility. [protect] secures Mega safety and partner setups.\n\n## Item · Ability · Tera\n[charizardite-y] is mandatory. [drought] activates after Mega Evolution. Tera [Fire] stacks on STAB and sun boost for maximum damage, while Tera [Flying] turns the [Rock] 4x weakness into a 2x.\n\n## Teammates & Synergy\nPair with [torkoal] or [groudon] for a backup sun setter, and with [chlorophyll] sweepers like [venusaur] that capitalize on the same weather. Hazard control is essential because [stealth-rock] halves HP. Cover [Water] and [Electric] with [Grass] or [Ground] partners.\n\n## Play Patterns\nEnter the field to set sun, Mega evolve, protect on risk turns, and then fire [fire-blast] into almost everything. Click [solar-beam] on [Water] types and [air-slash] on [Grass] or [Fighting] types. Tera for damage when you commit to closing a match.",
+  "bodyMarkdown": "## Overview\nMega Charizard Y is a sun-setting special attacker — [drought] auto-activates sun on entry, 159 Special Attack drops it behind only a handful of legendaries, and the sun-boosted [fire-blast] + one-turn [solar-beam] combination is one of the most lethal two-move sets in the format.\n\n## Strengths\n[drought] means you do not need another sun setter. Sun makes [fire-blast] 50% stronger and turns [solar-beam] into a one-turn Grass move for coverage. 159 Special Attack plus STAB plus the sun boost compounds into a nuke that punches through most neutral walls. [air-slash] adds [flying] STAB with a flinch chance for unexpected tempo plays.\n\n## Weaknesses & Answers\n4x Rock is catastrophic — stealth-rock halves HP on entry, and stone-edge or rock-slide are guaranteed KOs. Electric and Water weaknesses are common, and 78/78 physical bulk does not survive priority hits from strong attackers.\n\n## Recommended Moveset\n[fire-blast] is the primary STAB. [solar-beam] is the sun-abuse move that wrecks Water and Ground walls. [air-slash] adds [flying] STAB with flinch utility. [protect] secures Mega safety and partner setups.\n\n## Item · Ability · Tera\n[charizardite-y] is mandatory. [drought] activates after Mega Evolution. Tera [fire] stacks on STAB and sun boost for maximum damage, while Tera [flying] turns the Rock 4x weakness into a 2x.\n\n## Teammates & Synergy\nPair with torkoal or groudon for a backup sun setter, and with chlorophyll sweepers like venusaur that capitalize on the same weather. Hazard control is essential because stealth-rock halves HP. Cover Water and Electric with Grass or Ground partners.\n\n## Play Patterns\nEnter the field to set sun, Mega evolve, protect on risk turns, and then fire [fire-blast] into almost everything. Click [solar-beam] on Water types and [air-slash] on Grass or Fighting types. Tera for damage when you commit to closing a match.",
   "tags": [
     "kanto",
     "fire",

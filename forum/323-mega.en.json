@@ -27,33 +27,33 @@
   },
   "locale": "en",
   "title": "Mega Camerupt Battle Guide",
-  "summary": "A [Fire]/[Ground] [trick-room] nuke — [sheer-force] boosts [heat-wave] and [earth-power] by 30%, and Speed 20 is a blessing under [trick-room].",
+  "summary": "A [fire]/[ground] trick-room nuke — [sheer-force] boosts [heat-wave] and [earth-power] by 30%, and Speed 20 is a blessing under trick-room.",
   "strengths": [
     "[sheer-force] boosts [heat-wave] and [earth-power] by 30%",
     "145 Special Attack for top-tier nukes",
-    "Speed 20 is ideal under [trick-room]"
+    "Speed 20 is ideal under trick-room"
   ],
   "weaknesses": [
-    "4x weak to [Water]",
-    "Also weak to [Ground] and [Rock]",
-    "Completely dependent on [trick-room] for speed control"
+    "4x weak to Water",
+    "Also weak to [ground] and Rock",
+    "Completely dependent on trick-room for speed control"
   ],
   "recommendedMoves": [
     {
       "move": "heat-wave",
-      "reason": "Spread [Fire] STAB boosted by [sheer-force]"
+      "reason": "Spread [fire] STAB boosted by [sheer-force]"
     },
     {
       "move": "earth-power",
-      "reason": "[Ground] STAB boosted by [sheer-force]"
+      "reason": "[ground] STAB boosted by [sheer-force]"
     },
     {
       "move": "eruption",
-      "reason": "150 BP spread [Fire] nuke at full HP"
+      "reason": "150 BP spread [fire] nuke at full HP"
     },
     {
       "move": "protect",
-      "reason": "Secures Mega turn and waits for [trick-room]"
+      "reason": "Secures Mega turn and waits for trick-room"
     }
   ],
   "recommendedItems": [
@@ -62,7 +62,7 @@
       "reason": "Mandatory Mega Stone with no alternative"
     }
   ],
-  "bodyMarkdown": "## Overview\nMega Camerupt is a [trick-room] special nuke. [sheer-force] boosts any attack with a secondary effect by 30%, so [heat-wave] and [earth-power] both get a substantial damage boost on top of 145 Special Attack. Speed 20 is low enough that under [trick-room] Mega Camerupt outpaces almost the entire metagame.\n\n## Strengths\n[sheer-force] pushes [earth-power] and [heat-wave] to effective ~130 BP after STAB and boost. [heat-wave] in particular is a spread move, so in doubles Mega Camerupt hits both opposing Pokemon at top damage tier. [Fire]/[Ground] gives hard coverage against [Steel], [Grass], [Bug], [Ice], and [Fairy] types.\n\n## Weaknesses & Answers\n4x [Water] is a death sentence — any [hydro-pump] or [surf] ends the set. [Ground] and [Rock] weaknesses also shut down careless switches. Without [trick-room] up, Speed 20 loses to everything, so the team must commit to the strategy.\n\n## Recommended Moveset\n[heat-wave] is the bread-and-butter spread option. [earth-power] is the single-target [Ground] nuke. [eruption] at full HP is the strongest [Fire] spread move in the game but loses [sheer-force]. [protect] is essential for partner [trick-room] setup and Mega turn safety.\n\n## Item · Ability · Tera\n[cameruptite] is mandatory. [sheer-force] activates after Mega Evolution. Tera [Fire] maximizes [heat-wave] damage, while Tera [Ground] neutralizes the [Water] 4x weakness for a defensive reroute at the cost of STAB on [heat-wave].\n\n## Teammates & Synergy\nRequires a [trick-room] setter — [dusknoir], [hatterene], [porygon2]. Cover the [Water] weakness with a [Grass] or [Dragon] partner. [fake-out] and [follow-me] support keeps Mega Camerupt alive long enough to get off [trick-room] nukes.\n\n## Play Patterns\nSwitch in after [trick-room] is up, [protect] if the Mega turn is risky, then start firing [heat-wave]. Use [eruption] only when at full HP. Save Tera for when a [Water] move is obviously coming and the alternative is losing the game.",
+  "bodyMarkdown": "## Overview\nMega Camerupt is a trick-room special nuke. [sheer-force] boosts any attack with a secondary effect by 30%, so [heat-wave] and [earth-power] both get a substantial damage boost on top of 145 Special Attack. Speed 20 is low enough that under trick-room Mega Camerupt outpaces almost the entire metagame.\n\n## Strengths\n[sheer-force] pushes [earth-power] and [heat-wave] to effective ~130 BP after STAB and boost. [heat-wave] in particular is a spread move, so in doubles Mega Camerupt hits both opposing Pokemon at top damage tier. [fire]/[ground] gives hard coverage against Steel, Grass, Bug, Ice, and Fairy types.\n\n## Weaknesses & Answers\n4x Water is a death sentence — any hydro-pump or surf ends the set. [ground] and Rock weaknesses also shut down careless switches. Without trick-room up, Speed 20 loses to everything, so the team must commit to the strategy.\n\n## Recommended Moveset\n[heat-wave] is the bread-and-butter spread option. [earth-power] is the single-target [ground] nuke. [eruption] at full HP is the strongest [fire] spread move in the game but loses [sheer-force]. [protect] is essential for partner trick-room setup and Mega turn safety.\n\n## Item · Ability · Tera\n[cameruptite] is mandatory. [sheer-force] activates after Mega Evolution. Tera [fire] maximizes [heat-wave] damage, while Tera [ground] neutralizes the Water 4x weakness for a defensive reroute at the cost of STAB on [heat-wave].\n\n## Teammates & Synergy\nRequires a trick-room setter — dusknoir, hatterene, porygon2. Cover the Water weakness with a Grass or Dragon partner. fake-out and follow-me support keeps Mega Camerupt alive long enough to get off trick-room nukes.\n\n## Play Patterns\nSwitch in after trick-room is up, [protect] if the Mega turn is risky, then start firing [heat-wave]. Use [eruption] only when at full HP. Save Tera for when a Water move is obviously coming and the alternative is losing the game.",
   "tags": [
     "hoenn",
     "fire",

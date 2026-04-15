@@ -26,22 +26,22 @@
     "spe": 0
   },
   "locale": "en",
-  "title": "[Slowbro] Battle Guide",
-  "summary": "A [Water]/[Psychic] physical [wall] whose [regenerator] heals 33% HP on every switch, looping [future-sight] and [teleport] to control team tempo.",
+  "title": "[slowbro] Battle Guide",
+  "summary": "A [water]/[psychic] physical wall whose [regenerator] heals 33% HP on every switch, looping [future-sight] and [teleport] to control team tempo.",
   "strengths": [
     "[regenerator] heals 33% HP on every switch",
-    "110 Defense with HP investment [wall]s physical attackers",
+    "110 Defense with HP investment walls physical attackers",
     "[future-sight] + [teleport] combo creates guaranteed tempo"
   ],
   "weaknesses": [
-    "[Bug], [Ghost], [Dark], [Electric], and [Grass] weaknesses are all live",
-    "Speed 30 loses every race, making [taunt] a hard [counter]",
+    "Bug, Ghost, Dark, Electric, and Grass weaknesses are all live",
+    "Speed 30 loses every race, making taunt a hard counter",
     "Setup sweepers freely boost against it"
   ],
   "recommendedMoves": [
     {
       "move": "scald",
-      "reason": "Main [Water] STAB with 30% burn chance"
+      "reason": "Main [water] STAB with 30% burn chance"
     },
     {
       "move": "future-sight",
@@ -49,7 +49,7 @@
     },
     {
       "move": "slack-off",
-      "reason": "Reliable [recover]y for the long-game plan"
+      "reason": "Reliable recovery for the long-game plan"
     },
     {
       "move": "teleport",
@@ -70,7 +70,7 @@
       "reason": "Punishes contact attackers"
     }
   ],
-  "bodyMarkdown": "## Overview\n[Slowbro] is a [Water]/[Psychic] physical [wall] whose identity revolves around the hidden ability [regenerator] — it restores 33% HP every time it switches out. Combined with 95/110/80 bulk and [slack-off] recovery, [Slowbro] is functionally unkillable by physical attackers. Its real win condition comes from the [future-sight] + [teleport] combo, which creates guaranteed team tempo that wins the long game.\n\n## Strengths\n[regenerator] makes [Slowbro] effectively immortal against physical attackers. Every switch restores 33% HP, which means chip damage never accumulates across a match. 110 Defense with maxed HP walls every physical neutral attack, and [slack-off] provides in-battle recovery on top. [scald] chip damage from the 30% burn chance further weakens opposing physical attackers over time.\n\n## Weaknesses & Answers\n[Bug], [Ghost], [Dark], [Electric], and [Grass] are all 2x weaknesses, and common coverage like [knock-off] bypasses the [wall] plan by removing [leftovers]. Speed 30 means [taunt] shuts down every utility slot instantly — a [taunt] lead is the hardest matchup. Setup sweepers freely boost against [Slowbro], so the team must have [haze] or phazing support to answer them.\n\n## Recommended Moveset\n[scald] is the locked STAB because the 30% burn chance passively weakens incoming physical attackers. [future-sight] is the key utility — it predicts future switches and creates guaranteed damage three turns later. [slack-off] is mandatory recovery for long-game stability, and [teleport] is the [regenerator] activator that also brings in a partner on tempo.\n\n## Item · Ability · Tera\n[leftovers] is the default because it stacks with [regenerator] for maximum healing. [sitrus-berry] is a mid-game heal alternative for frontal plans. [rocky-helmet] punishes contact attackers for meaningful chip across a match. Ability must be [regenerator] — the other two are not viable. Tera [Water] maxes [scald] damage defensively, Tera [Fairy] flips [Dark] and [Bug] weaknesses into resistances.\n\n## Teammates & Synergy\n[Slowbro] anchors [future-sight] + [teleport] cores with dedicated finishers ([Fighting] or [Psychic] attackers) that convert the guaranteed damage into KOs. A [Fairy] or [Steel] partner handles [Dark] and [Bug] weaknesses, and a [Ground] partner covers [Electric]. [haze] or [taunt] support answers setup sweepers that would otherwise boost for free.\n\n## Play Patterns\nSwitch in on a physical attacker, [future-sight] on the free turn, then [teleport] out to bring in a finisher as the [future-sight] lands. Use [scald] on any turn you hold position, heal with [slack-off] at 60% HP, and save Tera for a telegraphed [Dark] or [Bug] move.",
+  "bodyMarkdown": "## Overview\n[slowbro] is a [water]/[psychic] physical wall whose identity revolves around the hidden ability [regenerator] — it restores 33% HP every time it switches out. Combined with 95/110/80 bulk and [slack-off] recovery, [slowbro] is functionally unkillable by physical attackers. Its real win condition comes from the [future-sight] + [teleport] combo, which creates guaranteed team tempo that wins the long game.\n\n## Strengths\n[regenerator] makes [slowbro] effectively immortal against physical attackers. Every switch restores 33% HP, which means chip damage never accumulates across a match. 110 Defense with maxed HP walls every physical neutral attack, and [slack-off] provides in-battle recovery on top. [scald] chip damage from the 30% burn chance further weakens opposing physical attackers over time.\n\n## Weaknesses & Answers\nBug, Ghost, Dark, Electric, and Grass are all 2x weaknesses, and common coverage like knock-off bypasses the wall plan by removing [leftovers]. Speed 30 means taunt shuts down every utility slot instantly — a taunt lead is the hardest matchup. Setup sweepers freely boost against [slowbro], so the team must have haze or phazing support to answer them.\n\n## Recommended Moveset\n[scald] is the locked STAB because the 30% burn chance passively weakens incoming physical attackers. [future-sight] is the key utility — it predicts future switches and creates guaranteed damage three turns later. [slack-off] is mandatory recovery for long-game stability, and [teleport] is the [regenerator] activator that also brings in a partner on tempo.\n\n## Item · Ability · Tera\n[leftovers] is the default because it stacks with [regenerator] for maximum healing. [sitrus-berry] is a mid-game heal alternative for frontal plans. [rocky-helmet] punishes contact attackers for meaningful chip across a match. Ability must be [regenerator] — the other two are not viable. Tera [water] maxes [scald] damage defensively, Tera [fairy] flips Dark and Bug weaknesses into resistances.\n\n## Teammates & Synergy\n[slowbro] anchors [future-sight] + [teleport] cores with dedicated finishers (Fighting or [psychic] attackers) that convert the guaranteed damage into KOs. A [fairy] or Steel partner handles Dark and Bug weaknesses, and a Ground partner covers Electric. haze or taunt support answers setup sweepers that would otherwise boost for free.\n\n## Play Patterns\nSwitch in on a physical attacker, [future-sight] on the free turn, then [teleport] out to bring in a finisher as the [future-sight] lands. Use [scald] on any turn you hold position, heal with [slack-off] at 60% HP, and save Tera for a telegraphed Dark or Bug move.",
   "tags": [
     "kanto",
     "water",

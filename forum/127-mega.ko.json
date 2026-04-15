@@ -27,30 +27,30 @@
     "spe": 32
   },
   "locale": "ko",
-  "title": "[메가쁘사이저] 배틀 운용 가이드",
-  "summary": "[aerilate]로 [노말] 기술을 [비행] STAB으로 바꾸는 [벌레]·[비행] 물리 스위퍼. [return]·[quick-attack] 조합이 핵심.",
+  "title": "[pinsir-mega] 배틀 운용 가이드",
+  "summary": "[aerilate]로 노말 기술을 [flying] STAB으로 바꾸는 [bug]·[flying] 물리 스위퍼. [return]·[quick-attack] 조합이 핵심.",
   "strengths": [
-    "[aerilate]로 [return]이 [비행] STAB으로 전환",
+    "[aerilate]로 [return]이 [flying] STAB으로 전환",
     "155의 공격과 105 스피드로 상위권 레이스",
-    "[quick-attack]도 [비행] 선공기로 가속화"
+    "[quick-attack]도 [flying] 선공기로 가속화"
   ],
   "weaknesses": [
-    "[stealth-rock]에 진입마다 25% 손실",
-    "[전기]·[얼음]·[바위] 약점이 겹침",
+    "stealth-rock에 진입마다 25% 손실",
+    "전기·얼음·바위 약점이 겹침",
     "1턴째는 특성이 기본 상태라 변수"
   ],
   "recommendedMoves": [
     {
       "move": "return",
-      "reason": "[aerilate]로 [비행] STAB이 되는 주력기"
+      "reason": "[aerilate]로 [flying] STAB이 되는 주력기"
     },
     {
       "move": "close-combat",
-      "reason": "[강철]·[바위]를 찢는 견제 필수"
+      "reason": "강철·바위를 찢는 견제 필수"
     },
     {
       "move": "quick-attack",
-      "reason": "[aerilate] [비행] 선공기로 클리너 역할"
+      "reason": "[aerilate] [flying] 선공기로 클리너 역할"
     },
     {
       "move": "swords-dance",
@@ -63,7 +63,7 @@
       "reason": "메가 진화를 위한 필수 아이템"
     }
   ],
-  "bodyMarkdown": "## 개요\n[메가쁘사이저]는 [aerilate] 특성을 얻어 [return] 같은 [노말] 기술이 [비행] STAB으로 치환되는, [벌레]·[비행] 복합 타입의 최상위 물리 스위퍼다. 공격 155·스피드 105의 스탯 라인은 메타 주류 어태커를 완전히 추월하며, [swords-dance] 한 번으로 메타 대부분의 탱커를 2타 안에 정리할 수 있는 종결급 화력선이 형성된다. 메가 진화 전 1턴의 공백만 조율하면, 이후 전체 전선이 무너지는 속도는 이상할 정도로 빠르다.\n\n## 강점 분석\n[aerilate]의 핵심은 [return] + [quick-attack]의 이중 구성이다. [return]은 150에 가까운 실전 위력을 내는 [비행] STAB으로 전환되고, [quick-attack]마저 [비행] 선공기로 변해 모든 빠른 클리너를 아래에서 찢는다. [close-combat]·[earthquake]·[stone-edge] 등 서브 웨폰 선택지도 넓어 [강철]·[바위]·[전기]·[페어리] 탱커 어느 것이든 찌를 수 있다. 스텔스록만 깔려 있지 않다면 한 마리로 경기를 닫는 것이 가능하다.\n\n## 약점과 대응\n가장 치명적인 약점은 [stealth-rock]이다. [비행] 복합이 되어 진입마다 HP의 25%를 날리므로 [rapid-spin] 또는 [defog] 파트너가 필수적이다. [전기]·[얼음]·[바위] 약점이 겹쳐 선공기 계열과 빠른 특수 어태커에게 진입이 위험하며, 1턴째는 아직 [mold-breaker] 같은 원본 특성 상태라 예상 외의 움직임이 나올 수 있다. 진입 타이밍은 철저히 읽어두어야 한다.\n\n## 추천 기술 구성\n[return]은 [aerilate]로 STAB 위력 + 1.2배 보정이 붙어 메인 웨폰으로 고정된다. [close-combat]은 [강철]·[바위] 탱커를 뚫는 필수 견제, [quick-attack]은 [aerilate] [비행] 선공기로 빠른 클리너를 찢어내는 핵심 슬롯이다. 마지막은 [swords-dance]로, 한 번만 쌓아도 거의 모든 대응 포켓몬이 2타 범위에 들어온다. [stone-edge]나 [earthquake]로 커버리지를 넓히는 파생도 가능하다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 메가스톤 [pinsirite] 고정이며, 다른 선택지는 존재하지 않는다. 특성은 진화 후 [aerilate]로 강제 전환되므로, 진화 전 1턴의 [mold-breaker]·hyper-cutter 중 하나는 무시해도 된다. 테라스탈은 비행으로 STAB 화력을 더 극대화하는 방향, 혹은 땅으로 [전기] 약점을 무효화하면서 [earthquake] STAB 화력을 올리는 방향 두 가지가 실전적이다.\n\n## 시너지와 파트너\n[stealth-rock] 제거는 사실상 필수이므로 [rapid-spin] 또는 [defog] 요원을 반드시 편성한다. 상대 [전기]·[얼음] 대응을 위해 [땅] 타입 파트너를 한 장 두고, 빠른 pivot 요원으로 셋업 턴을 만들어주면 승률이 급격히 올라간다. 상대 선공기 대응으로 [intimidate] 사용자나 테라 [페어리] 파트너도 고려할 수 있다.\n\n## 운용 팁\n기본 플랜은 [rapid-spin] 후 메가 진화 → [swords-dance] → [return] 연쇄 KO다. [quick-attack]은 HP가 한 자리 수로 빠진 상대 클리너나 선공기 사용자를 처단하는 마지막 카드로 아껴두고, 테라스탈은 [비행] 복합 약점을 맞을 각이 확정된 순간 즉시 발동해 템포를 사들인다.",
+  "bodyMarkdown": "## 개요\n[pinsir-mega]는 [aerilate] 특성을 얻어 [return] 같은 노말 기술이 [flying] STAB으로 치환되는, [bug]·[flying] 복합 타입의 최상위 물리 스위퍼다. 공격 155·스피드 105의 스탯 라인은 메타 주류 어태커를 완전히 추월하며, [swords-dance] 한 번으로 메타 대부분의 탱커를 2타 안에 정리할 수 있는 종결급 화력선이 형성된다. 메가 진화 전 1턴의 공백만 조율하면, 이후 전체 전선이 무너지는 속도는 이상할 정도로 빠르다.\n\n## 강점 분석\n[aerilate]의 핵심은 [return] + [quick-attack]의 이중 구성이다. [return]은 150에 가까운 실전 위력을 내는 [flying] STAB으로 전환되고, [quick-attack]마저 [flying] 선공기로 변해 모든 빠른 클리너를 아래에서 찢는다. [close-combat]·earthquake·stone-edge 등 서브 웨폰 선택지도 넓어 강철·바위·전기·페어리 탱커 어느 것이든 찌를 수 있다. 스텔스록만 깔려 있지 않다면 한 마리로 경기를 닫는 것이 가능하다.\n\n## 약점과 대응\n가장 치명적인 약점은 stealth-rock이다. [flying] 복합이 되어 진입마다 HP의 25%를 날리므로 rapid-spin 또는 defog 파트너가 필수적이다. 전기·얼음·바위 약점이 겹쳐 선공기 계열과 빠른 특수 어태커에게 진입이 위험하며, 1턴째는 아직 mold-breaker 같은 원본 특성 상태라 예상 외의 움직임이 나올 수 있다. 진입 타이밍은 철저히 읽어두어야 한다.\n\n## 추천 기술 구성\n[return]은 [aerilate]로 STAB 위력 + 1.2배 보정이 붙어 메인 웨폰으로 고정된다. [close-combat]은 강철·바위 탱커를 뚫는 필수 견제, [quick-attack]은 [aerilate] [flying] 선공기로 빠른 클리너를 찢어내는 핵심 슬롯이다. 마지막은 [swords-dance]로, 한 번만 쌓아도 거의 모든 대응 포켓몬이 2타 범위에 들어온다. stone-edge나 earthquake로 커버리지를 넓히는 파생도 가능하다.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 메가스톤 [pinsirite] 고정이며, 다른 선택지는 존재하지 않는다. 특성은 진화 후 [aerilate]로 강제 전환되므로, 진화 전 1턴의 mold-breaker·hyper-cutter 중 하나는 무시해도 된다. 테라스탈은 비행으로 STAB 화력을 더 극대화하는 방향, 혹은 땅으로 전기 약점을 무효화하면서 earthquake STAB 화력을 올리는 방향 두 가지가 실전적이다.\n\n## 시너지와 파트너\nstealth-rock 제거는 사실상 필수이므로 rapid-spin 또는 defog 요원을 반드시 편성한다. 상대 전기·얼음 대응을 위해 [ground] 타입 파트너를 한 장 두고, 빠른 pivot 요원으로 셋업 턴을 만들어주면 승률이 급격히 올라간다. 상대 선공기 대응으로 intimidate 사용자나 테라 페어리 파트너도 고려할 수 있다.\n\n## 운용 팁\n기본 플랜은 rapid-spin 후 메가 진화 → [swords-dance] → [return] 연쇄 KO다. [quick-attack]은 HP가 한 자리 수로 빠진 상대 클리너나 선공기 사용자를 처단하는 마지막 카드로 아껴두고, 테라스탈은 [flying] 복합 약점을 맞을 각이 확정된 순간 즉시 발동해 템포를 사들인다.",
   "tags": [
     "kanto",
     "bug",

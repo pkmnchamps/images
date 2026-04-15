@@ -26,30 +26,30 @@
     "spe": 32
   },
   "locale": "en",
-  "title": "[Victreebel] Battle Guide",
-  "summary": "A [Grass]/[Poison] physical [sweeper] whose [chlorophyll] doubles its Speed under sun — the physical [counter]part to Venusaur on sun teams.",
+  "title": "[victreebel] Battle Guide",
+  "summary": "A [grass]/[poison] physical sweeper whose [chlorophyll] doubles its Speed under sun — the physical counterpart to Venusaur on sun teams.",
   "strengths": [
     "Effective Speed 140+ under sun via [chlorophyll]",
     "105 Attack plus [swords-dance] produces huge finishers",
     "[sucker-punch] priority covers the non-sun fallback turn"
   ],
   "weaknesses": [
-    "[Ice], [Fire], [Flying], and [psychic] weaknesses are stacked",
+    "Ice, [fire], Flying, and psychic weaknesses are stacked",
     "80/65/70 bulk is fragile against neutral hits",
     "Loses the win condition when sun is removed"
   ],
   "recommendedMoves": [
     {
       "move": "leaf-blade",
-      "reason": "Main [Grass] STAB physical finisher"
+      "reason": "Main [grass] STAB physical finisher"
     },
     {
       "move": "poison-jab",
-      "reason": "[Poison] STAB for Fairies and [Grass] mirrors"
+      "reason": "[poison] STAB for Fairies and [grass] mirrors"
     },
     {
       "move": "sucker-punch",
-      "reason": "Priority cove[rage] for non-sun turns"
+      "reason": "Priority coverage for non-sun turns"
     },
     {
       "move": "swords-dance",
@@ -67,10 +67,10 @@
     },
     {
       "item": "miracle-seed",
-      "reason": "Boosts [Grass] STAB damage"
+      "reason": "Boosts [grass] STAB damage"
     }
   ],
-  "bodyMarkdown": "## Overview\n[Victreebel] is the physical counterpart to Venusaur on sun-based teams. It shares [chlorophyll] as its ability, which doubles Speed under sun, but its role is a physical [sweeper] rather than a special one. 105 Attack and a [swords-dance] setup turn make it an aggressive finisher that opens up after a sun-activated Speed boost.\n\n## Strengths\nUnder sun, [chlorophyll] pushes Speed to an effective 140+ tier that outruns essentially the entire metagame. [swords-dance] doubles Attack into guaranteed OHKO ranges for [leaf-blade] and [poison-jab], and [sucker-punch] adds a priority finisher for the turns when sun is not active. The physical angle is what distinguishes [Victreebel] from other [chlorophyll] sweepers in the format.\n\n## Weaknesses & Answers\n[Ice], [Fire], [Flying], and [psychic] are all 2x weaknesses and common coverage moves, which limits [Victreebel] safe entry points. 80/65/70 bulk fails against neutral priority, and losing the sun immediately shuts down the Speed win condition. Priority users are especially dangerous since [sucker-punch] can be read and baited by defensive plays.\n\n## Recommended Moveset\n[leaf-blade] is the locked [Grass] STAB because its high crit rate and consistent damage serve the finisher role. [poison-jab] handles Fairies and mirror [Grass] types. [sucker-punch] provides a priority slot for non-sun turns and answers to faster cleaners. [swords-dance] is the setup slot — one use is enough to kick off a legitimate sweep attempt. A [knock-off] variant trades finishing power for utility.\n\n## Item · Ability · Tera\n[life-orb] is the default damage item for the [swords-dance] set. [focus-sash] is the alternative that guarantees one setup turn, and [miracle-seed] is a niche pure-damage boost to [leaf-blade]. Ability is [chlorophyll] — gluttony is strictly worse. Tera [Grass] maxes [leaf-blade] damage, and Tera [Fire] flips [Ice], [Fire], and [Flying] weaknesses while adding offensive angles.\n\n## Teammates & Synergy\n[Victreebel] pairs with a dedicated sun setter like Ninetales. A [Fire] or [Steel] partner covers the [Ice] and [Flying] weaknesses, and a [taunt] lead or pivot line answers opposing weather setters. Hazard removal support keeps [Victreebel] healthy across multiple entries, and a cleaner behind it converts its chip damage into KOs.\n\n## Play Patterns\nLet the sun setter lead, then bring [Victreebel] in on turn two and [swords-dance] on a free turn. Open with [leaf-blade] on neutral matchups and [poison-jab] on Fairies, and use [sucker-punch] to finish fast cleaners. Tera on any telegraphed [Ice] or [Fire] attack.",
+  "bodyMarkdown": "## Overview\n[victreebel] is the physical counterpart to Venusaur on sun-based teams. It shares [chlorophyll] as its ability, which doubles Speed under sun, but its role is a physical sweeper rather than a special one. 105 Attack and a [swords-dance] setup turn make it an aggressive finisher that opens up after a sun-activated Speed boost.\n\n## Strengths\nUnder sun, [chlorophyll] pushes Speed to an effective 140+ tier that outruns essentially the entire metagame. [swords-dance] doubles Attack into guaranteed OHKO ranges for [leaf-blade] and [poison-jab], and [sucker-punch] adds a priority finisher for the turns when sun is not active. The physical angle is what distinguishes [victreebel] from other [chlorophyll] sweepers in the format.\n\n## Weaknesses & Answers\nIce, [fire], Flying, and psychic are all 2x weaknesses and common coverage moves, which limits [victreebel] safe entry points. 80/65/70 bulk fails against neutral priority, and losing the sun immediately shuts down the Speed win condition. Priority users are especially dangerous since [sucker-punch] can be read and baited by defensive plays.\n\n## Recommended Moveset\n[leaf-blade] is the locked [grass] STAB because its high crit rate and consistent damage serve the finisher role. [poison-jab] handles Fairies and mirror [grass] types. [sucker-punch] provides a priority slot for non-sun turns and answers to faster cleaners. [swords-dance] is the setup slot — one use is enough to kick off a legitimate sweep attempt. A knock-off variant trades finishing power for utility.\n\n## Item · Ability · Tera\n[life-orb] is the default damage item for the [swords-dance] set. [focus-sash] is the alternative that guarantees one setup turn, and [miracle-seed] is a niche pure-damage boost to [leaf-blade]. Ability is [chlorophyll] — gluttony is strictly worse. Tera [grass] maxes [leaf-blade] damage, and Tera [fire] flips Ice, [fire], and Flying weaknesses while adding offensive angles.\n\n## Teammates & Synergy\n[victreebel] pairs with a dedicated sun setter like Ninetales. A [fire] or Steel partner covers the Ice and Flying weaknesses, and a taunt lead or pivot line answers opposing weather setters. Hazard removal support keeps [victreebel] healthy across multiple entries, and a cleaner behind it converts its chip damage into KOs.\n\n## Play Patterns\nLet the sun setter lead, then bring [victreebel] in on turn two and [swords-dance] on a free turn. Open with [leaf-blade] on neutral matchups and [poison-jab] on Fairies, and use [sucker-punch] to finish fast cleaners. Tera on any telegraphed Ice or [fire] attack.",
   "tags": [
     "kanto",
     "grass",

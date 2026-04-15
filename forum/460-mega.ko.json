@@ -26,30 +26,30 @@
     "spe": 0
   },
   "locale": "ko",
-  "title": "[메가눈설왕] 배틀 운용 가이드",
-  "summary": "[snow-warning]으로 눈 날씨를 자동 전개하는 [풀]·[얼음] 트릭룸 어태커. 132/132 양 공격 + [blizzard] 필중.",
+  "title": "[abomasnow-mega] 배틀 운용 가이드",
+  "summary": "[snow-warning]으로 눈 날씨를 자동 전개하는 [grass]·[ice] 트릭룸 어태커. 132/132 양 공격 + [blizzard] 필중.",
   "strengths": [
     "[snow-warning] 눈 날씨 자동 전개",
     "132/132 양 공격 능력치",
     "눈 아래 [blizzard] 필중"
   ],
   "weaknesses": [
-    "[불] 4배 약점 — [heat-wave]에 즉사",
-    "[격투]·[독]·[비행]·[바위]·[강철] 약점 다수",
+    "불 4배 약점 — heat-wave에 즉사",
+    "격투·독·비행·바위·[steel] 약점 다수",
     "스피드 30 트릭룸 의존"
   ],
   "recommendedMoves": [
     {
       "move": "wood-hammer",
-      "reason": "[풀] 자속 최대 위력 물리"
+      "reason": "[grass] 자속 최대 위력 물리"
     },
     {
       "move": "blizzard",
-      "reason": "눈 아래 필중 [얼음] 광역 특수"
+      "reason": "눈 아래 필중 [ice] 광역 특수"
     },
     {
       "move": "ice-shard",
-      "reason": "[얼음] 선공기 피니셔"
+      "reason": "[ice] 선공기 피니셔"
     },
     {
       "move": "protect",
@@ -62,7 +62,7 @@
       "reason": "메가 진화를 위한 필수 아이템"
     }
   ],
-  "bodyMarkdown": "## 개요\n[메가눈설왕]은 [snow-warning] 특성으로 눈 날씨를 자동 전개하는 [풀]·[얼음] 복합 어태커다. 132/132 양 공격 능력치 + 눈 아래 [blizzard] 필중 판정 조합으로, 트릭룸 파티의 [얼음] 광역 특수 어태커로 최적화된다.\n\n## 강점 분석\n[snow-warning]은 등장 시 자동으로 눈 날씨를 전개하여 [blizzard]를 필중으로 만든다. 132/132 동일 공격 능력치는 물리/특수 양 운용 가능. 눈 날씨는 [얼음] 타입 방어 특수 1.5배 상승 효과도 가지므로 특수 탱커 겸 어태커 역할을 한다. [풀] 자속으로 [물]·[땅]·[바위] 견제, [얼음] 자속으로 [드래곤]·[비행] 견제한다.\n\n## 약점과 대응\n[불] 4배 약점은 치명적으로, [charizard]·[heatran] 등 [불] 타입에게 즉사한다. [격투]·[독]·[비행]·[바위]·[강철] 약점 총 7개로 저항 프로필이 메가 중 최악 수준. 스피드 30은 트릭룸 외에는 반드시 후공이다.\n\n## 추천 기술 구성\n[wood-hammer]는 [풀] 자속 최대 위력 물리기. [blizzard]는 눈 아래 필중 [얼음] 광역 특수기로 핵심 화력. [ice-shard]는 [얼음] 선공기 피니셔로 스피드 30 약점 보완. [protect]는 메가 진화 + 트릭룸 대기 필수.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [abomasite] 고정. 특성은 메가 진화 후 [snow-warning]로 전환. 테라스탈은 [강철]로 [불] 4배 약점 포함 7개 약점 대폭 완화, 또는 [얼음]으로 자속 중첩 보정 + 눈 아래 방어 보너스.\n\n## 시너지와 파트너\n반드시 [trick-room] 파티에 편성. [dusknoir]·[hatterene] 등 트릭룸 세터와 시너지 필수. [불] 약점 카운터로 [water]·[rock] 파트너, [follow-me]·[fake-out]으로 1턴 보호.\n\n## 운용 팁\n교대 인 순간 [snow-warning]로 눈 전개, 트릭룸 세팅 후 [blizzard] 필중 광역으로 화력을 뿜는다. [wood-hammer]는 [물]·[땅] 타입에 사용, [ice-shard]는 트릭룸 후 선공 피니셔. [불] 타입 노출 시 즉시 교대 필수.",
+  "bodyMarkdown": "## 개요\n[abomasnow-mega]은 [snow-warning] 특성으로 눈 날씨를 자동 전개하는 [grass]·[ice] 복합 어태커다. 132/132 양 공격 능력치 + 눈 아래 [blizzard] 필중 판정 조합으로, 트릭룸 파티의 [ice] 광역 특수 어태커로 최적화된다.\n\n## 강점 분석\n[snow-warning]은 등장 시 자동으로 눈 날씨를 전개하여 [blizzard]를 필중으로 만든다. 132/132 동일 공격 능력치는 물리/특수 양 운용 가능. 눈 날씨는 [ice] 타입 방어 특수 1.5배 상승 효과도 가지므로 특수 탱커 겸 어태커 역할을 한다. [grass] 자속으로 물·땅·바위 견제, [ice] 자속으로 드래곤·비행 견제한다.\n\n## 약점과 대응\n불 4배 약점은 치명적으로, charizard·heatran 등 불 타입에게 즉사한다. 격투·독·비행·바위·[steel] 약점 총 7개로 저항 프로필이 메가 중 최악 수준. 스피드 30은 트릭룸 외에는 반드시 후공이다.\n\n## 추천 기술 구성\n[wood-hammer]는 [grass] 자속 최대 위력 물리기. [blizzard]는 눈 아래 필중 [ice] 광역 특수기로 핵심 화력. [ice-shard]는 [ice] 선공기 피니셔로 스피드 30 약점 보완. [protect]는 메가 진화 + 트릭룸 대기 필수.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [abomasite] 고정. 특성은 메가 진화 후 [snow-warning]로 전환. 테라스탈은 [steel]로 불 4배 약점 포함 7개 약점 대폭 완화, 또는 [ice]으로 자속 중첩 보정 + 눈 아래 방어 보너스.\n\n## 시너지와 파트너\n반드시 trick-room 파티에 편성. dusknoir·hatterene 등 트릭룸 세터와 시너지 필수. 불 약점 카운터로 water·rock 파트너, follow-me·fake-out으로 1턴 보호.\n\n## 운용 팁\n교대 인 순간 [snow-warning]로 눈 전개, 트릭룸 세팅 후 [blizzard] 필중 광역으로 화력을 뿜는다. [wood-hammer]는 물·땅 타입에 사용, [ice-shard]는 트릭룸 후 선공 피니셔. 불 타입 노출 시 즉시 교대 필수.",
   "tags": [
     "sinnoh",
     "grass",
