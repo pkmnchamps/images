@@ -1,0 +1,82 @@
+{
+  "pokemonId": 724,
+  "nameKo": "히스이모크나이퍼",
+  "nameEn": "decidueye-hisui",
+  "formKey": "hisui",
+  "types": [
+    "grass",
+    "fighting"
+  ],
+  "roles": [
+    "physical-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "overgrow",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "fighting",
+    "grass"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "ko",
+  "title": "[히스이모크나이퍼] 배틀 운용 가이드",
+  "summary": "[풀]·[격투] 복합 물리 어태커. [triple-arrows] 시그니처 기술 + [close-combat] 자속의 안정적 화력이 핵심.",
+  "strengths": [
+    "[풀]·[격투] 복합 [노말]·[악]·[바위] 견제",
+    "[triple-arrows] 시그니처 [격투] — 30% 방어 하락 + 플린치",
+    "88 HP 벌크 어태커 프로필"
+  ],
+  "weaknesses": [
+    "[불]·[비행]·[심령]·[페어리] 약점 다수",
+    "스피드 60 후공 고정",
+    "특수 내구 95 대비 물리 내구 80 낮음"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "triple-arrows",
+      "reason": "시그니처 [격투] — 방어 하락·플린치 부가 효과"
+    },
+    {
+      "move": "leaf-blade",
+      "reason": "[풀] 자속 주력 물리"
+    },
+    {
+      "move": "sucker-punch",
+      "reason": "선공기 피니셔"
+    },
+    {
+      "move": "protect",
+      "reason": "안전 턴 확보"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "life-orb",
+      "reason": "물리 화력 보정"
+    },
+    {
+      "item": "choice-band",
+      "reason": "공격 1.5배 초고화력"
+    },
+    {
+      "item": "assault-vest",
+      "reason": "특수 내구 보조 변형"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[히스이모크나이퍼]는 [풀]·[격투] 복합 물리 어태커로, 시그니처 기술 [triple-arrows]와 [leaf-blade] 자속 물리 화력을 결합한다. 원본 [알로라모크나이퍼]의 [고스트] 타입과 달리 [격투] 자속으로 [노말]·[악]·[바위]·[강철]·[얼음] 광범위 견제가 가능하다.\n\n## 강점 분석\n[triple-arrows]는 시그니처 [격투] 자속 기술로, 50% 크리티컬 기회 + 50% 방어 1단계 하락 + 30% 플린치 부가 효과의 다중 디버프를 제공. 상대 물리 내구를 누적 하락시키며 공격하는 독특한 판정으로 벽 파괴에 유효. [풀]·[격투] 복합 자속은 [물]·[땅]·[바위]·[노말]·[악] 등 광범위 견제.\n\n## 약점과 대응\n[불]·[비행]·[심령]·[페어리] 4종 약점으로 저항 프로필이 약하다. 스피드 60은 중속권 대부분에 후공이라 [sucker-punch] 선공기나 [tailwind] 지원에 의존. 물리 내구 88/80은 평균 수준.\n\n## 추천 기술 구성\n[triple-arrows]는 시그니처 [격투] 자속 핵심기. [leaf-blade]는 [풀] 자속 주력 물리. [sucker-punch]는 스피드 60 약점 보완 선공기 피니셔. [protect]는 안전 턴 확보.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [life-orb]가 유연한 화력 메인. [choice-band]는 초고화력 변형. 특성은 [overgrow] 또는 [scrappy]. 테라스탈은 [격투]로 [triple-arrows] 자속 중첩, 또는 [풀]로 [leaf-blade] 중첩.\n\n## 시너지와 파트너\n[불]·[비행] 약점 카운터로 [물]·[전기] 파트너. [심령]·[페어리] 약점으로 [악]·[벌레] 파트너. [tailwind]로 스피드 추가 확보.\n\n## 운용 팁\n[triple-arrows] 연타로 상대 방어 누적 하락 + 플린치 템포 장악 → [leaf-blade] 주력 딜링. [sucker-punch]로 고속 어태커 피니싱. [불]·[비행] 타입 노출 시 즉시 교대.",
+  "tags": [
+    "hisui",
+    "grass",
+    "fighting",
+    "regional-form",
+    "physical-attacker"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

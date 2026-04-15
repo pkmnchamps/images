@@ -1,0 +1,83 @@
+{
+  "pokemonId": 479,
+  "nameKo": "로토무(팬)",
+  "nameEn": "rotom-fan",
+  "formKey": "fan",
+  "types": [
+    "electric",
+    "flying"
+  ],
+  "roles": [
+    "special-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "levitate",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "flying",
+    "electric"
+  ],
+  "recommendedEv": {
+    "hp": 16,
+    "atk": 0,
+    "def": 0,
+    "spa": 16,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[로토무(팬)] 배틀 운용 가이드",
+  "summary": "[전기]·[비행] 복합 특수 어태커. 두 [땅] 무효 중첩 + [air-slash] 플린치 유틸이 독특하다.",
+  "strengths": [
+    "[levitate] + [비행] 타입 이중 [땅] 무효",
+    "[air-slash] 플린치 확률 + [비행] 자속",
+    "[전기]·[비행] 광범위 견제"
+  ],
+  "weaknesses": [
+    "[얼음]·[바위] 약점",
+    "50 HP 낮음",
+    "[mold-breaker] 상대 [levitate] 무시"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "air-slash",
+      "reason": "[비행] 자속 + 30% 플린치"
+    },
+    {
+      "move": "thunderbolt",
+      "reason": "[전기] 자속 주력"
+    },
+    {
+      "move": "volt-switch",
+      "reason": "피벗 수익"
+    },
+    {
+      "move": "protect",
+      "reason": "안전 턴 확보"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "choice-specs",
+      "reason": "특공 1.5배 화력 극대화"
+    },
+    {
+      "item": "sharp-beak",
+      "reason": "[비행] 기술 화력 강화"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "HP 50% 회복"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[로토무(팬)]은 [전기]·[비행] 복합 특수 어태커로, [levitate] 특성 + [비행] 타입의 이중 [땅] 무효라는 독특한 프로필을 가진다. [air-slash]의 30% 플린치 확률은 더블 VGC에서 템포 장악에 유효하다.\n\n## 강점 분석\n[levitate] + [비행] 타입 이중 [땅] 무효로 [mold-breaker] 상대에도 [비행] 타입 [땅] 무효는 유지되는 안정성이 있다. [air-slash]는 [비행] 자속 + 30% 플린치로 더블에서 연속 플린치 기대 플레이가 가능. [전기] + [비행] 견제 범위는 [격투]·[풀]·[벌레] 등 광범위.\n\n## 약점과 대응\n[얼음]·[바위] 2종 약점. [ice-beam]·[blizzard] 유저에게 즉사 위험, [stealth-rock] 등장 시 HP 1/4 감소. 50 HP는 여전히 낮아 효과굉장 공격에 취약.\n\n## 추천 기술 구성\n[air-slash]는 [비행] 자속 + 플린치 유틸 핵심. [thunderbolt]는 [전기] 자속 주력. [volt-switch]는 피벗 수익. [protect]는 안전 턴 확보.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [choice-specs]가 화력 극대화 메인. [sharp-beak]은 [비행] 기술 화력 변형. 특성은 [levitate] 고정. 테라스탈은 [비행]으로 [air-slash] 자속 중첩 + [격투]·[땅] 약점 완화, 또는 [전기]로 [thunderbolt] 중첩.\n\n## 시너지와 파트너\n[얼음]·[바위] 약점 카운터로 [불]·[격투] 파트너. [stealth-rock] 제거 유저 필수 ([rapid-spin] 또는 [defog]). [tailwind]로 스피드 추가 확보.\n\n## 운용 팁\n[비행]·[전기] 견제 광범위 활용해 [격투]·[풀]·[물] 어태커 상대 교대 인. [air-slash] 플린치 기대 연속 공격으로 템포 장악, [volt-switch]로 불리 매치업 이탈. [얼음] 공격 노출 시 즉시 교대.",
+  "tags": [
+    "sinnoh",
+    "electric",
+    "flying",
+    "appliance-form",
+    "levitate",
+    "special-attacker"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

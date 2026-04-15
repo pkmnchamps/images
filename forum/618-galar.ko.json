@@ -1,0 +1,83 @@
+{
+  "pokemonId": 618,
+  "nameKo": "가라르메더",
+  "nameEn": "stunfisk-galar",
+  "formKey": "galar",
+  "types": [
+    "ground",
+    "steel"
+  ],
+  "roles": [
+    "physical-wall",
+    "support"
+  ],
+  "recommendedAbility": "mimicry",
+  "recommendedNature": "relaxed",
+  "recommendedTera": [
+    "steel",
+    "ground"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 16,
+    "def": 16,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "ko",
+  "title": "[가라르메더] 배틀 운용 가이드",
+  "summary": "[땅]·[강철] 복합 벌크 포켓몬. [snap-trap] 시그니처 함정기 + [stealth-rock] 세팅의 해저드 서포트 역할.",
+  "strengths": [
+    "[땅]·[강철] 복합 9개 타입 저항 + [전기] 무효",
+    "[snap-trap] 시그니처 함정 기술",
+    "[stealth-rock] 세팅 가능"
+  ],
+  "weaknesses": [
+    "[불]·[물]·[땅]·[격투] 약점 4종",
+    "스피드 32 반드시 후공",
+    "[mimicry]는 실전 유틸성 낮음"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "snap-trap",
+      "reason": "시그니처 함정 기술 — 상대 고정 + 지속 피해"
+    },
+    {
+      "move": "earthquake",
+      "reason": "[땅] 자속 주력 물리"
+    },
+    {
+      "move": "stealth-rock",
+      "reason": "해저드 세팅 유틸"
+    },
+    {
+      "move": "protect",
+      "reason": "안전 턴 확보"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "leftovers",
+      "reason": "지속 회복"
+    },
+    {
+      "item": "rocky-helmet",
+      "reason": "접촉 공격 역습 피해"
+    },
+    {
+      "item": "figy-berry",
+      "reason": "HP 50% 회복"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[가라르메더]는 [땅]·[강철] 복합 벌크 포켓몬으로, 9개 타입 저항 + [전기] 무효의 견고한 저항 프로필을 가진다. 시그니처 기술 [snap-trap]은 상대를 4-5턴 고정 + 턴당 1/8 HP 피해를 주는 함정기로 독특한 유틸 역할을 수행한다.\n\n## 강점 분석\n[땅]·[강철] 복합 타입은 [전기] 무효 + 8개 타입 저항의 강력한 저항 프로필을 제공한다. [snap-trap]은 상대를 교대 불가 상태로 만들어 턴당 1/8 HP 피해를 주는 시그니처 함정 기술로, [mega-sableye]·[toxapex] 등 지연 포켓몬을 봉쇄하는 유틸. [stealth-rock] 세팅 + 109 HP 벌크로 해저드 세터 겸 물리 벽 역할.\n\n## 약점과 대응\n[불]·[물]·[땅]·[격투] 4종 약점으로 물리 어태커에 취약. 스피드 32는 [trick-room] 외에는 반드시 후공이라 [snap-trap] 세팅 후 즉시 피해 누적은 어렵다. [mimicry] 특성은 지형 타입 변환이라 실전 유틸성 낮음.\n\n## 추천 기술 구성\n[snap-trap]은 시그니처 함정기 핵심. [earthquake]는 [땅] 자속 주력 물리. [stealth-rock]은 해저드 세팅 유틸. [protect]는 안전 턴 확보.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [leftovers]가 벌크 지속 회복 메인. [rocky-helmet]은 접촉 공격 역습 피해 변형. 특성은 [mimicry] 또는 [sand-veil]. 테라스탈은 [강철]로 [불] 약점 완화 + [strike] 중첩, 또는 [땅]으로 [지진] 중첩.\n\n## 시너지와 파트너\n[trick-room] 파티 최상 시너지. [불]·[물] 약점 카운터로 [grass]·[전기] 파트너. 지연 사이클 팀에서 [snap-trap] 함정 유틸 활용.\n\n## 운용 팁\n교대 인으로 [전기] 어태커 카운터 → [stealth-rock] 세팅 후 [snap-trap]으로 상대 고정 + 지속 피해 누적 전술. [earthquake]로 주력 딜링, 장기전 지향 운용이 핵심이다.",
+  "tags": [
+    "galar",
+    "ground",
+    "steel",
+    "regional-form",
+    "physical-wall",
+    "hazard-setter"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

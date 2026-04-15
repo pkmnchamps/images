@@ -1,0 +1,81 @@
+{
+  "pokemonId": 745,
+  "nameKo": "루가루간(황혼의모습)",
+  "nameEn": "lycanroc-dusk",
+  "formKey": "dusk",
+  "types": [
+    "rock"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "tough-claws",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "rock",
+    "normal"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[루가루간(황혼의모습)] 배틀 운용 가이드",
+  "summary": "[tough-claws]로 접촉 기술 위력 1.3배 보정 받는 [바위] 고속 물리 어태커. 117 공격 + 110 스피드의 초고속 물리 프로필.",
+  "strengths": [
+    "[tough-claws] 접촉 기술 위력 1.3배 보정",
+    "117 공격 + 110 스피드 초고속 물리",
+    "[accelerock] 시그니처 선공기"
+  ],
+  "weaknesses": [
+    "[물]·[풀]·[땅]·[격투]·[강철] 약점 다수",
+    "75/65/65 내구 매우 취약",
+    "[tough-claws]는 접촉 기술만 보정"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "accelerock",
+      "reason": "시그니처 [바위] 선공기 + [tough-claws] 보정"
+    },
+    {
+      "move": "stone-edge",
+      "reason": "[바위] 자속 최대 위력 물리"
+    },
+    {
+      "move": "close-combat",
+      "reason": "[격투] 서브 + [tough-claws] 보정"
+    },
+    {
+      "move": "protect",
+      "reason": "안전 턴 확보"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "life-orb",
+      "reason": "물리 화력 보정"
+    },
+    {
+      "item": "choice-band",
+      "reason": "공격 1.5배 초고화력"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "1회 확정 생존"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[루가루간(황혼의모습)]은 [tough-claws] 특성으로 접촉 기술 위력이 1.3배 보정되는 [바위] 고속 물리 어태커다. 117 공격 + 110 스피드의 초고속 물리 프로필과 [accelerock] 자속 선공기로 메타 고속권에서 안정적인 피니셔 역할을 수행한다.\n\n## 강점 분석\n[tough-claws]로 [stone-edge]·[close-combat] 등 접촉 기술 위력 1.3배 보정 + STAB 1.5배로 실질 화력이 극대화된다. 110 스피드는 메타 고속권에서 대부분의 어태커를 추월하고, [accelerock] 자속 [바위] 선공기는 스카프 유저 대응도 가능. 3개 루가루간 품종 중 공격·스피드 모두 최상위권.\n\n## 약점과 대응\n단일 [바위] 5종 약점 구조는 [한밤의 모습]과 동일. 75/65/65의 내구는 매우 취약하여 약점 공격 한 방에 확실히 쓰러진다. [tough-claws]는 접촉 기술만 보정하므로 [rock-slide] 등 비접촉 기술에는 보정 없음.\n\n## 추천 기술 구성\n[accelerock]은 시그니처 [바위] 선공기 + [tough-claws] 보정. [stone-edge]는 [바위] 자속 최대 위력. [close-combat]은 [격투] 서브 + 접촉 [tough-claws] 보정. [protect]는 안전 턴 확보.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [life-orb]가 기본. [choice-band]는 초고화력 변형. 특성은 [tough-claws] 고정. 테라스탈은 [바위]로 [stone-edge] 자속 중첩, 또는 [노말]로 [close-combat] 약점 카운터 방어.\n\n## 시너지와 파트너\n[물]·[풀]·[땅] 약점 카운터로 [grass]·[fire]·[flying] 파트너. [격투] 약점으로 [psychic]·[fairy] 파트너. [intimidate] 유저로 물리 내구 보조.\n\n## 운용 팁\n[stone-edge]·[close-combat] 주력 연타로 고속 물리 화력을 뿜는다. [accelerock] 선공기는 스피드 110 초과자 피니싱에 활용. 약점 공격 노출 시 즉시 교대, 내구가 약해 리스크 관리가 필수다.",
+  "tags": [
+    "alola",
+    "rock",
+    "regional-form",
+    "tough-claws",
+    "physical-sweeper"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

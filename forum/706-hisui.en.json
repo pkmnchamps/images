@@ -1,0 +1,83 @@
+{
+  "pokemonId": 706,
+  "nameKo": "히스이미끄래곤",
+  "nameEn": "goodra-hisui",
+  "formKey": "hisui",
+  "types": [
+    "steel",
+    "dragon"
+  ],
+  "roles": [
+    "special-attacker",
+    "special-wall"
+  ],
+  "recommendedAbility": "shell-armor",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "steel",
+    "dragon"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 0,
+    "spa": 16,
+    "spd": 16,
+    "spe": 0
+  },
+  "locale": "en",
+  "title": "Hisuian Goodra Battle Guide",
+  "summary": "A [Steel]/[Dragon] special wall with a 150 Special Defense — [shell-armor] blocks critical hits and the typing grants 10 resistances.",
+  "strengths": [
+    "150 Special Defense is top-tier",
+    "[Steel]/[Dragon] typing has 10 resistances",
+    "[shell-armor] immunizes against critical hits"
+  ],
+  "weaknesses": [
+    "Weak to [Fighting] and [Ground]",
+    "Speed 60 forces slow play",
+    "Physical bulk is only 80/100"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "flash-cannon",
+      "reason": "Reliable [Steel] STAB"
+    },
+    {
+      "move": "draco-meteor",
+      "reason": "Max BP [Dragon] STAB"
+    },
+    {
+      "move": "thunderbolt",
+      "reason": "Coverage for [Water]/[Flying]"
+    },
+    {
+      "move": "protect",
+      "reason": "Turn safety"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "assault-vest",
+      "reason": "1.5x Special Defense boost"
+    },
+    {
+      "item": "leftovers",
+      "reason": "Passive recovery"
+    },
+    {
+      "item": "choice-specs",
+      "reason": "Max damage variant"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nHisuian Goodra is a [Steel]/[Dragon] special wall with a remarkable 150 Special Defense. Paired with [shell-armor] (blocks crits) and a typing that resists 10 types plus [Poison] immunity, it's one of the most specialized special tanks in the format while still dealing real damage with 110 Special Attack.\n\n## Strengths\n[Steel]/[Dragon] is an excellent defensive typing — ten resistances, no [Fairy] weakness like regular [Dragon] types, and immunity to poison status. 150 Special Defense plus [assault-vest] makes Hisuian Goodra nearly unkillable by special attackers. [shell-armor] removes critical hit variance from high-power moves.\n\n## Weaknesses & Answers\n[Fighting] and [Ground] are the live weaknesses. Physical bulk is merely above-average so [close-combat] or [earthquake] users trade well. Speed 60 forces [trick-room] or slow pivot play.\n\n## Recommended Moveset\n[flash-cannon] is the reliable [Steel] STAB. [draco-meteor] is the nuclear option with a SpA drop. [thunderbolt] covers [Water] and [Flying]. [protect] is standard.\n\n## Item · Ability · Tera\n[assault-vest] is the default — special wall variant. [leftovers] for sustain builds. [shell-armor] blocks crits; [sap-sipper] grants [Grass] immunity as an alternative. Tera [Steel] stacks STAB on [flash-cannon], Tera [Dragon] boosts [draco-meteor].\n\n## Teammates & Synergy\nCover [Fighting] and [Ground] with [Flying] and [Fairy] partners. Fits [trick-room] cores where slow Speed is an advantage. Pair with physical walls to cover the bulk asymmetry.\n\n## Play Patterns\nSwitch in on special attackers, [draco-meteor] for a massive damage spike, then pivot to [flash-cannon] or [thunderbolt] to stay relevant. Avoid [Fighting] and [Ground] users — they're the only threats you need to play around.",
+  "tags": [
+    "hisui",
+    "steel",
+    "dragon",
+    "regional-form",
+    "shell-armor",
+    "special-wall"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

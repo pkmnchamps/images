@@ -1,0 +1,83 @@
+{
+  "pokemonId": 479,
+  "nameKo": "로토무(워시)",
+  "nameEn": "rotom-wash",
+  "formKey": "wash",
+  "types": [
+    "electric",
+    "water"
+  ],
+  "roles": [
+    "special-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "levitate",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "water",
+    "electric"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 0,
+    "spa": 16,
+    "spd": 0,
+    "spe": 16
+  },
+  "locale": "en",
+  "title": "Wash Rotom Battle Guide",
+  "summary": "An [Electric]/[Water] special pivot with [levitate] — only one effective weakness ([Grass]), making it one of the most reliable pivots in the format.",
+  "strengths": [
+    "[levitate] removes the [Ground] weakness",
+    "Effective weakness list is just [Grass]",
+    "[hydro-pump] + [volt-switch] pivot combo"
+  ],
+  "weaknesses": [
+    "Weak to [Grass]",
+    "50 HP is low despite good defenses",
+    "[mold-breaker] users bypass [levitate]"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "hydro-pump",
+      "reason": "Max BP [Water] STAB"
+    },
+    {
+      "move": "volt-switch",
+      "reason": "[Electric] STAB with pivot utility"
+    },
+    {
+      "move": "thunder-wave",
+      "reason": "Speed control and paralysis"
+    },
+    {
+      "move": "protect",
+      "reason": "Turn safety"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "sitrus-berry",
+      "reason": "Mid-HP recovery for tank builds"
+    },
+    {
+      "item": "choice-specs",
+      "reason": "Maximum damage variant"
+    },
+    {
+      "item": "leftovers",
+      "reason": "Passive recovery"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nWash Rotom has arguably the best defensive profile of any special pivot in the format. [Electric]/[Water] typing plus [levitate] leaves only a single effective weakness — [Grass]. This lets Wash Rotom switch into nearly anything and still deal meaningful damage back.\n\n## Strengths\nA single weakness means Wash Rotom is almost always a safe pivot. [hydro-pump] hits hard enough to threaten [Ground] and [Rock] attackers, [volt-switch] maintains pivot momentum, and [thunder-wave] cripples faster offensive threats. The defensive typing alone makes it a staple in support-oriented teams.\n\n## Weaknesses & Answers\nThe only live weakness is [Grass], but [choice-specs] [leaf-storm] users can still score KOs. 50 HP caps the total bulk, so being outside of [sitrus-berry] range is dangerous. [mold-breaker] users bypass [levitate].\n\n## Recommended Moveset\n[hydro-pump] is the main [Water] STAB. [volt-switch] is the momentum move. [thunder-wave] is the utility slot — critical for speed control. [protect] is standard.\n\n## Item · Ability · Tera\n[sitrus-berry] is the default for bulky sets. [choice-specs] maximizes damage when the team needs a special nuke. [levitate] is mandatory. Tera [Water] stacks STAB and removes the [Grass] weakness (becomes neutral).\n\n## Teammates & Synergy\nPivot cores love Wash Rotom. Cover [Grass] with [Fire], [Flying], or [Bug] partners. [intimidate] support extends physical bulk.\n\n## Play Patterns\nSwitch in on almost anything — [Ground], [Fire], [Steel], [Rock] all fail to threaten. Use [volt-switch] for momentum, [hydro-pump] when committing to damage, and [thunder-wave] to slow down dangerous threats. Avoid [Grass] attackers at all costs.",
+  "tags": [
+    "sinnoh",
+    "electric",
+    "water",
+    "appliance-form",
+    "levitate",
+    "special-pivot"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

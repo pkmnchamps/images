@@ -1,0 +1,83 @@
+{
+  "pokemonId": 479,
+  "nameKo": "로토무(컷)",
+  "nameEn": "rotom-mow",
+  "formKey": "mow",
+  "types": [
+    "electric",
+    "grass"
+  ],
+  "roles": [
+    "special-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "levitate",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "grass",
+    "electric"
+  ],
+  "recommendedEv": {
+    "hp": 16,
+    "atk": 0,
+    "def": 0,
+    "spa": 16,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[로토무(컷)] 배틀 운용 가이드",
+  "summary": "[전기]·[풀] 복합 특수 어태커. [leaf-storm] + [thunderbolt] 양 자속 고화력 + [levitate] [땅] 무효가 핵심.",
+  "strengths": [
+    "[levitate] [땅] 완전 무효",
+    "[전기]·[풀] [물]·[땅]·[바위] 견제",
+    "[leaf-storm] 폭발적 단일 화력"
+  ],
+  "weaknesses": [
+    "[불]·[얼음]·[벌레]·[독]·[비행] 약점 다수",
+    "50 HP 낮음",
+    "[leaf-storm] 후 특공 2단계 하락"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "leaf-storm",
+      "reason": "[풀] 자속 최대 위력 특수"
+    },
+    {
+      "move": "thunderbolt",
+      "reason": "[전기] 자속 주력"
+    },
+    {
+      "move": "volt-switch",
+      "reason": "피벗 수익 + 특공 하락 리셋"
+    },
+    {
+      "move": "protect",
+      "reason": "안전 턴 확보"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "choice-specs",
+      "reason": "특공 1.5배 화력 극대화"
+    },
+    {
+      "item": "life-orb",
+      "reason": "유연한 화력 보정"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "HP 50% 회복"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[로토무(컷)]은 [전기]·[풀] 복합 특수 어태커로, [leaf-storm] 폭발적 단일 화력과 [thunderbolt] 안정 화력의 양 자속 운용이 핵심이다. [levitate] [땅] 무효 + [물]·[땅]·[바위] 견제력으로 스위퍼 역할을 수행한다.\n\n## 강점 분석\n[leaf-storm] 위력 130 + [풀] 자속 + 105 특공 = 폭발적 단일 공격력. [volt-switch]와 조합하면 특공 2단계 하락 페널티를 리셋하며 교대할 수 있다. [전기]·[풀] 복합 자속은 [물]·[땅]·[바위]·[비행] 타입을 광범위 견제하며, [levitate]로 [땅] 무효까지 챙긴다.\n\n## 약점과 대응\n[불]·[얼음]·[벌레]·[독]·[비행] 5종 약점으로 저항 프로필 약함. [leaf-storm] 후 특공 2단계 하락은 체감 화력을 크게 낮추므로 [volt-switch] 리셋이 필수. 50 HP도 여전히 낮다.\n\n## 추천 기술 구성\n[leaf-storm]은 [풀] 자속 최대 위력 단일 특수. [thunderbolt]는 [전기] 자속 주력. [volt-switch]는 피벗 수익 + [leaf-storm] 특공 하락 리셋 역할. [protect]는 안전 턴 확보.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [choice-specs]가 초고화력 메인. [life-orb]는 기술 변경 유연 변형. 특성은 [levitate] 고정. 테라스탈은 [풀]로 [leaf-storm] 자속 중첩, 또는 [전기]로 [thunderbolt] 중첩.\n\n## 시너지와 파트너\n[불]·[얼음] 약점 카운터로 [물]·[불] 파트너. [벌레]·[비행] 약점으로 [rock]·[electric] 파트너. [tailwind]로 스피드 추가 확보.\n\n## 운용 팁\n[leaf-storm]으로 폭발적 첫 공격 → [volt-switch]로 교대하며 특공 하락 리셋의 사이클이 핵심. [thunderbolt]는 [물]·[비행] 상대 주력 딜, [물]·[땅]·[바위] 타입 어태커에게는 교대 인 자유도가 높다.",
+  "tags": [
+    "sinnoh",
+    "electric",
+    "grass",
+    "appliance-form",
+    "levitate",
+    "special-attacker"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

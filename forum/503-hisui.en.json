@@ -1,0 +1,83 @@
+{
+  "pokemonId": 503,
+  "nameKo": "히스이대검귀",
+  "nameEn": "samurott-hisui",
+  "formKey": "hisui",
+  "types": [
+    "water",
+    "dark"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "sharpness",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "water",
+    "dark"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Hisuian Samurott Battle Guide",
+  "summary": "A [Water]/[Dark] physical attacker with [sharpness] — boosts slicing moves by 50%. The signature [ceaseless-edge] also lays hazards.",
+  "strengths": [
+    "[sharpness] boosts slicing moves by 50%",
+    "[ceaseless-edge] is a STAB + hazard in one move",
+    "108 Attack plus dual STAB coverage"
+  ],
+  "weaknesses": [
+    "Weak to [Fighting], [Bug], [Grass], [Electric], [Fairy]",
+    "90/80/65 bulk is average",
+    "Speed 85 is mid-tier"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "ceaseless-edge",
+      "reason": "Signature [Dark] STAB that sets splinters"
+    },
+    {
+      "move": "razor-shell",
+      "reason": "[Water] STAB with Def drop"
+    },
+    {
+      "move": "sacred-sword",
+      "reason": "[Fighting] coverage slicing move"
+    },
+    {
+      "move": "protect",
+      "reason": "Turn safety"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "life-orb",
+      "reason": "Default damage amp"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "Survival insurance"
+    },
+    {
+      "item": "choice-band",
+      "reason": "1.5x Attack variant"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nHisuian Samurott's identity is the signature move [ceaseless-edge] plus the [sharpness] ability. [sharpness] boosts slicing moves by 50%, and [ceaseless-edge] doubles as a hazard setter — it leaves splinters on the opponent's side that chip damage on switch. Together they form a rare 'attack + utility in one move' package.\n\n## Strengths\n[ceaseless-edge] STAB + [sharpness] + hazard setup is a three-in-one value. [razor-shell] also benefits from [sharpness] and applies a Defense drop, and [sacred-sword] covers [Normal], [Rock], and [Dark] walls. The dual [Water]/[Dark] STAB covers a wide threat spread.\n\n## Weaknesses & Answers\nFive weaknesses and average bulk mean switch-in reads matter. [Fighting] attackers threaten KOs, and [Electric]/[Grass] special attackers can punish fast. Speed 85 without support means [tailwind] is often required.\n\n## Recommended Moveset\n[ceaseless-edge] is the signature move. [razor-shell] is the [Water] STAB with a Def drop. [sacred-sword] is the [Fighting] coverage slicing move. [protect] is standard.\n\n## Item · Ability · Tera\n[life-orb] is the default. [choice-band] is the max-damage variant. [sharpness] is locked. Tera [Dark] stacks on [ceaseless-edge], Tera [Water] stacks on [razor-shell].\n\n## Teammates & Synergy\nCover [Fighting] and [Bug] weaknesses with [Fairy] and [Fire] partners. Hazard-cycle teams benefit from the splinter utility on [ceaseless-edge]. [tailwind] support handles the Speed issue.\n\n## Play Patterns\nFirst turn is usually [ceaseless-edge] to set splinters and pressure the opponent into a pivot. [razor-shell] for Def drops, [sacred-sword] for coverage. Save Tera for a damage commit when closing the game.",
+  "tags": [
+    "hisui",
+    "water",
+    "dark",
+    "regional-form",
+    "sharpness",
+    "physical-sweeper"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

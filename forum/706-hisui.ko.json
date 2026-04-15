@@ -1,0 +1,83 @@
+{
+  "pokemonId": 706,
+  "nameKo": "히스이미끄래곤",
+  "nameEn": "goodra-hisui",
+  "formKey": "hisui",
+  "types": [
+    "steel",
+    "dragon"
+  ],
+  "roles": [
+    "special-attacker",
+    "special-wall"
+  ],
+  "recommendedAbility": "shell-armor",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "steel",
+    "dragon"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 0,
+    "spa": 16,
+    "spd": 16,
+    "spe": 0
+  },
+  "locale": "ko",
+  "title": "[히스이미끄래곤] 배틀 운용 가이드",
+  "summary": "[강철]·[드래곤] 복합 특수 벽 겸 어태커. 150 특방의 극단적 특수 내구 + 110 특공 양 자속 화력이 핵심.",
+  "strengths": [
+    "150 특방의 메타 최상급 특수 내구",
+    "[강철]·[드래곤] 복합 10개 타입 저항 + 독 면역",
+    "110 특공 + [shell-armor] 크리티컬 방지"
+  ],
+  "weaknesses": [
+    "[격투]·[땅] 약점",
+    "스피드 60 후공 고정",
+    "물리 내구 80/100 평균"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "flash-cannon",
+      "reason": "[강철] 자속 주력 특수"
+    },
+    {
+      "move": "draco-meteor",
+      "reason": "[드래곤] 자속 최대 위력 특수"
+    },
+    {
+      "move": "thunderbolt",
+      "reason": "[물]·[비행] 견제 특수"
+    },
+    {
+      "move": "protect",
+      "reason": "안전 턴 확보"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "assault-vest",
+      "reason": "특수 내구 1.5배 강화"
+    },
+    {
+      "item": "leftovers",
+      "reason": "지속 회복"
+    },
+    {
+      "item": "choice-specs",
+      "reason": "특공 1.5배 고화력"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[히스이미끄래곤]은 [강철]·[드래곤] 복합 특수 벽 겸 특수 어태커다. 150 특방의 메타 최상급 특수 내구와 110 특공의 안정적 특수 화력을 결합하여, 특수 어태커 대응 카운터 역할에 특화된 독특한 프로필을 가진다.\n\n## 강점 분석\n150 특방은 메타 최상급 특수 내구로, [assault-vest] 장착 시 1.5배 보정까지 받아 거의 모든 특수 공격을 확정 탱킹. [강철]·[드래곤] 복합 타입은 10개 타입 저항 + 독 면역 + [fairy] 대신 [ground]·[fighting] 약점만 가지는 견고한 저항 프로필. [shell-armor] 특성은 크리티컬 적중 무효화로 고위력 기술의 크리티컬 변수 제거.\n\n## 약점과 대응\n[격투]·[땅] 2종 약점으로 [close-combat]·[earthquake]에는 치명적이다. 물리 내구 80/100은 평균 수준이라 물리 공격에 취약. 스피드 60은 [trick-room] 외에는 반드시 후공.\n\n## 추천 기술 구성\n[flash-cannon]은 [강철] 자속 주력 특수. [draco-meteor]는 [드래곤] 자속 최대 위력 특수 (사용 후 특공 2단계 하락). [thunderbolt]는 [물]·[비행] 견제 특수. [protect]는 안전 턴 확보. [ice-beam]도 [드래곤]·[비행] 견제 대안.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [assault-vest]가 특수 벽 강화 메인으로 특수 내구 1.5배. [leftovers]는 지속 회복 변형. 특성은 [shell-armor] 또는 [sap-sipper]. 테라스탈은 [강철]로 [fire] 약점 완화, 또는 [드래곤]으로 [draco-meteor] 자속 중첩.\n\n## 시너지와 파트너\n특수 어태커 사이클 카운터 역할. [격투]·[땅] 약점 카운터로 [비행]·[fairy] 파트너. [trick-room] 환경에서 스피드 60이 장점.\n\n## 운용 팁\n특수 어태커 상대로 교대 인 → [assault-vest]로 특수 확정 탱킹 → [draco-meteor] 1회 대폭 딜링 → 이후 [flash-cannon]·[thunderbolt]로 지속 딜. [격투]·[땅] 타입 노출 시 즉시 교대.",
+  "tags": [
+    "hisui",
+    "steel",
+    "dragon",
+    "regional-form",
+    "shell-armor",
+    "special-wall"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

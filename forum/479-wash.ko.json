@@ -1,0 +1,83 @@
+{
+  "pokemonId": 479,
+  "nameKo": "로토무(워시)",
+  "nameEn": "rotom-wash",
+  "formKey": "wash",
+  "types": [
+    "electric",
+    "water"
+  ],
+  "roles": [
+    "special-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "levitate",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "water",
+    "electric"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 0,
+    "spa": 16,
+    "spd": 0,
+    "spe": 16
+  },
+  "locale": "ko",
+  "title": "[로토무(워시)] 배틀 운용 가이드",
+  "summary": "[levitate] [땅] 무효 + [전기]·[물] 복합 타입으로 저항 프로필이 극도로 안정적인 특수 피벗 어태커. 약점 2종만으로 교대 인 자유도가 높다.",
+  "strengths": [
+    "[levitate] [땅] 완전 무효",
+    "[전기]·[물] 복합 약점 [풀]·[땅] 단 2종만 남김",
+    "[hydro-pump] + [volt-switch] 피벗 콤보"
+  ],
+  "weaknesses": [
+    "[풀] 약점 ([땅]은 [levitate]로 무효)",
+    "50 HP 낮음",
+    "[mold-breaker] 상대에게 [levitate] 무시"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "hydro-pump",
+      "reason": "[물] 자속 최대 위력 특수"
+    },
+    {
+      "move": "volt-switch",
+      "reason": "[전기] 자속 피벗 수익"
+    },
+    {
+      "move": "thunder-wave",
+      "reason": "스피드 제어 + 마비 유틸"
+    },
+    {
+      "move": "protect",
+      "reason": "안전 턴 확보"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "sitrus-berry",
+      "reason": "HP 50% 회복 안정 탱킹"
+    },
+    {
+      "item": "choice-specs",
+      "reason": "특공 1.5배 초고화력"
+    },
+    {
+      "item": "leftovers",
+      "reason": "지속 회복"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[로토무(워시)]는 [levitate] + [전기]·[물] 복합 타입으로 저항 프로필이 극도로 안정적인 특수 피벗 어태커다. [땅] 무효화를 포함해 약점은 [풀] 1종만 남으며([땅]은 [levitate]로 무효), 교대 인 자유도가 메타 최상위권이다.\n\n## 강점 분석\n[전기]·[물] 복합에 [levitate]를 얹으면 실질 약점은 [풀] 하나뿐이다. 이는 메가 포켓몬을 포함한 거의 모든 공격 타입에 안정적으로 교대 인이 가능하다는 뜻이다. [hydro-pump] + [volt-switch] 콤보는 피벗 수익과 고화력 특수 공격을 동시에 제공하고, [thunder-wave]는 스피드 컨트롤 유틸로 팀 전체에 기여한다.\n\n## 약점과 대응\n실질 약점은 [풀] 하나지만 [choice-specs] [giga-drain]·[leaf-storm] 유저에게는 위험하다. 50 HP는 내구가 낮아 효과굉장 공격 한 방에 쓰러질 수 있고, [mold-breaker] 특성 유저의 [earthquake]는 [levitate] 무시로 피해 입음.\n\n## 추천 기술 구성\n[hydro-pump]는 [물] 자속 최대 위력 특수. [volt-switch]는 [전기] 자속 피벗 수익 핵심. [thunder-wave]는 스피드 컨트롤 유틸. [protect]는 안전 턴 확보. [will-o-wisp]는 물리 어태커 봉쇄 대안.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [sitrus-berry]가 벌크 운용 메인. [choice-specs]는 초고화력 변형. 특성은 [levitate] 고정. 테라스탈은 [물]로 [hydro-pump] 자속 중첩 + [풀] 약점 유지, 또는 [전기]로 [volt-switch] 중첩.\n\n## 시너지와 파트너\n피벗 사이클 팀 최상 시너지. [풀] 약점 카운터로 [불]·[비행]·[벌레] 파트너. [intimidate] 유저로 물리 내구 추가 보조.\n\n## 운용 팁\n교대 인 자유도 높음 활용 → 상대 [땅]·[불]·[강철] 공격 예측 턴에 등장. [volt-switch]로 피벗 수익, [hydro-pump] 주력 딜링, [thunder-wave]로 고속 어태커 제어. [풀] 타입 노출 시 즉시 교대.",
+  "tags": [
+    "sinnoh",
+    "electric",
+    "water",
+    "appliance-form",
+    "levitate",
+    "special-pivot"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

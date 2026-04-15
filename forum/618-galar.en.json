@@ -1,0 +1,83 @@
+{
+  "pokemonId": 618,
+  "nameKo": "가라르메더",
+  "nameEn": "stunfisk-galar",
+  "formKey": "galar",
+  "types": [
+    "ground",
+    "steel"
+  ],
+  "roles": [
+    "physical-wall",
+    "support"
+  ],
+  "recommendedAbility": "mimicry",
+  "recommendedNature": "relaxed",
+  "recommendedTera": [
+    "steel",
+    "ground"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 16,
+    "def": 16,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "en",
+  "title": "Galarian Stunfisk Battle Guide",
+  "summary": "A [Ground]/[Steel] physical wall with the signature trapping move [snap-trap] — traps and drains opponents while setting [stealth-rock].",
+  "strengths": [
+    "[Ground]/[Steel] resists 9 types and is [Electric] immune",
+    "[snap-trap] is a unique trapping move",
+    "Can set [stealth-rock] reliably"
+  ],
+  "weaknesses": [
+    "Weak to [Fire], [Water], [Ground], [Fighting]",
+    "Speed 32 forces slow play or [trick-room]",
+    "[mimicry] has niche utility"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "snap-trap",
+      "reason": "Signature trapping move"
+    },
+    {
+      "move": "earthquake",
+      "reason": "[Ground] STAB physical"
+    },
+    {
+      "move": "stealth-rock",
+      "reason": "Hazard setup utility"
+    },
+    {
+      "move": "protect",
+      "reason": "Turn safety"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "leftovers",
+      "reason": "Passive recovery"
+    },
+    {
+      "item": "rocky-helmet",
+      "reason": "Punishes contact attackers"
+    },
+    {
+      "item": "figy-berry",
+      "reason": "Mid-HP recovery"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nGalarian Stunfisk is a [Ground]/[Steel] physical wall whose niche is the signature trapping move [snap-trap]. The move locks the target in for 4-5 turns while dealing 1/8 HP per turn — a powerful utility against stall pivots like Mega Sableye or [toxapex]. The typing also grants an immunity to [Electric] and resistances to 8 other types.\n\n## Strengths\n[Ground]/[Steel] gives 9 resistances plus one immunity — one of the most defensively rich typings. [snap-trap] denies the opponent the chance to pivot out of bad matchups, making it a hard counter to switch-heavy teams. [stealth-rock] support fits naturally onto a slow physical wall.\n\n## Weaknesses & Answers\nFour weaknesses — [Fire], [Water], [Ground], [Fighting] — include extremely common offensive types. Speed 32 forces slow pivot play or [trick-room] usage. The base [mimicry] ability is situational at best.\n\n## Recommended Moveset\n[snap-trap] is the signature move. [earthquake] is the reliable [Ground] STAB. [stealth-rock] handles hazard setup. [protect] is standard.\n\n## Item · Ability · Tera\n[leftovers] is the default recovery item. [rocky-helmet] punishes contact attackers. [mimicry] or [sand-veil] depending on the team. Tera [Steel] patches the [Fire] weakness; Tera [Ground] stacks STAB.\n\n## Teammates & Synergy\nFits [trick-room] and slow-pivot stall cores. Cover [Fire] and [Water] with [Grass] or [Electric] partners. Pair with other stallers for a grinding endgame.\n\n## Play Patterns\nSwitch in on [Electric] attackers, set [stealth-rock], then [snap-trap] a stall pivot to deny it from the game. Use [earthquake] as general damage. Play for the long game — Galarian Stunfisk's value is denial, not damage.",
+  "tags": [
+    "galar",
+    "ground",
+    "steel",
+    "regional-form",
+    "physical-wall",
+    "hazard-setter"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

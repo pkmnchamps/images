@@ -1,0 +1,83 @@
+{
+  "pokemonId": 479,
+  "nameKo": "로토무(컷)",
+  "nameEn": "rotom-mow",
+  "formKey": "mow",
+  "types": [
+    "electric",
+    "grass"
+  ],
+  "roles": [
+    "special-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "levitate",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "grass",
+    "electric"
+  ],
+  "recommendedEv": {
+    "hp": 16,
+    "atk": 0,
+    "def": 0,
+    "spa": 16,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Mow Rotom Battle Guide",
+  "summary": "An [Electric]/[Grass] special attacker with [levitate] — [leaf-storm] is the hardest-hitting nuke in the Rotom family, paired with reliable [volt-switch].",
+  "strengths": [
+    "[levitate] keeps [Ground] immunity",
+    "[leaf-storm] is a massive single-target [Grass] nuke",
+    "Coverage for [Water], [Ground], and [Rock] threats"
+  ],
+  "weaknesses": [
+    "Weak to [Fire], [Ice], [Bug], [Poison], [Flying]",
+    "50 HP stays low",
+    "[leaf-storm] drops SpA by 2 after use"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "leaf-storm",
+      "reason": "Max BP [Grass] STAB nuke"
+    },
+    {
+      "move": "thunderbolt",
+      "reason": "Reliable [Electric] STAB"
+    },
+    {
+      "move": "volt-switch",
+      "reason": "Pivot and SpA reset"
+    },
+    {
+      "move": "protect",
+      "reason": "Turn safety"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "choice-specs",
+      "reason": "Max damage output"
+    },
+    {
+      "item": "life-orb",
+      "reason": "Flexible damage amp"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "Mid-HP recovery"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nMow Rotom is the hardest single-hit damage dealer in the Rotom family thanks to [leaf-storm]. [Electric]/[Grass] STAB covers [Water], [Ground], and [Rock] targets that are difficult to answer with other Rotom forms, and [levitate] preserves the [Ground] immunity that defines the line.\n\n## Strengths\n[leaf-storm] at 130 BP plus [Grass] STAB and 105 SpA is a genuine nuke. Pairing it with [volt-switch] gives a clean way to reset the Special Attack drop by pivoting out. [Electric]/[Grass] typing handles [Water]/[Ground]/[Rock] attackers smoothly while [levitate] keeps [Ground] immunity.\n\n## Weaknesses & Answers\nFive weaknesses — [Fire], [Ice], [Bug], [Poison], [Flying] — make switch-ins riskier than the defensive Rotom forms. [leaf-storm] drops SpA by 2, so one commitment means you need to pivot or Tera to stay relevant.\n\n## Recommended Moveset\n[leaf-storm] is the nuke. [thunderbolt] is the reliable STAB. [volt-switch] pivots while resetting the SpA drop. [protect] is standard.\n\n## Item · Ability · Tera\n[choice-specs] is the offensive default. [life-orb] offers move flexibility. [levitate] is locked. Tera [Grass] stacks [leaf-storm], Tera [Electric] stacks [thunderbolt].\n\n## Teammates & Synergy\nCover the multiple weaknesses with [Fire], [Rock], and [Electric] partners. [tailwind] support extends the offensive window. Pair with [Water] attackers that benefit from [Grass] coverage on the opposite side.\n\n## Play Patterns\nOpen with [leaf-storm] on a [Water], [Ground], or [Rock] target for the biggest damage. [volt-switch] out immediately to reset the SpA drop. Use [thunderbolt] for sustained pressure when [leaf-storm] is on cooldown.",
+  "tags": [
+    "sinnoh",
+    "electric",
+    "grass",
+    "appliance-form",
+    "levitate",
+    "special-attacker"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

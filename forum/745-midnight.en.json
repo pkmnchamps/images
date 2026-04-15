@@ -1,0 +1,81 @@
+{
+  "pokemonId": 745,
+  "nameKo": "루가루간(한밤의모습)",
+  "nameEn": "lycanroc-midnight",
+  "formKey": "midnight",
+  "types": [
+    "rock"
+  ],
+  "roles": [
+    "physical-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "no-guard",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "rock",
+    "fighting"
+  ],
+  "recommendedEv": {
+    "hp": 16,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 16
+  },
+  "locale": "en",
+  "title": "Midnight Lycanroc Battle Guide",
+  "summary": "A [Rock] physical attacker with [no-guard] — [stone-edge] becomes 100% accurate and gains a 30% crit rate.",
+  "strengths": [
+    "[no-guard] makes [stone-edge] 100% accurate",
+    "115 Attack plus reliable STAB access",
+    "Bulky stat line (85/75/75) for a Lycanroc form"
+  ],
+  "weaknesses": [
+    "Mono [Rock] has five weaknesses",
+    "Speed 82 is mid-tier",
+    "[no-guard] also makes opposing moves hit"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "stone-edge",
+      "reason": "Max BP [Rock] STAB made reliable by [no-guard]"
+    },
+    {
+      "move": "close-combat",
+      "reason": "[Fighting] coverage"
+    },
+    {
+      "move": "sucker-punch",
+      "reason": "Priority finisher"
+    },
+    {
+      "move": "protect",
+      "reason": "Turn safety"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "life-orb",
+      "reason": "Default damage amp"
+    },
+    {
+      "item": "choice-band",
+      "reason": "1.5x Attack variant"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "Survival insurance"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nMidnight Lycanroc is the bulky Lycanroc form with [no-guard] — an ability that makes every move hit with 100% accuracy. The classic [no-guard] + [stone-edge] combination gives it a reliable 100 BP [Rock] STAB with a 30% crit rate, and its 115 Attack makes that damage land hard.\n\n## Strengths\n[no-guard] removes the biggest drawback of [stone-edge] — its 80% accuracy. The move becomes a flat 100% with a 30% crit chance, turning it into one of the most dangerous [Rock] STABs in the format. Midnight Lycanroc also has notably better defenses than the other Lycanroc forms.\n\n## Weaknesses & Answers\nMono [Rock] carries five weaknesses, and Speed 82 is mid-tier. [no-guard] cuts both ways — opposing [focus-blast], [hypnosis], and [zap-cannon] also hit Midnight Lycanroc guaranteed. Play with awareness of this drawback.\n\n## Recommended Moveset\n[stone-edge] is the guaranteed-accuracy STAB. [close-combat] covers [Steel] and [Ice]. [sucker-punch] finishes fast threats. [protect] is standard.\n\n## Item · Ability · Tera\n[life-orb] is the default. [choice-band] maximizes power. [no-guard] is locked. Tera [Rock] stacks STAB; Tera [Fighting] boosts [close-combat] instead.\n\n## Teammates & Synergy\nCover [Water] and [Grass] with [Electric] and [Fire] partners. Handle [Fighting] with [Psychic] or [Fairy]. [tailwind] support addresses the Speed issue.\n\n## Play Patterns\nSpam [stone-edge] as a reliable 100 BP main move. Use [close-combat] on [Steel] or [Ice] walls, and [sucker-punch] for priority. Be cautious against opponents running [hypnosis] or [zap-cannon] — they hit back guaranteed.",
+  "tags": [
+    "alola",
+    "rock",
+    "regional-form",
+    "no-guard",
+    "physical-attacker"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

@@ -1,0 +1,83 @@
+{
+  "pokemonId": 713,
+  "nameKo": "히스이크레베이스",
+  "nameEn": "avalugg-hisui",
+  "formKey": "hisui",
+  "types": [
+    "ice",
+    "rock"
+  ],
+  "roles": [
+    "physical-wall",
+    "physical-attacker"
+  ],
+  "recommendedAbility": "sturdy",
+  "recommendedNature": "brave",
+  "recommendedTera": [
+    "ice",
+    "rock"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 32,
+    "def": 4,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "ko",
+  "title": "[히스이크레베이스] 배틀 운용 가이드",
+  "summary": "184 방어의 극단적 물리 내구 + 127 공격의 공격력을 결합한 [얼음]·[바위] 물리 어태커/벽. [sturdy]로 HP 1 확정 생존이 보장된다.",
+  "strengths": [
+    "184 방어의 메타 최상급 물리 내구",
+    "[sturdy]로 1HP 확정 생존",
+    "127 공격의 고화력 물리 운용"
+  ],
+  "weaknesses": [
+    "[격투]·[강철]·[물]·[땅]·[풀] 5종 약점",
+    "특수 내구 36 극도로 취약",
+    "스피드 38 반드시 후공"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "crunch",
+      "reason": "[sharpness] 없는 [악] 물리 서브"
+    },
+    {
+      "move": "rock-slide",
+      "reason": "[바위] 자속 광역 + 플린치"
+    },
+    {
+      "move": "icicle-crash",
+      "reason": "[얼음] 자속 주력 물리 + 플린치"
+    },
+    {
+      "move": "protect",
+      "reason": "안전 턴 확보"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "weakness-policy",
+      "reason": "효과굉장 피격 시 공격·특공 2단계 상승"
+    },
+    {
+      "item": "assault-vest",
+      "reason": "특수 내구 보조"
+    },
+    {
+      "item": "leftovers",
+      "reason": "지속 회복"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[히스이크레베이스]는 184 방어의 메타 최상급 물리 내구와 127 공격의 고화력 물리 운용을 결합한 [얼음]·[바위] 물리 어태커 겸 벽이다. [sturdy] 특성으로 1HP 확정 생존이 보장되어 교대 인 안정성이 확보된다.\n\n## 강점 분석\n184 방어는 [mega-aggron] 수준의 메타 최상급 물리 내구다. [sturdy]로 HP 풀 상태에서 1회 확정 생존이 보장되어 [weakness-policy] + [earthquake] 같은 약점 공격에 대응할 수 있다. 127 공격 종족값은 [icicle-crash]·[rock-slide] 광역기로 더블 VGC에서 효율적 화력을 뿜는다.\n\n## 약점과 대응\n[격투]·[강철]·[물]·[땅]·[풀] 5종 약점으로 저항 프로필이 약하다. 특수 내구 36은 극도로 낮아 특수 공격 한 방에 쓰러질 수 있다. 스피드 38은 [trick-room] 외에는 반드시 후공.\n\n## 추천 기술 구성\n[icicle-crash]는 [얼음] 자속 주력 물리 + 30% 플린치. [rock-slide]는 [바위] 자속 광역 + 플린치. [crunch]는 [악] 물리 서브로 [고스트]·[심령] 견제. [protect]는 안전 턴 확보.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [weakness-policy]가 메인 — 효과굉장 피격 시 공격·특공 2단계 상승으로 공격력 폭발. [assault-vest]는 특수 내구 보조 변형. 특성은 [sturdy] 고정. 테라스탈은 [얼음]으로 [icicle-crash] 자속 중첩, 또는 [바위]로 [rock-slide] 중첩.\n\n## 시너지와 파트너\n[trick-room] 파티 최상 시너지. [격투]·[강철] 약점 카운터로 [페어리]·[불] 파트너. [intimidate] 유저로 물리 내구 추가 보조.\n\n## 운용 팁\n[trick-room] 세팅 후 교대 인 → [weakness-policy] 유발 의도적으로 약점 공격 받기 → 공격 2단계 상승 후 [icicle-crash]·[rock-slide] 광역 연타. [sturdy]로 1회 확정 생존 활용하여 2턴 보장. 특수 어태커 노출 시 즉시 교대.",
+  "tags": [
+    "hisui",
+    "ice",
+    "rock",
+    "regional-form",
+    "sturdy",
+    "physical-wall"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

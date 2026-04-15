@@ -1,0 +1,83 @@
+{
+  "pokemonId": 713,
+  "nameKo": "히스이크레베이스",
+  "nameEn": "avalugg-hisui",
+  "formKey": "hisui",
+  "types": [
+    "ice",
+    "rock"
+  ],
+  "roles": [
+    "physical-wall",
+    "physical-attacker"
+  ],
+  "recommendedAbility": "sturdy",
+  "recommendedNature": "brave",
+  "recommendedTera": [
+    "ice",
+    "rock"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 32,
+    "def": 4,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "en",
+  "title": "Hisuian Avalugg Battle Guide",
+  "summary": "An [Ice]/[Rock] physical wall with 184 Defense and 127 Attack — [sturdy] guarantees one-hit survival and [weakness-policy] turns it into a glass cannon.",
+  "strengths": [
+    "184 Defense is one of the highest in the game",
+    "[sturdy] guarantees full-HP survival",
+    "127 Attack enables offensive pressure"
+  ],
+  "weaknesses": [
+    "Weak to [Fighting], [Steel], [Water], [Ground], [Grass]",
+    "36 Special Defense is catastrophically low",
+    "Speed 38 forces [trick-room] play"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "icicle-crash",
+      "reason": "Main [Ice] STAB with flinch chance"
+    },
+    {
+      "move": "rock-slide",
+      "reason": "Spread [Rock] STAB"
+    },
+    {
+      "move": "crunch",
+      "reason": "[Ghost] and [Psychic] coverage"
+    },
+    {
+      "move": "protect",
+      "reason": "Turn safety"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "weakness-policy",
+      "reason": "+2 Atk/SpA after taking a super-effective hit"
+    },
+    {
+      "item": "assault-vest",
+      "reason": "Special bulk insurance"
+    },
+    {
+      "item": "leftovers",
+      "reason": "Passive recovery"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nHisuian Avalugg is a [Ice]/[Rock] dual-role physical wall and attacker. 184 base Defense is tied for one of the highest Defense stats in the game, and 127 Attack is more than enough to take advantage of [weakness-policy] boosts. [sturdy] guarantees one-turn survival at full HP, enabling creative setup plays.\n\n## Strengths\n184 Defense plus [sturdy] means Hisuian Avalugg can intentionally tank super-effective physical hits to proc [weakness-policy], gaining +2 Attack / +2 Special Attack. After the boost, [icicle-crash] and [rock-slide] spread damage across the opposing pair with devastating results. The offensive value exceeds most dedicated attackers once the policy triggers.\n\n## Weaknesses & Answers\nFive weaknesses is a long list, and Special Defense at 36 is the lowest point of the set — any special attacker threatens an instant KO. Speed 38 means [trick-room] is mandatory to function outside of the [sturdy] gimmick.\n\n## Recommended Moveset\n[icicle-crash] is the main [Ice] STAB. [rock-slide] is the spread [Rock] STAB. [crunch] covers [Ghost] and [Psychic]. [protect] is standard.\n\n## Item · Ability · Tera\n[weakness-policy] is the signature item — it combines with [sturdy] to guarantee the proc. [assault-vest] is the more conservative variant. [sturdy] is locked. Tera [Ice] or [Rock] stacks STAB after the policy.\n\n## Teammates & Synergy\n[trick-room] setters are mandatory. Cover [Fighting], [Steel], and [Water] weaknesses with [Fairy], [Fire], and [Grass] partners. [fake-out] support enables the [weakness-policy] setup turn.\n\n## Play Patterns\nEnter under [trick-room], let [sturdy] absorb a super-effective physical hit to proc [weakness-policy], then sweep with [icicle-crash] + [rock-slide] spread damage. If no weakness hit comes, fall back on the raw bulk and keep chipping.",
+  "tags": [
+    "hisui",
+    "ice",
+    "rock",
+    "regional-form",
+    "sturdy",
+    "physical-wall"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

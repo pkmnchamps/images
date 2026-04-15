@@ -1,0 +1,83 @@
+{
+  "pokemonId": 571,
+  "nameKo": "히스이조로아크",
+  "nameEn": "zoroark-hisui",
+  "formKey": "hisui",
+  "types": [
+    "normal",
+    "ghost"
+  ],
+  "roles": [
+    "special-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "illusion",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "ghost",
+    "normal"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Hisuian Zoroark Battle Guide",
+  "summary": "A unique [Normal]/[Ghost] special attacker with [illusion] — impersonates the last team member and hits hard with 125 SpA and 110 Speed.",
+  "strengths": [
+    "[illusion] disguises Zoroark as the last party slot",
+    "Unique [Normal]/[Ghost] typing — only [Dark] weakness",
+    "125 SpA and 110 Speed is a strong offensive tier"
+  ],
+  "weaknesses": [
+    "55/60/60 bulk is extremely frail",
+    "[illusion] drops after any direct hit",
+    "Low bulk means even neutral hits risk KO"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "hyper-voice",
+      "reason": "Spread [Normal] STAB that ignores [substitute]"
+    },
+    {
+      "move": "shadow-ball",
+      "reason": "[Ghost] STAB single-target"
+    },
+    {
+      "move": "nasty-plot",
+      "reason": "+2 SpA setup"
+    },
+    {
+      "move": "focus-blast",
+      "reason": "[Fighting] coverage for [Dark] walls"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "Preserves illusion and guarantees one turn"
+    },
+    {
+      "item": "choice-specs",
+      "reason": "Maximum damage output"
+    },
+    {
+      "item": "life-orb",
+      "reason": "Flexible damage amp"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nHisuian Zoroark is the only Pokemon in the game with a [Normal]/[Ghost] typing — a combination that is immune to both [Fighting] and [Normal] attacks. Its [illusion] ability disguises it as the last team member, completely upending the opponent's mental model of the matchup until the first direct hit lands.\n\n## Strengths\n[illusion] is the most unique deception ability in the game — the opponent thinks they're facing your last party Pokemon until they attack. Combined with 125 Special Attack and 110 Speed, Zoroark can use the deception to find safe setup turns or unexpected kills. Only one weakness ([Dark]) and two full immunities make the typing itself incredible on paper.\n\n## Weaknesses & Answers\n55/60/60 bulk is catastrophically frail — even neutral hits threaten KOs. [illusion] drops after any direct damage, so the deception typically lasts one turn. [Dark] attackers threaten instant KOs due to super-effective damage plus type weakness.\n\n## Recommended Moveset\n[hyper-voice] is the spread [Normal] STAB. [shadow-ball] is the [Ghost] STAB. [nasty-plot] enables setup-based sweeps. [focus-blast] covers [Dark] walls like [tyranitar].\n\n## Item · Ability · Tera\n[focus-sash] is the default item — guarantees survival of one hit and preserves the illusion. [choice-specs] is the max-damage variant. [illusion] is locked. Tera [Ghost] stacks STAB and keeps the [Normal] immunity; Tera [Normal] stacks [hyper-voice].\n\n## Teammates & Synergy\nBuild your team so the last Pokemon is a bulky threat that the opponent would play cautiously against — then Zoroark pretends to be it. [Fairy] and [Fighting] partners cover the [Dark] weakness.\n\n## Play Patterns\nLead with Zoroark pretending to be your last slot, [nasty-plot] on a predicted cautious turn, then sweep with [hyper-voice] and [shadow-ball]. [focus-sash] guarantees you get one setup or one attack before the frailty catches up.",
+  "tags": [
+    "hisui",
+    "normal",
+    "ghost",
+    "regional-form",
+    "illusion",
+    "special-sweeper"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

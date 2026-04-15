@@ -1,0 +1,81 @@
+{
+  "pokemonId": 745,
+  "nameKo": "루가루간(황혼의모습)",
+  "nameEn": "lycanroc-dusk",
+  "formKey": "dusk",
+  "types": [
+    "rock"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "tough-claws",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "rock",
+    "normal"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Dusk Lycanroc Battle Guide",
+  "summary": "A fast [Rock] physical attacker with [tough-claws] — contact moves gain 30% damage, and 117 Attack / 110 Speed plus [accelerock] priority make it a clean offensive pick.",
+  "strengths": [
+    "[tough-claws] boosts contact moves by 30%",
+    "117 Attack and 110 Speed offensive spread",
+    "[accelerock] is STAB priority"
+  ],
+  "weaknesses": [
+    "Mono [Rock] has five weaknesses",
+    "75/65/65 bulk is fragile",
+    "Non-contact moves don't get [tough-claws] boost"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "accelerock",
+      "reason": "Priority [Rock] STAB boosted by [tough-claws]"
+    },
+    {
+      "move": "stone-edge",
+      "reason": "Max BP [Rock] STAB"
+    },
+    {
+      "move": "close-combat",
+      "reason": "[Fighting] coverage with [tough-claws] boost"
+    },
+    {
+      "move": "protect",
+      "reason": "Turn safety"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "life-orb",
+      "reason": "Default damage amp"
+    },
+    {
+      "item": "choice-band",
+      "reason": "1.5x Attack variant"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "Survival insurance"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nDusk Lycanroc is the fastest Lycanroc form with the [tough-claws] ability — contact moves deal 30% more damage. With 117 Attack, 110 Speed, and STAB [accelerock] priority, it's a well-rounded offensive threat that can either outpace or priority-kill most threats in the format.\n\n## Strengths\n[tough-claws] boosts [stone-edge], [close-combat], and [accelerock] to significantly higher damage output. 110 Speed outruns most natural-Speed attackers, and [accelerock] priority handles scarfed threats. The three-move offensive core ([accelerock], [stone-edge], [close-combat]) hits an enormous range of the meta neutrally or better.\n\n## Weaknesses & Answers\nFive [Rock] weaknesses plus 75/65/65 bulk mean Dusk Lycanroc cannot tank anything super-effective. Non-contact moves (like [rock-slide]) miss the [tough-claws] boost. Predict around these constraints by using priority and Speed to your advantage.\n\n## Recommended Moveset\n[accelerock] is the priority STAB. [stone-edge] is the max BP [Rock] STAB. [close-combat] is the [Fighting] coverage. [protect] is standard.\n\n## Item · Ability · Tera\n[life-orb] is the default. [choice-band] maxes damage. [tough-claws] is locked. Tera [Rock] stacks STAB, Tera [Normal] neutralizes the [Fighting] weakness.\n\n## Teammates & Synergy\nCover [Water], [Grass], and [Ground] weaknesses with [Grass], [Fire], or [Flying] partners. Handle [Fighting] with [Psychic] or [Fairy]. [intimidate] support extends bulk.\n\n## Play Patterns\nLead with speed advantage, [stone-edge] or [close-combat] into whichever split is weaker, and use [accelerock] to finish faster threats. Switch out of super-effective hits — the bulk won't save you.",
+  "tags": [
+    "alola",
+    "rock",
+    "regional-form",
+    "tough-claws",
+    "physical-sweeper"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

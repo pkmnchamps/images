@@ -1,0 +1,83 @@
+{
+  "pokemonId": 479,
+  "nameKo": "로토무(프로스트)",
+  "nameEn": "rotom-frost",
+  "formKey": "frost",
+  "types": [
+    "electric",
+    "ice"
+  ],
+  "roles": [
+    "special-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "levitate",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "ice",
+    "electric"
+  ],
+  "recommendedEv": {
+    "hp": 16,
+    "atk": 0,
+    "def": 0,
+    "spa": 16,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Frost Rotom Battle Guide",
+  "summary": "An [Electric]/[Ice] special attacker with [levitate] — [blizzard] and [thunderbolt] dual STAB covers [Dragon], [Flying], [Grass], and [Ground].",
+  "strengths": [
+    "[levitate] ignores [Ground] attacks",
+    "[Electric]/[Ice] STAB covers a massive threat list",
+    "[blizzard] is accurate under snow"
+  ],
+  "weaknesses": [
+    "Weak to [Fire], [Rock], [Fighting], [Steel]",
+    "50 HP is low",
+    "Worst defensive profile among Rotom forms"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "blizzard",
+      "reason": "Spread [Ice] STAB"
+    },
+    {
+      "move": "thunderbolt",
+      "reason": "Reliable [Electric] STAB"
+    },
+    {
+      "move": "volt-switch",
+      "reason": "Pivot utility"
+    },
+    {
+      "move": "protect",
+      "reason": "Turn safety"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "choice-specs",
+      "reason": "Damage maximization"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "Speed pivot variant"
+    },
+    {
+      "item": "never-melt-ice",
+      "reason": "Boosts [Ice] STAB"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nFrost Rotom is the most offensively aggressive Rotom form. [Electric]/[Ice] STAB covers [Dragon], [Flying], [Grass], [Ground], and [Water]-adjacent targets in a single two-move package, and [levitate] still grants [Ground] immunity. It's the Rotom form that pushes damage over defensive utility.\n\n## Strengths\n[blizzard] under snow is a fully accurate spread [Ice] STAB — the ideal pairing with Alolan Ninetales or other snow setters. [thunderbolt] handles [Water] and [Flying] threats not covered by [Ice]. Pivot utility via [volt-switch] remains strong, and [levitate] preserves the signature [Ground] immunity.\n\n## Weaknesses & Answers\nThe four weaknesses — [Fire], [Rock], [Fighting], [Steel] — are all common meta attack types. [Steel] is particularly threatening because meta [Steel] types often also wall [Ice]. 50 HP keeps the effective bulk low.\n\n## Recommended Moveset\n[blizzard] is the spread [Ice] STAB. [thunderbolt] is the reliable [Electric] STAB. [volt-switch] pivots out of bad matchups. [protect] is standard.\n\n## Item · Ability · Tera\n[choice-specs] is the default offensive item. [choice-scarf] is the speed variant. [levitate] is mandatory. Tera [Ice] stacks STAB, Tera [Electric] boosts [thunderbolt] and neutralizes [Rock].\n\n## Teammates & Synergy\nSnow teams are the ideal home — pair with Alolan Ninetales for automatic [blizzard] accuracy. Cover [Fire] and [Fighting] weaknesses with [Water] and [Fairy] partners.\n\n## Play Patterns\nUnder snow, spam [blizzard] into the opposing pair. Use [thunderbolt] for [Water] and [Flying] threats, and [volt-switch] to escape [Fire] or [Steel] matchups. Switch out immediately when [Steel] or [Fire] threats appear.",
+  "tags": [
+    "sinnoh",
+    "electric",
+    "ice",
+    "appliance-form",
+    "levitate",
+    "special-attacker"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

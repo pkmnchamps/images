@@ -1,0 +1,83 @@
+{
+  "pokemonId": 571,
+  "nameKo": "히스이조로아크",
+  "nameEn": "zoroark-hisui",
+  "formKey": "hisui",
+  "types": [
+    "normal",
+    "ghost"
+  ],
+  "roles": [
+    "special-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "illusion",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "ghost",
+    "normal"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ko",
+  "title": "[히스이조로아크] 배틀 운용 가이드",
+  "summary": "[illusion]으로 팀 마지막 포켓몬으로 변신하는 [노말]·[고스트] 특수 어태커. 기만 플레이 + [hyper-voice]·[shadow-ball] 화력이 핵심.",
+  "strengths": [
+    "[illusion] 팀 마지막 포켓몬 변신 기만",
+    "[노말]·[고스트] 양 타입 완전 무효 조합 (유일)",
+    "125 특공 + 110 스피드 고속 특수 어태커"
+  ],
+  "weaknesses": [
+    "[악] 약점 + 55/60/60 극도로 취약",
+    "[illusion] 1회 공격 받으면 정체 해제",
+    "[격투]·[노말] 무효 대신 2배 약점 없음"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "hyper-voice",
+      "reason": "[노말] 자속 광역 특수 + 음성기"
+    },
+    {
+      "move": "shadow-ball",
+      "reason": "[고스트] 자속 주력 특수"
+    },
+    {
+      "move": "nasty-plot",
+      "reason": "특공 2단계 셋업"
+    },
+    {
+      "move": "focus-blast",
+      "reason": "[악] 타입 카운터 [격투] 서브"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "1회 확정 생존 + 기만 유지"
+    },
+    {
+      "item": "choice-specs",
+      "reason": "특공 1.5배 화력 극대화"
+    },
+    {
+      "item": "life-orb",
+      "reason": "유연한 화력 보정"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[히스이조로아크]는 [노말]·[고스트] 복합 특수 어태커로, 게임 내 유일한 [노말]·[고스트] 타입 조합이다. [illusion] 특성으로 팀 마지막 포켓몬의 외형을 흉내내는 기만 플레이가 핵심 운용법이며, 125 특공 + 110 스피드의 고속 특수 화력을 뿜는다.\n\n## 강점 분석\n[illusion]은 등장 시 팀 마지막 포켓몬의 외형·타입·기술을 상대 화면상으로 그대로 표시하여 상대의 예측을 완전히 흐트러뜨리는 시그니처 특성. [노말]·[고스트] 복합 타입은 [노말] 공격 무효 + [고스트] 공격 무효라는 극단적 방어 프로필을 가지며, 약점은 [악] 단 1종뿐이다 (단, 내구가 너무 낮아 실전에서 큰 의미 없음).\n\n## 약점과 대응\n55/60/60의 내구는 메타 최하위권으로, [illusion]이 해제되는 첫 피격으로도 쓰러질 수 있다. [악] 타입 약점은 큰 문제는 아니지만 [knock-off]·[crunch]에 취약. [illusion] 특성은 직접 공격 1회 또는 명중하지 않은 공격에 의해도 해제되므로 운용에 주의.\n\n## 추천 기술 구성\n[hyper-voice]는 [노말] 자속 광역 특수 + [substitute] 관통 음성기. [shadow-ball]은 [고스트] 자속 주력. [nasty-plot]은 특공 2단계 셋업. [focus-blast]는 [악] 타입 카운터 서브.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [focus-sash]가 기만 유지 + 1회 생존 보장 메인. [choice-specs]는 화력 극대화. 특성은 [illusion] 고정. 테라스탈은 [고스트]로 자속 중첩 + [노말] 무효 유지, 또는 [노말]로 [hyper-voice] 자속 중첩.\n\n## 시너지와 파트너\n팀 마지막 포켓몬이 [illusion] 기만 대상이 되므로, 상대에게 위협적인 벌크 포켓몬을 마지막 슬롯에 배치하는 팀 구성이 핵심. [악] 약점 카운터로 [페어리]·[격투] 파트너.\n\n## 운용 팁\n팀 마지막 슬롯에 벌크 포켓몬 배치 → 교대 인 시 상대가 그 포켓몬으로 착각 → 예상치 못한 [nasty-plot] 셋업 또는 즉시 공격으로 기만 플레이. 첫 피격으로 정체 해제되므로 [focus-sash]로 생존 턴 확보 후 결정타를 내야 한다.",
+  "tags": [
+    "hisui",
+    "normal",
+    "ghost",
+    "regional-form",
+    "illusion",
+    "special-sweeper"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

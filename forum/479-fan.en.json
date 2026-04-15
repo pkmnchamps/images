@@ -1,0 +1,83 @@
+{
+  "pokemonId": 479,
+  "nameKo": "로토무(팬)",
+  "nameEn": "rotom-fan",
+  "formKey": "fan",
+  "types": [
+    "electric",
+    "flying"
+  ],
+  "roles": [
+    "special-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "levitate",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "flying",
+    "electric"
+  ],
+  "recommendedEv": {
+    "hp": 16,
+    "atk": 0,
+    "def": 0,
+    "spa": 16,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "en",
+  "title": "Fan Rotom Battle Guide",
+  "summary": "An [Electric]/[Flying] pivot with both [levitate] and type-based [Ground] immunity — [air-slash] flinch utility plus reliable [thunderbolt] damage.",
+  "strengths": [
+    "Double [Ground] immunity from [Flying] + [levitate]",
+    "[air-slash] flinch tempo control",
+    "Wide coverage between [Electric] and [Flying] STAB"
+  ],
+  "weaknesses": [
+    "Weak to [Ice] and [Rock]",
+    "50 HP is low",
+    "Loses HP to [stealth-rock]"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "air-slash",
+      "reason": "[Flying] STAB with 30% flinch chance"
+    },
+    {
+      "move": "thunderbolt",
+      "reason": "Main [Electric] STAB"
+    },
+    {
+      "move": "volt-switch",
+      "reason": "Pivot utility"
+    },
+    {
+      "move": "protect",
+      "reason": "Turn safety"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "choice-specs",
+      "reason": "Maximum damage"
+    },
+    {
+      "item": "sharp-beak",
+      "reason": "Boosts [Flying] STAB"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "Mid-HP recovery"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nFan Rotom is unique for having two sources of [Ground] immunity — [levitate] and the [Flying] type itself. Even [mold-breaker] users cannot land [earthquake] because the [Flying] typing still blocks it. [air-slash] provides a flinch-based tempo plan that works well in doubles, and [thunderbolt] keeps the Rotom damage package intact.\n\n## Strengths\nThe double [Ground] immunity is the defining advantage — no Rotom form is safer against [Ground] attackers. [air-slash] 30% flinch chance lets Fan Rotom gamble on tempo steals, and it's one of the few special attackers with a strong [Flying] STAB. [volt-switch] maintains pivot momentum.\n\n## Weaknesses & Answers\n[Ice] and [Rock] are live weaknesses. [stealth-rock] is a problem — it chips 25% HP on entry. 50 HP caps the total defensive ceiling.\n\n## Recommended Moveset\n[air-slash] is the flinch tempo move. [thunderbolt] is the reliable [Electric] STAB. [volt-switch] handles pivot plays. [protect] is standard.\n\n## Item · Ability · Tera\n[choice-specs] maximizes raw damage. [sharp-beak] boosts [air-slash] specifically. [levitate] is locked. Tera [Flying] stacks STAB on [air-slash] and patches the [Ground] weakness (already immune) to soften [Rock].\n\n## Teammates & Synergy\nUse with hazard removal ([defog] or [rapid-spin]) to protect from [stealth-rock]. Cover [Ice] and [Rock] with [Fire] or [Fighting] partners. [tailwind] support extends the offensive window.\n\n## Play Patterns\nPivot into [Ground] attackers safely, then click [air-slash] for flinch gambles or [thunderbolt] for reliable damage. Use [volt-switch] to escape [Ice] or [Rock] matchups. Keep [stealth-rock] off your side of the field.",
+  "tags": [
+    "sinnoh",
+    "electric",
+    "flying",
+    "appliance-form",
+    "levitate",
+    "special-attacker"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

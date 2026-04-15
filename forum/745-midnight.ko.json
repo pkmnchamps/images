@@ -1,0 +1,81 @@
+{
+  "pokemonId": 745,
+  "nameKo": "루가루간(한밤의모습)",
+  "nameEn": "lycanroc-midnight",
+  "formKey": "midnight",
+  "types": [
+    "rock"
+  ],
+  "roles": [
+    "physical-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "no-guard",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "rock",
+    "fighting"
+  ],
+  "recommendedEv": {
+    "hp": 16,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 16
+  },
+  "locale": "ko",
+  "title": "[루가루간(한밤의모습)] 배틀 운용 가이드",
+  "summary": "[no-guard]로 [stone-edge]·[focus-punch] 확정 명중하는 [바위] 물리 어태커. 115 공격 + 벌크 프로필의 중속 물리 히터.",
+  "strengths": [
+    "[no-guard] 모든 기술 확정 명중",
+    "[stone-edge] 100% 명중 + 크리티컬 30%",
+    "115 공격 + 85/75/75 벌크"
+  ],
+  "weaknesses": [
+    "[물]·[풀]·[땅]·[격투]·[강철] 약점 다수",
+    "스피드 82 중속",
+    "[no-guard] 상대 공격도 확정 명중"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "stone-edge",
+      "reason": "[바위] 자속 최대 위력 — [no-guard] 확정 명중"
+    },
+    {
+      "move": "close-combat",
+      "reason": "[격투] 서브 주력 물리"
+    },
+    {
+      "move": "sucker-punch",
+      "reason": "선공기 피니셔"
+    },
+    {
+      "move": "protect",
+      "reason": "안전 턴 확보"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "life-orb",
+      "reason": "물리 화력 보정"
+    },
+    {
+      "item": "choice-band",
+      "reason": "공격 1.5배 초고화력"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "1회 확정 생존"
+    }
+  ],
+  "bodyMarkdown": "## 개요\n[루가루간(한밤의모습)]은 [no-guard] 특성으로 모든 기술이 확정 명중하는 [바위] 물리 어태커다. 일반적으로 80% 명중의 [stone-edge]를 100% 확정 명중으로 사용할 수 있어, 명중률 페널티 없는 [바위] 자속 주력기가 핵심 운용법이다.\n\n## 강점 분석\n[no-guard]로 [stone-edge] 100% 확정 명중 + 30% 크리티컬 확률로 메타 최상급 [바위] 물리 화력을 확정적으로 제공. 115 공격 + 85/75/75의 벌크 프로필은 중속 물리 히터 역할에 적합하며, [close-combat]·[sucker-punch] 서브로 광범위 견제가 가능하다.\n\n## 약점과 대응\n단일 [바위] 타입으로 [물]·[풀]·[땅]·[격투]·[강철] 5종 약점으로 저항 프로필이 약하다. [no-guard]는 양날의 검으로, 상대의 [focus-blast]·[hypnosis] 등 저명중률 기술도 확정 명중한다. 스피드 82는 중속권이라 [tailwind] 지원 필요.\n\n## 추천 기술 구성\n[stone-edge]는 [바위] 자속 최대 위력 + [no-guard] 확정 명중 핵심. [close-combat]은 [격투] 서브 주력. [sucker-punch]는 선공기 피니셔. [protect]는 안전 턴 확보.\n\n## 추천 도구 · 특성 · 테라스탈\n도구는 [life-orb]가 유연한 화력 메인. [choice-band]는 초고화력 변형. 특성은 [no-guard] 고정. 테라스탈은 [바위]로 [stone-edge] 자속 중첩, 또는 [격투]로 [close-combat] 자속 전환.\n\n## 시너지와 파트너\n[물]·[풀]·[땅] 약점 카운터로 [grass]·[fire]·[flying] 파트너. [격투] 약점으로 [psychic]·[fairy] 파트너. [tailwind]로 스피드 추가 확보.\n\n## 운용 팁\n[stone-edge]를 확정 명중 주력기로 신뢰 연타. [close-combat]은 [강철]·[얼음] 견제, [sucker-punch]는 고속 어태커 피니싱. 상대 저명중률 공격도 확정 명중하는 위험 감수 주의.",
+  "tags": [
+    "alola",
+    "rock",
+    "regional-form",
+    "no-guard",
+    "physical-attacker"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

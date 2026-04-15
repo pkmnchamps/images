@@ -1,0 +1,82 @@
+{
+  "pokemonId": 724,
+  "nameKo": "히스이모크나이퍼",
+  "nameEn": "decidueye-hisui",
+  "formKey": "hisui",
+  "types": [
+    "grass",
+    "fighting"
+  ],
+  "roles": [
+    "physical-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "overgrow",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "fighting",
+    "grass"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "en",
+  "title": "Hisuian Decidueye Battle Guide",
+  "summary": "A [Grass]/[Fighting] physical attacker whose signature [triple-arrows] stacks Def drops, flinches, and crit chances in one move.",
+  "strengths": [
+    "[Grass]/[Fighting] STAB covers wide threat spread",
+    "[triple-arrows] combines crit, Def drop, flinch",
+    "Bulky stat line with 88 HP"
+  ],
+  "weaknesses": [
+    "Weak to [Fire], [Flying], [Psychic], [Fairy]",
+    "Speed 60 is slow for an attacker",
+    "Physical bulk at 80 is average"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "triple-arrows",
+      "reason": "Signature [Fighting] STAB with multi-debuff"
+    },
+    {
+      "move": "leaf-blade",
+      "reason": "[Grass] STAB with high crit rate"
+    },
+    {
+      "move": "sucker-punch",
+      "reason": "Priority finisher"
+    },
+    {
+      "move": "protect",
+      "reason": "Turn safety"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "life-orb",
+      "reason": "Default damage amp"
+    },
+    {
+      "item": "choice-band",
+      "reason": "Max damage variant"
+    },
+    {
+      "item": "assault-vest",
+      "reason": "Bulky set option"
+    }
+  ],
+  "bodyMarkdown": "## Overview\nHisuian Decidueye is a [Grass]/[Fighting] physical attacker built around its signature move [triple-arrows] — a 90 BP [Fighting] STAB that has high crit chance, 50% Def drop, and 30% flinch chance all stacked on the same move. The multi-debuff nature makes it excellent for breaking down defensive cores.\n\n## Strengths\n[triple-arrows] is an all-in-one wall-breaking tool — the Def drop stacks across consecutive hits, lowering the opponent's bulk to the point where [leaf-blade] KOs guaranteed. [Grass]/[Fighting] STAB covers [Water], [Ground], [Rock], [Normal], [Dark], and more. Bulky stat line allows switch-in and trading plays.\n\n## Weaknesses & Answers\nFour common weakness types mean careful switch reads. Speed 60 is slow, so [sucker-punch] priority picks up the slack. [Fire] and [Flying] threats need external coverage.\n\n## Recommended Moveset\n[triple-arrows] is the signature move. [leaf-blade] is the high-crit [Grass] STAB. [sucker-punch] handles faster threats. [protect] is standard.\n\n## Item · Ability · Tera\n[life-orb] is the default. [choice-band] maximizes power but locks moves. [overgrow] boosts [leaf-blade] at low HP; [scrappy] enables [Fighting] hitting [Ghost]. Tera [Fighting] stacks [triple-arrows], Tera [Grass] boosts [leaf-blade].\n\n## Teammates & Synergy\nCover [Fire] and [Flying] with [Water] and [Electric] partners. [Dark] and [Bug] handle [Psychic] and [Fairy] matchups. [tailwind] support mitigates the Speed issue.\n\n## Play Patterns\nClick [triple-arrows] repeatedly to stack Def drops, then finish with [leaf-blade] when the target is weakened. Use [sucker-punch] for priority cleanup. Switch out against [Fire] or [Flying] attackers.",
+  "tags": [
+    "hisui",
+    "grass",
+    "fighting",
+    "regional-form",
+    "physical-attacker"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}
