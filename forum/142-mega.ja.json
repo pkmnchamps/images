@@ -1,0 +1,75 @@
+{
+  "pokemonId": 142,
+  "nameKo": "메가프테라",
+  "nameEn": "aerodactyl-mega",
+  "formKey": "mega",
+  "types": [
+    "rock",
+    "flying"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper",
+    "lead"
+  ],
+  "recommendedAbility": "tough-claws",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "flying",
+    "rock"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[メガプテラ] バトル運用ガイド",
+  "summary": "素早さ150+[tough-claws]で接触技を1.3倍に増幅する[いわ]・[ひこう]超高速クリナー。上位の素早さ軸を完全に掌握する。",
+  "strengths": [
+    "素早さ150で全ての非積みポケモンを抜く",
+    "[tough-claws]補正で接触技が1.3倍火力",
+    "bulk 85/95で原種より生存力も向上"
+  ],
+  "weaknesses": [
+    "特殊攻撃に対して依然薄い耐久",
+    "[こおり]・[でんき]・[いわ]弱点が維持",
+    "メガシンカ前1ターンは原種特性で変数"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "stone-edge",
+      "reason": "[tough-claws]非対応だが高威力の[いわ] STAB"
+    },
+    {
+      "move": "aerial-ace",
+      "reason": "[tough-claws]補正+必中の[ひこう] STAB"
+    },
+    {
+      "move": "earthquake",
+      "reason": "[はがね]・[でんき]受けを牽制する必須サブ"
+    },
+    {
+      "move": "ice-fang",
+      "reason": "[ドラゴン]・[じめん]を牽制する接触技"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "aerodactylite",
+      "reason": "メガシンカのための必須アイテム (aerodactylite)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガプテラ]は素早さ150・攻撃135の超高速物理スイーパーで、チャンピオンズメタで素早さ軸を最も強力に掌握できる形態の一つだ。特性[tough-claws]が接触攻撃の威力を1.3倍に増幅するため、[aerial-ace]・[ice-fang]・[crunch]のような平凡な威力の接触技も実戦では決定力ある打点になる。役割は単なるクリナーにとどまらず、相手のベンチ全体を素早さ軸一本で圧倒するトップスイーパーだ。\n\n## 強み\n素早さ150はメタ内のほぼ全ての非積みポケモンを抜き、[choice-scarf]持ちでも一部を除いて下に置ける数値だ。[tough-claws]補正で接触技の火力が安定して伸び、非接触の[stone-edge]・[earthquake]と組み合わせれば対応ポケモンに応じてフィニッシャーを自由に選択できる。85/95耐久は原種より改善され、特殊アタッカーの中程度の一撃は耐えられる場面もある。\n\n## 弱点と対策\n特殊耐久は依然として薄く、[こおり]・[でんき]・[いわ]弱点が維持されているため、特殊アタッカーの前に着地するのは慎重を期す必要がある。メガシンカ前1ターンは[rock-head]もしくは[unnerve]状態で、意図と違う挙動が出る可能性もある。速度面は万全だが一撃で決まる場面も多く、進入タイミングの計算が核心だ。\n\n## 推奨技構成\n[stone-edge]は[tough-claws]非対応ながら威力100の主力[いわ] STABとして固定し、[aerial-ace]は[tough-claws]補正+必中の安定した[ひこう] STABとする。[earthquake]は[はがね]・[でんき]受けを牽制する必須サブで、最後の枠は[ice-fang]で[ドラゴン]・[じめん]アタッカーを牽制する。[crunch]で[エスパー]・[ゴースト]対応を広げる派生も可能。\n\n## 道具・特性・テラスタル\n道具は[aerodactylite]固定だ。特性は進化後に[tough-claws]へ自動切替されるため、1ターン目の原種特性は戦略的に無視してよい。テラスタルは[ひこう]で[じめん]無効化とSTAB火力増幅を同時に得るか、[いわ]で[stone-edge]の決定力を極限まで引き上げるかの2方向が実戦的。\n\n## 相性の良いパートナー\n[メガプテラ]の素早さ軸は完璧なので、相手特殊アタッカーを事前にふるい落とす特殊受けをパートナーに据える。[でんき]対策に[じめん]、[こおり]対策に[はがね]を配置すれば弱点カバーが安定化する。高速ピボットで着地タイミングを作り、[stealth-rock]除去担当も置いて薄い耐久への削りを最小化する。\n\n## 立ち回り\nメガシンカは1ターン目の交代状況が確保された瞬間に実行し、以降は[stone-edge]と[aerial-ace]を相手タイプ別に使い分けるのが基本プラン。[ice-fang]と[earthquake]は相手の受け駒への対応札として温存し、テラスタルは弱点技を確定で踏む角度が見えた瞬間にのみ切る。",
+  "tags": [
+    "kanto",
+    "rock",
+    "flying",
+    "mega",
+    "tough-claws"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

@@ -1,0 +1,75 @@
+{
+  "pokemonId": 334,
+  "nameKo": "메가파비코리",
+  "nameEn": "altaria-mega",
+  "formKey": "mega",
+  "types": [
+    "dragon",
+    "fairy"
+  ],
+  "roles": [
+    "bulky-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "pixilate",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "fairy",
+    "dragon"
+  ],
+  "recommendedEv": {
+    "hp": 16,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 16
+  },
+  "locale": "ja",
+  "title": "[メガチルタリス] バトル運用ガイド",
+  "summary": "[pixilate]で[return]・[body-slam]が[フェアリー]自タイプへ変換される[ドラゴン]・[フェアリー]耐久アタッカー。[dragon-dance]積みが核となる。",
+  "strengths": [
+    "[pixilate]で[return]・[body-slam]が[フェアリー]変換+1.2倍補正",
+    "[ドラゴン]・[フェアリー]複合で[ドラゴン]無効+[かくとう]耐性",
+    "[dragon-dance]で攻撃・素早さを同時に積み上げ"
+  ],
+  "weaknesses": [
+    "[どく]・[はがね]・[こおり]弱点が追加",
+    "素早さ基礎値80は積み前では後手",
+    "特防105はあるが物理耐久110/110は平均的"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "return",
+      "reason": "[pixilate]変換の主力[フェアリー]自タイプ技"
+    },
+    {
+      "move": "dragon-dance",
+      "reason": "攻撃・素早さを同時に積む設定積み技"
+    },
+    {
+      "move": "earthquake",
+      "reason": "[どく]・[はがね]牽制のサブウェポン"
+    },
+    {
+      "move": "protect",
+      "reason": "メガシンカ安全確保と積み機会の創出"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "altarianite",
+      "reason": "メガシンカのための必須アイテム (altarianite)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガチルタリス]は[pixilate]特性によって[ノーマル]技が[フェアリー]タイプ+1.2倍補正で変換される[ドラゴン]・[フェアリー]耐久アタッカーだ。[dragon-dance]で積み上げた後、[return]または[body-slam]の主力自タイプ攻撃を連打するのが核となる運用法で、110/110/110のメガ後耐久によって積み機会が十分に取れる。\n\n## 強み\n[pixilate]は[ノーマル]技を[フェアリー]自タイプへ変換+1.2倍補正を同時に乗せる。[return]威力102+STAB+pixilate補正=実効威力183級の爆発的主力技となる。[ドラゴン]・[フェアリー]複合タイプは[ドラゴン]無効+[かくとう]・[むし]・[あく]耐性プロフィールを備え、攻撃型耐久アタッカーに最適化されている。[dragon-dance]は攻撃・素早さ同時積みで、一度の積みだけでスイープ態勢へ入れる。\n\n## 弱点と対策\n[どく]・[はがね]・[こおり]・[フェアリー]・[ドラゴン]弱点が存在する複雑な耐性構造だ。メタの[はがね]タイプには[return]が半減され[iron-head]の逆襲を受けるため、[earthquake]の牽制が必須となる。素早さ基礎値80は[dragon-dance]を積む前には大抵後手になるので、積みタイミングの見極めが重要だ。\n\n## 推奨技構成\n[return]は[pixilate]活用の核となる主力技だ。[dragon-dance]は攻撃・素早さ同時積みの設定技として必ず採用する。[earthquake]は[どく]・[はがね]牽制のサブとして必須となる。[protect]はメガシンカ+積み機会創出のために活用する。[body-slam]は[return]の代わりに麻痺追加効果を狙うときの選択肢だ。\n\n## 道具・特性・テラスタル\n道具は[altarianite]固定となる。特性はメガシンカ後[pixilate]へ自動転換する。テラスタルは[フェアリー]で自タイプ+[pixilate]中乗せ補正を極大化するか、[ドラゴン]で[こおり]耐性を維持しつつ自タイプ[ドラゴン]技を強化する選択となる。\n\n## 相性の良いパートナー\n[どく]・[はがね]弱点カウンターとして[じめん]・[ほのお]パートナーを配置する。[intimidate]使いで物理耐久を補強し、[tailwind]で[dragon-dance]積み前の素早さを補助すると積み機会が大幅に増える。特殊アタッカー相手には積み機会が安全なので優先的にターゲティングするのが理想だ。\n\n## 立ち回り\nメガシンカ+[protect]で安全ターンを確保した後[dragon-dance]積み機会を狙う。積み完了後は[return]で主力攻撃を連打し、[はがね]が露出したら[earthquake]へ即座に切り替える。特殊アタッカー相手では積みがほぼ安全なため、ここを最優先ターゲットとして試合を組み立てる。1積み後の素早さで最上位層を抜けるなら+1の時点でスイープ開始、抜けないなら2積みを狙って[protect]を挟む判断を行う。テラスタル[フェアリー]は[はがね]タイプの先制技や[どく]技確定ラインで切ると生存性が劇的に上がる。",
+  "tags": [
+    "hoenn",
+    "dragon",
+    "fairy",
+    "mega",
+    "pixilate",
+    "bulky-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

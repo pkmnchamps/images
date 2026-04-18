@@ -1,0 +1,75 @@
+{
+  "pokemonId": 282,
+  "nameKo": "메가가디안",
+  "nameEn": "gardevoir-mega",
+  "formKey": "mega",
+  "types": [
+    "psychic",
+    "fairy"
+  ],
+  "roles": [
+    "special-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "pixilate",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "fairy",
+    "psychic"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[メガサーナイト] バトル運用ガイド",
+  "summary": "[pixilate]で[hyper-voice]が[フェアリー]自タイプ広範囲技へと変換される特殊エース。特攻165+STAB+pixilate補正で火力が爆発する。",
+  "strengths": [
+    "[pixilate] [hyper-voice]変換+1.2倍補正の[フェアリー]自タイプ全体攻撃",
+    "特攻165というメガ最上位クラスの純粋特殊アタッカー",
+    "[substitute]貫通の音技判定"
+  ],
+  "weaknesses": [
+    "[はがね]・[どく]・[ゴースト]弱点、[どく]には[hyper-voice]半減",
+    "素早さ100で最上位スカーフ勢に抜かれる",
+    "物理耐久68/65で物理技に脆い"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "hyper-voice",
+      "reason": "[pixilate]変換で[フェアリー]自タイプ全体攻撃となる主力"
+    },
+    {
+      "move": "psyshock",
+      "reason": "特殊耐久の低い[どく]タイプを物理防御基準で突くサブ"
+    },
+    {
+      "move": "moonblast",
+      "reason": "単体最大威力の[フェアリー] STAB"
+    },
+    {
+      "move": "protect",
+      "reason": "メガシンカ安全確保とパートナー積み待ち"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "gardevoirite",
+      "reason": "メガシンカのための必須アイテム (gardevoirite)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガサーナイト]は[pixilate]特性によって[ノーマル]技が[フェアリー]タイプへ変換され、さらに1.2倍補正を受ける特殊エースだ。代表的な技である[hyper-voice]は全体判定の[フェアリー]自タイプ技へと姿を変え、特攻165+STAB+pixilate+全体判定という4種ボーナスを同時に乗せた、メタ最強級の特殊広範囲打点として機能する。\n\n## 強み\n[hyper-voice]は音技判定のため[substitute]を貫通し、[light-screen]の減衰も常識通り受けるが消費効果を強制する音技判定の強みが残る。特攻165種族値はメガアタッカー中最上位クラスで、[pixilate]変換+STABが乗った[フェアリー]自タイプ補正が実質威力を極限まで引き上げる。[エスパー]・[フェアリー]複合タイプは[かくとう]・[ドラゴン]無効を含む主要抵抗を備え、守りの安定感も高い。\n\n## 弱点と対策\n[はがね]・[どく]・[ゴースト]弱点があり、特に[どく]タイプには[hyper-voice]が半減されるため[どく]牽制用サブが必須となる。物理耐久68/65は極めて低く、[sucker-punch]・[shadow-sneak]・[bullet-punch]の先制技一発で落ちる場面も多い。素早さ100は最上位層(110以上)に抜かれるため、スピードコントロールは慎重に行う。\n\n## 推奨技構成\n[hyper-voice]は[pixilate]活用の核となる主力技で必ず採用する。[psyshock]は物理防御参照で[どく]タイプの特殊耐久を迂回するサブとして優秀だ。[moonblast]は[pixilate]補正こそ乗らないが単体[フェアリー] STAB最大威力の確定打点として機能する。[protect]はメガシンカ+パートナー積み待ちの補助枠として盤面を組み立てる役割を担う。\n\n## 道具・特性・テラスタル\n道具は[gardevoirite]固定となる。特性はメガシンカ後[pixilate]へ移行する。テラスタルは[フェアリー]で自タイプ+[pixilate]中乗せ補正を極大化するか、[エスパー]で[どく]半減の壁を越える[psyshock]強化の二択が実戦的だ。性格は[modest]で特攻最大値を確保する。\n\n## 相性の良いパートナー\n[tailwind]セッターで素早さ100の穴を埋めることが事実上必須となる。ガオガエンの[intimidate]で物理耐久を補強し、[どく]牽制用の[はがね]・[じめん]パートナーを配置して詰み筋を作る。全体技味方耐性の特性([telepathy]等)を持つパートナーがいれば、[hyper-voice]運用が完全に自由化される。[sticky-web]先発を併用すれば素早さ問題をさらに緩和できる。\n\n## 立ち回り\nメガシンカ1ターン目は[protect]で安全を確保し、2ターン目から[hyper-voice]の広域火力を解き放つ。相手パーティに[どく]タイプがいなければ[hyper-voice]スパムで圧力を維持し、[どく]が露出した瞬間[psyshock]へ即座に切り替える。先制技に常に警戒し、体力管理こそが生存の核となる。",
+  "tags": [
+    "hoenn",
+    "psychic",
+    "fairy",
+    "mega",
+    "pixilate",
+    "special-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

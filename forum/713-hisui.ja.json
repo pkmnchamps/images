@@ -1,0 +1,83 @@
+{
+  "pokemonId": 713,
+  "nameKo": "히스이크레베이스",
+  "nameEn": "avalugg-hisui",
+  "formKey": "hisui",
+  "types": [
+    "ice",
+    "rock"
+  ],
+  "roles": [
+    "physical-wall",
+    "physical-attacker"
+  ],
+  "recommendedAbility": "sturdy",
+  "recommendedNature": "brave",
+  "recommendedTera": [
+    "ice",
+    "rock"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 32,
+    "def": 4,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "ja",
+  "title": "[ヒスイクレベース] バトル運用ガイド",
+  "summary": "防御184の極端な物理耐久+攻撃127の火力を両立する[こおり]・[いわ]物理アタッカー兼壁。[sturdy]でHP1確定生存が保証される。",
+  "strengths": [
+    "防御184のメタ最上級物理耐久",
+    "[sturdy]で1HP確定生存",
+    "攻撃127の高火力物理運用"
+  ],
+  "weaknesses": [
+    "[かくとう]・[はがね]・[みず]・[じめん]・[くさ]の5弱点",
+    "特殊耐久36で極端に脆い",
+    "素早さ38で確定後攻"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "crunch",
+      "reason": "[sharpness]なしの[あく]物理サブ"
+    },
+    {
+      "move": "rock-slide",
+      "reason": "[いわ] STABの全体技+ひるみ"
+    },
+    {
+      "move": "icicle-crash",
+      "reason": "[こおり] STABの主力物理+ひるみ"
+    },
+    {
+      "move": "protect",
+      "reason": "安全ターンを確保"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "weakness-policy",
+      "reason": "効果抜群被弾時に攻撃・特攻が2段階上昇"
+    },
+    {
+      "item": "assault-vest",
+      "reason": "特殊耐久の補助"
+    },
+    {
+      "item": "leftovers",
+      "reason": "持続回復"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ヒスイクレベース]は防御184のメタ最上級物理耐久と攻撃127の高火力物理運用を両立する[こおり]・[いわ]物理アタッカー兼壁だ。[sturdy]特性で1HP確定生存が保証されるため、交代インの安定性が確保されている。原種[クレベース]の純[こおり]タイプに対し、ヒスイフォームは[いわ]を獲得し攻撃範囲と耐性プロフィールが大幅に変化した。\n\n## 強み\n防御184は[mega-aggron]級のメタ最上級物理耐久だ。[sturdy]でHPフル状態から1回の確定生存が保証されるため、[weakness-policy]+[earthquake]のような弱点攻撃への対応が可能となる。攻撃127種族値は[icicle-crash]・[rock-slide]の全体技でダブルVGCにおいて効率的な火力を発揮する。[こおり]・[いわ]複合STABは[ドラゴン]・[ひこう]・[くさ]・[じめん]の広範囲を牽制でき、火力源としての汎用性が高い。\n\n## 弱点と対策\n[かくとう]・[はがね]・[みず]・[じめん]・[くさ]の5種弱点により耐性プロフィールは弱い。特殊耐久36は極端に低く特殊攻撃一発で退場の危険がある。素早さ38は[trick-room]以外では確定後攻となり、テンポ面の不利を常に抱える構造だ。特に[focus-blast]や[hydro-pump]のような高火力特殊技は[assault-vest]装備なしでは一撃退場が確定する水準の被ダメージを被る。\n\n## 推奨技構成\n[icicle-crash]は[こおり] STABの主力物理+30%ひるみで相手の行動を阻害できる。[rock-slide]は[いわ] STAB全体技+ひるみでダブルVGCでの圧力源。[crunch]は[あく]物理サブとして[ゴースト]・[エスパー]を牽制する。[protect]は安全ターン確保の基本枠。[body-press]変形で防御184を攻撃に転用する選択もあり、積み型ビルドでは[iron-defense]と組み合わせる構築が実戦的だ。\n\n## 道具・特性・テラスタル\n道具は[weakness-policy]がメイン——効果抜群被弾時に攻撃・特攻が2段階上昇し火力が爆発する。[assault-vest]は特殊耐久補助の変形で、[leftovers]は持続回復を選ぶ場合の選択肢だ。特性は[sturdy]固定。テラスタルは[こおり]で[icicle-crash] STAB重ね、または[いわ]で[rock-slide] STAB重ねを選ぶ。[はがね]テラで弱点の多さを一挙整理する防御型も構築次第で強力だ。\n\n## 相性の良いパートナー\n[trick-room]パーティとの相性は最上だ。[かくとう]・[はがね]弱点カウンターに[フェアリー]・[ほのお]パートナーを配置し、いかく役で物理耐久を追加補助すれば鉄壁級の耐久プロフィールが完成する。特殊アタッカー対策として[assault-vest]持ちの特殊受けを併設するのも有効だ。[follow-me]持ちパートナーで特殊技を吸わせれば、[ヒスイクレベース]の構造的弱点を完全にカバーできる。\n\n## 立ち回り\n[trick-room]展開後に交代イン→[weakness-policy]を意図的に弱点攻撃で誘発→攻撃2段階上昇後に[icicle-crash]・[rock-slide]の全体連打という3段階のプランを基本形とする。[sturdy]で1回の確定生存を活用し2ターンの仕事量を保証する。特殊アタッカーが場に出た時点で即座に交代するのが鉄則だ。",
+  "tags": [
+    "hisui",
+    "ice",
+    "rock",
+    "regional-form",
+    "sturdy",
+    "physical-wall"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

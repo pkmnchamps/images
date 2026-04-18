@@ -1,0 +1,83 @@
+{
+  "pokemonId": 71,
+  "nameKo": "우츠보트",
+  "nameEn": "victreebel",
+  "formKey": null,
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "chlorophyll",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "grass",
+    "fire"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[ウツボット] バトル運用ガイド",
+  "summary": "[chlorophyll]で晴れ下の実質素早さ140台を確保する[くさ]・[どく]物理スイーパー。[swords-dance]積みで爆発的フィニッシャーとなる。",
+  "strengths": [
+    "晴れ下の[chlorophyll]で実質素早さ140台",
+    "攻撃105+[swords-dance]で高火力フィニッシャー",
+    "[sucker-punch]先制技で晴れ外状況に対応"
+  ],
+  "weaknesses": [
+    "[こおり]・[ほのお]・[ひこう]・[エスパー]弱点多数",
+    "80/65/70の低耐久",
+    "晴れが消えれば素早さ軸が崩壊"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "leaf-blade",
+      "reason": "主力[くさ] STAB物理フィニッシャー"
+    },
+    {
+      "move": "poison-jab",
+      "reason": "[フェアリー]・[くさ]牽制の[どく] STAB"
+    },
+    {
+      "move": "sucker-punch",
+      "reason": "素早さ欠点を補う先制技"
+    },
+    {
+      "move": "swords-dance",
+      "reason": "攻撃1回積みでスイープ進入"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "life-orb",
+      "reason": "攻撃1.3倍の火力"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "積み初手の一発保険"
+    },
+    {
+      "item": "miracle-seed",
+      "reason": "[くさ] STAB火力を強化"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ウツボット]は[くさ]・[どく]タイプの物理スイーパーで、[chlorophyll]特性を活かし晴れパにおいて高速フィニッシャー役を担う。攻撃105と素早さ70は平凡だが、晴れ下では実質素早さが140台まで跳ね上がりメタの大半を抜き去る。同じ[くさ]・[どく]タイプである[フシギバナ]とは異なり、物理軸で設計される点が差別化ポイントだ。\n\n## 強み\n[chlorophyll]は晴れ下で素早さを2倍に引き上げる特性で、[ウツボット]を実質素早さ140台の最上位圏物理アタッカーに変貌させる。[swords-dance]1回で攻撃が2倍に跳ね上がり、[leaf-blade]・[poison-jab]が確定OHKO圏に入る。[sucker-punch]は晴れが消えた状況や相手先制技への対応カードとして機能する。\n\n## 弱点と対策\n[くさ]・[どく]の組合せは[こおり]・[ほのお]・[ひこう]・[エスパー]弱点が全てメタに多い構造的欠点を抱える。80/65/70の耐久では一撃を耐え難く、晴れが消えれば素早さ軸が丸ごと崩壊しメタの上位アタッカー大半に抜かれる。相手の先制技使いが場にいると[sucker-punch]読みにはまる危険性があり、構図判断が必須となる。\n\n## 推奨技構成\n[leaf-blade]を主力物理[くさ] STABとして固定し高火力フィニッシャー役を担う。[poison-jab]は[フェアリー]・[くさ]牽制用の第二STABで、[sucker-punch]は素早さ外状況対応と先制技使いカウンターとして機能する。最後の枠は[swords-dance]で積みスイーパー化を完成させる。[knock-off]変形もあるが、決定力を上げるコンセプトの方が実戦的だ。\n\n## 道具・特性・テラスタル\n道具は[life-orb]が基本で攻撃1.3倍補正により確定キル範囲を大きく広げる。[focus-sash]は積み初手の保険用、[miracle-seed]は[くさ] STAB火力追加補正用だ。特性は[chlorophyll]固定。テラスタルは[くさ]タイプで[leaf-blade]火力を伸ばすか、[ほのお]タイプで[こおり]・[ほのお]・[ひこう]弱点をひっくり返す選択が実戦的である。\n\n## 相性の良いパートナー\n[ウツボット]は晴れ設定担当(キュウコン等)と基本セットだ。[こおり]・[ひこう]弱点カウンターに[ほのお]・[はがね]パートナーを配置し、相手の天候使いカウンターとして[taunt]使用者やピボットラインを用意する。[stealth-rock]除去担当もチームに1枚必要で、後続クリーナーが[ウツボット]のチップダメージを得点に変換する設計が理想だ。\n\n## 立ち回り\n晴れが展開された状態で2ターン目に交代インし[swords-dance]を1回、その後[leaf-blade]・[poison-jab]でスイープする流れが基本形だ。[sucker-punch]は相手先制技を読んだタイミングで使用し、テラスタルは[こおり]・[ほのお]弱点技が確定で入るターンに即発動する。[miracle-seed]採用時は[leaf-blade]スパムの火力安定性が大きく向上する。",
+  "tags": [
+    "kanto",
+    "grass",
+    "poison",
+    "sun",
+    "chlorophyll",
+    "physical-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

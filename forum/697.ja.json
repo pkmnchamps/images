@@ -1,0 +1,78 @@
+{
+  "pokemonId": 697,
+  "nameKo": "견고라스",
+  "nameEn": "tyrantrum",
+  "formKey": null,
+  "types": [
+    "rock",
+    "dragon"
+  ],
+  "roles": [
+    "physical-attacker",
+    "setup-sweeper"
+  ],
+  "recommendedAbility": "strong-jaw",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "dragon",
+    "flying"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 2,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[ガチゴラス] バトル運用ガイド",
+  "summary": "[strong-jaw]補正[head-smash]を主力とする[いわ]・[ドラゴン]物理ブレイカー。攻撃121+牙技倍率で[くさ]破壊力を発揮するカード。",
+  "strengths": [
+    "[strong-jaw]で1.5倍補正の[crunch]・[fire-fang]が超強力",
+    "[head-smash]は[ドラゴン]が受けづらい[ひこう]・[ほのお]キラー",
+    "防御119・HP82で中立物理を1~2発は耐える"
+  ],
+  "weaknesses": [
+    "[かくとう]4倍、[じめん]・[はがね]・[こおり]・[ドラゴン]・[フェアリー]2倍——弱点過多",
+    "素早さ種族値71で[dragon-dance]なしでは後攻多数",
+    "[head-smash]の反動+特防59で長期戦が構造的に不能"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "head-smash",
+      "reason": "[strong-jaw]無関係だが圧倒的火力の[いわ] STAB主力"
+    },
+    {
+      "move": "dragon-claw",
+      "reason": "反動なしで安定して使える[ドラゴン] STAB"
+    },
+    {
+      "move": "crunch",
+      "reason": "[strong-jaw]補正1.5倍で[ゴースト]・[エスパー]を牽制"
+    },
+    {
+      "move": "dragon-dance",
+      "reason": "攻撃・素早さを同時に上昇させ低素早さをカバー"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "[かくとう]4倍の先制に備える生存保険"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "積みなしで素早さ軸を確保する代替"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ガチゴラス]は[いわ]・[ドラゴン]タイプの物理ブレイカーで、攻撃121と防御119を同時に持つ古豪の物理エースだ。チャンピオンズMAにおけるこのポケモンの存在意義は明快で、[head-smash]の純粋な火力と隠れ特性[strong-jaw]が生む[crunch]・[fire-fang]ラインの印象的な倍率にある。\n\n## 強み\n[adamant]補正攻撃121は[head-smash]でほぼ全ての[ひこう]・[ほのお]を一撃処理し、[ドラゴン]をサブSTABに据えることで交換幅がさらに広がる。[strong-jaw]が乗る[crunch]は実質大半の[あく]STABを上回る火力となり、[ゴースト]・[エスパー]を即座に罰する。[fire-fang]は[はがね]牽制用だ。防御119とHP82により中立物理を1~2発受ける余地もある。\n\n## 弱点と対策\n[かくとう]4倍が最も痛い。[close-combat]一発がそのまま退場理由となるため、[かくとう]ポケモンとの直接対峙は避けるべきだ。[じめん]・[はがね]・[こおり]・[ドラゴン]・[フェアリー]全てが2倍で入り、素早さ種族値71は[dragon-dance]なしではメタ大半のアタッカーに後攻を強いられる。[head-smash]の1/2反動と特防59は長期戦を構造的に成立させない。\n\n## 推奨技構成\n[head-smash]をSTAB主力として固定し、[dragon-claw]は反動なしの安定STABとして残す。[crunch]は[strong-jaw]補正で[ゴースト]・[エスパー]のスイッチインを狩る核となる牽制枠であり、[dragon-dance]は71の低素早さ問題を一撃で解決する。チームが既に素早さコントロールを用意している場合は[dragon-dance]の代わりに[earthquake]を入れて[はがね]・[ほのお]カバーを厚くする選択もある。\n\n## 道具・特性・テラスタル\n[focus-sash]は[かくとう]4倍の先制に備える必須保険で、[choice-scarf]は[dragon-dance]なしで一気に素早さ軸を確保する即発火力オプションだ。特性は[strong-jaw]固定。テラスタルは[head-smash]の火力を極大化する[ドラゴン]、または[かくとう]4倍を消し去る[ひこう]が最も運用価値が高い。\n\n## 相性の良いパートナー\n[フェアリー]と[かくとう]弱点を受け切る[はがね]・[どく]タイプパートナーが必須だ。[stealth-rock]先発で相手[ひこう]・[ほのお]の交代コストを引き上げれば、[head-smash]の2発ラインが1発ラインに繰り上がる。加えて[dragon-dance]積みを守ってくれるいかく役や[fake-out]サイクラーを配置すれば積みターンを稼げる。\n\n## 立ち回り\n序盤ターンは交代読みを強要する用途で使う。相手が[ひこう]・[ほのお]・[かくとう]を引く気配があるタイミングにのみ直接出すこと。[dragon-dance]は必ずスイッチフレームか、相手が[かくとう]技を使えないターンにしか回さない。テラスタルは[close-combat]が確定的に入ってくるターンで[ひこう]タイプに切り替え、プランを丸ごとひっくり返す用途に温存すべきだ。",
+  "tags": [
+    "kalos",
+    "rock",
+    "dragon",
+    "strong-jaw",
+    "physical-breaker"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

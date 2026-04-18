@@ -1,0 +1,75 @@
+{
+  "pokemonId": 212,
+  "nameKo": "메가핫삼",
+  "nameEn": "scizor-mega",
+  "formKey": "mega",
+  "types": [
+    "bug",
+    "steel"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "technician",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "steel",
+    "bug"
+  ],
+  "recommendedEv": {
+    "hp": 20,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 12
+  },
+  "locale": "ja",
+  "title": "[メガハッサム] バトル運用ガイド",
+  "summary": "[technician]で[bullet-punch]実質威力60になる[はがね]先制技の死神。[swords-dance]1積み後の[bullet-punch]確定KO範囲が爆発的に広がる。",
+  "strengths": [
+    "[technician]で[bullet-punch]実質威力60の[はがね]先制技",
+    "[swords-dance]1積み後ほぼ全フレイルポケモンを確定KO",
+    "[むし]・[はがね]複合で9タイプ耐性、[フェアリー]4倍耐性"
+  ],
+  "weaknesses": [
+    "[ほのお]4倍弱点 — [will-o-wisp]・[fire-blast]で即死",
+    "素早さ75最速でもスカーフ・スカーフ無補正に追い抜かれる",
+    "メガシンカ1ターン目は通常ハッサム状態"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "bullet-punch",
+      "reason": "[technician]補正で実質威力60の[はがね]先制技"
+    },
+    {
+      "move": "swords-dance",
+      "reason": "攻撃ランク2段階上昇の積みセットアップ"
+    },
+    {
+      "move": "knock-off",
+      "reason": "道具破壊ユーティリティとして汎用的に機能"
+    },
+    {
+      "move": "protect",
+      "reason": "メガシンカ+積みの安全確保札"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "scizorite",
+      "reason": "メガシンカのための必須アイテム (scizorite)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガハッサム]は[technician]特性で威力60以下の技が1.5倍に上昇する[はがね]先制技の死神だ。[bullet-punch]の元威力40が[technician]補正で60、STAB込みで90相当となり、メタで最も恐ろしい[はがね]先制技を放つ存在となる。[swords-dance]1回積みが成立すれば大半のフレイルポケモンを確定KO圏内に収め、試合を一方的に閉める決定力を発揮する。\n\n## 強み\n[bullet-punch]は先制技かつ[はがね] STABとして機能するため、[フェアリー]・[こおり]・[いわ]・[エスパー]タイプのスイーパーを先制で処理できる。[むし]・[はがね]複合タイプは9タイプに耐性を持ち、特に[フェアリー]4倍耐性はメタ核札である[xurkitree]・[togekiss]等を無被害で受け出せる。攻撃種族値140+[swords-dance]の積みで確定KOラインが劇的に広がり、試合後半の掃除役として機能する。\n\n## 弱点と対策\n[ほのお]4倍弱点は絶対的で、[heatran]・[charizard]系統との対面は即死に直結する。[will-o-wisp]による火傷1回でアタッカーとしての機能が完全に無力化される点も致命的だ。素早さ75は[technician]補正を受けられない素早さ面ではメタ最上位に届かず、[bullet-punch]先制技に依存せざるを得ない構造となる。メガシンカ1ターン目の隙も実戦では重い。\n\n## 推奨技構成\n[bullet-punch]は確定採用で、技構成の中核となる。[swords-dance]は積みの核札で、一度成立すれば試合を決定づける。[knock-off]は元威力65で[technician]の発動条件(≤60)に該当しないが、道具破壊ユーティリティとして実戦価値が高い。[protect]はメガシンカ1ターン目の安全確保+積みチャンス創出に必須で、4枠全てが明確な役割を持つ。\n\n## 道具・特性・テラスタル\n道具は[scizorite]固定で代替は存在しない。特性はメガシンカ後に[technician]へ自動で切り替わるため、元の特性は問わない。テラスタルは[はがね]で[bullet-punch]のSTAB再補正+[ほのお]弱点緩和を狙うか、[むし]で[bug]系STAB火力の極大化を狙う攻勢寄りの選択となり、チームプランに応じて使い分ける判断が必要だ。\n\n## 相性の良いパートナー\n[ほのお]4倍弱点カウンターとして[みず]・[じめん]タイプパートナーが必須となる。[incineroar]の[intimidate]で物理耐久を補助し、[tailwind]セッターで素早さ75の弱点を相殺する構築が効果的だ。[stealth-rock]支援があれば[bullet-punch]の確定KOラインがさらに拡大し、チーム全体の火力ラインが跳ね上がる。\n\n## 立ち回り\nメガシンカ1ターン目は[protect]で安全確保し、次のターンから[swords-dance]の積みチャンスを狙う。積み成立後は[bullet-punch]で高速アタッカーを先制制圧し、相手の交代読みターンに[knock-off]で道具を破壊する。[ほのお]タイプが場に出てきた瞬間は必ず交代で退避し、選出段階から[ほのお]ラインを避ける運用を徹底する。",
+  "tags": [
+    "johto",
+    "bug",
+    "steel",
+    "mega",
+    "technician",
+    "priority-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

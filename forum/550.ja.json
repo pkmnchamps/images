@@ -1,0 +1,81 @@
+{
+  "pokemonId": 550,
+  "nameKo": "배쓰나이",
+  "nameEn": "basculin",
+  "formKey": null,
+  "types": [
+    "water"
+  ],
+  "roles": [
+    "physical-attacker",
+    "pivot"
+  ],
+  "recommendedAbility": "adaptability",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "water",
+    "ghost"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[バスラオ] バトル運用ガイド",
+  "summary": "[adaptability]補正[wave-crash]で実質威力240を放つ素早さ98の水中アタッカー。",
+  "strengths": [
+    "[adaptability]で[みず]STAB倍率2.0倍、[wave-crash]実威力240",
+    "素早さ98で大半の耐久型カードに先制可能",
+    "[flip-turn]で素早さ軸を生かしたピボットプレイ"
+  ],
+  "weaknesses": [
+    "防御65・特防55の薄い耐久",
+    "[くさ]・[でんき]2倍弱点の回避が難しい",
+    "[wave-crash]反動33%でHP管理が難しい"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "wave-crash",
+      "reason": "[adaptability]補正で実威力240を出すメイン[みず] STAB"
+    },
+    {
+      "move": "aqua-jet",
+      "reason": "[adaptability]先制カードで速い相手を仕留める"
+    },
+    {
+      "move": "flip-turn",
+      "reason": "攻撃後の安全交代でピボットラインを維持"
+    },
+    {
+      "move": "crunch",
+      "reason": "[エスパー]・[ゴースト]牽制用の[あく]カバー"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "mystic-water",
+      "reason": "みず技のSTABへ追加補正を乗せて決定力を強化"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "素早さ98を超高速圏に押し上げて確定先制"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "反動回復で2ターンの生存を確保"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[バスラオ]は単一[みず]タイプにしては攻撃92・素早さ98という簡潔な火力速度を持つが、アイデンティティは特性[adaptability]の1行に凝縮されている。STAB倍率が1.5倍ではなく2.0倍で適用されるため、[wave-crash]一発の実戦威力は240にまで達し、[aqua-jet]先制すら体感では通常の[みず]STAB2倍以上の威力を発揮する。\n\n## 強み\n[adaptability]+[wave-crash]+[mystic-water]の三重補正は、耐久型[みず]耐性を持たない相手の大半をほぼ一撃で処理する。特に[aqua-jet]先制も[adaptability]倍率を受けるため、素早さ競争で負ける[こおり]・[でんき]スイーパーすら決定打で仕留められる。[flip-turn]は[adaptability]の火力を乗せたままピボット循環を維持し、[バスラオ]が退場してもチーム素早さ軸が途切れないよう支える。\n\n## 弱点と対策\n防御65・特防55は事実上ガラスボディに近い。[くさ]・[でんき]の2倍弱点はマッチアップ次第で登場自体が封じられ、先制技持ち([mach-punch], [sucker-punch], [extreme-speed])を前にするとfocus-sashがない限り反撃機会が消える。[wave-crash]の33%反動も実戦では2回以上の使用が難しく、交代タイミングを一拍早く読む必要がある。\n\n## 推奨技構成\nメインは[wave-crash]固定。[adaptability]+STAB2.0倍+威力120+[mystic-water]まで重なれば、メタの耐久型も2発以内に溶ける。[aqua-jet]は先制カードかつ対[こおり]・[でんき]の処刑技として[バスラオ]の生存率を大きく上げる。[flip-turn]は必ず1枠確保してピボットプレイを維持し、[crunch]は[エスパー]・[ゴースト]・reuniclus系の特殊壁を狙撃する。[head-smash]は[flip-turn]より決定力は高いが反動が重なるため推奨しない。\n\n## 道具・特性・テラスタル\n道具は[mystic-water]が最有力。[みず]STAB10%の追加補正が[adaptability]と乗算に近い効果を生む。[choice-scarf]は素早さ98をさらに一段押し上げ、[tailwind]なしでも先制を取れる選択で、[sitrus-berry]は反動管理に特化する。特性は[adaptability]以外の選択肢がない——recklessは[wave-crash]反動まで一緒に強化してリスクが高く、[mold-breaker]は実戦効率が低い。テラスタルは[みず]STABをさらに増幅する[みず]タイプがメイン、[くさ]・[でんき]弱点を消す[ゴースト]タイプがサブだ。\n\n## 相性の良いパートナー\n[バスラオ]は典型的なガラスキャノンピボットなので、[くさ]・[でんき]を受ける[じめん]・[ドラゴン]タンクがチーム軸として必須だ。[tailwind]セッターがいれば[choice-scarf]なしでも先制が安定し、相手の先制技対応として[intimidate]要員や[フェアリー]資源を並べれば生存率が大きく上がる。高速クリーナー([あく]・[ドラゴン]スイーパー)と組めば、[wave-crash]で稼いだ削りがそのまま得点へ転化する。\n\n## 立ち回り\n[バスラオ]は長期戦軸ではなく瞬間火力カードだ。序盤あるいは中盤に交代タイミングを読んで2〜3ターン以内にワンツーパンチを終え、[flip-turn]で退いて後半戦を伺う。[wave-crash]は一撃必殺が確定した瞬間にのみ撃ち、残りのターンは[aqua-jet]+[crunch]でHP管理を優先する。テラスタルは先制を絶対に取りたい1ターンにだけ発動する運用が最も堅実だ。",
+  "tags": [
+    "unova",
+    "water",
+    "adaptability",
+    "pivot",
+    "glass-cannon"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

@@ -1,0 +1,79 @@
+{
+  "pokemonId": 887,
+  "nameKo": "드래펄트",
+  "nameEn": "dragapult",
+  "formKey": null,
+  "types": [
+    "dragon",
+    "ghost"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper",
+    "pivot"
+  ],
+  "recommendedAbility": "infiltrator",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "ghost",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 2,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[ドラパルト] バトル運用ガイド",
+  "summary": "素早さ142と特性[infiltrator]で壁・みがわりを無視し[ドラゴン]・[ゴースト] STABを叩き込む最上位スイーパー。",
+  "strengths": [
+    "素早さ142は非スカーフ最上位級の実速",
+    "[infiltrator]で[light-screen]・[substitute]を完全貫通",
+    "[dragon-darts]はダブルで広範囲2hit [ドラゴン] STAB"
+  ],
+  "weaknesses": [
+    "[こおり]・[ドラゴン]・[ゴースト]・[あく]・[フェアリー]2倍",
+    "HP88/防御75は先制技や弱点打点で崩れる",
+    "[はがね]タイプに[ドラゴン] STABが半減される"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "dragon-darts",
+      "reason": "物理[ドラゴン] STAB、ダブルでは2体に振り分け打撃"
+    },
+    {
+      "move": "phantom-force",
+      "reason": "[ゴースト] STAB+1ターン無敵のプレッシャー"
+    },
+    {
+      "move": "u-turn",
+      "reason": "対面回避と再召喚機会を同時に生むピボット技"
+    },
+    {
+      "move": "sucker-punch",
+      "reason": "上位素早さ相手の詰めに刺す先制技"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "choice-scarf",
+      "reason": "142のさらに上を取る極限の先制確保用道具"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "先制技の一撃を耐えて[sucker-punch]で返す保険"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ドラパルト]は種族値88/120/75/100/75/142の[ドラゴン]・[ゴースト]物理スイーパーで、チャンピオンズMAでは素早さ142を盾にメタの常在スイーパー枠を占めるエースだ。物理攻撃120+特殊攻撃100の両刀性能により物理・特殊どちらのセットでも機能するが、本ガイドでは最も実戦的な[jolly]物理型を基準にする。\n\n## 強み\n素早さ142は非スカーフの最上位級で、メタのほぼ全アタッカーより先手を取る。特性[infiltrator]は[light-screen]・[reflect]・[substitute]を完全無視するため、壁ベースの戦術を根元から無力化する。[dragon-darts]は75×2の2回攻撃[ドラゴン]STABで、ダブルでは両対象を1技で処理する広範囲打点として機能する。攻撃120に先制技[sucker-punch]まで搭載でき、スイーパーとしての完成度は最上位だ。\n\n## 弱点と対策\n[ドラゴン]・[ゴースト]複合は[こおり]・[ドラゴン]・[ゴースト]・[あく]・[フェアリー]の5重弱点を抱え、HP88・防御75では[close-combat]・[ice-shard]一発で吹き飛ばされる可能性が常にある。特にドドゲザンの[sucker-punch]、先制アイスパンチ持ちは天敵だ。[dragon-darts]の威力自体はサーフゴー・エアームド等の[はがね]の壁の前で半減され、交代が必要となる。\n\n## 推奨技構成\n[dragon-darts]は必ず固定する。[phantom-force]は[ゴースト]STAB主力で、1ターン空白のリスクを許容してでも汎用性を取る枠だ。[u-turn]はピボットと対面回避の2役を同時にこなす鍵技で、[sucker-punch]はスカーフでなくsashを持つ構成で上位素早さ相手の詰めに刺す枠となる。特殊型なら[dragon-darts]・[phantom-force]を[draco-meteor]・[shadow-ball]に差し替える。\n\n## 道具・特性・テラスタル\n[choice-scarf]は142の上にさらに+1を重ねる極限先制確保用で、[ドラパルト]をrevenge killerとして運用したい場合の第一候補となる。[focus-sash]は[sucker-punch]に依存する枠構成と噛み合う。特性は[infiltrator]固定—clear-bodyも悪くはないが、壁無視の価値が圧倒的に大きい。テラスタルは[ゴースト]でSTABを増強するか、[フェアリー]で[あく]・[ドラゴン]弱点を反転する選択が有効だ。\n\n## 相性の良いパートナー\n[ドラパルト]を軸にするチームでは、[はがね]を突くパートナー([かくとう]・[じめん]・[ほのお])が必須となる。相手のdragapultミラーを抑える[フェアリー]パートナーと、先制技の物理カウンター([intimidate]ユーザー)で脆い物理耐久を補完する。[u-turn]ピボットプレーのために、後ろに[stealth-rock]持ち低速タンクや積みエースを配置するのが理想だ。\n\n## 立ち回り\n中盤ターンは[u-turn]で有利対面を繰り返し作り、相手の主軸が削れた段階で[phantom-force]/[dragon-darts]によりスイープを開く。[はがね]タイプに出くわしたら即[u-turn]で引き、HP50%以下からは[sucker-punch]で最終キルを作る流れが基本となる。テラスタルは[あく]・[こおり]技が確定するタイミングで即発動する。",
+  "tags": [
+    "galar",
+    "dragon",
+    "ghost",
+    "sweeper",
+    "infiltrator"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

@@ -1,0 +1,82 @@
+{
+  "pokemonId": 6,
+  "nameKo": "리자몽",
+  "nameEn": "charizard",
+  "formKey": null,
+  "types": [
+    "fire",
+    "flying"
+  ],
+  "roles": [
+    "special-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "solar-power",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "fire",
+    "fighting"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[リザードン] バトル運用ガイド",
+  "summary": "晴れ下の[solar-power]で特攻を1.5倍に増幅し、相手の後衛まで焼き尽くす[ほのお]・[ひこう]特殊スイーパー。",
+  "strengths": [
+    "[solar-power]+晴れで実質特攻160+",
+    "素早さ100でメタの大半に先制",
+    "[air-slash]のひるみで変数を創出"
+  ],
+  "weaknesses": [
+    "[stealth-rock]4倍の残存ダメージ",
+    "[いわ]4倍弱点+[みず]・[でんき]2倍",
+    "[solar-power]のHP自滅で持続力不足"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "fire-blast",
+      "reason": "[solar-power]+晴れ+[charcoal]が重なる最大火力の[ほのお] STAB"
+    },
+    {
+      "move": "air-slash",
+      "reason": "[ひこう] STAB+ひるみ30%で流れを強奪"
+    },
+    {
+      "move": "focus-blast",
+      "reason": "[いわ]・[はがね]・[あく]を牽制する必須サブ"
+    },
+    {
+      "move": "solar-beam",
+      "reason": "晴れ下なら1ターン発射で[みず]・[いわ]・[じめん]を一括処理"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "charcoal",
+      "reason": "ほのお技を20%増幅し、晴れと掛け算になる"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "晴れ外でも素早さ優位を確保"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "先制技の一発を耐えて反撃"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[リザードン]は[ほのお]・[ひこう]タイプの古典的特殊スイーパーだ。晴れパの軸として採用され、特性[solar-power]が発動すると109の特攻が1.5倍に増幅されて実質160台に到達する。素早さ100で大半のアタッカーを抜き、[ひこう] STABのひるみ変数まで載せて、単独でも相手の前線を切り裂く破壊力を発揮する。\n\n## 強み\n[solar-power]+晴れ+[charcoal]の3段補正が合わさる[fire-blast]は、メタ最上位の耐久型でも2発で焼き切れる火力ラインを描く。[ほのお]・[ひこう]STABは[くさ]・[むし]・[フェアリー]・[かくとう]反面へ均等に刺さる角度を作り、[air-slash]のひるみ30%は相手の計算を確率的に揺さぶる。素早さ100はチームの基準点を一段引き上げ、スピードコントロール負担を軽減する。\n\n## 弱点と対策\n[stealth-rock]が撒かれていれば1度の着地で最大HPの50%が消し飛ぶため、[rapid-spin]や[defog]等の除去手段がないなら[リザードン]の採用自体を再考するべきだ。[いわ]4倍弱点ゆえ[stone-edge]一発で気絶することも多く、[みず]・[でんき]2倍アタッカーにも弱い。[solar-power]は毎ターンHPの1/8を自己消費するため、長期戦の持続力が落ちる点も立ち回りに織り込みたい。\n\n## 推奨技構成\n[fire-blast]が主力STAB。[solar-power]+晴れ+[charcoal]の三重補正でメタ上位の耐久型も2発圏内に収める。[air-slash]はひるみ確率と[ひこう] STAB兼用、[focus-blast]は[いわ]・[はがね]・[あく]を牽制する必須サブだ。最後の枠は[solar-beam]で、晴れ下なら1ターン溜めの即発扱いとなり[みず]・[じめん]・[いわ]タンクを一括処理できる。チームコンセプトによっては[solar-beam]を[thunderbolt]に差し替えても実戦的だ。\n\n## 道具・特性・テラスタル\n道具は[charcoal]で[ほのお]技に20%追加補正を乗せるのが基本。[solar-power]+晴れ+[charcoal]の三重補正はメタで最高の特殊火力ラインのひとつだ。[choice-scarf]で素早さ軸を押さえる選択、[focus-sash]で先制技保険をかける選択も実戦的である。特性は必ず[solar-power]、テラスタルは[ほのお] STAB火力をさらに伸ばす[ほのお]タイプが基本。[かくとう]テラで[いわ]弱点を消す防御的オプションもチーム構成によっては有効だ。\n\n## 相性の良いパートナー\n晴れ始動役と[stealth-rock]を除去する[rapid-spin]・[defog]持ちがほぼ必須。[リザードン]は[solar-power]の自滅ダメージにより短時間で決着を付ける必要があるため、相手の特殊受けを先に削っておける[toxic]・[will-o-wisp]系のパートナーと噛み合う。先発に[defog]可能なサポーターを据え、[リザードン]は後続として交代投入するのが基本形である。\n\n## 立ち回り\n晴れ+[stealth-rock]除去が完了してから着地させ、HPが50%以下に落ちた瞬間に攻撃を打たずに他のポケモンへ下がる。[solar-power]の自滅ダメージで3ターン以上居座ると自爆が早まることを常に意識したい。",
+  "tags": [
+    "kanto",
+    "fire",
+    "sun",
+    "solar-power",
+    "special-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

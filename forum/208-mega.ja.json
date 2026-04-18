@@ -1,0 +1,75 @@
+{
+  "pokemonId": 208,
+  "nameKo": "메가강철톤",
+  "nameEn": "steelix-mega",
+  "formKey": "mega",
+  "types": [
+    "steel",
+    "ground"
+  ],
+  "roles": [
+    "physical-wall",
+    "physical-attacker"
+  ],
+  "recommendedAbility": "sand-force",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "steel",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 32,
+    "def": 4,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "ja",
+  "title": "[メガハガネール] バトル運用ガイド",
+  "summary": "防御230でメタ最上位級の物理要塞と化した[はがね]・[じめん]複合タンクアタッカー。砂パで[sand-force]による主力技火力30%補正を受ける。",
+  "strengths": [
+    "防御230・HP75/特防95で物理受けを確定",
+    "[sand-force]の砂下[はがね]・[じめん]威力+30%",
+    "[stealth-rock]設置+攻撃の兼業運用が可能"
+  ],
+  "weaknesses": [
+    "[じめん]・[ほのお]・[みず]・[かくとう]4倍弱点構造",
+    "素早さ30固定で[trick-room]に依存",
+    "特殊攻撃には防御230の優位が消える"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "heavy-slam",
+      "reason": "メガ後体重1480kgで最大威力が確定する[はがね] STAB"
+    },
+    {
+      "move": "earthquake",
+      "reason": "[sand-force]補正を受ける主力広範囲STAB"
+    },
+    {
+      "move": "stealth-rock",
+      "reason": "場のハザード設置ユーティリティ"
+    },
+    {
+      "move": "protect",
+      "reason": "メガシンカ着地ターンの安全確保+ターンセーブ"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "steelixite",
+      "reason": "メガシンカのための必須アイテム (steelixite)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガハガネール]は防御種族値230というメタ最上位級の物理要塞を提供する[はがね]・[じめん]複合タンクアタッカーだ。[sand-force]特性により砂嵐下では[はがね]・[いわ]・[じめん]技の威力が30%上昇し、単なる防御型を超えて物理火力まで裏付けが伴う。体重1480kgは[heavy-slam]の最大威力判定を保証する絶対的強みで、重量依存技の究極形として機能する。\n\n## 強み\n防御230は無補正の物理攻撃の大半を半減以下のダメージに抑え、HP・防御特化時には[close-combat]・[earthquake]使いすら2発以上耐え切る。[sand-force]砂嵐下では[earthquake]が実質威力130、[heavy-slam]は体重差ベースの最大威力判定と重なり物理火力も十分だ。[はがね]・[じめん]複合の耐性リストは広く、[フェアリー]・[ひこう]・[いわ]・[でんき]の4倍耐性を含む9タイプに安定着地できる。\n\n## 弱点と対策\n[じめん]・[みず]・[ほのお]・[かくとう]4倍弱点構造はメガ後も維持され、特に[hydro-pump]や[earthquake]使いには即死圏内となる。素早さ30は最下位群で[trick-room]パーティ以外では必ず後攻となるため、構築時点でサポート体制が前提となる。特殊攻撃には防御230が無意味なので、特殊アタッカー処理はパートナーに委ねる役割分担が必須だ。\n\n## 推奨技構成\n[heavy-slam]はメガ後1480kgの体重を活かした最大威力[はがね] STABとして主力固定。[earthquake]は[sand-force]補正+広範囲判定でダブルでも核札となり、[stealth-rock]は素早さ30後攻を活かした安定設置枠だ。[protect]はメガシンカ1ターン目の安全確保とターンセーブに使い、4枠全てが明確な役割を持つ。削る余地のない完成度だ。\n\n## 道具・特性・テラスタル\n道具は[steelixite]固定で、代替案は存在しない。特性はメガシンカ後に[sand-force]へ自動で切り替わるため、元の特性は問わない。テラスタルは[はがね]で[フェアリー]・[こおり]弱点の追加耐性を得る守勢寄り選択か、[フェアリー]で[かくとう]4倍弱点を反転させる攻勢的な防御テラの二択で、相手構築に応じて使い分ける。\n\n## 相性の良いパートナー\n砂嵐セッター([tyranitar]・[hippowdon]系統)とのシナジーが最も強く、[sand-force]火力補正を最大限活かせる構造になる。[trick-room]セッター([dusknoir]・[hatterene]系統)との組み合わせは素早さ30という最大の弱点を長所に反転させる核札。[みず]・[かくとう]弱点カウンターとして[くさ]・[エスパー]タイプのパートナーも編成必須となる。\n\n## 立ち回り\n先発には出さず、[trick-room]や砂嵐が展開された後に交代着地で投入するのが基本。メガシンカ1ターン目は[protect]で安全確保し、次のターンから[earthquake]・[heavy-slam]で物理火力を叩き込む。[stealth-rock]は相手の交代を読んだターンに設置し、相手の着地コストを増やす。テラスタルは弱点確定ラインで即発動する運用が安全だ。",
+  "tags": [
+    "johto",
+    "steel",
+    "ground",
+    "mega",
+    "sand-force",
+    "physical-wall"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

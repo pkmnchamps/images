@@ -1,0 +1,78 @@
+{
+  "pokemonId": 876,
+  "nameKo": "에써르",
+  "nameEn": "indeedee-male",
+  "formKey": null,
+  "types": [
+    "psychic",
+    "normal"
+  ],
+  "roles": [
+    "support",
+    "special-attacker"
+  ],
+  "recommendedAbility": "psychic-surge",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "fairy",
+    "psychic"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[イエッサン] バトル運用ガイド",
+  "summary": "[psychic-surge]でサイコフィールドを自動展開し、チーム全体の[エスパー]火力を底上げする特殊サポーター兼アタッカー。",
+  "strengths": [
+    "登場するだけで[psychic]-terrainが自動展開",
+    "サイコフィールド下では先制技を完全遮断",
+    "[expanding-force]でダブルの広範囲爆発火力"
+  ],
+  "weaknesses": [
+    "[あく]・[ゴースト]・[むし]2倍で対面弱点が多い",
+    "物理耐久60/55で極端に脆い",
+    "素早さ95は上位スイーパーに抜かれる"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "expanding-force",
+      "reason": "サイコフィールド下で威力120の広範囲STABに変化"
+    },
+    {
+      "move": "hyper-voice",
+      "reason": "広範囲[ノーマル]STABで[substitute]・音吸収を回避"
+    },
+    {
+      "move": "dazzling-gleam",
+      "reason": "[あく]牽制と広範囲[フェアリー]打点を兼ねる"
+    },
+    {
+      "move": "helping-hand",
+      "reason": "味方の火力を1.5倍に底上げするダブル専用サポート"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "登場ターンの行動を保証し[psychic-surge]を確実に発動"
+    },
+    {
+      "item": "twisted-spoon",
+      "reason": "[エスパー]技の威力を20%増幅"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[イエッサン]は種族値60/65/55/105/95/95の[エスパー]・[ノーマル]特殊サポーターで、チャンピオンズMAダブル環境では特性[psychic-surge]ひとつでチームの基軸を作る存在だ。登場するだけでサイコフィールドが展開され、相手の先制技は5ターン完全無効化され、味方の[エスパー]技威力は1.3倍に押し上げられる。\n\n## 強み\n[indeedee-male]は素早さ95+特攻105の実戦的な攻撃ラインを持ち、単なるサポーター以上の仕事をこなす。サイコフィールド下の[expanding-force]は威力120の広範囲打点に化け、ダブル全体に致命打を撒く。[helping-hand]で後ろの特殊エースの火力を倍加し、特性発動後は相手の[shadow-sneak]・[sucker-punch]・[fake-out]をまとめて封殺する点も環境を変える要素となる。\n\n## 弱点と対策\n[あく]・[ゴースト]・[むし]2倍が痛い。マスカーニャ・ドドゲザン・ドラパルト等の上位アタッカー大半が[あく]または[ゴースト]技を標準搭載しており、物理耐久60/55は[knock-off]一発で即崩壊する。サイコフィールドは味方の先制技([fake-out]含む)も封じてしまうため、構築段階で制約が生じる点にも注意が必要だ。\n\n## 推奨技構成\n[expanding-force]はサイコフィールドとのシナジーのために必須採用とし、広範囲STABとして[hyper-voice]を追加して音吸収・[substitute]も無視する。[dazzling-gleam]は[あく]対策と広範囲打点を同時に解決する3枠目。4枠目は[helping-hand]でサポート価値を最大化するが、シングル構築では代わりに[psyshock]を入れて耐久特殊アタッカーを貫通する。\n\n## 道具・特性・テラスタル\n[focus-sash]は[psychic-surge]の登場ターンを確実に活かす用途で最も実戦的だ。[twisted-spoon]は[エスパー]技の威力をもう一段底上げし、[expanding-force]の打点を制圧力まで引き上げる。特性は必ず[psychic-surge]を選択する。テラスタルは[あく]弱点を反転する[フェアリー]、もしくはサイコフィールド+[エスパー]STABを強化する[エスパー]テラが有効だ。\n\n## 相性の良いパートナー\n[イエッサン]の役割はサポーター兼火力触媒なので、後ろにサイコフィールドの恩恵を受ける[エスパー]・[フェアリー]特殊エース(ブリムオン・メタグロス・hatterene型)が必要となる。[あく]・[ゴースト]弱点補完として[かくとう]・[フェアリー]パートナー、サイコフィールド下でも稼働する非先制スイーパーが理想形だ。[fake-out]依存チームとは相性が悪いので編成時に注意する。\n\n## 立ち回り\n先発として出して1ターン目はサイコフィールド展開だけで仕事を果たし、2ターン目から[expanding-force]+[helping-hand]の連携で味方の火力を爆発させる。相手が[あく]タイプを出してきたら即テラ[フェアリー]で対面を返し、HPが危なければ交代よりもう1回[helping-hand]でトレードを取る立ち回りが得となる。",
+  "tags": [
+    "galar",
+    "psychic",
+    "normal",
+    "psychic-terrain",
+    "support"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

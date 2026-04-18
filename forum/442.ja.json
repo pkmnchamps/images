@@ -1,0 +1,80 @@
+{
+  "pokemonId": 442,
+  "nameKo": "화강돌",
+  "nameEn": "spiritomb",
+  "formKey": null,
+  "types": [
+    "ghost",
+    "dark"
+  ],
+  "roles": [
+    "tank",
+    "wall",
+    "support"
+  ],
+  "recommendedAbility": "infiltrator",
+  "recommendedNature": "calm",
+  "recommendedTera": [
+    "fairy",
+    "dark"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 2,
+    "spa": 0,
+    "spd": 32,
+    "spe": 0
+  },
+  "locale": "ja",
+  "title": "[ミカルゲ] バトル運用ガイド",
+  "summary": "[ゴースト]・[あく]複合で弱点が[フェアリー]一つだけの両耐久の壁。[infiltrator]で[substitute]・壁を無視し[will-o-wisp]・[nasty-plot]を同時に回す。",
+  "strengths": [
+    "弱点が[フェアリー]一つだけという希少なタイプ組み合わせ",
+    "[infiltrator]で[substitute]・[light-screen]・[reflect]を無視",
+    "両耐久108/108を基盤に物理・特殊兼用の壁役"
+  ],
+  "weaknesses": [
+    "HP50で実効耐久が思うほど伸びない",
+    "[フェアリー]2倍弱点が進化抑制力として働く",
+    "素早さ35と回復技不在で長期戦持続力が乏しい"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "will-o-wisp",
+      "reason": "物理アタッカーの攻撃を半減する状態異常の軸"
+    },
+    {
+      "move": "dark-pulse",
+      "reason": "STAB[あく]特殊主力、[infiltrator]補正とシナジー"
+    },
+    {
+      "move": "shadow-ball",
+      "reason": "STAB[ゴースト]牽制技、[エスパー]・[ゴースト]カウンター"
+    },
+    {
+      "move": "nasty-plot",
+      "reason": "壁兼ブレイカー転換を可能にする積み"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "leftovers",
+      "reason": "回復技不在をターン回復で埋める必須品"
+    },
+    {
+      "item": "colbur-berry",
+      "reason": "[あく]弱点ケアの保険として1回分のダメージを軽減"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ミカルゲ]は[ゴースト]・[あく]複合が提供する「弱点が[フェアリー]一つだけ」という希少な耐性プロファイルゆえに採用される両耐久の壁だ。HP50が致命的ながら108/108の対称耐久と[infiltrator]特性で[substitute]・壁チームを切り裂くカードとして機能する。回復技がない欠点を[nasty-plot]ベースのブレイカー転換で補う構成が特徴だ。\n\n## 強み\n[ゴースト]・[あく]耐性分布はフォーマット内でも屈指の良さだ——[エスパー]・[ゴースト]・[ノーマル]攻撃の大半が半減・無効化されるため着地頻度が高くなる。[infiltrator]は[substitute]を貫通し、[light-screen]・[reflect]を無視、さらにはしろいきりや[safeguard]まで貫通する過小評価された攻撃系パッシブだ。両耐久108/108は弱点技以外のほとんどの攻撃を一度は受け流し、[nasty-plot]を1段階積めば特攻92が180台相当まで跳ね上がって急激なブレイカー転換が可能になる。\n\n## 弱点と対策\nHP50が実質耐久の天井を下げる。108/108の防御は数値上印象的でもHPの乗算がないと実効耐久は中堅どまりだ。[フェアリー]2倍弱点が唯一の弱点ゆえに、逆に[フェアリー]カードが見えた瞬間[ミカルゲ]の着地オプションが閉じる。回復技は[rest]以外になく、長期の受動壁役は[leftovers]の累積だけに頼ることになる。\n\n## 推奨技構成\n[will-o-wisp]は物理アタッカーの攻撃力を半分に削って壁役の軸を作る。[dark-pulse]はSTAB特殊主力で20%怯み確率まで同時に狙う。[shadow-ball]は2つ目のSTABにして[エスパー]・[ゴースト]カウンター枠だ。最後は[nasty-plot]で壁からブレイカーへ転換する突発的な攻撃ラインを作る。代替で[sucker-punch]を入れれば素早さ35の弱点を一部補える。\n\n## 道具・特性・テラスタル\n道具は[leftovers]が基本——回復技不在の状態で唯一のターン回復源だ。[colbur-berry]は相手[あく]タイプブレイカーに備えて1回分緩衝用に使う。特性は[infiltrator]固定で、pressureは壁役としても見劣りする選択だ。テラスタルは[フェアリー]弱点を消す[フェアリー]テラが最適で、[あく]テラで[shadow-ball]・[dark-pulse]の両方を同時に強化する選択も可能である。\n\n## 相性の良いパートナー\n[フェアリー]カウンター([どく]・[はがね]タイプ)が必須だ。[ミカルゲ]が物理・特殊の両方を吸収している間に、後方で積みスイーパーが1ターン積めばチーム全体のテンポが転換する。ステータスリムーバー([heal-bell]使い)が同居していれば[will-o-wisp]の反撃を喰らっても長期戦を維持できる。\n\n## 立ち回り\n着地直後は[will-o-wisp]で物理アタッカーの火力を半減させ、[leftovers]の回復ペースを読みながら体力を維持する。[nasty-plot]は相手の[フェアリー]が全て処理された後半にのみ使うべきで、誤ったターンに積むと即反撃を喰らう。[dark-pulse]の怯み確率はテンポ奪取の道具として意識的に活用すると良い。",
+  "tags": [
+    "sinnoh",
+    "ghost",
+    "dark",
+    "wall",
+    "tank",
+    "infiltrator"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

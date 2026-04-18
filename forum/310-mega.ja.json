@@ -1,0 +1,74 @@
+{
+  "pokemonId": 310,
+  "nameKo": "메가썬더볼트",
+  "nameEn": "manectric-mega",
+  "formKey": "mega",
+  "types": [
+    "electric"
+  ],
+  "roles": [
+    "special-attacker",
+    "sweeper",
+    "pivot"
+  ],
+  "recommendedAbility": "intimidate",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "electric",
+    "ice"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "spa": 32,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[メガライボルト] バトル運用ガイド",
+  "summary": "[intimidate]で登場即座に相手攻撃を削り、特攻135・素早さ135で前線を切り裂く[でんき]特殊スイーパー。",
+  "strengths": [
+    "メガシンカ後135/135の特攻・素早さでメタ上位速度帯を占拠",
+    "[intimidate]で登場のたびに物理軸を抑制",
+    "[volt-switch]で自由なピボットが可能"
+  ],
+  "weaknesses": [
+    "[じめん]は4倍ではないが地震ダメージを素通りさせる",
+    "耐久70/80/80で反撃一発で崩れやすい",
+    "メガ枠を[ライボルト]に固定する機会費用"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "thunderbolt",
+      "reason": "高火力[でんき] STABの主力"
+    },
+    {
+      "move": "volt-switch",
+      "reason": "[intimidate]再利用とピボットプレイの要"
+    },
+    {
+      "move": "flamethrower",
+      "reason": "[はがね]・[くさ]カバー用サブウェポン"
+    },
+    {
+      "move": "hidden-power",
+      "reason": "[こおり]系カバーで[ドラゴン]・[じめん]を牽制"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "manectite",
+      "reason": "メガシンカのための必須アイテム (manectite)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガライボルト]は[intimidate]+特攻135+素早さ135の三拍子を揃えた[でんき]特殊スイーパーだ。原種は105/105の平凡なスペックだが、メガシンカ後はメタ上位速度帯に滑り込み、登場と同時に相手の攻撃を一段階削る二役を同時にこなす。[でんき]単タイプ特有の弱点1個([じめん])だけを管理すればサイクルチームの軸を担うのに最適だ。\n\n## 強み\n素早さ135はスカーフ無しで大半のベースアタッカーを抜き、[volt-switch]でピボットすれば[intimidate]を繰り返し再利用して物理軸チームを地道に削ることができる。[thunderbolt]一発で[みず]・[ひこう]コアを砕き、[flamethrower]はフシギバナやガブリアス帯の[はがね]・[くさ]を切り落とすサブウェポンとなる。メガ突入前の1ターンから[intimidate]バフが先行する点も展開優位に大きく貢献する。\n\n## 弱点と対策\n[じめん]2倍は変わらず残り、特に[earthquake]・[earth-power]をそのまま受けてしまう。耐久70/80/80はメガの中でも薄く反撃一発で体力半分が飛ぶため、先制技([bullet-punch]・[ice]-shard)やスカーフガブリアスのような脅威の前では無理押しせず退く判断が必要だ。テラスタル[こおり]で[じめん]弱点を反転させるか、[でんき]で火力を極大化する二択が実戦解となる。\n\n## 推奨技構成\n[thunderbolt]は常に主力STABで、[volt-switch]はサイクルプランの心臓だ。三つ目は[flamethrower]で[はがね]・[くさ]後出しを罰し、最後は[hidden-power] [こおり]で[じめん]・[ドラゴン]軸を突く。チームによっては[flamethrower]を[overheat]に、[hidden-power]を[thunder-wave]へ差し替える変形も存在する。基本形はサイクルピボット、変形はキラー寄りの性格を帯びる。\n\n## 道具・特性・テラスタル\n道具はメガストーン[manectite]固定だ。特性はメガシンカ後[intimidate]で自動固定され、性格は素早さ最大化のため[timid]が標準となる。テラスタルは[でんき]で[thunderbolt]火力を一段引き上げるか、[こおり]で[じめん]弱点を反転させて生存力を得る二択が核心となる。\n\n## 相性の良いパートナー\n[じめん]タイプを処理してくれる[くさ]・[みず]パートナーが必須で、特に[みず]ピボットと組ませれば[volt-switch]サイクルが無限に回る。相手の特殊壁の前では[taunt]使いを添えて積みプレイを妨害すべきだ。先制技要員を一枚追加しておけば、[メガライボルト]退場後のクリーンアップも滑らかに進行する。\n\n## 立ち回り\n最初の着地は必ず[intimidate]バフが必要なターンに合わせ、以降は[volt-switch]で位置取りを変えながらHPを温存する。[thunderbolt]は確定KOタイミングでのみ押し、反撃ターンを最小化する。テラスタルは[じめん]弱点技を踏むのが確定した瞬間に切ってターンを買い取り、[intimidate]の再利用を最大化する。",
+  "tags": [
+    "hoenn",
+    "electric",
+    "mega",
+    "intimidate",
+    "special-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

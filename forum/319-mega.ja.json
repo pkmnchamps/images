@@ -1,0 +1,75 @@
+{
+  "pokemonId": 319,
+  "nameKo": "메가샤크니아",
+  "nameEn": "sharpedo-mega",
+  "formKey": "mega",
+  "types": [
+    "water",
+    "dark"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "strong-jaw",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "dark",
+    "water"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[メガサメハダー] バトル運用ガイド",
+  "summary": "[strong-jaw]で牙技の威力が1.5倍補正される[みず]・[あく]高速物理アタッカー。[crunch]・[ice-fang]・[psychic-fangs]の三重牽制構成が核となる。",
+  "strengths": [
+    "[strong-jaw]で牙技の威力を1.5倍補正",
+    "攻撃140+素早さ105の高速物理火力",
+    "[crunch]+[ice-fang]+[psychic-fangs]の広範囲牽制"
+  ],
+  "weaknesses": [
+    "[かくとう]・[でんき]・[むし]・[フェアリー]・[くさ]弱点多数",
+    "物理耐久70/70で極めて脆弱",
+    "メガシンカ前の[speed-boost]1ターンを失う"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "crunch",
+      "reason": "[strong-jaw]補正の主力[あく] STAB"
+    },
+    {
+      "move": "ice-fang",
+      "reason": "[strong-jaw]補正で[ドラゴン]・[くさ]・[ひこう]牽制"
+    },
+    {
+      "move": "psychic-fangs",
+      "reason": "[strong-jaw]補正+壁破壊で[かくとう]・[どく]を牽制"
+    },
+    {
+      "move": "protect",
+      "reason": "メガシンカ安全ターン確保"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "sharpedonite",
+      "reason": "メガシンカのための必須アイテム (sharpedonite)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガサメハダー]は[strong-jaw]特性によって牙系統の技威力が1.5倍補正される[みず]・[あく]高速物理アタッカーだ。[crunch]・[ice-fang]・[psychic-fangs]の三重構成で広範囲のタイプ牽制が可能となり、素早さ105+攻撃140で高速物理火力までしっかり確保する。\n\n## 強み\n[strong-jaw]は牙系統の技威力を1.5倍に補正する。[crunch]は自タイプ+補正で実効威力120相当となり、[ice-fang]は[ドラゴン]・[くさ]・[ひこう]・[じめん]牽制、[psychic-fangs]は[かくとう]・[どく]牽制+[light-screen]/[reflect]破壊機能まで兼ね備える。攻撃140+素早さ105の組み合わせはメタ高速圏で確実な物理火力となる。\n\n## 弱点と対策\n物理耐久70/70は極めて薄く、[bullet-punch]・[mach-punch]先制技一発で沈む。弱点タイプが5種もあり、特に[かくとう]・[でんき]弱点はメタで頻出する攻撃技だ。メガシンカ1ターン目は原種サメハダーの[speed-boost]特性が消えてしまうため、1ターンの速度損失を覚悟する必要がある。\n\n## 推奨技構成\n[crunch]は主力[あく] STABだ。[ice-fang]と[psychic-fangs]で広範囲牽制が可能で、相手パーティのタイプに合わせて使い分ける。[protect]はメガシンカターンの安全確保+パートナー積み機会の創出に必須となる。[waterfall]ではなく牙技3種を選ぶ方が[strong-jaw]補正の観点で圧倒的に効率的だ。\n\n## 道具・特性・テラスタル\n道具は[sharpedonite]固定となる。特性はメガシンカ後[strong-jaw]へ自動転換する。テラスタルは[あく]で[crunch]自タイプ中乗せ補正を極大化するか、[みず]で[でんき]弱点は残すものの自タイプ補正+[かくとう]耐性を獲得する選択が主軸となる。\n\n## 相性の良いパートナー\n[tailwind]セッターで超高速を維持し、[fake-out]使いで1ターンの保護を作ることが必須だ。[かくとう]・[でんき]弱点カウンターとして[エスパー]・[じめん]パートナーを配置する。物理耐久の薄さを補うため[intimidate]使いを採用するのも有効だ。\n\n## 立ち回り\nメガシンカ1ターン目は[protect]で安全確保し、次のターンから[crunch]・[ice-fang]・[psychic-fangs]で高速火力を解き放つ。相手パーティタイプに応じて牙3種を柔軟に選択し、物理耐久不足のため後出しタイミングは慎重に計算する。HPが半分以下に落ちたら無理せず交代して[protect]からの再着地を準備する。[psychic-fangs]は[aurora-veil]・[reflect]・[light-screen]を破砕する唯一のルートで、壁貼りチーム相手には最優先で差し込みたい一手だ。テラスタルは弱点技を読み切った瞬間に即切りで、[あく]を切れば先制技で沈むリスクがそのまま残る点に注意してスピードマネジメントを徹底する。",
+  "tags": [
+    "hoenn",
+    "water",
+    "dark",
+    "mega",
+    "strong-jaw",
+    "physical-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

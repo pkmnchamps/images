@@ -1,0 +1,73 @@
+{
+  "pokemonId": 359,
+  "nameKo": "메가앱솔",
+  "nameEn": "absol-mega",
+  "formKey": "mega",
+  "types": [
+    "dark"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "magic-bounce",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "dark",
+    "ghost"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[メガアブソル] バトル運用ガイド",
+  "summary": "[magic-bounce]で状態異常・設置を反射しつつ、攻撃150・素早さ115の高速物理アタッカー。[sucker-punch]先制技と[knock-off]ユーティリティも兼備。",
+  "strengths": [
+    "[magic-bounce]で状態異常・設置技を反射",
+    "攻撃150+素早さ115の高速物理火力",
+    "[sucker-punch]先制技のフィニッシャー"
+  ],
+  "weaknesses": [
+    "[かくとう]・[むし]・[フェアリー]弱点",
+    "耐久65/60/60で極度に脆弱",
+    "メガシンカ前の[pressure]ターン"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "play-rough",
+      "reason": "[かくとう]・[ドラゴン]・[あく]牽制のメイン物理攻撃"
+    },
+    {
+      "move": "sucker-punch",
+      "reason": "自タイプ先制技フィニッシャー"
+    },
+    {
+      "move": "knock-off",
+      "reason": "[あく] STAB+道具破壊ユーティリティ"
+    },
+    {
+      "move": "swords-dance",
+      "reason": "攻撃2段階積みセットアップ"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "absolite",
+      "reason": "メガシンカのための必須アイテム (absolite)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガアブソル]は[magic-bounce]特性によって相手の状態異常・設置を反射しながら、攻撃150+素早さ115の高速物理火力を解き放つ攻撃型ユーティリティアタッカーだ。[sucker-punch]自タイプ先制技まで採用可能で、スピード超過者への対応力も同時に備える。\n\n## 強み\n[magic-bounce]は[stealth-rock]・[taunt]・[thunder-wave]等の変化技を反射する。攻撃150+素早さ115はメガアタッカー中でも最上位クラスの攻撃プロフィールで、[sucker-punch]自タイプ先制技によってスカーフ使い以上の速度帯にも対応可能となる。[knock-off]による道具破壊は相手チームのユーティリティを永続的に封殺する決定的な一手だ。\n\n## 弱点と対策\n耐久65/60/60は極度に低く、弱点攻撃一発で確実に沈む。[かくとう]・[むし]・[フェアリー]弱点はメタ主要の攻撃タイプなので、後出しタイミングが極めて限定される。メガシンカ前の1ターンは[pressure]状態で、[magic-bounce]効果が有効化されていない点に常に注意する必要がある。\n\n## 推奨技構成\n[play-rough]は[かくとう]・[ドラゴン]・[あく]牽制のメインで、[メガアブソル]自身の[あく]弱点を逆利用する位置付けだ。[sucker-punch]は自タイプ先制技フィニッシャーとして必須となる。[knock-off]は[あく] STAB+道具破壊ユーティリティで盤面全体を締め上げる。[swords-dance]は積み選択だが耐久の薄さから[protect]との取捨は状況次第だ。\n\n## 道具・特性・テラスタル\n道具は[absolite]固定となる。特性はメガシンカ後[magic-bounce]へ転換する。テラスタルは[あく]で自タイプ中乗せ+[sucker-punch]火力を極大化するか、[ゴースト]で[かくとう]・[ノーマル]無効+[エスパー]完全無効の防御型転換が二大選択肢となる。\n\n## 相性の良いパートナー\n[fake-out]で1ターン保護し、[intimidate]使いで物理耐久を補強することが必須だ。[かくとう]弱点カウンターとして[フェアリー]・[エスパー]パートナーを、[むし]弱点として[ひこう]・[ほのお]パートナーを配置する布陣が安定する。\n\n## 立ち回り\n耐久の薄さゆえ先発ではなく相手の積み交代読みターンに後出しで投入する。[magic-bounce]で[stealth-rock]・[taunt]を反射した後、[play-rough]・[knock-off]で高速攻撃を叩き込む。[sucker-punch]は高速アタッカーのフィニッシャーとしてタイミングを見極め、積み機会があれば[swords-dance]を踏んでスイープを試みる判断が勝敗を分ける。メガシンカ前のターンは[magic-bounce]が未発動の状態なので、この1ターンに[stealth-rock]を踏まされる構築ならフォグかラピッドスピン持ちをチームに必ず1枚混ぜる。[sucker-punch]は相手が攻撃技を選択したときのみヒットする読み技のため、[substitute]持ち相手では空振りリスクを計算して[play-rough]を選ぶ判断が重要だ。",
+  "tags": [
+    "hoenn",
+    "dark",
+    "mega",
+    "magic-bounce",
+    "physical-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

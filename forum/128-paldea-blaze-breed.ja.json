@@ -1,0 +1,83 @@
+{
+  "pokemonId": 128,
+  "nameKo": "팔데아켄타로스(화염)",
+  "nameEn": "tauros-paldea-blaze-breed",
+  "formKey": "paldea-blaze-breed",
+  "types": [
+    "fighting",
+    "fire"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "intimidate",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "fire",
+    "fighting"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[パルデアケンタロス(ブレイズ種)] バトル運用ガイド",
+  "summary": "[intimidate]に[ほのお]・[かくとう]複合自タイプを併せ持つ高速物理アタッカー。[raging-bull]のシグネチャで壁破壊まで担う。",
+  "strengths": [
+    "[intimidate]サポートに[ほのお]・[かくとう]の両自タイプ",
+    "[raging-bull]のタイプ可変+壁破壊シグネチャ",
+    "攻撃110+素早さ100の高速火力"
+  ],
+  "weaknesses": [
+    "[みず]・[じめん]・[ひこう]・[エスパー]弱点が多い",
+    "75/105/70の耐久は平均水準",
+    "[ほのお]自タイプは晴れなしだと固定火力"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "raging-bull",
+      "reason": "シグネチャ — タイプ可変+[light-screen]/[reflect]破壊"
+    },
+    {
+      "move": "close-combat",
+      "reason": "[かくとう]自タイプの主力"
+    },
+    {
+      "move": "flare-blitz",
+      "reason": "[ほのお]自タイプの代替主力"
+    },
+    {
+      "move": "protect",
+      "reason": "安全ターン確保のユーティリティ"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "life-orb",
+      "reason": "物理火力を1.3倍に底上げする汎用枠"
+    },
+    {
+      "item": "choice-band",
+      "reason": "攻撃1.5倍で超火力を叩き出す特化枠"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "HPが半分を割った時に自動回復する保険"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[パルデアケンタロス(ブレイズ種)]は[ほのお]・[かくとう]複合タイプの高速物理アタッカーだ。[intimidate]サポートに加え[raging-bull]のシグネチャ技が[ほのお]・[かくとう]両自タイプで運用可能な柔軟さを与え、メタにおける便利な物理ブレーカー枠として機能する。[close-combat]と[flare-blitz]の両面圧力は受け駒の選定を難しくする。\n\n## 強み\n[raging-bull]は品種別にタイプが変わるシグネチャ技で、ブレイズ種では[ほのお]タイプで発動する。威力90+[light-screen]/[reflect]破壊の付加効果により壁パーティのカウンターまで兼ねられる。[intimidate]+攻撃110+素早さ100のプロファイルは[かくとう]・[ほのお]の両自タイプで広範囲を牽制でき、[くさ]・[こおり]・[むし]・[はがね]・[あく]・[ノーマル]を面で刺す。\n\n## 弱点と対策\n[みず]・[じめん]・[ひこう]・[エスパー]の4種弱点で耐性プロファイルは薄い。特に[みず]タイプの[hydro-pump]・[surf]系には即死の可能性が高く、75/105/70の耐久は平均水準のため弱点攻撃への対応力は低い。晴れがないと[ほのお]自タイプの火力補正が乗らないため、天候依存度が高くなる点にも注意したい。\n\n## 推奨技構成\n[raging-bull]はシグネチャの[ほのお]自タイプ+壁破壊で必須枠、[close-combat]は[かくとう]自タイプ主力だ。[flare-blitz]は[ほのお]自タイプの代替主力として[raging-bull]の代わりに選択可能で、壁破壊を捨てる代わりに高威力を取りたい場合に採用する。[protect]はダブル環境での安全ターン確保や味方との連携用の常備枠となる。\n\n## 道具・特性・テラスタル\n道具は[life-orb]が基本で、物理火力を1.3倍に底上げする。[choice-band]は超火力特化、[sitrus-berry]はHP半減時の自動回復保険だ。特性は[intimidate]で固定、anger-pointは実戦での再現性が低い。テラスタルは[ほのお]で[raging-bull]・[flare-blitz]の自タイプを重ねるか、[かくとう]で[close-combat]の一撃火力を極大化する二方向が主流になる。\n\n## 相性の良いパートナー\n[みず]・[じめん]弱点のカウンターとして[でんき]・[くさ]パートナーを並べ、[エスパー]弱点への対応で[あく]・[むし]パートナーも加える。[tailwind]セッターで素早さをさらに確保すれば最上位帯のアタッカーにも先制を取れる。晴れパに組み込んで[ほのお]自タイプの火力を安定化させるのも一つの設計思想だ。\n\n## 立ち回り\n先発で[intimidate]を発動させた後、[raging-bull]で壁を砕きながら攻撃し、[close-combat]・[flare-blitz]で主力の削りを叩き込む。[みず]タイプが見えたら即座に交代が必須で、[じめん]タイプには[ほのお]技を通せないためベンチの選択肢を考慮しておく。テラスタルは弱点攻撃確定の瞬間まで温存しよう。",
+  "tags": [
+    "paldea",
+    "fighting",
+    "fire",
+    "regional-form",
+    "intimidate",
+    "physical-attacker"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

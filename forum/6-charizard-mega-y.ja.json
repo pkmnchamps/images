@@ -1,0 +1,75 @@
+{
+  "pokemonId": 6,
+  "nameKo": "메가리자몽Y",
+  "nameEn": "charizard-mega-y",
+  "formKey": "mega-y",
+  "types": [
+    "fire",
+    "flying"
+  ],
+  "roles": [
+    "special-attacker",
+    "weather-setter"
+  ],
+  "recommendedAbility": "drought",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "fire",
+    "flying"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[メガリザードンY] バトル運用ガイド",
+  "summary": "[drought]で晴れ天候を自動展開する[ほのお]・[ひこう]特殊アタッカー。特攻159+晴れ下の[fire-blast]・[solar-beam]シナジーが核心。",
+  "strengths": [
+    "[drought]で晴れ天候を自動展開",
+    "特攻159のメガ最上級の特殊火力",
+    "晴れ下の[fire-blast]1.5倍+[solar-beam]1ターン発動"
+  ],
+  "weaknesses": [
+    "[いわ]4倍弱点——[stealth-rock]でHP1/2",
+    "[でんき]・[みず]弱点",
+    "物理耐久78/78は平均"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "fire-blast",
+      "reason": "晴れ1.5倍+自属性の主力[ほのお]特殊"
+    },
+    {
+      "move": "solar-beam",
+      "reason": "晴れ下は1ターン発動の[くさ]牽制技"
+    },
+    {
+      "move": "air-slash",
+      "reason": "[ひこう]自属性+ひるみの追加効果"
+    },
+    {
+      "move": "protect",
+      "reason": "メガシンカのターンを安全に確保"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "charizardite-y",
+      "reason": "メガシンカのための必須アイテム (charizardite-y)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガリザードンY]は[drought]特性で晴れ天候を自動展開する[ほのお]・[ひこう]特殊アタッカーだ。特攻159のメガ最上級特殊火力+晴れ下の[fire-blast]威力1.5倍補正+[solar-beam]1ターン発動の完璧なシナジーが核心運用法となる。\n\n## 強み\n[drought]は登場時に自動で晴れ天候を展開する。晴れ下の[ほのお]タイプ技威力1.5倍+自属性1.5倍+特攻159=メタ最上級の特殊火力を実現できる。[solar-beam]は晴れ下で1ターン発動となり即座に使用可能、[みず]タイプ牽制の核心技として機能する。[air-slash]は[くさ]・[かくとう]牽制サブとしてひるみの追加効果まで兼ね、単独でゲームを制圧できる能力を備える。\n\n## 弱点と対策\n[いわ]4倍弱点は[stealth-rock]登場時にHP1/2減少+[stone-edge]・[rock-slide]一発の危険を伴う。[でんき]・[みず]弱点も致命的だ。物理耐久78/78は平均水準で、物理アタッカーの交代出し受けは慎重に判断する必要がある。[stealth-rock]除去は事実上の前提条件として編成段階から用意しておきたい。\n\n## 推奨技構成\n[fire-blast]は晴れ1.5倍+自属性の主力[ほのお]特殊技。[solar-beam]は晴れ専用の[くさ]牽制1ターン発動技で、[みず]・[いわ]・[じめん]を一括で処理できる核心枠となる。[air-slash]は[ひこう]自属性+30%ひるみで変数を作り、[protect]はメガシンカのターン安全確保に必須だ。ダブル用途では[heat-wave]で全体を焼く選択肢もある。\n\n## 道具・特性・テラスタル\n道具は[charizardite-y]固定。特性はメガシンカ後に[drought]へ転換される。テラスタルは[ほのお]で[fire-blast]自属性を重ねる補正を極大化するか、[ひこう]で[いわ]4倍弱点を残しつつ[air-slash]自属性を厚くする選択となる。どちらを採るかはチームの耐性補完とハザード対応状況に応じて決定したい。\n\n## 相性の良いパートナー\n晴れパーティのエース役で、[torkoal]・[groudon]などの晴れセッターとのシナジーが最大化する。晴れ活用パートナーである[venusaur]([chlorophyll])、[scovillain-mega]などとの相性も良く、[いわ]・[でんき]弱点カウンターとして[water]・[ground]パートナーの配置で耐性補完を整えるのが基本だ。ハザード除去担当も事実上必須で、[defog]・[rapid-spin]持ちを1枚は編成に加えたい。\n\n## 立ち回り\n交代出し1ターン目に[drought]で晴れを展開し、[protect]で安全ターンを確保した後[fire-blast]・[solar-beam]の連打でゲームテンポを掌握する。[みず]タイプが見えた瞬間は[solar-beam]を即発動、[いわ]タイプが見えたら即交代。晴れパーティの中心アタッカーとして運用する。",
+  "tags": [
+    "kanto",
+    "fire",
+    "flying",
+    "mega",
+    "drought",
+    "special-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

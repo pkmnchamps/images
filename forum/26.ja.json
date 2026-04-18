@@ -1,0 +1,80 @@
+{
+  "pokemonId": 26,
+  "nameKo": "라이츄",
+  "nameEn": "raichu",
+  "formKey": null,
+  "types": [
+    "electric"
+  ],
+  "roles": [
+    "special-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "lightning-rod",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "electric",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[ライチュウ] バトル運用ガイド",
+  "summary": "素早さ110と[nasty-plot]積みを持つ軽量[でんき]特殊スイーパー。ピカチュウと異なり独立した決定力を発揮する。",
+  "strengths": [
+    "素早さ110でメタ上位群を追い抜く",
+    "[nasty-plot]積み後特攻180水準の火力",
+    "[lightning-rod]で味方の[でんき]攻撃を保護"
+  ],
+  "weaknesses": [
+    "60/55/80の低耐久で積み余裕が乏しい",
+    "[じめん]2倍弱点は健在",
+    "先制技使いに脆弱"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "thunderbolt",
+      "reason": "主力[でんき] STAB"
+    },
+    {
+      "move": "focus-blast",
+      "reason": "[はがね]・[いわ]牽制の[かくとう]サブ"
+    },
+    {
+      "move": "volt-switch",
+      "reason": "ピボット利益+スイッチユーティリティ"
+    },
+    {
+      "move": "nasty-plot",
+      "reason": "特攻1回積みでスイープ移行"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "積み初手の保険用"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "素早さ軸補完用の代替"
+    },
+    {
+      "item": "magnet",
+      "reason": "電気技のSTAB火力を強化する専用補正アイテム"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ライチュウ]は[でんき]単タイプの軽量特殊スイーパーで、素早さ110と[nasty-plot]積みを組み合わせて独立したフィニッシャーとして機能する。ピカチュウと違いlight-ballなしでも十分な決定力を発揮し、[lightning-rod]で味方の[でんき]攻撃を引き寄せる支援役も兼業可能で、構築上の自由度が高いのが強みとなる。\n\n## 強み\n無補正素早さ110はメタ上位群の大半を追い抜く数値で、[nasty-plot]1回で特攻が2倍に跳ね上がり[thunderbolt]がメタ上位アタッカー水準のフィニッシャーと化す。[focus-blast]は[はがね]・[いわ]・[ノーマル]牽制の必須サブウェポン、[volt-switch]はピボット利益を生み不利マッチアップから離脱可能だ。[lightning-rod]は味方保護と特攻1ランク上昇の二重効果を持つ。\n\n## 弱点と対策\n60/55/80の耐久では積みの余裕がほぼない。[じめん]2倍は構造的弱点で、先制技使いに一発を許せば積みプランが崩れる。素早さ110はスカーフ使いに追い抜かれるため、積みタイミングは必ず安全なターンに行う必要がある。紙耐久の宿命としてチーム全体で積みターン生成をサポートしないと機能しないポジションだ。\n\n## 推奨技構成\n[thunderbolt]を主力STABに固定して、[focus-blast]で[はがね]・[いわ]牽制を解決する。[volt-switch]はピボットユーティリティで不利マッチアップから離脱する際に有用で、チームピボットラインと結合すれば安全な着地ターンを生成してくれる。最後の枠は[nasty-plot]で積んでスイープフィニッシャー役を完成させる。支援型なら[encore]の検討も視野に入る。\n\n## 道具・特性・テラスタル\n道具は[focus-sash]が基本で、積み初手の保険を担当する。[choice-scarf]は素早さ軸ごと底上げしてリベンジキラーに使う変形、[magnet]は[thunderbolt]火力を追加補正する。特性は[lightning-rod]固定。テラスタルは[でんき]タイプでSTAB火力を押し上げるか、[フェアリー]タイプで[ドラゴン]・[あく]・[かくとう]弱点を反転する守勢型選択が実戦的となる。\n\n## 相性の良いパートナー\n[ライチュウ]は[nasty-plot]積みタイミングが必須なので、相手の交代を強要できる[fake-out]リードやピボット使いと組むのが望ましい。[じめん]弱点カウンターとして[ひこう]・[くさ]パートナーを配置し、後続クリーナーが[ライチュウ]のチップを得点に変換する。[stealth-rock]支援があれば[thunderbolt]の確定キル範囲が大幅に広がり、積み後の詰め圧が高まる。\n\n## 立ち回り\n安全なターンに[nasty-plot]を1回積み、次のターンから[thunderbolt]・[focus-blast]でスイープする。[volt-switch]は不利マッチアップでの離脱用のみに使用し、テラスタルは弱点技を確定で受ける瞬間に即発動する運用が安全だ。積みに失敗した場合は無理に粘らず、ピボットで下げて次の着地機会を待つ柔軟性が求められる。",
+  "tags": [
+    "kanto",
+    "electric",
+    "special-sweeper",
+    "nasty-plot"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

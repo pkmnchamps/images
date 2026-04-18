@@ -1,0 +1,75 @@
+{
+  "pokemonId": 448,
+  "nameKo": "메가루카리오",
+  "nameEn": "lucario-mega",
+  "formKey": "mega",
+  "types": [
+    "fighting",
+    "steel"
+  ],
+  "roles": [
+    "mixed-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "adaptability",
+  "recommendedNature": "naive",
+  "recommendedTera": [
+    "fighting",
+    "steel"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 16,
+    "def": 0,
+    "spa": 16,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[メガルカリオ] バトル運用ガイド",
+  "summary": "[adaptability]で自己STAB補正が1.5倍→2倍になる[かくとう]・[はがね]混合アタッカー。攻撃145+特攻140の両面運用が可能。",
+  "strengths": [
+    "[adaptability]自己STAB補正2倍(基本1.5倍→2倍)",
+    "攻撃145+特攻140の両面運用可能",
+    "素早さ112の高速圏"
+  ],
+  "weaknesses": [
+    "[ほのお]・[じめん]・[かくとう]弱点",
+    "耐久70/88/70は普通水準",
+    "メガシンカ前の[justified]/[inner-focus]1ターン"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "close-combat",
+      "reason": "[adaptability]2倍の[かくとう]自己STAB主力"
+    },
+    {
+      "move": "meteor-mash",
+      "reason": "[adaptability]2倍の[はがね]自己STAB+攻撃上昇確率"
+    },
+    {
+      "move": "bullet-punch",
+      "reason": "[adaptability]補正のかかる先制技フィニッシャー"
+    },
+    {
+      "move": "protect",
+      "reason": "メガシンカ着地の安全確保"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "lucarionite",
+      "reason": "メガシンカのための必須アイテム (lucarionite)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガルカリオ]は[adaptability]特性で自己STAB技の威力補正が1.5倍から2倍に強化される[かくとう]・[はがね]混合アタッカーだ。攻撃145+特攻140のほぼ同等な両面攻撃能力値で物理・特殊どちらも運用でき、素早さ112はメタ高速圏で安定した先制権を確保する。特性変化と素早さ帯の両立でメガ[かくとう]枠では最も攻撃的な一枚といえる。\n\n## 強み\n[adaptability]は自己STAB補正を1.5倍から2倍に引き上げる仕様で、[close-combat]威力120+[adaptability]2倍=実質威力240の爆発的な物理火力となる。[aura-sphere]特殊でも同じ補正を受けるため、相手の物理・特殊受けどちらにも回答を用意できる。[bullet-punch]の先制技も自己STAB2倍補正で[フェアリー]・[こおり]・[いわ]牽制が可能で、素早さ帯の上を取られても締めのKOを取れる。物理・特殊両面運用は相手の壁構成に応じた柔軟性を与え、読み合いを一方的に仕掛けられる。\n\n## 弱点と対策\n[ほのお]・[じめん]・[かくとう]弱点はメタ核心の攻撃タイプで、特に[ほのお]・[じめん]弱点はヒードラン・ガブリアス等の上位アタッカーに対して致命的だ。耐久70/88/70は普通水準で、弱点攻撃には一発圏内に入ることが多い。メガシンカ1ターン目は[justified]/[inner-focus]状態のため[adaptability]効果が働かず、火力計算を一段下げて見積もる必要がある。\n\n## 推奨技構成\n[close-combat]は[adaptability]2倍の自己STAB主力技で、使用後の防御・特防ダウンを覚悟のうえでKO圏で押す。[meteor-mash]は[はがね]自己STAB+攻撃上昇確率を狙い、積みと火力を同時にこなす。[bullet-punch]は自己STAB2倍の先制技で素早さ112超過勢へのフィニッシャーとなる。[protect]はメガシンカ着地ターンの安全確保に不可欠で、相方の動きを見て選択できる利点もある。特殊運用なら[aura-sphere]・[flash-cannon]を両面サブとして差し込むと物理受けを崩せる。\n\n## 道具・特性・テラスタル\n道具は[lucarionite]固定で選択の余地はない。特性はメガシンカ後に[adaptability]へ切り替わる。テラスタルは[かくとう]テラで[close-combat]の自己STAB補正を極大化するか、[はがね]テラで[ほのお]弱点維持を受け入れつつ[meteor-mash]の重ね補正と[フェアリー]4倍耐性を取る択がある。チーム構成次第で選び分けるのが肝要だ。\n\n## 相性の良いパートナー\n[ほのお]・[じめん]弱点のカウンターに[みず]・[くさ]パートナーが必須だ。[intimidate]持ちで物理耐久を補助し、[fake-out]で1ターンの保護構成を敷くとメガシンカの着地コストが減る。[tailwind]で素早さを追加確保すればスカーフ勢も上から叩けるようになり、スイープが安定する。\n\n## 立ち回り\nメガシンカ+[protect]で安全ターンを確保した後、[close-combat]・[meteor-mash]で高速連打する。相手スピード超過勢には[bullet-punch]先制技でフィニッシュし、[ほのお]・[じめん]タイプ露出時は即交代、テラスタルは弱点防御用か火力極大化用か状況で判断する。HPが1/3を切ったら無理せず後続に繋ぐのが鉄則だ。",
+  "tags": [
+    "sinnoh",
+    "fighting",
+    "steel",
+    "mega",
+    "adaptability",
+    "mixed-sweeper"
+  ],
+  "updatedAt": "2026-04-14T00:00:00+09:00"
+}

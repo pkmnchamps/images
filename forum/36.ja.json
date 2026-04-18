@@ -1,0 +1,76 @@
+{
+  "pokemonId": 36,
+  "nameKo": "픽시",
+  "nameEn": "clefable",
+  "formKey": null,
+  "types": [
+    "fairy"
+  ],
+  "roles": [
+    "wall",
+    "support"
+  ],
+  "recommendedAbility": "magic-guard",
+  "recommendedNature": "bold",
+  "recommendedTera": [
+    "fairy",
+    "steel"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 32,
+    "spa": 2,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "ja",
+  "title": "[ピクシー] バトル運用ガイド",
+  "summary": "[magic-guard]で[どく]・やけど・フィールドダメージを完全無効化する[フェアリー]単タイプ物理壁。[stealth-rock]まで揃う多目的タンク。",
+  "strengths": [
+    "[magic-guard]で[どく]・やけど・[stealth-rock]を完全無効",
+    "[soft-boiled]回復で長期戦を維持",
+    "[stealth-rock]ユーティリティでフィールド掌握"
+  ],
+  "weaknesses": [
+    "[どく]・[はがね]2倍弱点",
+    "素早さ60で積みアタッカーに脆い",
+    "決定力不足で耐久型を突破できない"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "moonblast",
+      "reason": "主力[フェアリー] STAB"
+    },
+    {
+      "move": "soft-boiled",
+      "reason": "長期戦を支える回復ユーティリティ"
+    },
+    {
+      "move": "stealth-rock",
+      "reason": "フィールド整備ユーティリティ"
+    },
+    {
+      "move": "knock-off",
+      "reason": "相手の道具破壊+ユーティリティ"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "leftovers",
+      "reason": "長期戦の回復量を確保"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "序盤の回復カード"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ピクシー]は[フェアリー]単タイプの物理壁で、[magic-guard]特性によって[どく]・やけど・[stealth-rock]等の間接ダメージを完全に無効化するユニークなポジションを有する。95/73/90の両耐久は突出してはいないが、間接ダメージ無効化のおかげで実質耐久は遥かに高く、長期戦タンクとして安定した運用が可能だ。\n\n## 強み\n[magic-guard]はメタ全ての[どく]・やけど・[stealth-rock]・[leech-seed]ダメージを無効化する強力な特性だ。[ピクシー]はこの特性と[soft-boiled]回復を組み合わせて、一度着地すればほぼ永続的に居座れる。さらに[stealth-rock]ユーティリティまで取り込み、チームのフィールド掌握を一体で担うことができる。[moonblast]は[フェアリー] STABで[ドラゴン]・[かくとう]・[あく]を切り落とす決定的な牽制カードとなる。\n\n## 弱点と対策\n[どく]・[はがね]2倍弱点はメタに多く、特に[iron-head]・[gunk-shot]使いには後出し自体が危険だ。素早さ60は積みアタッカーが自由に積める数値のため、相手の積みスイーパーが入ってきたら[knock-off]で牽制するか交代を強要する必要がある。決定力が低いため耐久型相手を突破できない限界もあり、突破力あるパートナーとの分業が前提となる。\n\n## 推奨技構成\n[moonblast]を主力[フェアリー] STABに固定し、[soft-boiled]でHPを維持する。[stealth-rock]はチームのフィールド掌握ユーティリティとして必須で、毎試合の勝率を大きく引き上げる。最後の枠は[knock-off]で相手の道具を破壊し、積みアタッカーの[leftovers]・[sitrus-berry]を遮断するユーティリティとして使う。[calm-mind]積み変形も存在する。\n\n## 道具・特性・テラスタル\n道具は[leftovers]が基本で、[magic-guard]と組み合わせて[どく]ダメージなしに追加回復だけを蓄積する。[sitrus-berry]は序盤に一撃の回復が必要なコンセプト向けだ。特性は[magic-guard]が絶対で、unawareは積みカウンター用の変形となる。テラスタルは[フェアリー]タイプでSTAB火力を上げるか、[はがね]タイプで[どく]・[はがね]弱点を反転させる防御型が実戦的だ。\n\n## 相性の良いパートナー\n[ピクシー]は[どく]・[はがね]弱点カウンターとして[じめん]・[ほのお]パートナーが必要で、攻撃分担のため決定力のあるアタッカー1枚をチームに据える。[stealth-rock]支援が被らないよう他のフィールドユーティリティと組み合わせ、後続クリーナーに長期戦の基盤を提供する設計が望ましい。\n\n## 立ち回り\n先発または2ターン目交代で着地して[stealth-rock]を撒き、以降は[soft-boiled]回復ループを回しながら[moonblast]でダメージを蓄積する。[knock-off]は積みアタッカー着地のタイミングで使用し、テラスタルは[どく]・[はがね]弱点技を確定で踏む瞬間に即発動して生存ラインを守る。",
+  "tags": [
+    "kanto",
+    "fairy",
+    "wall",
+    "magic-guard"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

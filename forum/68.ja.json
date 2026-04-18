@@ -1,0 +1,80 @@
+{
+  "pokemonId": 68,
+  "nameKo": "괴력몬",
+  "nameEn": "machamp",
+  "formKey": null,
+  "types": [
+    "fighting"
+  ],
+  "roles": [
+    "physical-attacker",
+    "tank"
+  ],
+  "recommendedAbility": "no-guard",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "fighting",
+    "steel"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 0
+  },
+  "locale": "ja",
+  "title": "[カイリキー] バトル運用ガイド",
+  "summary": "[no-guard]で[dynamic-punch]が命中100%・混乱確定となる[かくとう]物理耐久型。トリックルームパーティの決定力軸を担う。",
+  "strengths": [
+    "[no-guard]+[dynamic-punch]で命中100%・混乱確定",
+    "攻撃130の耐久型[かくとう]アタッカー",
+    "[bullet-punch]先制技で素早さ欠点を補う"
+  ],
+  "weaknesses": [
+    "素早さ55で上位圏に確定後攻",
+    "[ひこう]・[エスパー]・[フェアリー]弱点",
+    "[trick-room]なしでは先制を取れない"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "dynamic-punch",
+      "reason": "[no-guard]で命中100%化する[かくとう] STAB"
+    },
+    {
+      "move": "knock-off",
+      "reason": "[ゴースト]・[エスパー]牽制+道具破壊の[あく]サブ"
+    },
+    {
+      "move": "stone-edge",
+      "reason": "[いわ]・[ひこう]牽制の必須サブ"
+    },
+    {
+      "move": "bullet-punch",
+      "reason": "素早さ欠点を補う先制技"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "leftovers",
+      "reason": "長期戦で回復量を確保"
+    },
+    {
+      "item": "life-orb",
+      "reason": "攻撃1.3倍の火力"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "先制の一発を耐える保険"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[カイリキー]は[かくとう]単タイプの物理耐久型で、隠れ特性[no-guard]がアイデンティティだ。[no-guard]は自他の全技命中率を100%に固定する特性で、この効果により[dynamic-punch](威力100・命中50・混乱100%)が命中100%かつ混乱確定の破格の技に変換される。素早さ55という致命的欠点はトリックルームパーティと組むか、[bullet-punch]で補う運用が基本形となる。\n\n## 強み\n[no-guard]+[dynamic-punch]の組合せはメタにおいて唯一無二のカードだ。威力100のSTABが100%命中しながら100%混乱を付与するため、相手が自傷確率33%に引っかかれば次ターンから事実上無力化される。攻撃130は耐久投資EV状態でもメタ上位の物理火力を生み、90/80/85の耐久は交代インプランを許容する。[bullet-punch]は低素早さの欠点を先制技で直接補う核となる枠だ。\n\n## 弱点と対策\n素早さ55はメタの大半のアタッカーから確定後攻を強要されることを意味する。[ひこう]・[エスパー]・[フェアリー]2倍弱点はメタに多く、特に[ゴースト]タイプには[dynamic-punch]が無効のため[knock-off]または[stone-edge]で対応する必要がある。トリックルームパーティでない場合は[bullet-punch]依存度が上がり、先制技を読まれると脆い展開となる。\n\n## 推奨技構成\n[dynamic-punch]を主力[かくとう] STABで固定して[no-guard]の利得を最大化する。[knock-off]は[ゴースト]・[エスパー]牽制+相手道具破壊の二重ユーティリティ枠で、[stone-edge]は[いわ]・[ひこう]牽制の必須サブとして[no-guard]により命中100%となる。最後の枠は[bullet-punch]で素早さ欠点を補う。変形として[heavy-slam]を入れて[フェアリー]牽制を強化する選択もある。\n\n## 道具・特性・テラスタル\n道具は[leftovers]が基本でHP投資耐久型コンセプトの長期戦生存性を強化する。[life-orb]はダメージ優先コンセプト用、[focus-sash]は積み初手保険用だ。特性は[no-guard]固定で[guts]・[steadfast]は互換性に劣る。テラスタルは[かくとう]タイプでSTAB火力を伸ばすか、[はがね]タイプで[ひこう]・[フェアリー]・[エスパー]弱点をひっくり返す防御型が実戦的である。\n\n## 相性の良いパートナー\n[カイリキー]はトリックルームパーティの決定力軸なので、トリックルーム設定役(ラブカス等)と基本セットで組まれる。[エスパー]・[フェアリー]弱点カウンターとして[あく]・[はがね]パートナーを配置し、相手[ゴースト]スイッチ予測に備え[knock-off]ベースのユーティリティラインを同居させる。後続クリーナーが[dynamic-punch]混乱ターンを得点に結びつける設計が基本だ。\n\n## 立ち回り\nトリックルームが展開された状態で[dynamic-punch]を連射し相手を混乱状態に追い込む。[ゴースト]が出てくれば[knock-off]で道具破壊+牽制を同時に行う。[bullet-punch]は弱った高速アタッカー専用のフィニッシャーとして運用し、テラスタルは弱点技が確定で入るタイミングで即発動するのが基本だ。",
+  "tags": [
+    "kanto",
+    "fighting",
+    "no-guard",
+    "trick-room"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

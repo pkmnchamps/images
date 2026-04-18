@@ -1,0 +1,75 @@
+{
+  "pokemonId": 6,
+  "nameKo": "메가리자몽X",
+  "nameEn": "charizard-mega-x",
+  "formKey": "mega-x",
+  "types": [
+    "fire",
+    "dragon"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "tough-claws",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "fire",
+    "dragon"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[メガリザードンX] バトル運用ガイド",
+  "summary": "[tough-claws]で接触技の威力を1.3倍補正する[ほのお]・[ドラゴン]物理アタッカー。[flare-blitz]・[dragon-claw]の自属性コンボが爆発的。",
+  "strengths": [
+    "[tough-claws]で接触技の威力を1.3倍補正",
+    "[ほのお]・[ドラゴン]複合自属性の広範囲牽制",
+    "攻撃130+素早さ100の高速圏"
+  ],
+  "weaknesses": [
+    "[ドラゴン]・[いわ]・[じめん]の弱点",
+    "耐久78/111/85は平均水準",
+    "メガシンカ前の[blaze]状態が1ターン残る"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "flare-blitz",
+      "reason": "[tough-claws]補正を受ける[ほのお]自属性接触主力"
+    },
+    {
+      "move": "dragon-claw",
+      "reason": "[tough-claws]補正を受ける[ドラゴン]自属性接触"
+    },
+    {
+      "move": "earthquake",
+      "reason": "[いわ]・[はがね]・[でんき]牽制のサブ"
+    },
+    {
+      "move": "protect",
+      "reason": "メガシンカのターンを安全に確保"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "charizardite-x",
+      "reason": "メガシンカのための必須アイテム (charizardite-x)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガリザードンX]はメガシンカ時に[ひこう]タイプが[ドラゴン]へ切り替わる独特のタイプ変化+[tough-claws]特性で接触技の威力が1.3倍補正される物理アタッカーだ。[flare-blitz]・[dragon-claw]の自属性接触技コンボが爆発的で、メガシンカ後は[じめん]技も有効な攻め筋となる。\n\n## 強み\n[tough-claws]は接触技の威力を1.3倍に引き上げる。[flare-blitz]威力120+tough-claws1.3倍+STAB1.5倍=実質威力234の爆発的[ほのお]自属性となり、[dragon-claw]も同等の補正を受ける。[ひこう]→[ドラゴン]のタイプ変化で[じめん]弱点を獲得する代わりに[dragon-claw]自属性が可能になり、[みず]・[でんき]弱点を抱えつつも[かくとう]耐性を獲得する。攻撃130+素早さ100の並びは中速圏の多くを置き去りにでき、物理エースとしての完成度が高い。\n\n## 弱点と対策\nメガ後[ドラゴン]タイプになることで[ドラゴン]・[いわ]・[じめん]弱点が生じる。耐久78/111/85は防御重視に改善されているが弱点攻撃にはやはり脆い。メガシンカ初ターンは通常の[blaze]状態で[tough-claws]効果がなく、[ひこう]タイプ特性ゆえ[じめん]無効の特権もない。[stealth-rock]削りもHP管理に影響する点は念頭に置いておきたい。\n\n## 推奨技構成\n[flare-blitz]は[tough-claws]補正を受ける[ほのお]自属性接触の主力だ。[dragon-claw]は[tough-claws]補正を受ける[ドラゴン]自属性接触で、反動を嫌う場面での主軸となる。[earthquake]は[いわ]・[はがね]・[でんき]牽制用のサブとして必須で、[ドラゴン]・[ほのお]組み合わせでは通せない[はがね]壁を突破する。[protect]はメガシンカターンの安全確保に一枠割き、ダブル運用では特に重要な役割を果たす。\n\n## 道具・特性・テラスタル\n道具は[charizardite-x]固定で代替はない。特性はメガシンカ後に自動で[tough-claws]へ転換される。テラスタルは[ほのお]で[flare-blitz]自属性を重ねる補正か、[ドラゴン]で[dragon-claw]自属性を重ねつつ[いわ]4倍抵抗を獲得する選択が実戦的だ。どちらも第一候補となる強力な選択肢である。\n\n## 相性の良いパートナー\n[ドラゴン]・[いわ]・[じめん]弱点カウンターとして[steel]・[フェアリー]・[water]パートナーを配置する。[intimidate]持ちで物理耐久を補助し、[tailwind]で素早さ100の上からさらに加速する構成も強力で、チームの軸として据えるなら高速クリーナーとの組み合わせが鉄板だ。\n\n## 立ち回り\nメガシンカ+[protect]で安全ターンを確保した後、[flare-blitz]・[dragon-claw]の高速物理火力を連打する。[tough-claws]補正で大半のアタッカーより優位に立てるが、[いわ]・[じめん]が見えた瞬間は即交代し、[flare-blitz]反動の管理も必須で、HP50%以下は反動で自滅しかねない点を意識して運用したい。",
+  "tags": [
+    "kanto",
+    "fire",
+    "dragon",
+    "mega",
+    "tough-claws",
+    "physical-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

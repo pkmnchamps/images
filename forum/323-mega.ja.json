@@ -1,0 +1,75 @@
+{
+  "pokemonId": 323,
+  "nameKo": "메가폭타",
+  "nameEn": "camerupt-mega",
+  "formKey": "mega",
+  "types": [
+    "fire",
+    "ground"
+  ],
+  "roles": [
+    "special-attacker",
+    "trick-room-attacker"
+  ],
+  "recommendedAbility": "sheer-force",
+  "recommendedNature": "quiet",
+  "recommendedTera": [
+    "fire",
+    "ground"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "ja",
+  "title": "[メガバクーダ] バトル運用ガイド",
+  "summary": "[sheer-force]で追加効果技の威力が30%補正される[ほのお]・[じめん]トリックルーム特殊アタッカー。素早さ20でトリルに最適化された設計。",
+  "strengths": [
+    "[sheer-force]で[heat-wave]・[earth-power]の威力30%補正",
+    "特攻145+[sheer-force]=メタ最上級の特殊火力",
+    "素早さ20でトリックルーム環境に最適"
+  ],
+  "weaknesses": [
+    "[みず]4倍弱点—[hydro-pump]・[surf]で即死",
+    "[じめん]・[いわ]弱点も追加で存在",
+    "トリックルームなしでは常に後手"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "heat-wave",
+      "reason": "[sheer-force]補正の[ほのお]全体STAB"
+    },
+    {
+      "move": "earth-power",
+      "reason": "[sheer-force]補正の主力[じめん] STAB"
+    },
+    {
+      "move": "eruption",
+      "reason": "HP満タン時に最大威力となる[ほのお]全体技"
+    },
+    {
+      "move": "protect",
+      "reason": "メガシンカ+トリックルーム設置待機"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "cameruptite",
+      "reason": "メガシンカのための必須アイテム (cameruptite)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガバクーダ]は[sheer-force]特性によって追加効果を持つ技の威力が30%補正される[ほのお]・[じめん]特殊アタッカーだ。素早さ20の超低速は一見弱点に見えるが、トリックルーム環境では最上位の先制を獲得し、特攻145+[sheer-force]補正の爆発的な特殊火力を解き放つ。\n\n## 強み\n[sheer-force]は[heat-wave]・[earth-power]・[rock-slide]等の追加効果を持つ技の威力を30%増加させる。特攻145+STAB+[sheer-force]の組み合わせで[earth-power]・[heat-wave]の実質威力がメタ最上級に達する。[ほのお]・[じめん]複合タイプは[はがね]・[くさ]・[むし]・[こおり]・[フェアリー]等の広範囲牽制が可能となる。\n\n## 弱点と対策\n[みず]4倍弱点は致命的で、[hydro-pump]・[surf]一撃で即死する。[じめん]・[いわ]弱点もあり、相手パーティタイプによっては後出しタイミングが極めて限定される。素早さ20はトリックルーム外の環境では必ず後手のため生存力が極端に低くなる点を運用に織り込む必要がある。\n\n## 推奨技構成\n[heat-wave]は[sheer-force]補正の全体[ほのお] STABで、ダブルで核となる。[earth-power]は[sheer-force]補正の主力[じめん] STABだ。[eruption]はHP100%で最大威力150の全体[ほのお]技だが[sheer-force]補正は乗らない点に注意する。[protect]はトリックルーム設置待機+メガシンカ安全確保に必須となる。\n\n## 道具・特性・テラスタル\n道具は[cameruptite]固定だ。特性はメガシンカ後[sheer-force]へ自動転換する。テラスタルは[ほのお]で[みず]弱点は残すものの自タイプ補正を強化するか、[じめん]で[みず]弱点を2倍へ緩和する生存優先の選択が核となる。\n\n## 相性の良いパートナー\n必ず[trick-room]パーティに編成する。[dusknoir]・[hatterene]等のトリックルームセッターとのシナジーが必須だ。[みず]弱点カウンターとして[くさ]・[ドラゴン]パートナーを配置し、[fake-out]・[follow-me]使いで1ターン保護する運用が重要となる。\n\n## 立ち回り\nトリックルーム設置後に後出しで着地させ、[protect]で1ターン待機した後[heat-wave]・[earth-power]を連打する。[eruption]はHP満タンのときのみ使用すること。相手パーティに[みず]タイプがいれば交代読みが必須となり、テラスタルは[みず]弱点防御用に温存する判断が勝敗を分ける。ダブルでは[follow-me]使いの後ろに潜ませて1ターンの安全着地を稼ぎ、メガシンカ後の攻撃フェーズで同時2体に火力を振り分ける形が基本となる。[heat-wave]+[earth-power]の同時ヒット範囲は極めて広く、1ターンで盤面2体を落とす決定力を発揮する。",
+  "tags": [
+    "hoenn",
+    "fire",
+    "ground",
+    "mega",
+    "sheer-force",
+    "trick-room"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

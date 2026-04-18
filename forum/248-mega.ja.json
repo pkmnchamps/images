@@ -1,0 +1,76 @@
+{
+  "pokemonId": 248,
+  "nameKo": "메가마기라스",
+  "nameEn": "tyranitar-mega",
+  "formKey": "mega",
+  "types": [
+    "rock",
+    "dark"
+  ],
+  "roles": [
+    "physical-attacker",
+    "tank",
+    "setup-sweeper"
+  ],
+  "recommendedAbility": "sand-stream",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "flying",
+    "fighting"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[メガバンギラス] バトル運用ガイド",
+  "summary": "攻撃164・防御150・特防120に進化した[いわ]・[あく]タンクスイーパー。[sand-stream]+[dragon-dance]の組み合わせが完成する最終形。",
+  "strengths": [
+    "防御150・特防120+砂特防補正でメタ最高水準のタンク",
+    "攻撃164と[stone-edge]・[crunch]・[earthquake]の3方向攻撃",
+    "[dragon-dance]1ランク後に全メタ素早さ軸を上回る"
+  ],
+  "weaknesses": [
+    "[かくとう]4倍弱点が固定",
+    "素早さ71で積みなしでは依然後攻を譲る",
+    "メガシンカ1ターン目が弱点露出区間"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "stone-edge",
+      "reason": "最高火力[いわ] STAB"
+    },
+    {
+      "move": "crunch",
+      "reason": "安定した[あく] STAB主力技"
+    },
+    {
+      "move": "earthquake",
+      "reason": "[はがね]・[ほのお]牽制の必須サブ"
+    },
+    {
+      "move": "dragon-dance",
+      "reason": "攻撃・素早さ同時ブーストでスイーパー化"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "tyranitarite",
+      "reason": "メガシンカのための必須アイテム (tyranitarite)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガバンギラス]は原種バンギラスの攻撃を134から164、防御を110から150、特防を100から120まで引き上げ、砂パの最終兵器の座を握る。[sand-stream]維持というアイデンティティをそのまま保持したまま、同じ[dragon-dance]スイーパービルドが完全に別次元のタンクスイーパーに進化する点が採用理由の核心だ。砂パ最終形の到達点として機能する。\n\n## 強み\n砂特防1.5倍補正の上に元来の特防120が乗ることで実質特殊耐久は100/150/180水準に達する。この数値はメタ最上位の特殊アタッカーの[thunderbolt]・[ice-beam]・[focus-blast]を2HKO圏外に押し出す数字だ。物理面も防御150で大幅に強化され、弱点でない中立物理攻撃には事実上無敵に近い壁と化す。攻撃164+[dragon-dance]1ランク後は実質攻撃が500を超え[stone-edge]一発で大半の防御特化壁すら割る。\n\n## 弱点と対策\n[かくとう]4倍弱点はメガシンカ後もそのまま残るため、[close-combat]・[sacred-sword]一発で依然致命的となる。素早さ71は[dragon-dance]なしでは低いため積みターンが必ず必要となり、メガシンカ1ターン目の1発分の隙が構造的な弱点となる。[フェアリー]タイプ特殊エース(tapu-lele・サーナイト-メガ)も依然脅威なのでマッチアップ読みは運用の核だ。\n\n## 推奨技構成\n[stone-edge]は[メガバンギラス]物理火力の代表カードで固定、[crunch]は[ゴースト]・[エスパー]を安定して突く主力技だ。[earthquake]は[はがね]・[ほのお]・[でんき]タイプを牽制する必須サブ — 特に砂特防補正を無視して着地するheatran・magnezoneラインへのカウンター札となる。最後の枠は[dragon-dance]で素早さ軸を抜けてスイーパーへ転換する核札だ。\n\n## 道具・特性・テラスタル\n道具は[tyranitarite]固定で代替は存在しない。特性はメガシンカ後も[sand-stream]が維持され、チーム戦略の前提となる。テラスタルは[かくとう]4倍弱点を消す[ひこう]タイプが第一候補で、[かくとう]タイプで攻撃補正を受けるオフェンシブ変形も上位大会で採択される形となる。採用構築の色に応じて使い分ける判断が必要だ。\n\n## 相性の良いパートナー\n砂シナジーアタッカー(excadrill・drednaw系統)と組んでチーム全体を砂軸で設計するのが基本形だ。[かくとう]カウンター(lati@s・metagross系統)を必ず編成し、[fake-out]使いや先制交代型サポーターがメガシンカターンを守ってやれば着地安定性が大きく上がる。相手[フェアリー]エース狙撃用の[はがね]タイプ味方も推奨されるパートナー構成となる。\n\n## 立ち回り\n先発で着地して砂を撒き、マッチアップ確認の後に2ターン目のメガシンカと同時に[dragon-dance]を積むのが標準プランだ。[stone-edge]はキル確定時のみ使い、ダメージ累積は[crunch]・[earthquake]で安全に維持する。テラスタルは[かくとう]弱点技のラインか、[stone-edge]の締めラインで0.5%火力が足りない時に即発動する判断が核札となり運用の要となる。",
+  "tags": [
+    "johto",
+    "rock",
+    "dark",
+    "mega",
+    "sand",
+    "tank-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

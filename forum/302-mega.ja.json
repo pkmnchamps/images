@@ -1,0 +1,75 @@
+{
+  "pokemonId": 302,
+  "nameKo": "메가깜까미",
+  "nameEn": "sableye-mega",
+  "formKey": "mega",
+  "types": [
+    "dark",
+    "ghost"
+  ],
+  "roles": [
+    "support",
+    "wall"
+  ],
+  "recommendedAbility": "magic-bounce",
+  "recommendedNature": "bold",
+  "recommendedTera": [
+    "fairy",
+    "dark"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 28,
+    "spa": 0,
+    "spd": 4,
+    "spe": 0
+  },
+  "locale": "ja",
+  "title": "[メガヤミラミ] バトル運用ガイド",
+  "summary": "[magic-bounce]で相手の[taunt]・[stealth-rock]・[thunder-wave]等を跳ね返す遅延型サポート。[will-o-wisp]で物理アタッカーを焼き止める。",
+  "strengths": [
+    "[magic-bounce]で状態異常・設置技を反射",
+    "[あく]・[ゴースト]複合で[エスパー]・[かくとう]無効",
+    "[recover]+[will-o-wisp]で物理アタッカーを封殺"
+  ],
+  "weaknesses": [
+    "[フェアリー]弱点—メタに多く出現",
+    "攻撃85で決定力不足",
+    "素早さ50で大半のポケモンに後手"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "will-o-wisp",
+      "reason": "物理アタッカーをやけどで封殺する核ユーティリティ"
+    },
+    {
+      "move": "recover",
+      "reason": "HP半分回復の持続的タンキング手段"
+    },
+    {
+      "move": "foul-play",
+      "reason": "相手の攻撃力参照で逆算ダメージを叩き込む[あく] STAB"
+    },
+    {
+      "move": "shadow-ball",
+      "reason": "[ゴースト] STABの補助攻撃枠"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "sablenite",
+      "reason": "メガシンカのための必須アイテム (sablenite)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガヤミラミ]は[magic-bounce]特性によって相手の[taunt]・[stealth-rock]・[thunder-wave]・[encore]等の変化技・設置技をそのまま反射する遅延型サポートだ。[will-o-wisp]で物理アタッカーをやけど状態にし、[recover]で継続的に回復しつつ、[foul-play]で相手の攻撃力を逆算した非対称ダメージディーラーの役割まで兼ね備える。\n\n## 強み\n[magic-bounce]はメタで最も強力なユーティリティ特性の一つだ。相手の[stealth-rock]設置が原則的に遮断され、[taunt]・[thunder-wave]等のペース妨害技も全て跳ね返る。[あく]・[ゴースト]複合タイプは[エスパー]・[かくとう]へ完全無効のため、ミュウツー系・[かくとう]アタッカーに対する安全な後出しが可能となる。[recover]で長期戦でのHP管理は完璧に近い。\n\n## 弱点と対策\n[フェアリー]弱点はメタの核であり、[tapu-koko]・[gardevoir]等の出現頻度が高い相手には致命的だ。攻撃85では打点が足りず、火力は[foul-play]に依存する形になる。素早さ50で大半のポケモンより後手を踏むため、必ず後出し運用する必要がある。メガシンカ前ターンは[prankster]ではなく原種の特性なので変化技優先度補正は使えない点も計算に入れる。\n\n## 推奨技構成\n[will-o-wisp]は物理アタッカー封殺の核技となる。[recover]は持続タンキングに必須で、HP半分回復によって長期戦の主導権を握る。[foul-play]は相手の攻撃力を逆算して打ち込むため、[swords-dance]積みアタッカーを逆カウンターする札となる。[shadow-ball]は[ゴースト] STABの補助枠として採用する。\n\n## 道具・特性・テラスタル\n道具は[sablenite]で固定だ。特性はメガシンカ後に[magic-bounce]へ自動転換する(進化前の[prankster]は変化技補正として機能しない)。テラスタルは[フェアリー]で[かくとう]・[あく]・[むし]弱点を耐性プロフィールへ反転させるか、[あく]で[エスパー]完全無効を維持しつつ[あく] STAB強化を選ぶのが実用的だ。\n\n## 相性の良いパートナー\n特殊アタッカーとの組み合わせが最も噛み合う。[メガヤミラミ]が物理アタッカーをやけどで封じる間に特殊火力が裏で削り切るという分業構造が成立する。[フェアリー]弱点カウンターとして[はがね]・[どく]パートナーを配置し、[trick-room]パーティで素早さ50を逆利用する運用も有効だ。\n\n## 立ち回り\n先発ではなく相手の積みアタッカーへの交代読みターンに後出しで投入する。[magic-bounce]で[stealth-rock]・[taunt]を跳ね返した後、[will-o-wisp]で物理アタッカーを封じ[recover]で体力を維持する。[foul-play]は相手が攻撃積みを重ねた瞬間に決定打として撃ち込む。体力50%以下に落ちたら無理せず交代し、[recover]での復帰機会を再確保する。",
+  "tags": [
+    "hoenn",
+    "dark",
+    "ghost",
+    "mega",
+    "magic-bounce",
+    "support"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

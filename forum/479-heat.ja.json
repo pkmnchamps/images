@@ -1,0 +1,83 @@
+{
+  "pokemonId": 479,
+  "nameKo": "로토무(히트)",
+  "nameEn": "rotom-heat",
+  "formKey": "heat",
+  "types": [
+    "electric",
+    "fire"
+  ],
+  "roles": [
+    "special-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "levitate",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "fire",
+    "electric"
+  ],
+  "recommendedEv": {
+    "hp": 16,
+    "atk": 0,
+    "def": 0,
+    "spa": 16,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[ヒートロトム] バトル運用ガイド",
+  "summary": "[levitate]の[じめん]無効+[でんき]・[ほのお]複合タイプの特殊アタッカー。[overheat]・[thunderbolt]の両自己STAB火力が核。",
+  "strengths": [
+    "[levitate]で[じめん]を完全無効",
+    "[でんき]・[ほのお]複合で[むし]・[こおり]・[はがね]・[くさ]の4種を4倍耐性",
+    "特攻105+素早さ86の安定した特殊プロファイル"
+  ],
+  "weaknesses": [
+    "[みず]・[いわ]弱点",
+    "50/107/107のHPが低い",
+    "特性変更時は[levitate]無効化"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "overheat",
+      "reason": "[ほのお]自己STAB最大威力の特殊技"
+    },
+    {
+      "move": "thunderbolt",
+      "reason": "[でんき]自己STAB主力"
+    },
+    {
+      "move": "volt-switch",
+      "reason": "ピボット利得+スイッチユーティリティ"
+    },
+    {
+      "move": "protect",
+      "reason": "安全ターンの確保"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "choice-specs",
+      "reason": "特攻1.5倍の火力極大化"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "超高速+特殊ピボット"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "HP50%回復の補助"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ヒートロトム]は[levitate]特性で[じめん]タイプを完全無効化する[でんき]・[ほのお]複合特殊アタッカーだ。4倍耐性4種+[じめん]無効という独特な耐性プロファイルと、特攻105の安定した火力を結合することで、多目的ピボットアタッカーの役割を果たす。ロトム品種の中で最も耐性プロファイルが優秀な1枚で、受け出し性能が突出している。\n\n## 強み\n[levitate]による[じめん]技完全無効は[earthquake]・[earth-power]使いに対して安全な交代出しを可能にする。[でんき]・[ほのお]複合タイプは[むし]・[こおり]・[はがね]・[くさ]の4種に4倍耐性を持つ独特な耐性プロファイルで、[strength]の物理打点を多く受け切れる。[overheat]+[thunderbolt]は両自己STAB高火力で[みず]・[はがね]・[ひこう]等を広範に牽制できる。[volt-switch]でピボット利得まで確保する一枚である。\n\n## 弱点と対策\n[みず]・[いわ]の2種弱点のみだが、50/107/107のHPが低いため効果ばつぐんの攻撃一撃で倒れるリスクがある。[mold-breaker]特性使いの[earthquake]は[levitate]を無視されてダメージを受ける点も要注意だ。特性が[gastro-acid]・[simple-beam]等で変更されれば[levitate]効果が消え、[じめん]技を受けてしまう点も頭に入れておきたい。\n\n## 推奨技構成\n[overheat]は[ほのお]自己STAB最大威力だが特攻2段階ダウンのペナルティ付きで、[volt-switch]とのコンボで運用する。[thunderbolt]は[でんき]自己STAB主力で安定火力、[overheat]の択をケアしつつ削りを重ねるのに最適だ。[volt-switch]はピボット利得+不利対面離脱の要で、[protect]は安全ターン確保と[fake-out]相方の動きを見てからの攻撃選択を可能にする。\n\n## 道具・特性・テラスタル\n道具は[choice-specs]が特攻1.5倍火力のメインで、[overheat]の一撃KO圏を大幅に拡張する。[choice-scarf]はピボット変形として[volt-switch]軸の運用を強化する選択肢だ。特性は[levitate]固定。テラスタルは[ほのお]テラで[overheat]の自己STAB重ね補正を狙うか、[でんき]テラで[thunderbolt]の重ね補正+[みず]耐性獲得を選ぶ。\n\n## 相性の良いパートナー\n[みず]・[いわ]弱点カウンターに[くさ]・[かくとう]パートナーが理想的だ。ピボットサイクルチームで[volt-switch]利得のシナジーを得ると盤面コントロールが容易になり、[intimidate]持ちで物理耐久補助も効く。[stealth-rock]リスクは[ひこう]系ロトムに比べ小さいため、除去役が必須ではない点も編成上の利点である。\n\n## 立ち回り\n[じめん]アタッカー相手の交代出し安定性を活かし、[thunderbolt]・[overheat]で主力ダメージを積む。[overheat]後は[volt-switch]で特攻ダウンリセットの交代が鉄板サイクルになる。不利対面は[volt-switch]で離脱、有利対面では[choice-specs]固定ダメージで押し切るのが基本だ。",
+  "tags": [
+    "sinnoh",
+    "electric",
+    "fire",
+    "appliance-form",
+    "levitate",
+    "special-pivot"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

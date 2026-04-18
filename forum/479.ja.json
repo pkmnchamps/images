@@ -1,0 +1,82 @@
+{
+  "pokemonId": 479,
+  "nameKo": "로토무",
+  "nameEn": "rotom",
+  "formKey": null,
+  "types": [
+    "electric",
+    "ghost"
+  ],
+  "roles": [
+    "special-attacker",
+    "pivot"
+  ],
+  "recommendedAbility": "levitate",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "electric",
+    "ghost"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[ロトム] バトル運用ガイド",
+  "summary": "[levitate]で[じめん]攻撃を消し、[でんき]・[ゴースト]STABを軸にテンポを握る高速ピボット型特殊アタッカー。",
+  "strengths": [
+    "[levitate]で[じめん]技を無効化",
+    "[でんき]・[ゴースト]STABの広い中立範囲",
+    "[volt-switch]でテンポ損失なく循環"
+  ],
+  "weaknesses": [
+    "[ゴースト]・[あく]牽制に脆い",
+    "物理耐久が薄く先制技に弱い",
+    "choice固定時に技選択が読まれやすい"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "thunderbolt",
+      "reason": "[でんき]STAB主力技"
+    },
+    {
+      "move": "shadow-ball",
+      "reason": "[ゴースト]STABで[エスパー]・[ゴースト]牽制"
+    },
+    {
+      "move": "volt-switch",
+      "reason": "交代テンポを維持するピボット技"
+    },
+    {
+      "move": "will-o-wisp",
+      "reason": "物理アタッカーの火力を半減する状態異常"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "choice-scarf",
+      "reason": "ピボットを加速してスピード軸を掌握"
+    },
+    {
+      "item": "magnet",
+      "reason": "火力を一段引き上げるタイプブースト"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "中盤のHP回復でピボット回転数を増やす"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ロトム]は[でんき]・[ゴースト]複合タイプと[levitate]特性が結合された珍しいピボット型特殊アタッカーだ。特攻95と素早さ91は単一指標としては平凡だが、2つのSTAB中立範囲が非常に広く、[じめん]技を完全遮断するため交代自由度が抜群に高い。役割は明確に高速ピボットアタッカーで、[volt-switch]と[will-o-wisp]を軸に毎ターン利得を積み上げる一枚である。\n\n## 強み\n[levitate]のおかげで[earthquake]と[earth-power]を完全に無視し、相手の[じめん]アタッカーの前に無料で交代出しできる。[thunderbolt]は[みず]・[ひこう]を、[shadow-ball]は[エスパー]・[ゴースト]を突いて、両方を半減するタイプは極少数のため2軸だけで大半の相手を削れる。[will-o-wisp]は物理アタッカーの攻撃力を半減してチーム全体の耐久ラインを押し上げる核心的なサポートカードだ。\n\n## 弱点と対策\n[あく]・[ゴースト]STABには正面から脆く、薄い物理耐久ゆえに先制[shadow-sneak]一発で腰を折られる可能性がある。[ゴースト]ミラーではスピードと先制タイミングが全てで、[choice-scarf]固定時は相手の[じめん]タイプがフリースイッチ状態になるため技読みに特に注意が必要だ。テラスタルは弱点を消せるタイミングに合わせて温存する。\n\n## 推奨技構成\n[thunderbolt]を[でんき]STAB主力、[shadow-ball]を[ゴースト]STABサブとして固定する。[volt-switch]はピボットの核心で、相手が[じめん]タイプを繰り出してきた瞬間に即座に味方のカウンターへスイッチして無料ターンを確保する。最後の枠は[will-o-wisp]で物理アタッカーの火力を半減させ、チーム全体に呼吸の余裕を作る。チーム構造に応じて[will-o-wisp]の代わりに[thunder-wave]や[trick]を検討することもできる。\n\n## 道具・特性・テラスタル\n道具は[choice-scarf]を基本として[volt-switch]ピボットのスピード軸を掌握する。火力重視なら[magnet]で[thunderbolt]のワンショットラインを拡張し、長期戦なら[sitrus-berry]で中盤回復を確保する。特性は選択の余地なく[levitate]。テラスタルはSTAB補強用の[でんき]、あるいは[あく]弱点を反転させる[ゴースト]が無難だ。\n\n## 相性の良いパートナー\n物理耐久型タンカーと組み、[will-o-wisp]で減点した物理アタッカーを受け止めればチーム全体の耐久が自然に跳ね上がる。[あく]・[ゴースト]カウンター([フェアリー]や[ノーマル]等)と組み合わせると相性穴を塞げ、[volt-switch]を受けられる自然な交代先パートナーを2〜3匹確保しておくことが運用の要だ。\n\n## 立ち回り\n先発で出しても良いし、2ターン目の交代出しでも良い。相手の[じめん]タイプが見えた瞬間に[volt-switch]で入ってテンポを奪い、[will-o-wisp]は相手物理アタッカーの着地タイミングに優先的に撃つ。テラスタルは弱点技が確定するターンに一拍早く切るのが理想だ。",
+  "tags": [
+    "sinnoh",
+    "electric",
+    "ghost",
+    "pivot",
+    "special-attacker"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

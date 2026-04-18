@@ -1,0 +1,83 @@
+{
+  "pokemonId": 80,
+  "nameKo": "가라르야도란",
+  "nameEn": "slowbro-galar",
+  "formKey": "galar",
+  "types": [
+    "poison",
+    "psychic"
+  ],
+  "roles": [
+    "mixed-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "regenerator",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "poison",
+    "psychic"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "ja",
+  "title": "[ガラルヤドラン] バトル運用ガイド",
+  "summary": "[regenerator]による交代回復と[shell-side-arm]シグネチャー技を両立する[どく]・[エスパー]の耐久アタッカー。交代ごとに最大HPの1/3を回復する持続型ピボットだ。",
+  "strengths": [
+    "[regenerator]で交代時にHP1/3を自動回復",
+    "[shell-side-arm]が物理・特殊を自動判別して刺す",
+    "[どく]・[エスパー]で[フェアリー]・[かくとう]に耐性"
+  ],
+  "weaknesses": [
+    "[じめん]・[ゴースト]・[エスパー]・[あく]の4重弱点",
+    "素早さ30で後攻確定、[trick-room]以外では先手が取れない",
+    "[はがね]タイプに[どく] STABが無効化される"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "shell-side-arm",
+      "reason": "攻撃/特攻の高い方と相手の防御/特防の低い方を自動選択するシグネチャー技"
+    },
+    {
+      "move": "psychic",
+      "reason": "[エスパー]主力STAB、特攻100を活かす安定打点"
+    },
+    {
+      "move": "slack-off",
+      "reason": "HP50%回復で長期戦の耐久ラインを底上げ"
+    },
+    {
+      "move": "protect",
+      "reason": "メガシンカ読み・様子見で安全ターンを確保"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "black-sludge",
+      "reason": "[どく]タイプ限定で毎ターンHP1/16回復、長期戦と噛み合う"
+    },
+    {
+      "item": "assault-vest",
+      "reason": "特殊耐久を強化して対特殊アタッカーの被弾を軽減"
+    },
+    {
+      "item": "leftovers",
+      "reason": "汎用持続回復でピボットサイクルを支える"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ガラルヤドラン]は種族値95/100/95/100/70/30の[どく]・[エスパー]混合アタッカーで、特性[regenerator]により交代ごとに最大HPの1/3を自動回復する持続型ピボットだ。シグネチャー技[shell-side-arm]は自身の攻撃/特攻の高い方と相手の防御/特防の低い方を自動で選択するため、100/100の両刀ステータスと完璧に噛み合う唯一無二の性能を持つ。\n\n## 強み\n[regenerator]はメタ最上位の持続特性で、交代インアウトを繰り返すだけで実質無限HP運用が可能だ。[slack-off]と組み合わせれば長期戦で決定的な優位を築き、[shell-side-arm]は相手の壁の薄い側を自動で突き抜ける。[どく]・[エスパー]の複合は[フェアリー]2倍+[かくとう]半減という有用な耐性プロファイルを持ち、環境上位の物理[かくとう]や[フェアリー]特殊を1枚で受けられる。\n\n## 弱点と対策\n[じめん]・[ゴースト]・[エスパー]・[あく]の4重弱点を抱え、特に[エスパー]ミラーでは先手の[psychic]一撃で崩される。素早さ30は[trick-room]外では必ず後攻となるため、遅いピボットアタッカーとしての運用が前提だ。[どく]STABは[はがね]タイプに完全無効化されるので、heatranやferrothorn相手には[psychic]で対処する必要がある。[knock-off]で[black-sludge]を剥がされると長期戦プランも崩れる。\n\n## 推奨技構成\n[shell-side-arm]はシグネチャーとして必須。[psychic]は[エスパー]STABの安定打点として特攻100の火力を引き出す。[slack-off]は持続耐久プランの核で、HP50%回復により交代サイクルに余裕を生む。最後の枠は[protect]で安全ターンを確保しつつメガシンカ読みや天候ターン稼ぎに使う。[ice-beam]・[flamethrower]など特殊補助技への差し替えも構成次第で有効だ。\n\n## 道具・特性・テラスタル\n道具は[black-sludge]が第一候補で、[どく]タイプ限定の1/16回復が[regenerator]と累積する。[assault-vest]は特殊耐久を大幅に伸ばす変則型で、攻撃特化構成のときに採用する。特性は[regenerator]で固定。テラスタルは[どく]でSTAB重ね+[エスパー]弱点を消す選択、もしくは[エスパー]で[psychic]火力を底上げする選択の二択が基本となる。\n\n## 相性の良いパートナー\n交代ピボット主体のチームと最上の相性を示す。[intimidate]持ちと並べれば物理耐久が底上げされ、[trick-room]パーティでは素早さ30が長所に転じる。[じめん]・[ゴースト]弱点をカバーする[ひこう]・[あく]パートナーを最低1体は用意し、[knock-off]による持ち物剥がし対策も視野に入れたい。\n\n## 立ち回り\n交代イン→攻撃→交代アウトのサイクルで[regenerator]のHP回復を最大化する。[slack-off]は弱点攻撃を読んだターンの緊急回復に温存し、[shell-side-arm]は相手の壁構成に応じた自動最適判定を活用する。テラスタルは[あく]・[ゴースト]技を確実に踏むタイミングでのみ切り、長期戦指向の運用で優位を蓄積していく。",
+  "tags": [
+    "galar",
+    "poison",
+    "psychic",
+    "regional-form",
+    "regenerator",
+    "bulky-pivot"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

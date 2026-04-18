@@ -1,0 +1,82 @@
+{
+  "pokemonId": 547,
+  "nameKo": "엘풍",
+  "nameEn": "whimsicott",
+  "formKey": null,
+  "types": [
+    "grass",
+    "fairy"
+  ],
+  "roles": [
+    "support",
+    "lead"
+  ],
+  "recommendedAbility": "prankster",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "steel",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 2,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[エルフーン] バトル運用ガイド",
+  "summary": "[prankster]の先制で[tailwind]・[encore]・[leech-seed]を1ターン先んじて叩きつける[くさ]・[フェアリー]のユーティリティ。",
+  "strengths": [
+    "[prankster]補正で全ての変化技が+1優先度",
+    "[encore]で積み・変化技ターンを強奪",
+    "[tailwind]でチーム素早さ軸を4ターン掌握"
+  ],
+  "weaknesses": [
+    "[こおり]・[どく]・[ひこう]・[はがね]・[ほのお]の多重弱点",
+    "特攻77で攻撃カードの決定力不足",
+    "[あく]タイプには[prankster]が無効化される"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "tailwind",
+      "reason": "チーム全体の素早さを2倍化して序盤テンポを確保"
+    },
+    {
+      "move": "encore",
+      "reason": "相手の積み・変化技を[prankster]で1ターン先に封殺"
+    },
+    {
+      "move": "leech-seed",
+      "reason": "交代強要とHP吸収で耐久戦を有利化"
+    },
+    {
+      "move": "moonblast",
+      "reason": "[あく]・[ドラゴン]・[かくとう]牽制の[フェアリー] STAB"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "1ターン目のプランを確定で保証する保険"
+    },
+    {
+      "item": "mental-herb",
+      "reason": "ちょうはつを1回解除して変化技プランを維持"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "ループ中のHP回復量を確保"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[エルフーン]は種族値ではなく特性1行でアイデンティティが決まるカードだ。[prankster]を通じて[tailwind]・[encore]・[leech-seed]を全て+1優先度で飛ばせるので、素早さ116の意味は実質ない。登場と同時にチーム全体のテンポを歪ませるユーティリティ先発が[エルフーン]の本領である。\n\n## 強み\n[prankster]は全ての変化技に+1優先度を与える特性で、[tailwind]で4ターンチーム素早さを掌握し、[encore]は相手が積み技を一度踏むだけで即座にその技へ縛りつけてしまう。[leech-seed]は[prankster]のおかげで遅い相手に確定タイミングで刺さり、以降は交代読み一つでHP損失なく耐久戦を強要できる。[くさ]・[フェアリー]複合で[みず]・[ドラゴン]・[あく]・[かくとう]カウンター役を副次的にこなせる点も優秀だ。\n\n## 弱点と対策\n[こおり]・[どく]・[ひこう]・[はがね]・[ほのお]が全て2倍だ。特に[ひこう]・[こおり]は[prankster]変化技を飛ばす前に[エルフーン]を切ってくるため、当該マッチアップでは初動1ターン以内に役割を終わらせる必要がある。[あく]タイプには[prankster]変化技が無効化されるので、気持ちよく前に出すと逆手に取られる。特攻77の[moonblast]は決定力が低くタイムストップ用の牽制に近いため、長期戦のクリーニングは期待できない。\n\n## 推奨技構成\n[tailwind]は[prankster]先発プランのアイデンティティそのものだ。序盤1ターンに[tailwind]を敷けば、チームの他スイーパーが4ターンずっと素早さ優位を手に入れる。[encore]は積みサイクルを断ち切ったり変化技ターンを強奪するカードで、相手のミス一つで構図を丸ごと覆す。[leech-seed]は交代待機を強いる手段であり、最後の[moonblast]は[taunt]後にも攻撃オプションを残す保険。変化技オールインを狙うなら[moonblast]の代わりに[substitute]を入れて[prankster]保険を最大化できる。\n\n## 道具・特性・テラスタル\n道具は[focus-sash]が最有力。ターン1の[prankster] [tailwind]を無条件で保証してくれるからだ。[mental-herb]は[taunt]を受けても1回解除して変化技プランを継続させ、[sitrus-berry]は[leech-seed]ループと噛み合う。特性は必ず[prankster]。[chlorophyll]は晴れ限定で汎用性が落ちる。テラスタルは[はがね]で[こおり]・[ひこう]・[どく]・[はがね]・[フェアリー]弱点を一気に反転させるのが第一候補で、決定局面で[prankster]先発を維持するためのテラ[フェアリー]も有用だ。\n\n## 相性の良いパートナー\n[tailwind]を受け取る遅足高火力アタッカーは事実上必須だ。トリックルーム以外の通常チームでは、火力型の物理・特殊エースが4ターン[tailwind]の間に得点を完成させないと[エルフーン]の役割が回らない。[あく]カウンターとして[フェアリー]か[かくとう]資源を必ず1枚置き、高速[ひこう]・[こおり]対策として[はがね]タンクを併置すれば安定感が上がる。\n\n## 立ち回り\n[エルフーン]は90%の確率で初手リードポジションだ。序盤1ターン[tailwind]、2ターン[encore]または[leech-seed]の順序が基本ルーチンである。相手[あく]タイプが前に出たら即交代し、二度と出さない。[prankster]変化技を全て使い切ったら役割は終わりなので、[focus-sash]が残っていれば[moonblast]一発で最後の貢献をするのが綺麗な終わり方だ。",
+  "tags": [
+    "unova",
+    "fairy",
+    "prankster",
+    "tailwind",
+    "lead"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

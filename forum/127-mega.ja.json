@@ -1,0 +1,75 @@
+{
+  "pokemonId": 127,
+  "nameKo": "메가쁘사이저",
+  "nameEn": "pinsir-mega",
+  "formKey": "mega",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "roles": [
+    "physical-attacker",
+    "setup-sweeper",
+    "sweeper"
+  ],
+  "recommendedAbility": "aerilate",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "flying",
+    "ground"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[メガカイロス] バトル運用ガイド",
+  "summary": "[aerilate]で[ノーマル]技を[ひこう] STABに置換する[むし]・[ひこう]物理スイーパー。[return]と[quick-attack]の並びが核心。",
+  "strengths": [
+    "[aerilate]で[return]が[ひこう] STABに変換",
+    "攻撃155・素早さ105で上位帯と渡り合える",
+    "[quick-attack]も[ひこう]先制技化して加速"
+  ],
+  "weaknesses": [
+    "[stealth-rock]で進入ごとに25%削られる",
+    "[でんき]・[こおり]・[いわ]弱点が重なる",
+    "1ターン目は素の特性のため変数が残る"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "return",
+      "reason": "[aerilate]で[ひこう] STABに変換される主力打点"
+    },
+    {
+      "move": "close-combat",
+      "reason": "[はがね]・[いわ]を貫く必須牽制"
+    },
+    {
+      "move": "quick-attack",
+      "reason": "[aerilate]で[ひこう]先制技化するクリーナー枠"
+    },
+    {
+      "move": "swords-dance",
+      "reason": "1ターン積みで決戦級の火力を確保"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "pinsirite",
+      "reason": "メガシンカのための必須アイテム (pinsirite)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガカイロス]は[aerilate]を獲得し[return]のような[ノーマル]技が[ひこう] STABに置換される[むし]・[ひこう]複合の最上位物理スイーパーだ。攻撃155・素早さ105のスタットラインはメタ主流アタッカーを完全に追い抜き、[swords-dance]を1度積めばメタ大半のタンクも2発圏内に収める決戦級の火力が形成される。メガ進化前1ターンの空白さえ調整できれば、その後の崩壊速度は異常な速さだ。\n\n## 強み\n[aerilate]の核心は[return]+[quick-attack]の二枚構成にある。[return]は実質威力150に迫る[ひこう] STABに変換され、[quick-attack]までもが[ひこう]先制技となり全ての高速クリーナーを下から切り裂く。[close-combat]・[earthquake]・[stone-edge]などサブウェポンの選択肢も広く、[はがね]・[いわ]・[でんき]・[フェアリー]タンクのどれにでも刺す角度がある。[stealth-rock]が敷かれていなければ1体で試合を閉じることも可能だ。\n\n## 弱点と対策\n最も致命的な弱点は[stealth-rock]だ。[ひこう]複合になり進入ごとにHPの25%を失うため、[rapid-spin]または[defog]パートナーは必須となる。[でんき]・[こおり]・[いわ]弱点が重なり先制技系や高速特殊アタッカーへの進入が危険、1ターン目はまだ[mold-breaker]など素の特性状態なので予想外の動きが出る可能性もある。進入タイミングは徹底的に読み切らねばならない。\n\n## 推奨技構成\n[return]は[aerilate]でSTAB威力+1.2倍補正が乗るためメインウェポンに固定される。[close-combat]は[はがね]・[いわ]タンクを貫通する必須牽制、[quick-attack]は[aerilate]の[ひこう]先制技として高速クリーナーを切り裂く核札だ。最後の枠は[swords-dance]で、1度積めばほぼ全ての対応ポケモンが2発圏内に入る。[stone-edge]や[earthquake]でカバー範囲を広げる派生も可能だ。\n\n## 道具・特性・テラスタル\n道具は[pinsirite]固定で、他の選択肢は存在しない。特性はメガ後に[aerilate]へ強制切り替わるため、進化前1ターンの[mold-breaker]・hyper-cutterは無視してよい。テラスタルは[ひこう]でSTAB火力をさらに極大化する方向、または[じめん]で[でんき]弱点を無効化しつつ[earthquake] STAB火力を底上げする方向の二択が実戦的だ。\n\n## 相性の良いパートナー\n[stealth-rock]除去は事実上必須のため[rapid-spin]または[defog]要員を必ず編成する。相手の[でんき]・[こおり]対策として[じめん]パートナーを1枚置き、高速ピボット要員で積みターンを作ってもらえば勝率が跳ね上がる。相手先制技対策として[intimidate]使いや[フェアリー]テラのパートナーも選択肢に入る。\n\n## 立ち回り\n基本プランは[rapid-spin]後にメガシンカ→[swords-dance]→[return]の連鎖KOだ。[quick-attack]はHPが一桁で残った相手クリーナーや先制技使いを処理する最後の札として温存し、テラスタルは[ひこう]複合の弱点技を踏む角度が確定した瞬間に切ってテンポを買う。",
+  "tags": [
+    "kanto",
+    "bug",
+    "flying",
+    "mega",
+    "aerilate"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

@@ -1,0 +1,74 @@
+{
+  "pokemonId": 18,
+  "nameKo": "메가피죤투",
+  "nameEn": "pidgeot-mega",
+  "formKey": "mega",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "roles": [
+    "special-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "no-guard",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "flying",
+    "ground"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[メガピジョット] バトル運用ガイド",
+  "summary": "[no-guard]で[hurricane]が必中になる[ひこう]特殊スイーパー。特攻135・素早さ121の上位級アタッカー。",
+  "strengths": [
+    "[no-guard]+[hurricane]の100%命中STAB",
+    "特攻135で特殊受けを貫通",
+    "素早さ121でメタの大半を追い抜く"
+  ],
+  "weaknesses": [
+    "[いわ]・[でんき]・[こおり]弱点でフィールドに脆い",
+    "特防80以下で特殊カウンターに弱い",
+    "メガシンカ前1ターンは特性空白区間"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "hurricane",
+      "reason": "[no-guard]で100%命中する[ひこう] STAB"
+    },
+    {
+      "move": "heat-wave",
+      "reason": "[はがね]・[くさ]・[むし]を牽制する必須サブ"
+    },
+    {
+      "move": "u-turn",
+      "reason": "交代収益を稼ぐピボット技"
+    },
+    {
+      "move": "roost",
+      "reason": "HP回復でスイープを持続"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "pidgeotite",
+      "reason": "メガシンカのための必須アイテム (pidgeotite)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガピジョット]は[no-guard]特性を得て[hurricane]の命中率を100%に固定する[ひこう]特殊スイーパーだ。特攻135と素早さ121の結合により、原種の地味な支援型イメージを完全に上書きし、純粋なスイーパーとして生まれ変わる。基本プランは[hurricane]連射で相手陣営を溶かすことに尽きる。\n\n## 強み\n[no-guard]+[hurricane]は[メガピジョット]のアイデンティティのすべてだ。威力110の[ひこう] STABが100%命中するだけで上位級アタッカーの資格が十分であり、[heat-wave]が[はがね]・[くさ]・[むし]を牽制して[hurricane]と完璧に相互補完する。素早さ121はメタの大半のアタッカーを抜き、[u-turn]のピボット収益もそのまま維持される。\n\n## 弱点と対策\n[ひこう]タイプの古典的弱点([いわ]・[でんき]・[こおり])はそのまま残り、[stealth-rock]に4倍被害を受ける点が着地コストを大きく押し上げる。特防80は強力な特殊攻撃を受け止めるには足りず、相手の高速特殊アタッカーに先制を許すとそのまま崩れる。メガシンカ前1ターンは[big-pecks]状態で特性空白があるため、進化タイミングは慎重に計算したい。\n\n## 推奨技構成\n[hurricane]を主力STABに固定して[no-guard]の最大収益を引き出す。[heat-wave]は[はがね]・[くさ]・[むし]を牽制する必須サブウェポン。[u-turn]はピボット収益の枠で、不利マッチアップからの離脱にも使える。最後は[roost]で長期戦プランを完成させ、一度の交代後にも再着地してスイープを継続できるようにする。\n\n## 道具・特性・テラスタル\n道具は[pidgeotite]固定で代替はない。特性はメガシンカ後に自動で[no-guard]へ切り替わる。テラスタルは[ひこう]で[hurricane]火力を最大化するか、[じめん]で[でんき]弱点を無効化する選択が実戦的。[じめん]テラは[stealth-rock]4倍被害も緩和してくれる。\n\n## 相性の良いパートナー\n[メガピジョット]は[stealth-rock]依存度が非常に高く、[defog]・[rapid-spin]使いとは必須セットで組む。[でんき]・[いわ]弱点対策に[じめん]パートナーを配置し、[volt-switch]・[u-turn]のピボットラインで安全な着地タイミングを作る。後続クリナーがいれば[hurricane]で稼いだターンを得点に変換できる。\n\n## 立ち回り\n必ず[stealth-rock]を除去してから着地させ、メガシンカは相手のスイッチターンに合わせる。進化後は[hurricane]を軸にして[はがね]・[くさ]が出てきたら[heat-wave]に切り替える。HPが半分以下まで削られたら無理に攻撃せず[roost]で立て直し、再度のスイープ機会を待つのが肝要だ。テラスタルは[でんき]弱点技を確定で踏む瞬間に即時発動してターンを買い取る。",
+  "tags": [
+    "kanto",
+    "flying",
+    "mega",
+    "no-guard",
+    "special-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

@@ -1,0 +1,80 @@
+{
+  "pokemonId": 24,
+  "nameKo": "아보크",
+  "nameEn": "arbok",
+  "formKey": null,
+  "types": [
+    "poison"
+  ],
+  "roles": [
+    "physical-attacker",
+    "setup-sweeper"
+  ],
+  "recommendedAbility": "intimidate",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "poison",
+    "ground"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[アーボック] バトル運用ガイド",
+  "summary": "[intimidate]で物理交代の利益を確保し[coil]でブーストする[どく]単タイプ物理スイーパー。",
+  "strengths": [
+    "[intimidate]で交代ターンの物理攻撃を弱体化",
+    "[coil]で攻撃・防御・命中の三重ブースト",
+    "[sucker-punch]の先制技で素早さの弱点を補完"
+  ],
+  "weaknesses": [
+    "[じめん]・[エスパー]2倍弱点構造",
+    "素早さ80でブースト前は後攻",
+    "耐久60/69/79で積みの余裕が乏しい"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "gunk-shot",
+      "reason": "高威力[どく] STAB主力技"
+    },
+    {
+      "move": "earthquake",
+      "reason": "[はがね]・[いわ]・[でんき]牽制の[じめん]サブ"
+    },
+    {
+      "move": "coil",
+      "reason": "攻撃・防御・命中を同時にブーストする積み技"
+    },
+    {
+      "move": "sucker-punch",
+      "reason": "素早さ補完用の[あく]先制技"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "life-orb",
+      "reason": "攻撃1.3倍で火力を底上げ"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "初手の一撃を耐える保険"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "序盤回復の切り札"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[アーボック]は[どく]単タイプの物理スイーパーで、[intimidate]で交代利益を確保しつつ[coil]で積みを積んで後半のスイープを狙う古典的セットアップスイーパーだ。60/69/79の耐久と80の素早さは平凡だが、[intimidate]と[coil]の組み合わせが耐久不足を補完し、メタでの実戦性を作り出す。地味ながら実用範囲は意外と広い。\n\n## 強み\n[intimidate]特性は物理アタッカー交代時に攻撃を1ランク下げ、[アーボック]の耐久を実質的に底上げする。さらに[coil]1回で攻撃・防御・命中が全て1段階ずつ上昇するため、次のターンから[gunk-shot]の命中不安なく安定火力を叩き出せる。[sucker-punch]は素早さ80の限界を補う先制技で、耐久型ではなく攻撃型の相手に対してスイープのフィニッシュを決める札となる。\n\n## 弱点と対策\n[じめん]・[エスパー]2倍弱点が痛く、特に[earthquake]連打型アタッカー相手には[coil]を積む余裕がほぼない。60/69/79の耐久では一撃で沈むリスクが高く、[エスパー]スイーパーに先手を取られればセットアッププランが完全に崩壊する。[intimidate]なしで生身で受ける運用は禁物で、交代着地のタイミングは慎重に選ぶ必要がある。\n\n## 推奨技構成\n[gunk-shot]を主力[どく] STABに固定して[coil]後のフィニッシャー火力を発揮させる。[earthquake]は[はがね]・[いわ]・[でんき]牽制の必須サブで、[どく] STABが通らない[はがね]の壁を打ち抜く。[coil]は積み枠の核札で、攻撃・防御・命中全てを上げ1回の積みでスイーパー資格が生まれる。最後の枠は[sucker-punch]で素早さ補完とフィニッシャー両立を担う。\n\n## 道具・特性・テラスタル\n道具は[life-orb]が基本で、攻撃力1.3倍補正を受けて確定キル範囲が大幅に拡大する。[focus-sash]は積み初手の保険用、[sitrus-berry]はHP50%区間の回復札として中盤のループに使う。特性は[intimidate]が基本で、shed-skinや[unnerve]は互換性が低い。テラスタルは[どく]タイプでSTAB火力を上げるか、[じめん]タイプで[エスパー]弱点消去+[earthquake]強化の二択を選ぶ。\n\n## 相性の良いパートナー\n[アーボック]は積みが必須なので、相手の交代を強要できるピボット([u-turn]・[volt-switch])との相性が良い。[エスパー]弱点対応として[あく]タイプパートナーを1枚配置し、[じめん]弱点カウンターとして[ひこう]・[くさ]タイプを一緒に置けば着地が大幅に安定する。[stealth-rock]使いと組んで[coil]ブースト後の確定キル範囲を広げる設計も実戦的だ。\n\n## 立ち回り\n[intimidate]着地で相手攻撃を下げた後に[coil]を1回積み、その次のターンから[gunk-shot]・[earthquake]でスイープを開始する。[sucker-punch]はHPが少ない相手にのみ使用し、テラスタルは[エスパー]弱点技を確定で受ける時に即発動する運用が安全。積み成立後の高速処理を意識し、ダラダラ居座らず短期決戦で畳むのが鉄則となる。",
+  "tags": [
+    "kanto",
+    "poison",
+    "physical-sweeper",
+    "coil"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

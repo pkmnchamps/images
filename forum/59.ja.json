@@ -1,0 +1,80 @@
+{
+  "pokemonId": 59,
+  "nameKo": "윈디",
+  "nameEn": "arcanine",
+  "formKey": null,
+  "types": [
+    "fire"
+  ],
+  "roles": [
+    "physical-attacker",
+    "pivot"
+  ],
+  "recommendedAbility": "intimidate",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "fire",
+    "fighting"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[ウインディ] バトル運用ガイド",
+  "summary": "[intimidate]で交代収益を奪う[ほのお]物理アタッカー。[extreme-speed]で素早さの弱点を先制技で補完する。",
+  "strengths": [
+    "[intimidate]で物理アタッカーの交代ターンを弱体化",
+    "[extreme-speed]のメタ最上位先制技を保持",
+    "90/80/80のバランス耐久で交代安定性を確保"
+  ],
+  "weaknesses": [
+    "[いわ]・[みず]・[じめん]弱点で[stealth-rock]に脆い",
+    "素早さ95で上位圏には後手に回る",
+    "[flare-blitz]の反動管理が必要"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "flare-blitz",
+      "reason": "主力物理[ほのお] STAB"
+    },
+    {
+      "move": "extreme-speed",
+      "reason": "メタ最上級の先制技"
+    },
+    {
+      "move": "close-combat",
+      "reason": "[いわ]・[ノーマル]・[はがね]牽制の[かくとう]サブ"
+    },
+    {
+      "move": "morning-sun",
+      "reason": "回復ユーティリティで生存性を維持"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "charcoal",
+      "reason": "ほのお技の火力を追加補正"
+    },
+    {
+      "item": "leftovers",
+      "reason": "長期戦回復カード"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "序盤の回復カード"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ウインディ]は[ほのお]単タイプの物理アタッカーで、[intimidate]で交代収益を奪い、[extreme-speed]で素早さの弱点を先制技で補う実戦的な古典カードだ。90/80/80のバランス耐久に攻撃110と素早さ95が組み合わさり、交代プランとフィニッシャー役を同時にこなす。\n\n## 強み\n[intimidate]は交代時に相手物理アタッカーの攻撃を1段階下げるため、[ウインディ]の耐久を実質的に一段引き上げる。[extreme-speed]はメタ最上級の先制技の一つで、素早さ優位になくとも削られた相手を確定で仕留められる。[flare-blitz]は攻撃110+STAB+Jolly補正の三段階火力が重なり、一度登場して一度振るだけで相当なダメージを残せる。交代と瞬発火力の両立という点で、古典的かつ完成度の高いアタッカーとして機能する。\n\n## 弱点と対策\n[いわ]・[みず]・[じめん]の2倍弱点はメタでも頻出で、[stealth-rock]25%ダメージが交代回数を制限する。素早さ95はメタ上位圏(110以上)のアタッカーに追い抜かれるため、積み技なしの1対1スピード勝負では不利となる。[flare-blitz]の反動が累積した場合は[morning-sun]で回復する必要があるが、ターンを消費するという構造的制約が残る点は常に意識したい。\n\n## 推奨技構成\n[flare-blitz]を主力物理[ほのお] STABとして固定し、最大火力を出す。[extreme-speed]は素早さ弱点補完の核心先制技で、削られた相手のフィニッシャーとして頻繁に活躍する。[close-combat]は[いわ]・[ノーマル]・[はがね]牽制用の必須[かくとう]サブ、最後は[morning-sun]で反動の累積を回復する。変形として[wild-charge]を入れて[みず]タイプ牽制を担保する選択肢もある。\n\n## 道具・特性・テラスタル\n道具は[charcoal]が基本で、[flare-blitz]の火力を20%追加補正する。[leftovers]は長期戦の生存性強化用、[sitrus-berry]は序盤の一撃回復用だ。特性は[intimidate]固定で、[flash-fire]・justifiedは相性が薄い。テラスタルは[ほのお]タイプで[flare-blitz]火力を上げるか、[かくとう]タイプで[いわ]弱点を反転させつつ[close-combat]火力を強化する。チーム構成に応じて両者の使い分けを決めたい。\n\n## 相性の良いパートナー\n[ウインディ]は交代ピボットとフィニッシャーを兼ねるため、[stealth-rock]除去担当([defog]・[rapid-spin])と組むことで反動+フィールドダメージの累積を抑えられる。[みず]・[いわ]弱点カウンターとして[くさ]・[じめん]パートナーを配置し、[volt-switch]・[u-turn]ピボットラインと結合すれば安全な登場ポイントを作れる。後続クリーナーには[extreme-speed]での締め支援も可能だ。\n\n## 立ち回り\n交代出しで[intimidate]収益を奪った後に[flare-blitz]を叩き込み、[extreme-speed]で削られた相手を切る。[morning-sun]はHP50%圏で使い、テラスタルは[いわ]・[みず]弱点技を確定で受ける瞬間に即発動する運用が最も安定する。",
+  "tags": [
+    "kanto",
+    "fire",
+    "physical-attacker",
+    "intimidate"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

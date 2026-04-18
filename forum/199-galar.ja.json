@@ -1,0 +1,83 @@
+{
+  "pokemonId": 199,
+  "nameKo": "가라르야도킹",
+  "nameEn": "slowking-galar",
+  "formKey": "galar",
+  "types": [
+    "poison",
+    "psychic"
+  ],
+  "roles": [
+    "special-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "regenerator",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "poison",
+    "psychic"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "ja",
+  "title": "[ガラルヤドキング] バトル運用ガイド",
+  "summary": "[regenerator]の交代回復+専用技[eerie-spell]によるPP削りを絡めた[どく]・[エスパー]バルクアタッカー。110特攻/110特防で特殊壁との兼業が可能。",
+  "strengths": [
+    "[regenerator]で交代時にHPを1/3回復",
+    "[eerie-spell]シグネチャ — PP3削減ユーティリティ",
+    "110特攻+110特防の安定した特殊プロフィール"
+  ],
+  "weaknesses": [
+    "[じめん]・[ゴースト]・[エスパー]・[あく]弱点",
+    "素早さ30で必ず後攻",
+    "物理耐久95/80で平均ライン"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "eerie-spell",
+      "reason": "シグネチャ[エスパー]特殊+PP3削減ユーティリティ"
+    },
+    {
+      "move": "sludge-bomb",
+      "reason": "[どく]STAB主力特殊技"
+    },
+    {
+      "move": "slack-off",
+      "reason": "HP50%回復で持久戦を支える"
+    },
+    {
+      "move": "protect",
+      "reason": "安全ターン確保+様子見"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "assault-vest",
+      "reason": "特殊耐久を1.5倍に引き上げる主軸アイテム"
+    },
+    {
+      "item": "black-sludge",
+      "reason": "毒タイプ専用の持続回復アイテム"
+    },
+    {
+      "item": "leftovers",
+      "reason": "標準的な持続回復道具"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ガラルヤドキング]は[regenerator]特性で交代のたびにHPの1/3を回復する特殊バルクアタッカーだ。専用技[eerie-spell]は相手が最後に使った技のPPを3減らす独特のユーティリティ技で、相手エース技を素早く枯らす特殊戦術が可能となる。110特攻+110特防の安定した特殊プロフィールは特殊アタッカーと特殊壁の二重運用を成立させ、チームの軸となる存在感を発揮する。\n\n## 強み\n[regenerator]による交代回復に加え、[slack-off]での自己回復で実質無限HP運用が可能となる。[eerie-spell]は威力80+相手の技PP3削減で、[choice-specs]持ちのエース技を素早く枯渇させる戦略が機能する。110特攻+[どく]・[エスパー]STAB+[regenerator]の組み合わせは、単独で特殊アタッカーと特殊壁の二重役割を果たす希少性を生み出し、チーム構築の自由度を大きく広げる。\n\n## 弱点と対策\n[じめん]・[ゴースト]・[エスパー]・[あく]の4種弱点を抱える。素早さ30は[trick-room]下以外では必ず後攻となるため、行動順が固定されて読み合いが限定される。物理耐久95/80は平均水準で物理アタッカーには脆く、特殊壁運用が基本となる。中速物理の突破力には弱く、後衛で物理受けを別途用意する必要がある点に注意したい。\n\n## 推奨技構成\n[eerie-spell]はシグネチャ[エスパー]STAB+PP削減ユーティリティで核札となる。[sludge-bomb]は[どく]STAB主力特殊技で30%の毒付与効果も実戦価値が高い。[slack-off]は持久運用の要で中盤以降の維持を担い、[protect]は[regenerator]交代タイミング調整と様子見に使う安全札。4枠全てが役割を持ち、削る枠が存在しない完成度の高い技構成だ。\n\n## 道具・特性・テラスタル\n道具は[assault-vest]が特殊壁強化の主軸選択で、特殊耐久が1.5倍に跳ね上がる。[black-sludge]は[どく]タイプ専用の持続回復型、[leftovers]は汎用的な代替だ。特性は[regenerator]固定でこの運用の全ての根幹。テラスタルは[どく]で[sludge-bomb]のSTAB重ね掛け、または[エスパー]で[eerie-spell]のSTAB重ねの二択となる。\n\n## 相性の良いパートナー\n[trick-room]パーティでは素早さ30がむしろ長所となり最上のシナジーを発揮する。交代サイクルピボットチームでも[regenerator]の回復と非常に噛み合う。[じめん]・[あく]弱点カウンターとして[ひこう]・[フェアリー]パートナーを配置し、[ゴースト]対策の[あく]タイプも1枚編成しておけば役割分担が綺麗にまとまる。\n\n## 立ち回り\n特殊アタッカーが場にいるターンに交代で着地させ、[eerie-spell]でエース技のPPを素早く枯らし、その後は交代で下げて[regenerator]回復のサイクルを回すのが基本プランだ。[sludge-bomb]で主力ダメージを稼ぎ、[slack-off]は緊急回復に温存する。長期戦運用が核札で、序盤に全力を出し切らず試合全体の資源を管理する視点が重要となる。",
+  "tags": [
+    "galar",
+    "poison",
+    "psychic",
+    "regional-form",
+    "regenerator",
+    "special-wall"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

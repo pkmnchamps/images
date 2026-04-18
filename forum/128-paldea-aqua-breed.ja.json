@@ -1,0 +1,83 @@
+{
+  "pokemonId": 128,
+  "nameKo": "팔데아켄타로스(물결)",
+  "nameEn": "tauros-paldea-aqua-breed",
+  "formKey": "paldea-aqua-breed",
+  "types": [
+    "fighting",
+    "water"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "intimidate",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "water",
+    "fighting"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[パルデアケンタロス(アクア種)] バトル運用ガイド",
+  "summary": "[intimidate]に[みず]・[かくとう]複合自タイプを併せ持つ高速物理アタッカー。[raging-bull]の[みず]タイプ版と壁破壊を両立する。",
+  "strengths": [
+    "[intimidate]サポートに[みず]・[かくとう]の両自タイプ",
+    "[raging-bull]の[みず]版シグネチャ+壁破壊",
+    "[みず]自タイプで[ほのお]・[いわ]・[じめん]を牽制"
+  ],
+  "weaknesses": [
+    "[でんき]・[くさ]・[ひこう]・[エスパー]・[フェアリー]弱点",
+    "75/105/70の耐久は平均水準",
+    "特殊耐久70は低く特殊側から崩れやすい"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "raging-bull",
+      "reason": "シグネチャの[みず]自タイプ+壁破壊"
+    },
+    {
+      "move": "close-combat",
+      "reason": "[かくとう]自タイプの主力"
+    },
+    {
+      "move": "aqua-jet",
+      "reason": "[みず]自タイプの先制フィニッシャー"
+    },
+    {
+      "move": "protect",
+      "reason": "安全ターン確保のユーティリティ"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "life-orb",
+      "reason": "物理火力を1.3倍に底上げする汎用枠"
+    },
+    {
+      "item": "choice-band",
+      "reason": "攻撃1.5倍に固定する高火力特化"
+    },
+    {
+      "item": "mystic-water",
+      "reason": "水技の威力を20%強化する軽補正"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[パルデアケンタロス(アクア種)]は[みず]・[かくとう]複合タイプの高速物理アタッカーで、パルデア3品種のうち唯一[aqua-jet]を自タイプ先制技として扱える。[raging-bull]は品種に応じて[みず]タイプで発動し、[ほのお]・[いわ]・[じめん]の牽制に特化する。[intimidate]サポートが相手物理を削ぐことで自身の低めな物理耐久を補える、地味に噛み合った一枚だ。\n\n## 強み\n[raging-bull]アクア種は[みず]タイプで発動し、[ウインディ]系の[ほのお]・[いわ]アタッカーのカウンター+壁破壊の二重役割を担う。[aqua-jet]は[みず]自タイプの先制技として素早さを超えてくる相手にフィニッシュを入れられ、パルデア3品種のうちこの選択肢を持つのはアクア種だけだ。[みず]自タイプ+[かくとう]自タイプの組み合わせは広範囲の牽制力を提供し、特に[はがね]・[あく]・[ノーマル]・[こおり]・[いわ]の5タイプに刺さる。\n\n## 弱点と対策\n[でんき]・[くさ]・[ひこう]・[エスパー]・[フェアリー]の5種弱点で耐性プロファイルが薄い。特に[でんき]アタッカーの一撃で即死する危険が高く、75/105/70の耐久は特殊耐久70が低いため[thunderbolt]・[energy-ball]系の連打には脆い。[intimidate]の物理削減だけでは特殊側をカバーし切れない点を常に意識したい。\n\n## 推奨技構成\n[raging-bull]はシグネチャの[みず]自タイプ+壁破壊を兼ねる必須枠。[close-combat]は[かくとう]自タイプの主力で、高物理ダメージと素早さ押しのテンポを作る。[aqua-jet]は自タイプ先制フィニッシャーでパルデア3品種中唯一のアドバンテージ、[protect]はダブル環境での安全ターン確保や相手アイテム確認に使える。[earthquake]を差し込む構成も[でんき]読みで実戦的だ。\n\n## 道具・特性・テラスタル\n道具は[life-orb]が基本で、物理火力を1.3倍に底上げする。[mystic-water]は水技の威力を20%強化する軽補正向き、[choice-band]は攻撃1.5倍に固定する高火力特化だ。特性は[intimidate]で固定する。テラスタルは[みず]で[raging-bull]・[aqua-jet]の自タイプを重ねるか、[かくとう]で[close-combat]の一撃火力を極大化する二択が基本となる。\n\n## 相性の良いパートナー\n[でんき]・[くさ]弱点のカウンターとして[じめん]・[ほのお]パートナーを並べ、[エスパー]・[フェアリー]弱点への対応で[あく]・[むし]パートナーも加える。[tailwind]要員で素早さをさらに確保できれば[aqua-jet]の必要性を下げられ、素の[raging-bull]・[close-combat]で殴り倒すプランも選択肢に入る。\n\n## 立ち回り\n先発に出して[intimidate]を発動させた後、[raging-bull]で壁を砕きつつ攻撃し、[close-combat]・[aqua-jet]で物理火力を連打する。[でんき]・[くさ]が見えたら即座に交代、素早さを超えてくる相手には[aqua-jet]でフィニッシュを狙う。テラスタルは弱点技確定の瞬間まで温存する。",
+  "tags": [
+    "paldea",
+    "fighting",
+    "water",
+    "regional-form",
+    "intimidate",
+    "physical-attacker"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

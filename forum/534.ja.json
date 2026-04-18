@@ -1,0 +1,81 @@
+{
+  "pokemonId": 534,
+  "nameKo": "노보청",
+  "nameEn": "conkeldurr",
+  "formKey": null,
+  "types": [
+    "fighting"
+  ],
+  "roles": [
+    "physical-attacker",
+    "tank"
+  ],
+  "recommendedAbility": "iron-fist",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "steel",
+    "fire"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 0
+  },
+  "locale": "ja",
+  "title": "[ローブシン] バトル運用ガイド",
+  "summary": "[iron-fist]補正[drain-punch]でHPを吸いながら粘る攻撃140の[かくとう]物理耐久アタッカー。",
+  "strengths": [
+    "攻撃140に[iron-fist]補正[drain-punch]でHP回復",
+    "HP105ベースで耐久型アタッカー設計が可能",
+    "[mach-punch]先制で素早さ不足を牽制"
+  ],
+  "weaknesses": [
+    "[ひこう]・[エスパー]・[フェアリー]2倍弱点の累積",
+    "素早さ45で[ひこう]・[エスパー]スイーパーに登場タイミングが制限される",
+    "状態異常がなければ[drain-punch]火力が決定打に届かない"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "drain-punch",
+      "reason": "[iron-fist]補正を受けつつHPまで回復するメイン[かくとう] STAB"
+    },
+    {
+      "move": "mach-punch",
+      "reason": "素早さ不足を補う[iron-fist]先制カード"
+    },
+    {
+      "move": "knock-off",
+      "reason": "[エスパー]・[ゴースト]牽制と道具剥奪"
+    },
+    {
+      "move": "bulk-up",
+      "reason": "攻撃・防御を同時に上げて耐久アタッカーを完成"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "leftovers",
+      "reason": "drain-punchと組み合わせた二重回復で長期戦に強くなる"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "先制の一撃を残して反撃を確保"
+    },
+    {
+      "item": "lum-berry",
+      "reason": "やけど・ねむり・まひを1回解除して積みを守る"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ローブシン]は攻撃140とHP105を同時に持つ数少ない純[かくとう]カードで、[iron-fist]補正の[drain-punch]で耐えながら殴る耐久型物理アタッカーだ。素早さ45は明確な短所だが、その代わり[bulk-up]+[drain-punch]サイクルを回せば長期戦で相手の耐久陣を削り切る役割を安定して遂行できる。\n\n## 強み\n[iron-fist]は[drain-punch]・[mach-punch]・[ice-punch]・[thunder-punch]の決定力を1.2倍に引き上げ、特に[drain-punch]はHP回復まで兼ねるため体感耐久が1.5倍以上に伸びる。攻撃140ベースの[close-combat]は受け止めにくい火力を出すが、[bulk-up]を1段階積めば[drain-punch]だけで中型アタッカーを2ターンで処理できる。[mach-punch]は素早さ45の短所を埋める先制技で、弱点を突いてくる相手にも一拍早く反撃できる点が戦略的に重要だ。\n\n## 弱点と対策\n[ひこう]・[エスパー]・[フェアリー]が全て2倍弱点だ。特に高速の[ひこう]・[エスパー]スイーパーは[ローブシン]が登場する前に既に先制を取っているケースがほとんどで、交代タイミングの読みが核心になる。[フェアリー]受け(ヤドン系・ニャオハ系)が後ろに控えると[drain-punch]がほぼ無力化されるので、[knock-off]で道具を剥ぐプレイは必須だ。やけどを受ければ[iron-fist]補正火力が半減するので、[lum-berry]による1回保険は必ず用意したい。\n\n## 推奨技構成\nメインは[drain-punch]で固定する。[iron-fist]+威力75+50%回復の組み合わせは[ローブシン]のアイデンティティそのものだ。[mach-punch]で素早さの弱点を補い、[knock-off]で[エスパー]・[ゴースト]・耐久相手を削りつつ道具まで剥がす。最後は[bulk-up]で攻撃・防御を一緒に上げて長期戦の勝率を伸ばす。即効の決定力を重視するなら[drain-punch]を[close-combat]に入れ替えられるが、回復ループが失われるので安定感は落ちる。\n\n## 道具・特性・テラスタル\n道具は[leftovers]が基本。[drain-punch]と合わせてターンあたりの体感回復量が25%以上出て、ストール相手にも押し負けない。[focus-sash]は先制技アタッカーが多いマッチアップで[mach-punch]反撃プランを保証する。特性は必ず[iron-fist]。メタ基準で[guts]は自力発動コンボがなく効率が劣り、[sheer-force]は[drain-punch]回復とシナジーが合わない。テラスタルは[はがね]で[ひこう]・[エスパー]・[フェアリー]弱点を一気に整理するか、[ほのお]で[ひこう]・[エスパー]牽制を反転させるのが核心だ。\n\n## 相性の良いパートナー\n素早さが遅い分、エントリーをアシストする相棒が必須だ。[ひこう]アタッカーを受ける[でんき]タンク、[エスパー]を受ける[あく]タイプ、[フェアリー]を突ける[どく]・[はがね]資源がチームに最低一体ずつ必要となる。高速[tailwind]の使い手がいれば素早さ45の弱点が消え、攻撃ループが一気に快適になる。相手の物理スイーパーを弱体化させるため[intimidate]要員も並べれば安定感がさらに増す。\n\n## 立ち回り\n序盤は無理に登場させず、相手の先制軸が崩れた後の3〜4ターン目にスイッチインするのが基本プランだ。[bulk-up]は交代予測が確定した瞬間に1段積み、以降は[drain-punch]+[leftovers]サイクルでHPを維持しつつ圧をかけ続ける。[mach-punch]は決定打専用ではなくテンポ制御用に温存し、テラスタルは[エスパー]・[ひこう]技が確定で飛んでくる角度に限って即発動する。",
+  "tags": [
+    "unova",
+    "fighting",
+    "iron-fist",
+    "bulk-up",
+    "physical-attacker"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

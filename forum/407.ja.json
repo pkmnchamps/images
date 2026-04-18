@@ -1,0 +1,82 @@
+{
+  "pokemonId": 407,
+  "nameKo": "로즈레이드",
+  "nameEn": "roserade",
+  "formKey": null,
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "roles": [
+    "special-attacker",
+    "lead"
+  ],
+  "recommendedAbility": "technician",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "grass",
+    "fire"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "spa": 32,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[ロズレイド] バトル運用ガイド",
+  "summary": "[technician]補正で[hidden-power]や威力60以下の技を増幅する[くさ]・[どく]特殊アタッカー兼リード。",
+  "strengths": [
+    "特攻125の整った火力と素早さ90",
+    "[toxic-spikes]・[sleep-powder]のサポート札",
+    "[くさ]・[どく]STABの広い2倍範囲"
+  ],
+  "weaknesses": [
+    "耐久が薄く狙い撃ちの一撃で崩れる",
+    "[こおり]・[ほのお]・[ひこう]・[エスパー]弱点多数",
+    "物理先制技に極度に脆い"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "leaf-storm",
+      "reason": "[くさ]STAB最大火力の一撃必殺札"
+    },
+    {
+      "move": "sludge-bomb",
+      "reason": "[フェアリー]・[くさ]を切る安定[どく]STAB"
+    },
+    {
+      "move": "sleep-powder",
+      "reason": "リード対面を強奪する状態異常"
+    },
+    {
+      "move": "toxic-spikes",
+      "reason": "着地だけで相手チーム全体に持続ダメージを蓄積"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "先発で一撃を耐えてサポート展開を確定させる"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "素早さ90を一段押し上げて主要エースを抜く"
+    },
+    {
+      "item": "miracle-seed",
+      "reason": "[くさ]STAB火力を一段階底上げする補正"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ロズレイド]は[くさ]・[どく]特殊アタッカーにして、トークン型のリードポジションを一手に担えるポケモンだ。特攻125・素早さ90・特防105という典型的な特殊遠距離アタッカーの種族値配分を持ち、特性[technician]は威力60以下の技を1.5倍に増幅して差し込みの引き出しを広げる。チャンピオンズメタでは、[toxic-spikes]と[sleep-powder]で序盤のテンポを奪うリード役と、[leaf-storm]の一撃火力ディーラー役を両立できる。\n\n## 強み\n[くさ]・[どく]STABの組み合わせはメタの[みず]・[くさ]・[フェアリー]・[じめん]ラインを広く突く。[technician]補正が乗る[hidden-power]・[magical-leaf]・[venoshock]を織り交ぜれば技選択の幅が広がり、[sleep-powder]の睡眠強奪が決まれば1対1構図を完全に反転できる。[toxic-spikes]は着地だけで相手チーム全体にダメージを蓄積し、長期戦志向のタンキング構築の価値を大きく下げる効果がある。\n\n## 弱点と対策\n耐久60/65/105で物理耐久が極端に薄く、先制技や[u-turn]一撃で溶けることが多い。[こおり]・[ほのお]・[ひこう]・[エスパー]の4種弱点は常時の負担で、素早さ90はスカーフなしではメタ上位のアタッカーを抜けない。相手の[はがね]タイプが出てくると[sludge-bomb]・[leaf-storm]が両方半減されるため、サブウェポンか[sleep-powder]で必ず角度を作る必要がある。\n\n## 推奨技構成\n[leaf-storm]を[くさ]STABの一撃札として装備し、確定KO構図を描く。[sludge-bomb]は連射可能な[どく]STABで[フェアリー]・[くさ]ラインを安定処理、[sleep-powder]はリード構図のマッチアップ強奪カードとして必須だ。最後の枠は[toxic-spikes]で後続負担を減らすか、構成次第で[leech-seed]を採用して長期回復ループを狙うのも悪くない。\n\n## 道具・特性・テラスタル\n道具はリード運用なら[focus-sash]が最優先で、一撃を必ず耐えて[toxic-spikes]・[sleep-powder]を撒き切れる。火力重視なら[choice-scarf]で素早さ帯を一段上げ、エースポジションを兼ねる。[miracle-seed]は[leaf-storm]の[くさ]STABを一段補強する無難な選択肢だ。特性は[technician]が最適解で、テラスタルは[くさ]でSTAB火力を極大化するか、[ほのお]テラで[こおり]・[ほのお]弱点を反転させる構成が実戦的である。\n\n## 相性の良いパートナー\nトークンリードプランを採る時は[stealth-rock]役と分担すればリスク管理が容易になる。[ほのお]・[ひこう]・[こおり]攻撃を受けられる[みず]・[いわ]・[はがね]タンカーを後続に据え、[sleep-powder]で稼いだターンに積みスイーパーが乗ればスノーボールが自然に描ける。相手の[toxic-spikes]を消す[どく]タイプの味方がいれば交代負担がさらに軽くなる。\n\n## 立ち回り\nリードターンはほぼ例外なく[toxic-spikes]か[sleep-powder]から入る。攻撃は相手の交代強制が確定してから[leaf-storm]を撃ち込む順が安定する。テラスタルは[こおり]・[ほのお]技が読めるターンに即発動して生存ターンを1回確保する感覚で切るのが望ましい。",
+  "tags": [
+    "sinnoh",
+    "grass",
+    "lead",
+    "technician",
+    "special-attacker"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

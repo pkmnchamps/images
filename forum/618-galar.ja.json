@@ -1,0 +1,83 @@
+{
+  "pokemonId": 618,
+  "nameKo": "가라르메더",
+  "nameEn": "stunfisk-galar",
+  "formKey": "galar",
+  "types": [
+    "ground",
+    "steel"
+  ],
+  "roles": [
+    "physical-wall",
+    "support"
+  ],
+  "recommendedAbility": "mimicry",
+  "recommendedNature": "relaxed",
+  "recommendedTera": [
+    "steel",
+    "ground"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 16,
+    "def": 16,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "ja",
+  "title": "[ガラルマッギョ] バトル運用ガイド",
+  "summary": "[じめん]・[はがね]複合の耐久型。シグニチャー技[snap-trap]と[stealth-rock]設置によるハザードサポートを担う。",
+  "strengths": [
+    "[じめん]・[はがね]複合で9タイプ耐性+[でんき]無効",
+    "シグニチャー罠技[snap-trap]で相手を縛る",
+    "[stealth-rock]設置によるチーム貢献"
+  ],
+  "weaknesses": [
+    "[ほのお]・[みず]・[じめん]・[かくとう]の4弱点",
+    "素早さ32で確定後攻",
+    "[mimicry]は実戦での有用性が低い"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "snap-trap",
+      "reason": "シグニチャー罠技——相手を固定し継続ダメージを与える"
+    },
+    {
+      "move": "earthquake",
+      "reason": "[じめん]STABの主力物理"
+    },
+    {
+      "move": "stealth-rock",
+      "reason": "ハザード設置ユーティリティ"
+    },
+    {
+      "move": "protect",
+      "reason": "安全ターンを確保"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "leftovers",
+      "reason": "毎ターンの持続回復"
+    },
+    {
+      "item": "rocky-helmet",
+      "reason": "接触攻撃への反射ダメージ"
+    },
+    {
+      "item": "figy-berry",
+      "reason": "HP50%時の緊急回復"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ガラルマッギョ]は[じめん]・[はがね]複合タイプの耐久型ポケモンで、9タイプへの耐性+[でんき]無効という堅牢な耐性プロフィールを持つ。シグニチャー技[snap-trap]は相手を4~5ターン固定し、ターンごとにHPの1/8ダメージを与える罠技で、メタでも独特のユーティリティ役割を担う存在だ。HP種族値109+防御100の厚い物理耐久を活かし、サイクル型構築の要所で機能する。\n\n## 強み\n[じめん]・[はがね]の複合タイプは[でんき]無効+8タイプ耐性という強力な耐性プロフィールを提供する。[snap-trap]は相手を交代不能状態にしターンあたりHPの1/8ダメージを与えるシグニチャー罠技で、[mega-sableye]や[toxapex]のような遅延型ポケモンを封殺するユーティリティとなる。[stealth-rock]設置+HP種族値109の耐久を活かし、ハザードセッター兼物理受けとして機能する。さらに[でんき]技を完全無効化するため、[ボルトロス]や[サンダー]のような[でんき]特殊アタッカーへの交代受けとしても優秀だ。\n\n## 弱点と対策\n[ほのお]・[みず]・[じめん]・[かくとう]の4弱点により物理アタッカーに対しては脆弱だ。素早さ32は[trick-room]以外では確定後攻となるため、[snap-trap]設置後すぐにダメージを蓄積するのは難しい。[mimicry]特性はフィールドに応じたタイプ変化だが、実戦での有用性は限定的である。特殊耐久種族値85もやや物足りず、高火力[みず]・[ほのお]特殊アタッカーには複数ターン居座れない点は留意すべきだ。\n\n## 推奨技構成\n[snap-trap]はシグニチャー罠技の核となる枠。[earthquake]は[じめん] STABの主力物理攻撃技。[stealth-rock]はハザード設置ユーティリティ。[protect]は安全ターン確保の基本枠として組み込む。変形として[toxic]・[body-press]を入れる選択肢も実戦的だ。[body-press]は防御100を攻撃値として転用できるため、[body-press]+[iron-defense]の積み型ビルドも検討に値する構成となる。\n\n## 道具・特性・テラスタル\n道具は[leftovers]が耐久持続回復のメインで、[rocky-helmet]は接触攻撃へ反射ダメージを与える変形枠、[figy-berry]はHPトリガー回復として使える。特性は[mimicry]または[sand-veil]。テラスタルは[はがね]で[ほのお]弱点を緩和しSTABを重ねるか、[じめん]で[earthquake]火力を上乗せする選択がある。[フェアリー]テラで[かくとう]弱点を逆手に取る防御型構築も一部のメタで有効となる。\n\n## 相性の良いパートナー\n[trick-room]パーティとの相性は抜群で、素早さ32の低さを利に変えられる。[ほのお]・[みず]弱点カウンターとして[grass]・[でんき]タイプのパートナーが機能し、遅延サイクル型チームでは[snap-trap]の罠ユーティリティを最大活用できる。[stealth-rock]と[snap-trap]の同時圧力は構築全体のテンポ吸収力を底上げする。\n\n## 立ち回り\n交代インで[でんき]アタッカーをカウンター→[stealth-rock]設置→[snap-trap]で相手を縛り継続ダメージ蓄積という3段階のテンポ構築が基本形だ。[earthquake]で主力ダメージを供給し、長期戦指向の運用に徹するのが核となる。",
+  "tags": [
+    "galar",
+    "ground",
+    "steel",
+    "regional-form",
+    "physical-wall",
+    "hazard-setter"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

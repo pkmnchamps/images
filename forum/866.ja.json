@@ -1,0 +1,78 @@
+{
+  "pokemonId": 866,
+  "nameKo": "마임꽁꽁",
+  "nameEn": "mr-rime",
+  "formKey": null,
+  "types": [
+    "ice",
+    "psychic"
+  ],
+  "roles": [
+    "special-attacker",
+    "support"
+  ],
+  "recommendedAbility": "screen-cleaner",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "water",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[バリコオル] バトル運用ガイド",
+  "summary": "[screen-cleaner]で相手の壁を剥がし、[freeze-dry]で[みず]を4倍で貫く[こおり]・[エスパー]変則アタッカー。",
+  "strengths": [
+    "特性[screen-cleaner]が[light-screen]・[reflect]を即座に除去",
+    "[freeze-dry]で[みず]タイプへ4倍特殊打点を刺し込む異形の角度",
+    "[triple-axel]で耐久[こおり]STABラインも確保"
+  ],
+  "weaknesses": [
+    "[はがね]・[ほのお]・[いわ]・[あく]・[ゴースト]の5重弱点",
+    "HP80/特防100でも物理耐久は平凡",
+    "素早さ70でスカーフなしでは抜かれる"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "freeze-dry",
+      "reason": "[みず]タイプに4倍で刺さる特殊[こおり]の変則打点"
+    },
+    {
+      "move": "psychic",
+      "reason": "[エスパー]STAB主力で[どく]・[かくとう]を牽制"
+    },
+    {
+      "move": "focus-blast",
+      "reason": "[はがね]・[あく]を抜くサブウェポン"
+    },
+    {
+      "move": "nasty-plot",
+      "reason": "壁除去後の1段階積みで瞬間火力を跳ね上げる"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "choice-scarf",
+      "reason": "素早さ70を補って[freeze-dry]の奇襲性を成立させる"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "登場ターンの一発を耐えて[screen-cleaner]を確実に発動"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[バリコオル]は種族値80/85/75/110/100/70の[こおり]・[エスパー]特殊アタッカーで、チャンピオンズMAでは特性[screen-cleaner]を活かした壁破壊スペシャリスト兼変則[こおり]カウンターとして運用される。[freeze-dry]という固有打点を持つ[こおり]ユーザーの中でも、特攻110の十分な火力を備えた一枚だ。\n\n## 強み\n最大の武器は特性[screen-cleaner]で、交代登場するだけで両サイドの[light-screen]・[reflect]・[aurora-veil]を吹き飛ばし、壁パーティのプラン全体を1ターンで瓦解させる。[freeze-dry]は[みず]・[ひこう]・[くさ]・[じめん]の4倍一致が1技に集約される稀有な角度で、相手チームの[みず]交代受けを正面から罰する。特攻110は[nasty-plot]1ターンあればメタ上位の特殊ラインに到達する火力値だ。\n\n## 弱点と対策\n[はがね]・[ほのお]・[いわ]・[あく]・[ゴースト]の2倍打点が密集しており、一度に多数の相手に対して不利対面を背負ってしまう。素早さ70はchoice-scarfなしでは抜かれやすく、物理耐久80/75では[close-combat]・[iron-head]の1発で崩壊しうる。特にドドゲザン・ガブリアス(ではなくガチグマ・テツノカイナ類)・サーフゴーといった[あく]・[はがね]軸には弱点をそのまま晒す構造だ。\n\n## 推奨技構成\n[freeze-dry]は必ず固定。この技ひとつのために[バリコオル]を採用すると言っても過言ではない。[psychic]を[エスパー]STAB主力に据え、[focus-blast]で[はがね]・[あく]ラインを貫く。4枠目は[nasty-plot]で壁除去後の特攻+2を作る構成が最も実戦的だ。チームが[trick-room]軸なら[nasty-plot]を[trick-room]に差し替え、性格をquietに変更するバリエーションも存在する。\n\n## 道具・特性・テラスタル\n道具はchoice-scarfを第一候補として推奨する。素早さ70の中途半端な数値を補わなければ[freeze-dry]の奇襲が成立しない。[focus-sash]は[screen-cleaner]の登場効果を確実に発動させたいチーム向け。特性はice-bodyよりも[screen-cleaner]が実戦的で、壁パーティをワンショットで破壊する価値が圧倒的に高い。テラスタルは[こおり]弱点を消す[みず]タイプ、もしくは[はがね]・[あく]弱点を反転する[フェアリー]の二択が主力だ。\n\n## 相性の良いパートナー\n壁パーティカウンターという役割を極大化するため、速いスイーパーパートナーを後ろに控えさせたい。相手[みず]タイプを[freeze-dry]で絞り込んだ隙に、[くさ]・[でんき]スイーパーが仕留める絵が理想形となる。[あく]・[はがね]弱点補完として[かくとう]・[じめん]パートナーを入れ、先制技抑止として[intimidate]サポーターを同居させるとより安定する。[trick-room]セッターと組ませればquiet型で広範囲特殊火力を放てる。\n\n## 立ち回り\n相手先発が壁を展開した直後にスイッチインし、[screen-cleaner]で盤面を掃除するのが最強タイミングだ。[freeze-dry]は[みず]タイプが確定したターンにのみ押して奇襲価値を最大化し、通常時は[psychic]を安定打として振る。[nasty-plot]を積むタイミングは相手の交代が確定したターンだけを狙い、テラスタルは弱点技が確定する瞬間に即発動する。",
+  "tags": [
+    "galar",
+    "ice",
+    "psychic",
+    "screen-cleaner",
+    "freeze-dry"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

@@ -1,0 +1,73 @@
+{
+  "pokemonId": 115,
+  "nameKo": "메가캥카",
+  "nameEn": "kangaskhan-mega",
+  "formKey": "mega",
+  "types": [
+    "normal"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "parental-bond",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "normal",
+    "ghost"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[メガガルーラ] バトル運用ガイド",
+  "summary": "[parental-bond]で全ての攻撃が2回ヒットに変換されるメガ最上位物理エース。[fake-out]の2回ヒットは反則級のテンポ。",
+  "strengths": [
+    "[parental-bond]で全攻撃が2回ヒット扱い",
+    "[fake-out]が2回ヒット=実質威力200+2回ひるみ期待",
+    "105/100/100のメガ後安定耐久"
+  ],
+  "weaknesses": [
+    "[かくとう]弱点は据え置き",
+    "素早さ100は最上位帯に後手を許す",
+    "メガ進化前の1ターンは[scrappy]状態"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "double-edge",
+      "reason": "主力[ノーマル] STABの2回ヒットフィニッシャー"
+    },
+    {
+      "move": "earthquake",
+      "reason": "[はがね]・[でんき]・[いわ]を牽制するサブ"
+    },
+    {
+      "move": "sucker-punch",
+      "reason": "2回ヒットで炸裂する先制フィニッシャー"
+    },
+    {
+      "move": "fake-out",
+      "reason": "2回ヒット+ひるみのユーティリティ"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "kangaskhanite",
+      "reason": "メガシンカのための必須アイテム (kangaskhanite)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガガルーラ]は[parental-bond]により全ての攻撃が2回ヒット(主攻撃+2発目0.25倍)に変換されるメタ最上位の物理エースだ。[fake-out]が2回ヒット=実質威力200+2回分のひるみ期待+100%先制の反則級テンポを実現し、メガ後の105/100/100耐久で交代受けの信頼性まで確保する。非メガ枠の[ガルーラ]とは全く別のクラスの存在感を発揮する。\n\n## 強み\n[parental-bond]はメタでも最強格の攻撃系特性である。全ての攻撃が2発に変換されるため、[double-edge]は実質威力150+反動込みでfocus-sash圏内の相手を一撃圏に収める。[fake-out]の2回ヒットは実質確定ひるみ+2回分のダメージを両立し、先発のテンポを圧倒的に支配する。[sucker-punch]も2回先制として炸裂し、フィニッシャーの射程が大きく広がる。[earthquake]ですら二段で入るため、受け回しが極端に成立しにくい。\n\n## 弱点と対策\n[かくとう]2倍弱点はメガ進化後も据え置きで、[close-combat]・[dynamic-punch]使いには交代受け自体が危険だ。素早さ100はメタ最上位(110+)にいる高速アタッカーに抜かれるため、choice-scarf使いへの対応は必須。メガ進化前の1ターンは[scrappy]状態で[parental-bond]の恩恵がないため、この1ターンをどう扱うかが立ち回りの肝になる。\n\n## 推奨技構成\n[double-edge]を主力[ノーマル] STABに固定し、[parental-bond]による2回ヒットの最大値を引き出す。[earthquake]は[はがね]・[でんき]・[いわ]を牽制する必須サブで、これも2発に変換される。[sucker-punch]は素早さ不足を補う2回先制フィニッシャー、最後の枠は[fake-out]で固定して先発の反則級テンポを掌握する。枠を削る余地はほぼ無い。\n\n## 道具・特性・テラスタル\n道具は[kangaskhanite]で固定、他の選択肢は存在しない。特性はメガ後に[parental-bond]へ自動切り替わる。テラスタルは[ノーマル]で[double-edge]の火力を極大化するか、[ゴースト]で[かくとう]・[ノーマル]弱点を同時に反転させる防御型が実戦的だ。[ゴースト]テラは[scrappy]が消えた状況での自己牽制になるため、先制ひるみプランに影響する点は注意したい。\n\n## 相性の良いパートナー\n[メガガルーラ]は[fake-out]先発でリード枠を埋めるため、後続積み技スイーパーに安全な1ターンを供給する構成が基本形だ。[かくとう]弱点のカウンターとして[エスパー]・[フェアリー]パートナーを置き、choice-scarf圏外の高速勢に対応するため[prankster]使いも後衛に添える。[stealth-rock]支援があれば2回ヒットの確1圏が一気に広がる。\n\n## 立ち回り\n先発で出してメガシンカと同時に[fake-out]でテンポを奪い、以降は[double-edge]・[earthquake]の2回ヒットで削りを積み上げる。[sucker-punch]は瀕死の高速アタッカーや先制技使い専用のフィニッシャーに温存し、テラスタルは[かくとう]弱点技を踏む角度が確定した瞬間に切ってターンを買う。",
+  "tags": [
+    "kanto",
+    "normal",
+    "mega",
+    "parental-bond",
+    "physical-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

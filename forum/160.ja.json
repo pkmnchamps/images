@@ -1,0 +1,77 @@
+{
+  "pokemonId": 160,
+  "nameKo": "장크로다일",
+  "nameEn": "feraligatr",
+  "formKey": null,
+  "types": [
+    "water"
+  ],
+  "roles": [
+    "physical-attacker",
+    "setup-sweeper"
+  ],
+  "recommendedAbility": "sheer-force",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "water",
+    "dark"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[オーダイル] バトル運用ガイド",
+  "summary": "[sheer-force]で追加効果技を1.3倍ブーストする[みず]物理積みスイーパー。[dragon-dance]1回で前線を切り裂く古典エース。",
+  "strengths": [
+    "[sheer-force]補正+[みず] STABの高火力",
+    "[dragon-dance]で素早さと攻撃を同時ブースト",
+    "[crunch]・[ice-punch]の広いカバレッジ"
+  ],
+  "weaknesses": [
+    "素早さ78で積み前は遅い",
+    "[くさ]・[でんき]弱点が特殊攻撃に致命的",
+    "先制技で積みターンが崩されやすい"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "liquidation",
+      "reason": "[sheer-force]補正を受ける主力[みず] STAB"
+    },
+    {
+      "move": "crunch",
+      "reason": "[エスパー]・[ゴースト]を牽制する必須"
+    },
+    {
+      "move": "ice-punch",
+      "reason": "[ドラゴン]・[じめん]・[くさ]を牽制するカバレッジ"
+    },
+    {
+      "move": "dragon-dance",
+      "reason": "攻撃・素早さを同時にブーストする積み技"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "mystic-water",
+      "reason": "[みず] STAB火力を安定増幅する"
+    },
+    {
+      "item": "lum-berry",
+      "reason": "状態異常を1回無効化して積みを保障"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[オーダイル]は[みず]単タイプの物理積みスイーパーで、隠れ特性[sheer-force]を採用すれば追加効果技系に1.3倍ブーストが乗り、想像以上の火力を出せる古典エースだ。攻撃105と素早さ78は原種のままだと曖昧な水準だが、[dragon-dance]を1回積むだけで実質攻撃225・実質素早さ140台に達し、前線を切り裂く決定力のあるスイーパーへ変貌する。チャンピオンズメタでも依然愛される積みカード。\n\n## 強み\n[sheer-force]は[liquidation]・[crunch]・[ice-punch]など追加効果持ちの技すべてに1.3倍補正をかけ、実戦威力がそれぞれ104→135、104→135へと跳ね上がる。[dragon-dance]を1回積めば相手の受け駒の大半が2発圏内に入り、素早さ軸まで奪うため相手は交代以外の対応がほぼ取れない。カバレッジの幅も広く、[はがね]・[フェアリー]・[ドラゴン]・[ゴーストいずれの受けが出てきても適切な打点が存在する。\n\n## 弱点と対策\n最大の構造的弱点は素早さ78だ。積み前はメタ上位級の大半より遅く交代読みに脆く、[くさ]・[でんき]特殊アタッカーの[thunderbolt]・[grass-knot]一発で積みターンごと崩される。先制技持ちも危険で、積み失敗時は決定力が急落する点で運用難易度が高い。\n\n## 推奨技構成\n[liquidation]は[sheer-force]補正を受ける主力[みず] STABに固定し、[crunch]は[エスパー]・[ゴースト]を牽制する必須スロットだ。[ice-punch]は[ドラゴン]・[くさ]・[じめん]を牽制するカバレッジとして必ず含め、最後の枠は[dragon-dance]で積みターンを解決する。[earthquake]で[でんき]・[はがね]アタッカーを直接牽制する派生も実戦的。\n\n## 道具・特性・テラスタル\n道具は[mystic-water]が[みず] STAB火力増幅の安定した選択で、[lum-berry]は相手の状態異常を1回無効化して積みターンを保障する。特性は必ず[sheer-force]とし、[torrent]はHP管理が難しく汎用性が低い。テラスタルは[みず]でSTAB火力を極大化するか、[あく]で[crunch]の決定力を上げる2方向が実戦的だ。\n\n## 相性の良いパートナー\n[オーダイル]の[くさ]・[でんき]弱点を補うために[じめん]・[ひこう]パートナーを編成する。積みターンを作るピボット要員を後列に置き、相手先制技対策に[intimidate]持ちをパートナーに加えれば積み成功率が上がる。[stealth-rock]除去役も必須配置したい。\n\n## 立ち回り\n基本プランはピボット支援→交代着地→[dragon-dance]→クリナー化だ。積み後は[liquidation]で広範囲整理、[crunch]と[ice-punch]で受け駒への対応を使い分ける。積み前に相手の特殊アタッカーが着地した場合は無理せず交代でリセットし、[stealth-rock]の削りを避ける動きを徹底する。テラスタルは弱点攻撃を確定で踏む瞬間のために温存しよう。",
+  "tags": [
+    "johto",
+    "water",
+    "physical",
+    "sheer-force",
+    "dragon-dance"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

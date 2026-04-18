@@ -1,0 +1,81 @@
+{
+  "pokemonId": 745,
+  "nameKo": "루가루간(황혼의모습)",
+  "nameEn": "lycanroc-dusk",
+  "formKey": "dusk",
+  "types": [
+    "rock"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "tough-claws",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "rock",
+    "normal"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[ルガルガン(たそがれのすがた)] バトル運用ガイド",
+  "summary": "[tough-claws]で接触技威力が1.3倍補正される[いわ]高速物理アタッカー。攻撃117+素早さ110の超高速物理プロフィールを持つ。",
+  "strengths": [
+    "[tough-claws]で接触技威力1.3倍補正",
+    "攻撃117+素早さ110の超高速物理",
+    "[accelerock]シグニチャー先制技"
+  ],
+  "weaknesses": [
+    "[みず]・[くさ]・[じめん]・[かくとう]・[はがね]弱点多数",
+    "75/65/65の耐久は極めて脆い",
+    "[tough-claws]は接触技のみ補正対象"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "accelerock",
+      "reason": "シグニチャー[いわ]先制技+[tough-claws]補正"
+    },
+    {
+      "move": "stone-edge",
+      "reason": "[いわ] STABの最大威力物理"
+    },
+    {
+      "move": "close-combat",
+      "reason": "[かくとう]サブ+[tough-claws]補正"
+    },
+    {
+      "move": "protect",
+      "reason": "安全ターンを確保"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "life-orb",
+      "reason": "物理火力の補正"
+    },
+    {
+      "item": "choice-band",
+      "reason": "攻撃1.5倍の超高火力"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "1回確定生存の保証"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ルガルガン(たそがれのすがた)]は[tough-claws]特性で接触技威力が1.3倍補正される[いわ]高速物理アタッカーだ。攻撃117+素早さ110の超高速物理プロフィールと[accelerock]自タイプ先制技により、メタ高速圏で安定したフィニッシャー役割を担う。原種[ルガルガン]三種類の中で唯一[tough-claws]を持つフォルムで、最高峰の火力を誇る。\n\n## 強み\n[tough-claws]で[stone-edge]・[close-combat]など接触技の威力1.3倍補正+STAB1.5倍により実質火力が極大化される。素早さ110はメタ高速圏で大半のアタッカーを抜き去り、[accelerock]自タイプ[いわ]先制技でスカーフ持ちへの対応も可能だ。3つの[ルガルガン]フォルムの中で攻撃・素早さの両面で最上位圏に位置する。[jolly]補正の素早さ110は実数値389に達し、[choice-scarf]持ちの中速アタッカーまでも視野に入る水準となる。\n\n## 弱点と対策\n単[いわ]タイプの5種弱点構造は[まよなかのすがた]と同一だ。75/65/65の耐久は極めて脆く、弱点攻撃一発で確実に退場する。[tough-claws]は接触技のみ補正するため[rock-slide]のような非接触技には補正が乗らない。特に[close-combat]使用後は防御・特防1段階低下のデバフが残るため、連続出動での耐久劣化が深刻になる点を計算に入れる必要がある。\n\n## 推奨技構成\n[accelerock]はシグニチャー[いわ]先制技+[tough-claws]補正で低HP相手のフィニッシュに最適だ。[stone-edge]は[いわ] STAB最大威力で決めどころの一撃として機能する。[close-combat]は[かくとう]サブ+接触[tough-claws]補正で火力が極大化される。[protect]は安全ターン確保の基本枠。[psychic-fangs]変形で[くさ]・[どく]・[エスパー]牽制を追加する選択もある。\n\n## 道具・特性・テラスタル\n道具は[life-orb]が基本で、[choice-band]は超高火力変形、[focus-sash]は1回確定生存保証用として選べる。特性は[tough-claws]固定。テラスタルは[いわ]で[stone-edge] STABを重ねるか、[ノーマル]で[close-combat]弱点カウンター防御を選ぶ。[ひこう]テラで[じめん]・[かくとう]・[むし]弱点を一挙整理する防御型も強力な選択肢だ。\n\n## 相性の良いパートナー\n[みず]・[くさ]・[じめん]弱点カウンターに[grass]・[fire]・[flying]パートナーを配置する。[かくとう]弱点に対しては[psychic]・[fairy]パートナーを用意し、いかく役で物理耐久を補助すれば脆弱な耐久プロフィールを補える。[stealth-rock]先発で相手の交代コストを上げるシナジーも有効だ。[tailwind]支援で素早さをさらに伸ばせば、メタの全アタッカーを抜き去るフィニッシャーとなる。\n\n## 立ち回り\n[stone-edge]・[close-combat]主力連打で高速物理火力を発揮する。[accelerock]先制技は素早さ110超えの相手のフィニッシュに活用し、弱点攻撃が見えた時点で即座に交代するのが鉄則だ。耐久が弱いためリスク管理が極めて重要となり、常に一撃圏内のHPで運用するのは避ける。",
+  "tags": [
+    "alola",
+    "rock",
+    "regional-form",
+    "tough-claws",
+    "physical-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

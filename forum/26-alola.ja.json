@@ -1,0 +1,83 @@
+{
+  "pokemonId": 26,
+  "nameKo": "알로라라이츄",
+  "nameEn": "raichu-alola",
+  "formKey": "alola",
+  "types": [
+    "electric",
+    "psychic"
+  ],
+  "roles": [
+    "special-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "surge-surfer",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "electric",
+    "psychic"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[アローラライチュウ] バトル運用ガイド",
+  "summary": "エレキフィールド下で素早さが2倍になる[でんき]・[エスパー]特殊スイーパー。[surge-surfer]でエレキフィールド下では最上位素早さ帯に進入する。",
+  "strengths": [
+    "[surge-surfer]でエレキフィールド下の素早さ2倍(220相当)",
+    "[エスパー]追加タイプで[かくとう]弱点をカウンター",
+    "[nasty-plot]積み後の爆発的特殊火力"
+  ],
+  "weaknesses": [
+    "[じめん]・[あく]・[ゴースト]・[むし]弱点が増加",
+    "60/50/85の耐久は脆い",
+    "エレキフィールドなしでは素早さ110止まり"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "thunderbolt",
+      "reason": "[でんき] STAB主力技"
+    },
+    {
+      "move": "psyshock",
+      "reason": "[エスパー] STAB+防御依存判定で特殊耐久を貫通"
+    },
+    {
+      "move": "nasty-plot",
+      "reason": "特攻2段階の積み技"
+    },
+    {
+      "move": "focus-blast",
+      "reason": "[あく]・[はがね]牽制の[かくとう]サブ"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "積み初手の保険用"
+    },
+    {
+      "item": "choice-specs",
+      "reason": "エレキフィールドの特殊火力を極大化"
+    },
+    {
+      "item": "light-clay",
+      "reason": "チーム支援運用時の壁維持用"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[アローラライチュウ]は[surge-surfer]特性でエレキフィールド下の素早さが2倍になる[でんき]・[エスパー]複合特殊スイーパーだ。基本素早さ110がエレキフィールド下では実質220に到達し、メガポケモンを含むメタ大半の高速帯を追い抜く。エレキフィールド依存というリスクを背負う代わりに、一度展開すれば全てを上から叩ける特化型フィニッシャーとして機能する。\n\n## 強み\n[surge-surfer]はエレキフィールド状態で素早さを2倍にするシグネチャ特性だ。[tapu-koko]や[electric-terrain]セッターと組み合わせれば実質素早さ220となり、スカーフ使いを上回る。[でんき]・[エスパー]複合STABは[かくとう]無効+[みず]・[どく]・[かくとう]牽制可能な攻撃プロフィールを提供し、[nasty-plot]1回積み後の[thunderbolt]・[psyshock]主力技は大半の低耐久ポケモンを確定KOする。\n\n## 弱点と対策\n[エスパー]タイプの追加で[あく]・[ゴースト]・[むし]弱点が増え、[じめん]弱点も依然として残る。60/50/85の耐久は非常に脆弱で、先制技一発で沈むことも珍しくない。エレキフィールドなしの状態では通常の素早さ110として動作するため、[surge-surfer]シナジーなしでは決定力が半減する構造的依存性が運用の最大ハードルとなる。\n\n## 推奨技構成\n[thunderbolt]は[でんき] STAB主力技として必ず採用する。[psyshock]は[エスパー] STAB+防御依存判定で特殊耐久高めの相手に強く刺さる牽制技で、特殊壁突破の核札だ。[nasty-plot]は積みの核心、[focus-blast]は[あく]・[はがね]牽制の[かくとう]サブで[tyranitar]・[heatran]への対応枠として機能する。4枠全てに明確な役割を持つ。\n\n## 道具・特性・テラスタル\n道具は[focus-sash]が基本で、積み初手の保険役を務める。[choice-specs]はエレキフィールド下の特殊火力を極大化する変形選択肢だ。特性は[surge-surfer]固定でエレキフィールドシナジーが運用の前提となる。テラスタルは[でんき]で[thunderbolt]のSTAB重ね掛け、または[エスパー]で[psyshock]強化の二択から選ぶ。\n\n## 相性の良いパートナー\n[tapu-koko]や[pincurchin]などの[electric-terrain]セッターパートナーが事実上必須だ。[じめん]弱点カウンターとして[ひこう]・[くさ]パートナー、[あく]・[むし]弱点対応として[フェアリー]・[ほのお]パートナーを配置する。[fake-out]使いで1ターンの積み保護を担う構成も実戦的で、エレキフィールド展開と積みを同時に通すプランが理想形となる。\n\n## 立ち回り\nエレキフィールド展開後に交代着地で登場、[nasty-plot]を安全に積んだ後は実質素早さ220でメタを追い抜きつつ[thunderbolt]・[psyshock]を連打する。[あく]・[ゴースト]タイプが場に出た瞬間は即交代し、エレキフィールドの残りターンが切れる前に決定打を打ち切る判断が必須だ。フィールドターン管理がそのまま[アローラライチュウ]の運用寿命を決める。",
+  "tags": [
+    "alola",
+    "electric",
+    "psychic",
+    "regional-form",
+    "surge-surfer",
+    "special-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

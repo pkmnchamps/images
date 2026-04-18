@@ -1,0 +1,72 @@
+{
+  "pokemonId": 409,
+  "nameKo": "램펄드",
+  "nameEn": "rampardos",
+  "formKey": null,
+  "types": [
+    "rock"
+  ],
+  "roles": [
+    "physical-attacker"
+  ],
+  "recommendedAbility": "sheer-force",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "rock",
+    "ground"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[ラムパルド] バトル運用ガイド",
+  "summary": "攻撃165というフォーマット最上位の数値をそのまま叩きつける純粋物理[いわ]ワンパンチャー。[sheer-force]+[zen-headbutt]で反動なしの広域牽制まで備わる。",
+  "strengths": [
+    "フォーマット最上位の攻撃種族値165——[head-smash]一撃でゲームのテンポが動く",
+    "[sheer-force]が[zen-headbutt]・[stone-edge]・[crunch]の火力を1.3倍に増幅",
+    "STAB [head-smash]の反動を[sheer-force]が相殺して実質反動ゼロ"
+  ],
+  "weaknesses": [
+    "素早さ58と防御60ゆえに大半のアタッカーに先手を許す",
+    "[かくとう]・[じめん]・[みず]・[くさ]2倍弱点、[かくとう]先制技相手には着地すら難しい",
+    "[focus-sash]がないと1ターンで処理される危険が大きい"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "head-smash",
+      "reason": "[sheer-force]が反動を消してくれるSTABワンパン"
+    },
+    {
+      "move": "earthquake",
+      "reason": "[はがね]・[でんき]・[いわ]半減タイプを撃ち抜く必須サブ"
+    },
+    {
+      "move": "zen-headbutt",
+      "reason": "[かくとう]・[どく]カウンター兼[sheer-force]補正枠"
+    },
+    {
+      "move": "crunch",
+      "reason": "[エスパー]・[ゴースト]壁を抜く[sheer-force]補正の副技"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "薄い耐久を1ターン生存で保障し確定で1発撃ち込む"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ラムパルド]は攻撃種族値165というフォーマット最上位の数値ひとつを見込んで採用する、典型的なワンショットブレイカーだ。素早さ58・防御60という悲惨な耐久を承知で、1ターンに必ず1KOを確定させることが唯一の運用目標となる。特性[sheer-force]が[head-smash]の反動を消してくれる仕様こそが、実戦で[ラムパルド]を回せる決定的な仕掛けだ。\n\n## 強み\n[sheer-force]補正の乗ったSTAB [head-smash]は、フォーマット単発物理としては最上位クラスのダメージを叩き出す。反動が相殺されるため2ターン目まで満タン近いHPで連打できる場面も多く、カバー技の[earthquake]が[いわ]半減の[はがね]・[でんき]を引き裂く。[zen-headbutt]と[crunch]はどちらも[sheer-force]発動技で火力補正込み、[かくとう]・[エスパー]・[ゴースト]対応が一度に解決する点も強力だ。\n\n## 弱点と対策\n[かくとう]・[じめん]・[みず]・[くさ]2倍弱点が重なり、特に素早さ58ゆえ[close-combat]・[earthquake]使い相手には着地自体が禁じ手になる。防御60/特防50は弱点技でなくとも[ラムパルド]を気絶させるに十分な数値だ。[mach-punch]・[bullet-punch]等の[かくとう]・[はがね]先制技にも同様に脆いため、相手に先制技使いが残っている間は迂闊に出せない。\n\n## 推奨技構成\n[head-smash]は絶対に固定枠だ——[sheer-force]の反動相殺がこの一技に全部懸かっている。[earthquake]は[いわ]半減・無効化してくる[はがね]・[どく]・[でんき]を抜く必須スロットで、[zen-headbutt]は[かくとう]・[どく]タイプへのカウンターにして[sheer-force]補正をそのまま受ける稼ぎ技として機能する。最後の[crunch]は[エスパー]・[ゴースト]対処と[sheer-force]の機動力を両立させる択だ。[swords-dance]は鈍足の[ラムパルド]が1段階積むターンをほぼ作れないため推奨しない。\n\n## 道具・特性・テラスタル\n道具は[focus-sash]が事実上唯一の正解だ——耐久数値上、2ターン目の行動を保障する手段がこれしかない。特性は[sheer-force]固定で、[mold-breaker]にするのは火力損失が大きすぎる。テラスタルは[いわ]テラスタルでSTAB補正をもう一段乗せるのが基本で、[じめん]テラは[かくとう]弱点を消しつつ[earthquake]火力も上げる中間択になる。\n\n## 相性の良いパートナー\n[ラムパルド]は必ず着地ターンを確保するサポーターと組ませる必要がある。[fake-out]使いが相手の先制を消し、スロウピボット(フォーマット内の鈍足ピボット)が[ラムパルド]を安全に送り込む。残敵処理は素早さの高いクリーナーに任せる——[ラムパルド]は一発撃って退場するカードだからだ。\n\n## 立ち回り\n相手の[かくとう]・[じめん]タイプが生きている間は控えで温存し、防御の薄い相手や半減されない相手が出てきた瞬間に[head-smash]一発でテンポを持って行く。[focus-sash]が生きている間は2発目([earthquake]もしくは[zen-headbutt])まで撃ち込む余地があり、以降は綺麗に退場させるのが鉄則である。",
+  "tags": [
+    "sinnoh",
+    "rock",
+    "physical-attacker",
+    "wallbreaker",
+    "sheer-force"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

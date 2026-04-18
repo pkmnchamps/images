@@ -1,0 +1,73 @@
+{
+  "pokemonId": 354,
+  "nameKo": "메가다크펫",
+  "nameEn": "banette-mega",
+  "formKey": "mega",
+  "types": [
+    "ghost"
+  ],
+  "roles": [
+    "physical-attacker",
+    "support"
+  ],
+  "recommendedAbility": "prankster",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "ghost",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 16,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 16
+  },
+  "locale": "ja",
+  "title": "[メガジュペッタ] バトル運用ガイド",
+  "summary": "[prankster]で変化技に先制補正がかかる[ゴースト]物理アタッカー兼サポート。攻撃165+[shadow-claw]主力+[will-o-wisp]/[taunt]のユーティリティ構成。",
+  "strengths": [
+    "[prankster]で[will-o-wisp]・[taunt]が先制補正",
+    "攻撃165の爆発的[ゴースト]物理火力",
+    "[ゴースト]タイプの[ノーマル]・[かくとう]無効転換"
+  ],
+  "weaknesses": [
+    "[あく]・[ゴースト]弱点",
+    "耐久64/75/83で全体的に低い",
+    "素早さ75で積み手段がない"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "shadow-claw",
+      "reason": "[ゴースト]自タイプ主力の物理攻撃"
+    },
+    {
+      "move": "will-o-wisp",
+      "reason": "[prankster]先制補正で物理アタッカーを封殺"
+    },
+    {
+      "move": "taunt",
+      "reason": "[prankster]先制補正で積みを遮断"
+    },
+    {
+      "move": "sucker-punch",
+      "reason": "先制技フィニッシャー"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "banettite",
+      "reason": "メガシンカのための必須アイテム (banettite)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガジュペッタ]は[prankster]特性によって変化技に優先度補正がかかる[ゴースト]物理アタッカー兼サポートだ。攻撃165の爆発的物理火力に[will-o-wisp]・[taunt]の先制補正ユーティリティが結合し、単純なアタッカーではなく試合テンポを逆転させる複合役割を担う。\n\n## 強み\n[prankster]はメガシンカ後に活性化され、[will-o-wisp]・[taunt]・[thunder-wave]等の変化技の優先度を+1に上げる。この組み合わせは相手の積みアタッカーを封じ、物理アタッカーをやけど状態にしつつ、直接攻撃では[shadow-claw]+攻撃165の爆発火力まで叩き込む。[ゴースト]単タイプは[ノーマル]・[かくとう]無効のため、ウーラオス等の[かくとう]タイプに対して安全な後出しが成立する。\n\n## 弱点と対策\n耐久64/75/83は全体的に低く、攻撃一発で沈むリスクが大きい。[あく]・[ゴースト]弱点のため[mega-sableye]・[tyranitar]相手に不利となる。素早さ75は積み手段が存在せず先制プレイに全面依存する構造となる。\n\n## 推奨技構成\n[shadow-claw]は主力[ゴースト] STABで攻撃165の爆発火力を乗せる。[will-o-wisp]は[prankster]先制補正で物理アタッカー封殺の核ユーティリティとなる。[taunt]は[prankster]補正で相手の積みアタッカーを完全遮断する。[sucker-punch]は素早さ75の弱点を補う先制技フィニッシャーだ。\n\n## 道具・特性・テラスタル\n道具は[banettite]固定となる。特性はメガシンカ後[prankster]へ転換する(進化前の[insomnia]等は無効化される)。テラスタルは[ゴースト]で自タイプ中乗せ補正を得るか、[フェアリー]で[あく]・[ゴースト]弱点を耐性へ反転させる選択が主となる。\n\n## 相性の良いパートナー\n耐久の薄さを補うため[intimidate]使いが有効だ。[fake-out]で1ターン保護し、[tailwind]で素早さを補助すると運用力が大幅に向上する。[あく]・[ゴースト]カウンターとして[フェアリー]パートナーを配置することで盤面全体の安定感が増す。\n\n## 立ち回り\nメガシンカ1ターン後[prankster]が活性化したら[will-o-wisp]・[taunt]で相手テンポを掌握する。物理アタッカーをやけど状態にした後[shadow-claw]連打で確定KOを狙い、[sucker-punch]は高速アタッカーのフィニッシャーとして活用する。耐久が低いため後出しタイミングは慎重に計算し、テラスタルは[あく]・[ゴースト]弱点技を確定で踏む瞬間に即発動する。メガシンカ前の1ターンは[prankster]補正が乗らないため[will-o-wisp]は2ターン目以降に撃つのが鉄則で、焦って初手から変化技を振ると先制されて企図が崩れる。相手のダークホール等の変化技使いには自分が先に[taunt]を撃って主導権を奪う展開を狙う。",
+  "tags": [
+    "hoenn",
+    "ghost",
+    "mega",
+    "prankster",
+    "disruptor"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

@@ -1,0 +1,78 @@
+{
+  "pokemonId": 695,
+  "nameKo": "일레도리자드",
+  "nameEn": "heliolisk",
+  "formKey": null,
+  "types": [
+    "electric",
+    "normal"
+  ],
+  "roles": [
+    "special-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "solar-power",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "electric",
+    "ground"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "spa": 32,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[エレザード] バトル運用ガイド",
+  "summary": "[solar-power]の晴れ補正で実質特攻が160台に到達する[でんき]・[ノーマル]特殊スイーパー。晴れパのサブエースとして機能する。",
+  "strengths": [
+    "[solar-power]補正で実質特攻160+",
+    "素早さ種族値109で非スカーフアタッカーを抜き去る",
+    "晴れ下の[weather-ball]が[ほのお]判定化し[くさ]・[はがね]牽制"
+  ],
+  "weaknesses": [
+    "[かくとう]2倍・[じめん]2倍で[close-combat]・[earthquake]に即死",
+    "HP62・防御52で中立の一撃も耐えがたい",
+    "晴れが消えれば火力補正が失われ中途半端な特殊アタッカーに転落"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "thunderbolt",
+      "reason": "命中が安定した主力の[でんき] STAB"
+    },
+    {
+      "move": "hyper-voice",
+      "reason": "[substitute]や身代わり系統を貫く[ノーマル] STAB"
+    },
+    {
+      "move": "weather-ball",
+      "reason": "晴れ下で[ほのお]判定化し[くさ]・[はがね]を牽制"
+    },
+    {
+      "move": "focus-blast",
+      "reason": "[いわ]・[はがね]4倍ラインを砕く[かくとう]牽制"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "先制一発を耐えて反撃する生存保険"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "晴れ外のターンでも素早さ軸を維持"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[エレザード]は特攻種族値109と素早さ種族値109を揃える[でんき]・[ノーマル]特殊アタッカーで、晴れパのサブエースポジションを狙う設計だ。同じサイクルの他の特殊アタッカーと一線を画す点は隠れ特性[solar-power]——晴れさえ敷かれれば実質特攻が160台まで跳ね上がり、109という中堅値が一気にトップティア火力へ変貌する。\n\n## 強み\n晴れ下の[thunderbolt]は[みず]・[ひこう]を単発で溶かし、[hyper-voice]は[substitute]や身代わり防御まで貫通する第二のSTABとなる。素早さ種族値109は[timid]補正で実数値357に達し、非スカーフのアタッカーの大半を先制で押さえる水準だ。晴れで[ほのお]判定に変わる[weather-ball]が[くさ]・[はがね]・[むし]を処理してくれるため、別途[ほのお]スロットなしでも牽制範囲は十分広い。\n\n## 弱点と対策\n[かくとう]2倍・[じめん]2倍が構造的な欠点である。HP62と防御52では[close-combat]や[earthquake]一発がそのまま致命傷となるため、先制を絶対に譲ってはならない。[solar-power]は毎ターンHPの1/8を削るため、晴れタイマー=生存タイマーと理解すべきだ。[extreme-speed]・[ice-shard]のような先制技には構造的に答えがなく、相手の雨・雪・砂が展開されれば特攻補正が消えて火力だけ損をする。\n\n## 推奨技構成\n[thunderbolt]を常時の主力として据え、[hyper-voice]で[substitute]戦術を砕きつつ、[weather-ball]は晴れ下で[ほのお]判定に変わり[くさ]・[はがね]牽制を単独で引き受ける。最後の枠[focus-blast]は命中70%の負担を抱えるが、[いわ]・[はがね]4倍ラインを崩す唯一のカードである。チームが失敗を許容できない構成なら[focus-blast]の代わりに[dark-pulse]で安定性を重視してもよい。\n\n## 道具・特性・テラスタル\n[focus-sash]は先制技を一発耐えて反撃する基本選択、[choice-scarf]は晴れ持続が不安定な状況で素早さ軸を維持する代替だ。特性は必ず隠れ特性[solar-power]を採用する——[dry-skin]は完全に別アーキタイプである。テラスタルは[thunderbolt]を極大化する[でんき]か、[じめん]弱点を反転させる[じめん]タイプが構造的に最も運用価値が高い。\n\n## 相性の良いパートナー\n晴れ固定役(キュウコン)は事実上必須だ。[かくとう]・[じめん]弱点を受け切る[ひこう]・浮遊サブスイーパー、先制技スイーパーを牽制するいかくピボットが加えて1枚必要となる。[stealth-rock]先発でチップダメージを確保しておけば、[thunderbolt]・[hyper-voice]の2発ラインが1発圏に繰り上がり、[エレザード]のテラスタル依存度が大幅に下がる。\n\n## 立ち回り\n1ターン目にキュウコン等で晴れを展開し、2ターン目の交代タイミングで[エレザード]を投入するのが標準だ。相手の交代が読み切れる構図では[weather-ball]で[くさ]・[はがね]スイッチインを罰し、[substitute]や[protect]が予想されるターンでは[hyper-voice]を先に投げる。[focus-blast]はマッチアップを決定づける枠なので、失敗を許容できるHPでのみクリックする。テラスタルは[close-combat]や[earthquake]が予告されるターンに惜しまず切る——1度逃せば[エレザード]はそのまま退場する。",
+  "tags": [
+    "kalos",
+    "electric",
+    "sun",
+    "solar-power",
+    "special-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

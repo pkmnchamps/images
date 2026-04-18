@@ -1,0 +1,81 @@
+{
+  "pokemonId": 745,
+  "nameKo": "루가루간(한밤의모습)",
+  "nameEn": "lycanroc-midnight",
+  "formKey": "midnight",
+  "types": [
+    "rock"
+  ],
+  "roles": [
+    "physical-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "no-guard",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "rock",
+    "fighting"
+  ],
+  "recommendedEv": {
+    "hp": 16,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 16
+  },
+  "locale": "ja",
+  "title": "[ルガルガン(まよなかのすがた)] バトル運用ガイド",
+  "summary": "[no-guard]で[stone-edge]・[focus-punch]を確定命中させる[いわ]物理アタッカー。攻撃115+耐久プロフィールの中速物理ヒッター。",
+  "strengths": [
+    "[no-guard]で全ての技が確定命中",
+    "[stone-edge]を命中100%+急所30%で運用",
+    "攻撃115+85/75/75の耐久プロフィール"
+  ],
+  "weaknesses": [
+    "[みず]・[くさ]・[じめん]・[かくとう]・[はがね]弱点多数",
+    "素早さ82の中速",
+    "[no-guard]は相手の攻撃も確定命中"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "stone-edge",
+      "reason": "[いわ] STABの最大威力——[no-guard]で確定命中"
+    },
+    {
+      "move": "close-combat",
+      "reason": "[かくとう]サブの主力物理"
+    },
+    {
+      "move": "sucker-punch",
+      "reason": "先制技フィニッシャー"
+    },
+    {
+      "move": "protect",
+      "reason": "安全ターンを確保"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "life-orb",
+      "reason": "物理火力の補正"
+    },
+    {
+      "item": "choice-band",
+      "reason": "攻撃1.5倍の超高火力"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "1回確定生存の保証"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ルガルガン(まよなかのすがた)]は[no-guard]特性で全ての技が確定命中する[いわ]物理アタッカーだ。通常80%命中の[stone-edge]を100%確定命中で使用できるため、命中率ペナルティのない[いわ] STAB主力技の運用が核心となる。3つのフォルムの中で最も耐久寄りの種族値配分を持ち、中速物理ヒッターとしての独自ポジションを確立する。\n\n## 強み\n[no-guard]で[stone-edge]が100%確定命中+急所30%確率となり、メタ最上級の[いわ]物理火力を確実に提供する。攻撃115+85/75/75の耐久プロフィールは中速物理ヒッター役に適しており、[close-combat]・[sucker-punch]サブで広範囲牽制が可能だ。[たそがれのすがた]や[まひるのすがた]に比べHP85と物理耐久にやや余裕があり、読み合いで一撃を耐える場面を作りやすい。\n\n## 弱点と対策\n単[いわ]タイプで[みず]・[くさ]・[じめん]・[かくとう]・[はがね]の5種弱点があり耐性プロフィールは弱い。[no-guard]は諸刃の剣で、相手の[focus-blast]・[hypnosis]のような低命中技も確定命中する点に注意が必要だ。素早さ82は中速圏で[tailwind]支援を要する水準となる。特に[hypnosis]は命中60%の技が100%命中になる危険があり、対面によっては[focus-sash]すら剥がされるリスクを抱える。\n\n## 推奨技構成\n[stone-edge]は[いわ] STAB最大威力+[no-guard]確定命中で核技として機能する。[close-combat]は[かくとう]サブの主力物理、[sucker-punch]は先制技フィニッシャー、[protect]は安全ターン確保の基本枠だ。変形として[dynamic-punch]は[no-guard]のシナジーで命中100%+混乱100%となるが、[close-combat]と枠が競合するため採用には構成の検討を要する。\n\n## 道具・特性・テラスタル\n道具は[life-orb]が柔軟な火力メインで、[choice-band]は超高火力変形、[focus-sash]は1回確定生存保証用として選べる。特性は[no-guard]固定。テラスタルは[いわ]で[stone-edge] STABを重ねるか、[かくとう]で[close-combat] STAB化する選択がある。[ひこう]テラで[じめん]・[かくとう]・[むし]弱点を一挙整理する防御型も構築次第で有効だ。\n\n## 相性の良いパートナー\n[みず]・[くさ]・[じめん]弱点カウンターに[grass]・[fire]・[flying]パートナーを配置する。[かくとう]弱点に対しては[psychic]・[fairy]パートナーを用意し、[tailwind]で素早さ補助を追加すれば中速82の欠点が解消される。いかく役で物理耐久を補助すれば耐久プロフィールが強化される。[stealth-rock]先発で相手の交代コストを上げる構築も有効だ。\n\n## 立ち回り\n[stone-edge]を確定命中の主力技として信頼し連打する。[close-combat]は[はがね]・[こおり]牽制用、[sucker-punch]は高速アタッカーのフィニッシュ用として運用する。相手の低命中攻撃も確定命中するリスクは常に意識し、特に[dynamic-punch]や[hypnosis]には細心の注意を払うべきだ。",
+  "tags": [
+    "alola",
+    "rock",
+    "regional-form",
+    "no-guard",
+    "physical-attacker"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

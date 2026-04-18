@@ -1,0 +1,83 @@
+{
+  "pokemonId": 479,
+  "nameKo": "로토무(컷)",
+  "nameEn": "rotom-mow",
+  "formKey": "mow",
+  "types": [
+    "electric",
+    "grass"
+  ],
+  "roles": [
+    "special-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "levitate",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "grass",
+    "electric"
+  ],
+  "recommendedEv": {
+    "hp": 16,
+    "atk": 0,
+    "def": 0,
+    "spa": 16,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[カットロトム] バトル運用ガイド",
+  "summary": "[でんき]・[くさ]複合特殊アタッカー。[leaf-storm]+[thunderbolt]の両自己STAB高火力+[levitate]の[じめん]無効が核心。",
+  "strengths": [
+    "[levitate]で[じめん]を完全無効",
+    "[でんき]・[くさ]で[みず]・[じめん]・[いわ]を牽制",
+    "[leaf-storm]の爆発的な単発火力"
+  ],
+  "weaknesses": [
+    "[ほのお]・[こおり]・[むし]・[どく]・[ひこう]の弱点多数",
+    "HP50が低い",
+    "[leaf-storm]後の特攻2段階ダウン"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "leaf-storm",
+      "reason": "[くさ]自己STAB最大威力の特殊技"
+    },
+    {
+      "move": "thunderbolt",
+      "reason": "[でんき]自己STAB主力"
+    },
+    {
+      "move": "volt-switch",
+      "reason": "ピボット利得+特攻ダウンリセット"
+    },
+    {
+      "move": "protect",
+      "reason": "安全ターンの確保"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "choice-specs",
+      "reason": "特攻1.5倍の火力極大化"
+    },
+    {
+      "item": "life-orb",
+      "reason": "柔軟な火力補正"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "HP50%回復の保険"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[カットロトム]は[でんき]・[くさ]複合特殊アタッカーで、[leaf-storm]の爆発的単発火力と[thunderbolt]の安定火力による両自己STAB運用が核心だ。[levitate]の[じめん]無効+[みず]・[じめん]・[いわ]牽制力でスイーパー役を果たす一枚で、雨パ・砂パ両方のエースを削りきれる汎用性がある。\n\n## 強み\n[leaf-storm]威力130+[くさ]自己STAB+特攻105=爆発的な単発攻撃力を叩き出す。[volt-switch]と組み合わせれば特攻2段階ダウンのペナルティをリセットしながら交代できるため、特殊アタッカーには珍しくフル火力を維持したまま複数回[leaf-storm]を撃つ運用が可能だ。[でんき]・[くさ]複合自己STABは[みず]・[じめん]・[いわ]・[ひこう]タイプを広範に牽制し、[levitate]で[じめん]無効まで確保する。\n\n## 弱点と対策\n[ほのお]・[こおり]・[むし]・[どく]・[ひこう]の5種弱点で耐性プロファイルが薄い。[leaf-storm]後の特攻2段階ダウンは体感火力を大きく下げるため[volt-switch]のリセットが必須で、甘えた連打をすると一気にお荷物化する。HP50も依然として低く、弱点技の一撃で沈む場面も多いので、テラスタル運用を前提に立ち回りを組むのが安全だ。\n\n## 推奨技構成\n[leaf-storm]は[くさ]自己STAB最大威力の単発特殊技で、初手の一撃KOで盤面を破壊するのが主目的だ。[thunderbolt]は[でんき]自己STAB主力で、[leaf-storm]後の火力低下状態でも安定した削りを提供する。[volt-switch]はピボット利得+[leaf-storm]の特攻ダウンリセット役を担う最重要スロットだ。[protect]は安全ターン確保と相方の動きを読んでからの攻撃選択を可能にする。\n\n## 道具・特性・テラスタル\n道具は[choice-specs]が超高火力のメインで、[leaf-storm]の確定KO圏を大きく広げる。[life-orb]は技変更の柔軟性を確保する変形で、[volt-switch]の交代と[leaf-storm]のメイン火力を両立できる。特性は[levitate]固定。テラスタルは[くさ]テラで[leaf-storm]の自己STAB重ね補正を狙うか、[でんき]テラで[thunderbolt]の重ね補正を選ぶ。\n\n## 相性の良いパートナー\n[ほのお]・[こおり]弱点カウンターに[みず]・[ほのお]パートナーを置き、[むし]・[ひこう]弱点に[いわ]・[でんき]パートナーを配置する。[tailwind]で素早さを追加確保すればスカーフ勢を上から叩けるようになり、[leaf-storm]先撃ちの択が格段に安定する。\n\n## 立ち回り\n[leaf-storm]で爆発的な初手攻撃→[volt-switch]で交代しつつ特攻ダウンをリセットするサイクルが核心だ。[thunderbolt]は[みず]・[ひこう]相手の主力ダメージ、[みず]・[じめん]・[いわ]タイプのアタッカーに対しては交代出しの自由度が高い。テラスタルは相手の弱点技が確定するターンに一拍早く切るのが鉄則だ。",
+  "tags": [
+    "sinnoh",
+    "electric",
+    "grass",
+    "appliance-form",
+    "levitate",
+    "special-attacker"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

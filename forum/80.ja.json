@@ -1,0 +1,82 @@
+{
+  "pokemonId": 80,
+  "nameKo": "야도란",
+  "nameEn": "slowbro",
+  "formKey": null,
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "roles": [
+    "tank",
+    "wall"
+  ],
+  "recommendedAbility": "regenerator",
+  "recommendedNature": "bold",
+  "recommendedTera": [
+    "water",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 32,
+    "spa": 2,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "ja",
+  "title": "[ヤドラン] バトル運用ガイド",
+  "summary": "[regenerator]で交代ごとにHPの1/3を回復する[みず]・[エスパー]物理タンク。[future-sight]+[teleport]コンボでチームテンポを制御する。",
+  "strengths": [
+    "[regenerator]で交代ごとにHP1/3回復",
+    "防御110+HP投資で物理攻撃を完全遮断",
+    "[future-sight]+[teleport]コンボの圧力"
+  ],
+  "weaknesses": [
+    "[むし]・[ゴースト]・[あく]・[でんき]・[くさ]弱点多数",
+    "素早さ30で必ず後攻",
+    "[taunt]で補助資源が全て封鎖される"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "scald",
+      "reason": "主力[みず] STAB+やけど確率"
+    },
+    {
+      "move": "future-sight",
+      "reason": "遅延ダメージで相手マッチアップをひねる"
+    },
+    {
+      "move": "slack-off",
+      "reason": "回復ユーティリティで長期戦の基盤を構築"
+    },
+    {
+      "move": "teleport",
+      "reason": "ピボット利得+マッチアップ再調整"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "leftovers",
+      "reason": "長期戦の回復量"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "序盤の回復カード"
+    },
+    {
+      "item": "rocky-helmet",
+      "reason": "接触技への反射ダメージ"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ヤドラン]は[みず]・[エスパー]タイプの物理タンクで、隠れ特性[regenerator]により交代ごとにHPの1/3を自動回復する設計だ。95/110/80の物理耐久にHP・防御投資を加えればメタ最上位圏の物理受けとなり、[future-sight]と[teleport]のシナジーでチームテンポを制御する役割まで兼任する。\n\n## 強み\n[regenerator]は[ヤドラン]の寿命を実質無限に押し上げる。一度HPが削られても交代→再着地のループを回せば満タンで戻り、[slack-off]回復まで合わせればメタのどの物理アタッカーも[ヤドラン]を抜けない。[future-sight]は3ターン後の遅延ダメージを予約し相手のスイッチ読みを強要し、[teleport]で[ヤドラン]を安全に交代させながらそのタイミングで後続フィニッシャーを送り込める。\n\n## 弱点と対策\n[むし]・[ゴースト]・[あく]・[でんき]・[くさ]の2倍弱点がメタに多く、特に[knock-off]は[leftovers]を剥がしつつ大ダメージを与える。素早さ30は構造的な欠点で常に先制を譲る立場となり、[taunt]一発で補助資源が全て封鎖される。積みアタッカーが裏で準備を始めると対応が難しくなる。\n\n## 推奨技構成\n[scald]を主力[みず] STABで固定しやけど確率30%で相手物理アタッカーを弱体化させる。[future-sight]は3ターン後の遅延ダメージを予約し[ヤドラン]が交代した後も相手を圧迫する核技だ。[slack-off]は長期戦生存性を強化する必須回復技で、最後の枠は[teleport]で[regenerator]回復+後続着地タイミングを作り出す。\n\n## 道具・特性・テラスタル\n道具は[leftovers]が基本で[regenerator]と組み合わせてHP回復量を極大化する。[sitrus-berry]は序盤のバースト回復コンセプト用、[rocky-helmet]は接触技使いカウンター変形だ。特性は[regenerator]固定で[oblivious]・[own-tempo]は互換性に劣る。テラスタルは[みず]タイプでSTABを維持するか、[フェアリー]タイプで[あく]・[むし]弱点をひっくり返す防御型が実戦的だ。\n\n## 相性の良いパートナー\n[ヤドラン]は[future-sight]+[teleport]コンボチームの軸なので、後続フィニッシャー([かくとう]・[エスパー]アタッカー)と基本セットだ。[むし]・[あく]弱点カウンターに[フェアリー]・[はがね]パートナーを配置し、積みアタッカーカウンターとして[taunt]使用者や[haze]使いを併設する。[でんき]弱点対応用の[じめん]パートナーも有用だ。\n\n## 立ち回り\n交代インで[regenerator]回復を確保し[scald]で相手物理アタッカーにやけどを狙う。[future-sight]予約後に[teleport]で後続フィニッシャーを送り込み、[ヤドラン]は交代で満タン復帰するループを繰り返す。テラスタルは弱点技が確定で入るタイミングで即発動するのが基本だ。",
+  "tags": [
+    "kanto",
+    "water",
+    "psychic",
+    "tank",
+    "regenerator"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

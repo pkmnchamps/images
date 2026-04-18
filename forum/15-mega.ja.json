@@ -1,0 +1,75 @@
+{
+  "pokemonId": 15,
+  "nameKo": "메가독침붕",
+  "nameEn": "beedrill-mega",
+  "formKey": "mega",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "adaptability",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "bug",
+    "steel"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[メガスピアー] バトル運用ガイド",
+  "summary": "[adaptability]でSTABが2倍になる超高速物理エース。素早さ145・攻撃150でメタの大半を上から叩く。",
+  "strengths": [
+    "[adaptability]で[むし]・[どく] STABが実質2倍補正",
+    "実質素早さ145でメタの大半を追い抜く",
+    "[u-turn]離脱技でピボット収益も同時確保"
+  ],
+  "weaknesses": [
+    "防御40・特防80の極端な低耐久",
+    "[ひこう]・[ほのお]・[いわ]・[エスパー]弱点が多い",
+    "メガシンカ前1ターンの特性空白"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "u-turn",
+      "reason": "[adaptability]補正が乗る[むし] STABの主力"
+    },
+    {
+      "move": "poison-jab",
+      "reason": "[adaptability]補正を受ける[どく] STABフィニッシャー"
+    },
+    {
+      "move": "drill-run",
+      "reason": "[はがね]・[いわ]・[でんき]を牽制する[じめん]サブ"
+    },
+    {
+      "move": "knock-off",
+      "reason": "資源破壊を担うユーティリティ"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "beedrillite",
+      "reason": "メガシンカのための必須アイテム (beedrillite)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガスピアー]は[adaptability]特性で[むし]・[どく] STABの倍率が1.5倍ではなく2倍に跳ね上がる超高速物理エースだ。攻撃150・素早さ145のラインはメタの大半のアタッカーを上から抜きつつ一撃で溶かす火力を約束し、[u-turn]ピボットプランを維持したままフィニッシャー性格が大きく強化される。\n\n## 強み\n[adaptability]は通常STABの1.5倍を2倍に置き換える強力な特性だ。[u-turn]・[poison-jab]の実質威力がいずれも1.33倍に増加し、攻撃150ようきの補正まで合わさるとメタ最上位級の物理火力が叩き出せる。素早さ145はスカーフなしでもほぼ全てのアタッカーを抜ける数値で、先制を取って相手の陣営を切り裂くスノーボールプランが成立する。[u-turn]の交代収益もそのまま維持され、ピボット役も並行できる。\n\n## 弱点と対策\n防御40・特防80はメガ後も変化しない。一度でも先制を許せば即座に落ちるため、素早さ優位を維持することが生存の全てだ。[ひこう]・[ほのお]・[いわ]・[エスパー]の2倍弱点は健在で、先制技持ちがいれば[u-turn]ループそのものが崩れる。メガシンカ前1ターンは[swarm]状態で特性空白が発生し、この瞬間に弱点技を踏めば進化後の火力に届く前に落ちることもある。\n\n## 推奨技構成\n[u-turn]を主力STABに固定して[adaptability]補正+ピボット収益を同時に稼ぐ。[poison-jab]は[フェアリー]・[くさ]を切るフィニッシャーカードで、こちらも[adaptability]補正を受ける。[drill-run]は[はがね]・[いわ]・[でんき]を牽制する[じめん]サブで、[むし]・[どく]で抜けない[はがね]壁を直接刺す。最後の枠は[knock-off]で相手の持ち物を剥がし、長期戦での資源差を生む。\n\n## 道具・特性・テラスタル\n道具は[beedrillite]固定で代替はない。特性はメガシンカ後に自動で[adaptability]へ切り替わり、選択肢はない。テラスタルは[むし]で[u-turn]の火力を一段階上げるか、[はがね]で[ひこう]・[いわ]・[エスパー]弱点を反転させる防御寄り選択、どちらも実戦的である。\n\n## 相性の良いパートナー\n[メガスピアー]は[stealth-rock]に弱いため[defog]・[rapid-spin]使いとほぼセットで編成する。先制技カウンターとして[fake-out]・[taunt]使いがいると安定し、後続クリナー1匹を配置して[u-turn]で稼いだターンを得点に変える。[volt-switch]・[flip-turn]ピボットと組み合わせ、チーム全体をテンポ中心に設計すればシナジーが最大化する。\n\n## 立ち回り\n必ず[stealth-rock]が除去された状態で着地させ、メガシンカは相手のスイッチターンに合わせて行う。進化後は[u-turn]ループでマッチアップを選り分けてから[poison-jab]・[drill-run]をフィニッシャーとして刺す。テラスタルは[ひこう]・[いわ]先制技を読んだ瞬間に即時発動するのが鉄則だ。",
+  "tags": [
+    "kanto",
+    "bug",
+    "poison",
+    "mega",
+    "adaptability",
+    "physical-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

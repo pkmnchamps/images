@@ -1,0 +1,83 @@
+{
+  "pokemonId": 479,
+  "nameKo": "로토무(팬)",
+  "nameEn": "rotom-fan",
+  "formKey": "fan",
+  "types": [
+    "electric",
+    "flying"
+  ],
+  "roles": [
+    "special-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "levitate",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "flying",
+    "electric"
+  ],
+  "recommendedEv": {
+    "hp": 16,
+    "atk": 0,
+    "def": 0,
+    "spa": 16,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[ファンロトム] バトル運用ガイド",
+  "summary": "[でんき]・[ひこう]複合特殊アタッカー。二重[じめん]無効+[air-slash]怯みユーティリティが独特。",
+  "strengths": [
+    "[levitate]+[ひこう]タイプの二重[じめん]無効",
+    "[air-slash]怯み確率+[ひこう]自己STAB",
+    "[でんき]・[ひこう]の広範な牽制"
+  ],
+  "weaknesses": [
+    "[こおり]・[いわ]弱点",
+    "HP50が低い",
+    "[mold-breaker]相手は[levitate]無視"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "air-slash",
+      "reason": "[ひこう]自己STAB+30%怯み"
+    },
+    {
+      "move": "thunderbolt",
+      "reason": "[でんき]自己STAB主力"
+    },
+    {
+      "move": "volt-switch",
+      "reason": "ピボット利得"
+    },
+    {
+      "move": "protect",
+      "reason": "安全ターンの確保"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "choice-specs",
+      "reason": "特攻1.5倍の火力極大化"
+    },
+    {
+      "item": "sharp-beak",
+      "reason": "[ひこう]技の火力強化"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "HP50%回復の保険"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ファンロトム]は[でんき]・[ひこう]複合特殊アタッカーで、[levitate]特性+[ひこう]タイプの二重[じめん]無効という独特なプロファイルを持つ。[air-slash]の30%怯み確率はダブルVGCでのテンポ掌握に有効で、ロトム品種の中でもダブル適性が一段高い一枚だ。\n\n## 強み\n[levitate]+[ひこう]タイプの二重[じめん]無効で、[mold-breaker]相手にも[ひこう]タイプの[じめん]無効は維持される安定性がある。この二重無効はロトム全種の中でも[ファンロトム]固有の強みで、[じめん]読みの安全性が他品種より高い。[air-slash]は[ひこう]自己STAB+30%怯みでダブルでは連続怯み期待のプレイが可能だ。[でんき]+[ひこう]の牽制範囲は[かくとう]・[くさ]・[むし]等へ広範に通り、ウーラオス系や[くさ]エースに強く出られる。\n\n## 弱点と対策\n[こおり]・[いわ]の2種弱点。[ice-beam]・[blizzard]使いに対して即死リスクがあり、[stealth-rock]着地時にHP1/4減少する[ひこう]固有の欠点も付いてくる。HP50は依然として低く、効果ばつぐんの攻撃に脆い。特に雪パ・砂パ相手には被ダメージが嵩みやすいので出すタイミングを選ぶ必要がある。\n\n## 推奨技構成\n[air-slash]は[ひこう]自己STAB+怯みユーティリティの核で、ダブル環境では連打することで盤面を強制的に有利へ運ぶ。[thunderbolt]は[でんき]自己STAB主力で安定火力を確保し、[volt-switch]はピボット利得で不利対面を即離脱する。[protect]は安全ターン確保で必須であり、相方の動きを見てから攻撃を選べる柔軟性を与える。\n\n## 道具・特性・テラスタル\n道具は[choice-specs]が火力極大化のメインで、[air-slash]の一撃KO圏を大きく広げる。[sharp-beak]は[ひこう]技火力変形として[air-slash]を強化する選択肢だ。特性は[levitate]固定。テラスタルは[ひこう]テラで[air-slash]の自己STAB重ね補正+[かくとう]・[じめん]弱点を緩和するか、[でんき]テラで[thunderbolt]の重ね補正を選ぶ。\n\n## 相性の良いパートナー\n[こおり]・[いわ]弱点カウンターに[ほのお]・[かくとう]パートナー。[stealth-rock]除去役が必須で、[rapid-spin]または[defog]使いを1体は編成したい。[tailwind]で素早さを追加確保すればスカーフ勢を上から叩けるようになる。\n\n## 立ち回り\n[ひこう]・[でんき]牽制の広範さを活かし[かくとう]・[くさ]・[みず]アタッカーに対して交代出し。[air-slash]怯み期待の連続攻撃でテンポ掌握し、[volt-switch]で不利対面離脱する。[こおり]攻撃の露出時は即交代して体力を温存し、テラスタルは相手のキー札が判明したターンに一拍早く切って生存ターンを確保するのが鉄則だ。怯みが連続した時は無理に追撃せず味方の積みターンを優先する判断も重要である。",
+  "tags": [
+    "sinnoh",
+    "electric",
+    "flying",
+    "appliance-form",
+    "levitate",
+    "special-attacker"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

@@ -1,0 +1,83 @@
+{
+  "pokemonId": 479,
+  "nameKo": "로토무(워시)",
+  "nameEn": "rotom-wash",
+  "formKey": "wash",
+  "types": [
+    "electric",
+    "water"
+  ],
+  "roles": [
+    "special-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "levitate",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "water",
+    "electric"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 0,
+    "spa": 16,
+    "spd": 0,
+    "spe": 16
+  },
+  "locale": "ja",
+  "title": "[ウォッシュロトム] バトル運用ガイド",
+  "summary": "[levitate]で[じめん]を無効化し、[でんき]・[みず]複合で耐性プロファイルが極めて安定した特殊ピボットアタッカー。実質弱点2種のみで交代出しの自由度が高い。",
+  "strengths": [
+    "[levitate]で[じめん]を完全無効化",
+    "[でんき]・[みず]複合弱点は[くさ]・[じめん]の2種のみに抑制",
+    "[hydro-pump]+[volt-switch]のピボットコンボ"
+  ],
+  "weaknesses": [
+    "[くさ]弱点([じめん]は[levitate]で無効)",
+    "HP50が低く継続受けに限界",
+    "[mold-breaker]相手には[levitate]が無視される"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "hydro-pump",
+      "reason": "[みず]自属性最大威力の特殊メイン"
+    },
+    {
+      "move": "volt-switch",
+      "reason": "[でんき]自属性のピボット収益"
+    },
+    {
+      "move": "thunder-wave",
+      "reason": "素早さ制御+麻痺の汎用ユーティリティ"
+    },
+    {
+      "move": "protect",
+      "reason": "安全ターン確保と天候削り"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "sitrus-berry",
+      "reason": "HPを50%時に回復して耐久運用を安定化"
+    },
+    {
+      "item": "choice-specs",
+      "reason": "特攻を1.5倍にして超火力特殊アタッカーへ変形"
+    },
+    {
+      "item": "leftovers",
+      "reason": "長期戦での持続回復量を確保"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ウォッシュロトム]は[levitate]+[でんき]・[みず]の複合タイプで耐性プロファイルが極めて安定する特殊ピボットアタッカーだ。[じめん]を無効化しつつ弱点は[くさ]の1種のみに圧縮され([じめん]は[levitate]で無効)、交代出しの自由度がメタ最上位クラスに位置する。\n\n## 強み\n[でんき]・[みず]複合に[levitate]を重ねると、実質弱点は[くさ]ただ一つに絞れる。つまりメガシンカを含むほぼすべての攻撃タイプに対して安全に交代出しできるということだ。[hydro-pump]+[volt-switch]のコンボはピボット収益と高火力特殊を同時に提供し、[thunder-wave]はチーム全体の素早さコントロール役として機能する。107の特攻から放たれる[hydro-pump]はメタの耐久型も確実に2撃圏内に収め、攻守両立の教科書と言える設計だ。\n\n## 弱点と対策\n残る弱点は[くさ]一択だが、[choice-specs]を持った[giga-drain]・[leaf-storm]の使い手には危険で、HP50の数値は効果抜群一撃で落ちることもある。[mold-breaker]特性のアタッカーが放つ[earthquake]は[levitate]を無視して通るため、特性アタッカーの採用情報は常に先読みしておきたい。先制技に対しても[focus-sash]を持たない運用では綻びが出る。\n\n## 推奨技構成\n[hydro-pump]は[みず]自属性の最大威力メイン。[volt-switch]は[でんき]自属性のピボット収益核で、サイクル戦の起点になる。[thunder-wave]は高速アタッカーを縛るユーティリティ、[protect]は安全ターンを確保する潤滑油だ。物理アタッカー対策を厚くしたいなら[will-o-wisp]に差し替える選択も実戦的で、チームの役割配分に応じて柔軟に入れ替えたい。\n\n## 道具・特性・テラスタル\n道具は[sitrus-berry]が耐久運用のメインで、[choice-specs]に切り替えれば瞬間火力型に変身する。長期戦重視なら[leftovers]で持続回復量を稼ぐのが基本だ。特性は[levitate]一択で変更不可。テラスタルは[みず]で[hydro-pump]自属性を重ね[くさ]弱点を維持する選択か、[でんき]で[volt-switch]自属性を伸ばしつつ[じめん]無効を維持する選択が強い。\n\n## 相性の良いパートナー\nピボットサイクル型チームとの相性が最も良い。[くさ]弱点のカウンターとして[ほのお]・[ひこう]・[むし]パートナーを用意し、[intimidate]持ちで物理耐久を補助しておくと交代出しの成功率が一段上がる。ハザード除去要員との組み合わせは[ウォッシュロトム]の長期稼働を支える構造的パーツになる。\n\n## 立ち回り\n交代出しの自由度が高いので、相手の[じめん]・[ほのお]・[はがね]技を予測したターンに着地させる。[volt-switch]でピボット収益を重ね、[hydro-pump]を主火力として差し込み、[thunder-wave]で高速アタッカーを縛る。[くさ]タイプが見えた瞬間は迷わず即交代し、ターン損を最小化するのが鉄則だ。",
+  "tags": [
+    "sinnoh",
+    "electric",
+    "water",
+    "appliance-form",
+    "levitate",
+    "special-pivot"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

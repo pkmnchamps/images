@@ -1,0 +1,78 @@
+{
+  "pokemonId": 858,
+  "nameKo": "브리무음",
+  "nameEn": "hatterene",
+  "formKey": null,
+  "types": [
+    "psychic",
+    "fairy"
+  ],
+  "roles": [
+    "special-attacker",
+    "trick-room"
+  ],
+  "recommendedAbility": "magic-bounce",
+  "recommendedNature": "quiet",
+  "recommendedTera": [
+    "fairy",
+    "water"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 2,
+    "spa": 32,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "ja",
+  "title": "[ブリムオン] バトル運用ガイド",
+  "summary": "[magic-bounce]で設置技を跳ね返し、[trick-room]下で特攻136をフル発揮する[エスパー]・[フェアリー]ナッカー。",
+  "strengths": [
+    "特性[magic-bounce]で[stealth-rock]・[taunt]・状態異常を反射",
+    "特攻136と[エスパー]・[フェアリー] STABで広範な制圧力",
+    "素早さ29のため[trick-room]環境では最上位の先制を取れる"
+  ],
+  "weaknesses": [
+    "[はがね]2倍+[どく]2倍+[ゴースト]2倍の三重弱点",
+    "物理耐久57/95で[u-turn]・[knock-off]に脆い",
+    "[trick-room]が切れた瞬間にテンポを完全に失う"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "psychic",
+      "reason": "特攻136を活かす[エスパー]STAB主力技"
+    },
+    {
+      "move": "dazzling-gleam",
+      "reason": "ダブルで広範囲[フェアリー]STABを撒ける広域打点"
+    },
+    {
+      "move": "mystical-fire",
+      "reason": "[はがね]対策として必須のサブウェポン"
+    },
+    {
+      "move": "trick-room",
+      "reason": "素早さ29ラインを逆転させるフィールド設定"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "mental-herb",
+      "reason": "トリル展開ターンの[taunt]・[encore]を1回だけ無効化する保険"
+    },
+    {
+      "item": "leftovers",
+      "reason": "長期戦用の持続回復で[magic-bounce]の反射運用を支える"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ブリムオン]は種族値57/90/95/136/103/29の[エスパー]・[フェアリー]特殊アタッカーで、チャンピオンズMAでは[trick-room]ベースパーティ専属スイーパー兼設置技破壊スペシャリストの役割を担う。核は特性[magic-bounce]で、[stealth-rock]・[taunt]・状態異常・[leech-seed]などの間接的手段をまとめて跳ね返す。\n\n## 強み\n特攻136はダブルでも上位級で、[エスパー]・[フェアリー]STABは[どく]・[かくとう]・[あく]・[ドラゴン]をまとめて抑える攻撃範囲を形成する。素早さ29は致命的な欠点に見えて[trick-room]下では最上位の先制ラインに化け、[quiet]で素早さをさらに下げるのが定跡となる。[magic-bounce]は先発[stealth-rock]ユーザーをその場で罰する特性で、相手の初手構成そのものを崩す抑止力が非常に大きい。\n\n## 弱点と対策\n[はがね]2倍・[どく]2倍・[ゴースト]2倍の三重弱点を抱えており、サーフゴー・アーマーガア・テツノカイナのような[はがね]アタッカーに一方的に押される。物理耐久はHP57に過ぎず、[knock-off]・[u-turn]一発で交代プランが砕かれる可能性があり、[trick-room]が切れれば素早さ29の弱点が丸出しになる。先制技持ちの[ゴースト]にも警戒が必要だ。\n\n## 推奨技構成\nメインSTABは[psychic]固定、ダブル運用なら[dazzling-gleam]で広範囲[フェアリー]打点を追加する。3枠目の[mystical-fire]はサーフゴー・バンギラス・メタグロスなど[はがね]・[エスパー]耐久型を溶かす必須技で、最終枠は[trick-room]でチーム全体の素早さ軸を反転させる。シングル環境では[dazzling-gleam]を[psyshock]に差し替え、特殊受けを貫通する選択肢もある。\n\n## 道具・特性・テラスタル\n[mental-herb]はトリル展開ターンに[taunt]・[encore]を潰す1回限りの保険として実戦価値が高く、[leftovers]は[magic-bounce]で設置技を跳ね返しつつ長期戦に持ち込む際の回復源となる。特性は必ず[magic-bounce]を選択。テラスタルは[フェアリー]でSTAB火力を増強するか、[はがね]・[どく]弱点を消し去る[みず]テラで耐久プランを完成させる二系統が有効だ。\n\n## 相性の良いパートナー\nトリル起動役として[ブリムオン]を採用する構築では、後ろに低速高火力の物理/特殊アタッカー(バンギラス・ドドゲザン型や重量級物理エース)が必須となる。[はがね]・[どく]・[ゴースト]をカバーする[かくとう]・[じめん]パートナーを最低1体配置し、先制技ユーザー([shadow-sneak]・[sucker-punch])を牽制する[フェアリー]・[かくとう]サポーターも同居させたい。相手のトリル返し対策として[imprison]か[taunt]持ちがチームに居れば理想的だ。\n\n## 立ち回り\n先発に[ブリムオン]を置いて1ターン目に[trick-room]を展開し、2ターン目以降は特攻136で殴り倒すのが基本プラン。[magic-bounce]がある以上、相手が[stealth-rock]・[taunt]・[spore]を打ちそうな気配があれば交代せず居座って反射を狙う。トリル残り1ターンの局面では[psychic]ではなく[mystical-fire]で[はがね]ラインを先に整理し、後続の進路を開く立ち回りに切り替える。",
+  "tags": [
+    "galar",
+    "psychic",
+    "fairy",
+    "trick-room",
+    "magic-bounce"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

@@ -1,0 +1,74 @@
+{
+  "pokemonId": 229,
+  "nameKo": "헬가",
+  "nameEn": "houndoom",
+  "formKey": null,
+  "types": [
+    "dark",
+    "fire"
+  ],
+  "roles": [
+    "special-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "flash-fire",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "fire",
+    "dark"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "spa": 32,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[ヘルガー] バトル運用ガイド",
+  "summary": "[flash-fire]で[ほのお]攻撃を受け止め、[nasty-plot]後の[dark-pulse]・[flamethrower]二重STABで特殊ラインを切り裂く[あく]・[ほのお]スイーパー。",
+  "strengths": [
+    "[あく]・[ほのお] STAB組み合わせで[ゴースト]・[エスパー]・[はがね]・[くさ]を同時圧迫",
+    "[flash-fire]が[ほのお]技の交代受けに成立し火力50%増幅",
+    "[nasty-plot]1回で特攻が実質220台まで上昇"
+  ],
+  "weaknesses": [
+    "[かくとう]・[じめん]・[いわ]・[みず]弱点が多数重なる",
+    "防御50・特防80の耐久で中立一発でも容易に沈む",
+    "実質素早さ95は先手を許すマッチアップが少なくない"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "dark-pulse",
+      "reason": "安定した[あく] STAB主力技"
+    },
+    {
+      "move": "flamethrower",
+      "reason": "信頼性の高い[ほのお] STAB"
+    },
+    {
+      "move": "nasty-plot",
+      "reason": "特攻2ランクアップでスイープラインを完成"
+    },
+    {
+      "move": "sludge-bomb",
+      "reason": "[フェアリー]タイプ牽制の必須サブ"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "先制の一発を耐えて積みターンを確保"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ヘルガー]は[あく]・[ほのお]タイプの特殊アタッカーで、チャンピオンズMAでは[flash-fire]で相手の[ほのお]攻撃を吸収しつつ火力を+50%上げるカウンタースイープ着地カードとして機能する。[あく]・[ほのお] STAB組み合わせは[ゴースト]・[エスパー]・[くさ]・[はがね]を全て半減以上で突け、特攻110と素早さ95の組み合わせは積みさえ通せば一人ゲームプランを完成させる。\n\n## 強み\n[flash-fire]発動時は[dark-pulse]・[flamethrower]共に火力が急騰し、[nasty-plot]1回後は実質特攻が220台まで達してaegislash・excadrillのようなスイッチイン役すら2発で処理できる。[あく]・[ほのお]タイプ組合せは互いの弱点を絶妙に補完 — [エスパー]・[ゴースト]は[あく]が、[こおり]・[くさ]・[むし]・[はがね]は[ほのお]が突き、重複半減がほとんどない。[sludge-bomb]は[フェアリー]への保険札だ。\n\n## 弱点と対策\n[かくとう]・[じめん]・[いわ]・[みず]全てが2倍弱点で、swampert・excadrill・keldeoラインの大半に直接着地不能となる。防御50・特防80の耐久では中立一発でも崩れやすく、速い[いわ]タイプや先制技([aqua-jet]・[mach-punch])にチェックされやすい。[stealth-rock]のダメージ(着地時HP25%)も[focus-sash]プランの致命的な穴となる点に注意したい。\n\n## 推奨技構成\n[dark-pulse]を主力STABに固定 — 安定火力と怯み確率が追加価値を生む。[flamethrower]は信頼性の高い[ほのお] STABで、[fire-blast]より命中安定性を優先する選択。[はがね]・[くさ]・[むし]を突く。[nasty-plot]は積みの核札で、1ターン確保できれば試合が決着する。最後の枠は[sludge-bomb]で[フェアリー]タイプを狙撃し、tapu-koko・azumarillの変数を事前に潰す。\n\n## 道具・特性・テラスタル\n道具は[focus-sash]が基本 — 先制を1回耐えて[nasty-plot]を積む標準プランだ。特性は[flash-fire]が第一候補で、[ほのお]技の交代受けから火力を極大化する。テラスタルは[flamethrower]火力をもう一段押し上げる[ほのお]タイプが第一候補で、[あく]タイプで[dark-pulse]火力を上げスイープ詰めのラインを作る選択も十分有効だ。\n\n## 相性の良いパートナー\n[stealth-rock]除去担当([defog]・[rapid-spin])と組むのがほぼ必須に近い。[かくとう]・[じめん]カウンター(lati@s・gliscor系統)を併用し直接の弱点を塞ぐ防波堤が必要で、相手の[みず]タイプを排除する[くさ]・[でんき]タイプ味方がいれば[ヘルガー]の着地タイミングが一段安定する。[nasty-plot]ターンを稼ぐ[fake-out]使いも強力な相棒となる。\n\n## 立ち回り\n相手が[ほのお]技を選択すると読めるターンにスイッチインで[flash-fire]を発動し、即座に[nasty-plot]を積む。積み後は[dark-pulse]で安定したダメージを継続し、[flamethrower]は[flash-fire]補正が適用された状態でのみ解き放つ運用が効率的。テラスタルは弱点攻撃を確定で受ける状況、または[dark-pulse]で毎ターン1キルが確定する瞬間に発動する。",
+  "tags": [
+    "johto",
+    "dark",
+    "fire",
+    "special-sweeper",
+    "nasty-plot"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

@@ -1,0 +1,83 @@
+{
+  "pokemonId": 38,
+  "nameKo": "알로라나인테일",
+  "nameEn": "ninetales-alola",
+  "formKey": "alola",
+  "types": [
+    "ice",
+    "fairy"
+  ],
+  "roles": [
+    "weather-setter",
+    "support"
+  ],
+  "recommendedAbility": "snow-warning",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "fairy",
+    "ice"
+  ],
+  "recommendedEv": {
+    "hp": 16,
+    "atk": 0,
+    "def": 0,
+    "spa": 16,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[アローラキュウコン] バトル運用ガイド",
+  "summary": "[snow-warning]で雪天候を自動展開する[こおり]・[フェアリー]サポートアタッカー。素早さ109で高速な[aurora-veil]設置が核となる。",
+  "strengths": [
+    "[snow-warning]で雪天候を自動展開",
+    "雪下で[aurora-veil]設置が可能",
+    "[フェアリー]タイプ追加で[ドラゴン]無効"
+  ],
+  "weaknesses": [
+    "[ほのお]・[いわ]・[はがね]・[どく]弱点多数",
+    "73/75/100耐久で物理に脆い",
+    "攻撃値81で火力不足"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "aurora-veil",
+      "reason": "雪下で防御・特防を同時に補正する壁技"
+    },
+    {
+      "move": "blizzard",
+      "reason": "雪下で必中となる[こおり]全体STAB"
+    },
+    {
+      "move": "moonblast",
+      "reason": "[フェアリー]自タイプの単体特殊"
+    },
+    {
+      "move": "freeze-dry",
+      "reason": "[みず]に効果ばつぐんとなる[こおり]特殊サブ"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "light-clay",
+      "reason": "[aurora-veil]持続ターンを延長"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "素早さ超高速化する変形"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "設置1ターン目の保険"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[アローラキュウコン]は[snow-warning]特性で雪天候を自動展開しつつ、[aurora-veil]によってチーム全体に防御・特防1.5倍補正を提供するサポートアタッカーだ。素早さ109+[フェアリー]タイプによる[ドラゴン]無効を獲得し、キュレム・カイリュー等の[ドラゴン]アタッカー相手にも安定した運用を実現する。\n\n## 強み\n[snow-warning]で雪展開→[aurora-veil]設置時にチーム全体へ防御・特防1.5倍補正を5ターン提供するサポート役割が核心となる。素早さ109は大半のメタアタッカーを抜き去り設置の先制を確保する。雪下の[blizzard]必中で[フェアリー] STABと合わせた広範囲特殊攻撃も可能となる。[freeze-dry]は[みず]タイプに効果ばつぐんで刺さるシグネチャーユーティリティだ。\n\n## 弱点と対策\n[ほのお]・[いわ]・[はがね]・[どく]の4種弱点は耐性プロフィールが弱いことを意味する。73/75/100耐久は物理アタッカーに脆く、攻撃81は主力アタッカー役を果たすには力不足だ。[aurora-veil]設置後の交代着地構築が必須で、本体で殴り切る設計ではない点を割り切って運用する。\n\n## 推奨技構成\n[aurora-veil]はサポート役割の核となる技だ。[blizzard]は雪下必中の全体[こおり]主力で、パートナーとまとめて処理したい場面で解禁する。[moonblast]は[フェアリー]自タイプの単体特殊技で確定打点となる。[freeze-dry]は[みず]効果ばつぐんのシグネチャー技で、キングドラ・ギャラドス等のカウンターとして機能する。\n\n## 道具・特性・テラスタル\n道具は[light-clay]で[aurora-veil]持続ターンを5→8へ延長するのが基本だ。[choice-scarf]は超高速変形で、相手のテンポ技への対応に使う。特性は[snow-warning]固定となる。テラスタルは[フェアリー]でSTAB中乗せ+[ほのお]・[どく]耐性緩和するか、[こおり]で[blizzard]中乗せ補正を強化する選択が主軸だ。\n\n## 相性の良いパートナー\n雪パーティ+[aurora-veil]サポート役割として設計する。[ユキノオー]等の雪活用アタッカーとのシナジーが強力で、特に[こおり]タイプ攻撃型アタッカーの火力増幅バックアップとなる。[ほのお]・[はがね]弱点カウンターとして[みず]・[じめん]パートナーを配置し、盤面全体の安定性を確保する。\n\n## 立ち回り\n先発で出して雪展開→[aurora-veil]設置→交代着地で攻撃アタッカーを展開するのが基本運用だ。設置後は[blizzard]・[moonblast]で攻撃アタッカー役割へと転換し、[focus-sash]変形なら設置1ターン目の保険として活用する。相手が[taunt]使いなら設置前に[focus-sash]やテラスタルで耐える判断が勝敗を左右する。[aurora-veil]は雪が吹いている間のみ設置可能な点に注意し、相手の天候上書き([drought]・[drizzle]・[sand-stream])が飛んだ場合は即座に[blizzard]や[moonblast]の火力役へと切り替える柔軟性が必要だ。[light-clay]を持たせた8ターン運用ならパートナー2体が裏で積みを完走できるため、雪+壁の2枚看板構築が最も安定する。",
+  "tags": [
+    "alola",
+    "ice",
+    "fairy",
+    "regional-form",
+    "snow-warning",
+    "support"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

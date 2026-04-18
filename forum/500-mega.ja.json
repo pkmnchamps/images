@@ -1,0 +1,75 @@
+{
+  "pokemonId": 500,
+  "nameKo": "메가염무왕",
+  "nameEn": "emboar-mega",
+  "formKey": "mega",
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "roles": [
+    "mixed-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "mold-breaker",
+  "recommendedNature": "brave",
+  "recommendedTera": [
+    "fire",
+    "fighting"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0
+  },
+  "locale": "ja",
+  "title": "[メガエンブオー] バトル運用ガイド",
+  "summary": "[mold-breaker]で相手の特性を無視して攻撃する[ほのお]・[かくとう]の耐久アタッカー。攻撃148+特攻110の混合運用が可能。",
+  "strengths": [
+    "[mold-breaker]で相手の特性を無視して攻撃",
+    "攻撃148+特攻110の両刀アタッカー運用",
+    "HP110に支えられた耐久アタック能力"
+  ],
+  "weaknesses": [
+    "[ひこう]・[エスパー]・[じめん]・[みず]弱点が多数",
+    "素早さ75で後手に回る",
+    "物理耐久75は平均的で過信できない"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "flare-blitz",
+      "reason": "[ほのお]自属性で最大威力の物理メイン"
+    },
+    {
+      "move": "close-combat",
+      "reason": "[かくとう]自属性の主力物理"
+    },
+    {
+      "move": "earthquake",
+      "reason": "[はがね]・[いわ]・[でんき]を牽制する全体技"
+    },
+    {
+      "move": "protect",
+      "reason": "メガシンカのターンを安全に確保"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "emboarite",
+      "reason": "メガシンカのための必須アイテム (emboarite)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガエンブオー]は[mold-breaker]特性で相手の特性を無視して攻撃する[ほのお]・[かくとう]の耐久アタッカーだ。攻撃148+特攻110+HP110の安定した数値で中速物理アタッカーの役割をこなし、[ほのお]・[かくとう]自属性と[mold-breaker]の特性貫通火力がシグネチャーになる。\n\n## 強み\n[mold-breaker]は相手の特性を無視する。この特性は[levitate]・[flash-fire]・[water-absorb]・[sturdy]など免疫・吸収系特性を全て貫通して攻撃できる。[earthquake]が[levitate]持ちの[rotom]系統にも通り、[sturdy]の1HP残りも無力化される。攻撃148+特攻110の両刀運用は相手の壁構成に応じた柔軟性を与え、[flamethrower]や[focus-blast]を混ぜれば物理受けを後出しで罰することもできる。\n\n## 弱点と対策\n[ひこう]・[エスパー]・[じめん]・[みず]が弱点で、耐性プロファイルは良好とは言えない。[みず]タイプには即死級のダメージを受ける可能性が高く、[psychic]で[かくとう]を牽制する特殊アタッカーにも脅威を感じる。素早さ75は大半のメタ相手に後手を強いられるため、耐久に頼った交代運用が中心となり、選出段階でメタを読む眼が要求される。\n\n## 推奨技構成\n[flare-blitz]は[ほのお]自属性の最大威力物理。[close-combat]は[かくとう]自属性の主力物理で、メガシンカ後の攻撃148から放たれれば耐久型も一撃圏内に収めやすい。[earthquake]は[mold-breaker]で[levitate]を無視する重要サブで、広範囲の[はがね]・[いわ]・[でんき]を同時に牽制する。[protect]はメガシンカターンの安全確保に必須で、特殊運用時は[flamethrower]・[focus-blast]の混合構成も候補となる。\n\n## 道具・特性・テラスタル\n道具は[emboarite]固定で他の選択肢はない。特性はメガシンカ後に[mold-breaker]へ転換される。テラスタルは[ほのお]で自属性補正を極大化する選択か、[かくとう]で[close-combat]自属性を重ねつつ[ひこう]・[エスパー]の4倍抵抗を獲得する選択が実戦的だ。テラスタル選択がそのままチームの耐性バランスを左右する点は意識しておきたい。\n\n## 相性の良いパートナー\n[みず]・[ひこう]・[エスパー]弱点のカウンターとして[でんき]・[あく]・[フェアリー]パートナーを並べる。[intimidate]持ちで物理耐久を補助すれば登場タイミングがさらに広がり、[trick-room]展開の中では素早さ75が逆に長所となる運用も成立する。ピボット役と組み合わせて安全に着地させることで役割厚みが増す。\n\n## 立ち回り\nメガシンカ+[protect]で安全ターンを確保してから[flare-blitz]・[close-combat]の主力火力を叩き込む。[levitate]・[sturdy]持ちには[earthquake]で特性を無視して直接削る運用を徹底。弱点技が露出した瞬間は即交代し、耐久を活かした交代出しプレイで役割を回していくのが核心だ。",
+  "tags": [
+    "unova",
+    "fire",
+    "fighting",
+    "mega",
+    "mold-breaker",
+    "mixed-attacker"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

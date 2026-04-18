@@ -1,0 +1,83 @@
+{
+  "pokemonId": 479,
+  "nameKo": "로토무(프로스트)",
+  "nameEn": "rotom-frost",
+  "formKey": "frost",
+  "types": [
+    "electric",
+    "ice"
+  ],
+  "roles": [
+    "special-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "levitate",
+  "recommendedNature": "modest",
+  "recommendedTera": [
+    "ice",
+    "electric"
+  ],
+  "recommendedEv": {
+    "hp": 16,
+    "atk": 0,
+    "def": 0,
+    "spa": 16,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[フロストロトム] バトル運用ガイド",
+  "summary": "[でんき]・[こおり]複合特殊アタッカー+[levitate]で[じめん]無効。[blizzard]・[thunderbolt]の両自己STAB高火力が核心。",
+  "strengths": [
+    "[levitate]で[じめん]を完全無効",
+    "[でんき]・[こおり]で[ドラゴン]・[ひこう]・[くさ]を広範に牽制",
+    "[blizzard]が雪下で必中可能"
+  ],
+  "weaknesses": [
+    "[ほのお]・[いわ]・[かくとう]・[はがね]の4種弱点",
+    "HP50が低い",
+    "[mold-breaker]相手は[levitate]無視"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "blizzard",
+      "reason": "[こおり]自己STABの範囲特殊"
+    },
+    {
+      "move": "thunderbolt",
+      "reason": "[でんき]自己STAB主力特殊"
+    },
+    {
+      "move": "volt-switch",
+      "reason": "ピボット利得"
+    },
+    {
+      "move": "protect",
+      "reason": "安全ターンの確保"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "choice-specs",
+      "reason": "特攻1.5倍の火力極大化"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "超高速化の変形"
+    },
+    {
+      "item": "never-melt-ice",
+      "reason": "[こおり]技の火力強化"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[フロストロトム]は[でんき]・[こおり]複合特殊アタッカーで、[levitate]の[じめん]無効に[ドラゴン]・[ひこう]・[くさ]の広範な牽制能力を結合する。ロトム品種の中で最も攻撃範囲が広い攻撃型アタッカーとして運用され、[thunderbolt]+[blizzard]だけで半減されるタイプは事実上[はがね]系のみという優秀な攻撃角度を持つ一枚だ。\n\n## 強み\n[でんき]・[こおり]複合自己STABは[ドラゴン]・[ひこう]・[くさ]・[じめん]・[みず]タイプを広く牽制できる独特な組み合わせで、相手のエース格を多方面から削れる。[blizzard]は雪パーティと組めば必中範囲特殊技となり、[thunderbolt]と合わせて両自己STAB高火力運用が可能だ。[levitate]で[じめん]無効まで確保するためガブリアス系の交代出しを安全に迎え撃てる。\n\n## 弱点と対策\n[ほのお]・[いわ]・[かくとう]・[はがね]の4種弱点で、他ロトム品種より耐性プロファイルが薄い。特に[はがね]弱点はメタ[はがね]タイプに逆襲されるリスクがあり、メガルカリオ等の[はがね]STABブレイカー相手には決して出せない。HP50は依然として低く、弱点攻撃の一撃で倒れる危険があるため、テラスタル運用を前提に組むのが無難だ。\n\n## 推奨技構成\n[blizzard]は[こおり]自己STABの範囲特殊でダブルの核となる火力だ。[thunderbolt]は[でんき]自己STAB主力で、[みず]・[ひこう]への安定した削り手段になる。[volt-switch]はピボット利得+不利対面離脱の要で、[はがね]タイプが出てきた瞬間に即離脱することでダメージ損失を最小化する。[protect]は安全ターン確保に必須だ。\n\n## 道具・特性・テラスタル\n道具は[choice-specs]が特攻火力極大化のメインで、[blizzard]の確定KO圏を大きく広げる。[choice-scarf]は超高速変形で、[tailwind]がない状態でも上位エースを抜ける選択肢となる。特性は[levitate]固定。テラスタルは[こおり]テラで[blizzard]の自己STAB重ね補正を狙うか、[でんき]テラで[thunderbolt]の重ね補正+[いわ]弱点緩和を選ぶ。\n\n## 相性の良いパートナー\n雪パーティで[blizzard]必中のシナジーを得るのが最優先で、アローラキュウコンとの組み合わせで自動雪展開が可能だ。[ほのお]・[かくとう]弱点カウンターに[みず]・[フェアリー]パートナーを配置し、[tailwind]役を用意すれば[choice-specs]運用でも安定してスイープできる。\n\n## 立ち回り\n雪パーティ展開後に[blizzard]必中範囲で火力を噴出させる。[volt-switch]で不利対面離脱、[thunderbolt]で主力ダメージを積み上げる。[はがね]・[ほのお]タイプ露出時は即交代が必須で、テラスタルは弱点一撃を受ける直前のタイミングで切って生存ターンを確保するのが鉄則だ。",
+  "tags": [
+    "sinnoh",
+    "electric",
+    "ice",
+    "appliance-form",
+    "levitate",
+    "special-attacker"
+  ],
+  "updatedAt": "2026-04-15T00:00:00+09:00"
+}

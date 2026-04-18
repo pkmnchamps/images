@@ -1,0 +1,83 @@
+{
+  "pokemonId": 503,
+  "nameKo": "히스이대검귀",
+  "nameEn": "samurott-hisui",
+  "formKey": "hisui",
+  "types": [
+    "water",
+    "dark"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "sharpness",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "water",
+    "dark"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[ヒスイダイケンキ] バトル運用ガイド",
+  "summary": "[sharpness]で斬撃技の威力を1.5倍に補正する[みず]・[あく]物理アタッカー。[ceaseless-edge]・[razor-shell]の斬撃コンボが核心。",
+  "strengths": [
+    "[sharpness]で斬撃技の威力を1.5倍に補正",
+    "[ceaseless-edge]はシグネチャー斬撃+まきびし類似の設置",
+    "攻撃108+[みず]・[あく]複合自属性"
+  ],
+  "weaknesses": [
+    "[かくとう]・[むし]・[くさ]・[でんき]・[フェアリー]弱点が多数",
+    "耐久90/80/65は平均的",
+    "素早さ85は中速圏"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "ceaseless-edge",
+      "reason": "シグネチャー[あく]自属性斬撃+スプリット設置"
+    },
+    {
+      "move": "razor-shell",
+      "reason": "[みず]自属性斬撃+防御低下"
+    },
+    {
+      "move": "sacred-sword",
+      "reason": "[かくとう]サブ斬撃で[ノーマル]・[あく]を牽制"
+    },
+    {
+      "move": "protect",
+      "reason": "安全ターン確保"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "life-orb",
+      "reason": "物理火力をバランス良く底上げ"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "一撃を確定で耐えて反撃"
+    },
+    {
+      "item": "choice-band",
+      "reason": "攻撃を1.5倍にして超火力型へ変形"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ヒスイダイケンキ]は[sharpness]特性で斬撃技の威力が1.5倍補正される[みず]・[あく]の物理アタッカーだ。シグネチャー技[ceaseless-edge]は[あく]タイプ斬撃に加え、相手場に設置(擬似[stealth-rock])を残すという独特のユーティリティ判定を持つ。\n\n## 強み\n[sharpness]で斬撃技の威力が1.5倍補正される結果、[ceaseless-edge]は実質威力97.5の[あく]自属性攻撃となる。加えて設置技として相手交代時のダメージも蓄積させる二重役割が可能となり、単騎で場を動かせる稀有な存在だ。[razor-shell]は[みず]自属性斬撃+防御1段階低下の追加効果、[sacred-sword]は[かくとう]斬撃サブとして[ノーマル]・[いわ]・[あく]を牽制する。攻撃108から放たれる斬撃は火力も合格点だ。\n\n## 弱点と対策\n[かくとう]・[むし]・[くさ]・[でんき]・[フェアリー]の5種弱点で耐性プロファイルは薄い。耐久90/80/65は平均水準で弱点技に脆く、素早さ85も中速圏で先制を許す場面が多い。[tailwind]支援や[intimidate]補助がなければ単独での粘りは難しく、選出時点からサポートをセットで用意する前提の運用となる。\n\n## 推奨技構成\n[ceaseless-edge]はシグネチャー[あく]自属性斬撃+設置の核で、登場初手はほぼ確定で選択する。[razor-shell]は[みず]自属性斬撃+防御低下で突破力を徐々に増幅し、[sacred-sword]は[かくとう]斬撃サブ。[protect]は安全ターン確保に一枠割き、設置のテンポを整えるためにも役立つ。設置不要な選出なら[aqua-jet]で先制技を確保する選択も成立する。\n\n## 道具・特性・テラスタル\n道具は[life-orb]が柔軟な火力メインで、[choice-band]は超火力型変形の選択だ。[focus-sash]は初手を確実に残したい場面で選びたい。特性は[sharpness]一択、テラスタルは[あく]で[ceaseless-edge]自属性を重ねる攻撃特化か、[みず]で[razor-shell]自属性を厚くする選択が有効だ。チーム構成次第でどちらも第一候補となる。\n\n## 相性の良いパートナー\n[かくとう]・[むし]弱点のカウンターとして[フェアリー]・[ほのお]パートナー。[tailwind]で素早さ不足を補助し、ハザードサイクル型チームでは[ceaseless-edge]設置とのシナジーが最大化される。ピボットから安全に着地させる編成だと[sharpness]の斬撃連打が途切れない。\n\n## 立ち回り\n初手は[ceaseless-edge]で設置しつつ交代を強制させ、交代際のダメージを積み重ねる。[razor-shell]連打で防御低下を積んでいき、決定局面では[sacred-sword]で[ノーマル]・[あく]を処理する。弱点技が露出した瞬間は無理せず即交代し、再登場に備えて設置の恩恵を残しておくのが賢い選択だ。",
+  "tags": [
+    "hisui",
+    "water",
+    "dark",
+    "regional-form",
+    "sharpness",
+    "physical-sweeper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

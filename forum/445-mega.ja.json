@@ -1,0 +1,75 @@
+{
+  "pokemonId": 445,
+  "nameKo": "메가한카리아스",
+  "nameEn": "garchomp-mega",
+  "formKey": "mega",
+  "types": [
+    "dragon",
+    "ground"
+  ],
+  "roles": [
+    "mixed-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "sand-force",
+  "recommendedNature": "naive",
+  "recommendedTera": [
+    "ground",
+    "dragon"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[メガガブリアス] バトル運用ガイド",
+  "summary": "攻撃170の爆発的物理火力+[sand-force]の砂嵐補正を受ける[ドラゴン]・[じめん]アタッカー。砂嵐下の[earthquake]実質威力が最上級。",
+  "strengths": [
+    "攻撃170の最上級物理火力",
+    "[sand-force]砂嵐下で[じめん]・[いわ]・[はがね]技+30%",
+    "[ドラゴン]・[じめん]複合の広範な自己STAB牽制"
+  ],
+  "weaknesses": [
+    "[こおり]4倍弱点——[ice-beam]で即死",
+    "素早さ92でスカーフ勢に後手",
+    "メガシンカ前の[rough-skin]効果1ターンぶんのロス"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "earthquake",
+      "reason": "[sand-force]補正の主力[じめん]STAB"
+    },
+    {
+      "move": "dragon-claw",
+      "reason": "[ドラゴン]自己STABの単体攻撃"
+    },
+    {
+      "move": "stone-edge",
+      "reason": "[sand-force]補正で[ひこう]・[ほのお]・[むし]を牽制"
+    },
+    {
+      "move": "protect",
+      "reason": "メガシンカ着地の安全確保"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "garchompite",
+      "reason": "メガシンカのための必須アイテム (garchompite)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガガブリアス]は攻撃種族値170の爆発的な物理火力+[sand-force]の砂嵐補正を結合した[ドラゴン]・[じめん]最上位物理アタッカーだ。砂嵐下では[earthquake]・[stone-edge]の威力が30%上昇し、メタ最上級の物理ブレイカーの仲間入りを果たす一枚となる。素早さ92+特攻120+攻撃170の数値配分はメガ[ドラゴン]枠の中でも屈指の攻撃的ステータスで、混合アタッカー運用も視野に入る。\n\n## 強み\n攻撃170はメタ物理アタッカー最上位圏で、[sand-force]補正の[earthquake]は実質威力130+STABで確定KO範囲が極端に広い。[ドラゴン]・[じめん]複合自己STABの牽制範囲は[でんき]無効込みで広範で、特攻種族値120も高いため[draco-meteor]・[fire-blast]を混ぜた混合アタッカー運用も現実的な選択肢になる。砂嵐下では特防も1.5倍で底上げされ、[ice-beam]一発を耐える計算が立つ局面もある。\n\n## 弱点と対策\n[こおり]4倍弱点は[ice-beam]・[blizzard]による即死を意味する。マンムー・マニューラ等の[こおり]タイプアタッカーが残っている間は決して出せない。素早さ92は最上位圏(110+)に後手を取られるため、[tailwind]支援やスカーフ運用を前提に計算する必要がある。メガシンカ前の1ターンは[rough-skin]で特性が固定されるので、着地ターンに[sand-force]補正が乗らない点もダメージ計算に織り込むべきだ。\n\n## 推奨技構成\n[earthquake]は[sand-force]補正の主力[じめん]STABで、ダブルでは範囲判定も兼ねて相方を巻き込まない配置が重要だ。[dragon-claw]は[ドラゴン]自己STABの安定単体技で、[outrage]の縛りを嫌う場面で採用する。[stone-edge]は[sand-force]補正で[ひこう]・[ほのお]・[むし]を牽制し、リザードン・ウルガモス系へのカウンターを担う。[protect]はメガシンカターンの安全確保に必須で、相方の動きを見てから攻撃を選べる柔軟性も得られる。\n\n## 道具・特性・テラスタル\n道具は[garchompite]固定で選択の余地はない。特性はメガシンカ後に[sand-force]へ切り替わる仕様のため、砂嵐展開とメガシンカのタイミングを合わせる立ち回りが重要になる。テラスタルは[じめん]テラで自己STAB+[sand-force]の補正を重ねて[earthquake]のKOラインを引き上げるか、[ドラゴン]テラで[こおり]4倍弱点を緩和しつつ[dragon-claw]を強化する択がある。\n\n## 相性の良いパートナー\n砂嵐セット可能な[tyranitar]・[hippowdon]のパートナーが必須だ。[こおり]弱点カウンターに[はがね]・[ほのお]パートナーを配置し、[tailwind]で素早さ92の弱点を相殺する組み方が安定する。スロウピボットや[fake-out]役を用意すれば着地コストが減り、[protect]+メガシンカの流れが綺麗に通る。\n\n## 立ち回り\n砂嵐が展開された後に交代出しで登場させ、[protect]でメガシンカターンを確保してから[earthquake]・[stone-edge]の高速火力を撃ち込む。[こおり]タイプ露出時は即交代し、テラスタルは[こおり]弱点を防御するか自己STAB火力を底上げするかタイミングを厳選する。砂嵐の残ターン数を常に意識し、切れる前にKOを取り切るプランが鉄則だ。",
+  "tags": [
+    "sinnoh",
+    "dragon",
+    "ground",
+    "mega",
+    "sand-force",
+    "physical-sweeper"
+  ],
+  "updatedAt": "2026-04-14T00:00:00+09:00"
+}

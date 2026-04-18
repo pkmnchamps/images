@@ -1,0 +1,74 @@
+{
+  "pokemonId": 214,
+  "nameKo": "메가헤라크로스",
+  "nameEn": "heracross-mega",
+  "formKey": "mega",
+  "types": [
+    "bug",
+    "fighting"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "skill-link",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "bug",
+    "steel"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[メガヘラクロス] バトル運用ガイド",
+  "summary": "[skill-link]で[pin-missile]・[bullet-seed]・[rock-blast]の5連撃を確定させる攻撃185の[むし]・[かくとう]物理砲台。",
+  "strengths": [
+    "攻撃185+[skill-link]で多段技が常に5ヒット確定",
+    "[pin-missile]・[rock-blast]の組み合わせで[substitute]と気合の襷を同時無力化",
+    "[close-combat]が[かくとう] STAB一発で[あく]・[はがね]の壁をそのまま溶かす"
+  ],
+  "weaknesses": [
+    "[ひこう]4倍弱点 — [brave-bird]一発すら致命的",
+    "[ほのお]・[エスパー]・[フェアリー]・[ゴースト]2倍も均等に痛い",
+    "実質素早さ75で先手を許すマッチアップが多い"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "pin-missile",
+      "reason": "[skill-link]の5ヒットが確定する[むし] STAB主力技"
+    },
+    {
+      "move": "close-combat",
+      "reason": "[かくとう] STAB最大火力のフィニッシャー"
+    },
+    {
+      "move": "rock-blast",
+      "reason": "[ひこう]弱点を突く多段技の牽制枠"
+    },
+    {
+      "move": "swords-dance",
+      "reason": "低素早さを火力で捻じ伏せるセットアップ"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "heracronite",
+      "reason": "メガシンカのための必須アイテム (heracronite)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガヘラクロス]は原種の攻撃125を185まで引き上げ、特性を[skill-link]に固定することで多段技の各回を全て確定ヒットに変える[むし]・[かくとう]物理砲台だ。チャンピオンズMAでこの個体をわざわざ採用する理由はただ一つ — [substitute]・気合の襷・[sturdy]のような防御装置を無視して初手で溶かし切る、メタ唯一クラスのスポット破壊カードである点にある。\n\n## 強み\n[pin-missile]は威力25×5ヒットで[skill-link]下では実質威力125、そこに[むし] STABと攻撃185・いじっぱり補正が重なると耐久寄りの[フェアリー]・[エスパー]・[あく]タイプを1ターンで処理する。[rock-blast]は[ひこう]タイプに5ヒット確定を打ち込める札で、talonflame・staraptor等の先制型[ひこう]スイーパーを逆に落とすリバーサルが可能だ。[close-combat]は[むし]の通らない[はがね]壁を即溶解させる決めの札となる。\n\n## 弱点と対策\n[むし]・[かくとう]複合は[ひこう]4倍弱点で、[brave-bird]・[hurricane]系統の一発でそのまま沈む。素早さ75という数字は実質155~170台のメタ主力スイーパー群に徹底的に押されるため、単独先制は不可能に近い。[ほのお]・[エスパー]・[フェアリー]・[ゴースト]全てが2倍で入るため、gengar・tapu-lele・aegislash系の対面は絶対に避け、先制技の味方で保険を張る必要がある。\n\n## 推奨技構成\n[pin-missile]を主力STABに固定 — [skill-link]が適用された瞬間に[substitute]・気合の襷カウンターが同時に無力化される。[close-combat]は[かくとう] STAB最高火力のフィニッシャー枠で、多段技の通らない[はがね]・[あく]の壁を即処理する札だ。[rock-blast]は[ひこう]弱点を突くために[rock-slide]ではなくこちらを選択し、命中問題も[skill-link]で解決する。最後は[swords-dance]でスイーパー化する。\n\n## 道具・特性・テラスタル\n道具は[heracronite]固定で代替は存在しない。特性はメガシンカ瞬間に[skill-link]へ自動切り替えされるので元の特性は問わず、この特性自体が採用理由の全てである。テラスタルは[pin-missile]火力をさらに上げる[むし]タイプが第一候補だが、[ひこう]4倍弱点を消せる[はがね]タイプテラで[brave-bird]を半減して生き残る選択肢も上位大会で頻繁に見かける形となる。\n\n## 相性の良いパートナー\n先制技使い([mach-punch]・[aqua-jet]持ち)で低素早さをカバーする構成が基本形で、[ひこう]カウンター([でんき]・[いわ]タイプ)も最低1枚は編成必須となる。[stealth-rock]除去担当([defog]・[rapid-spin]使い)もほぼ必須に近く、[trick-room]セッターを併用すれば素早さの弱点自体が長所に反転する。[fake-out]使いで積み1ターンを稼ぐプランも理想的だ。\n\n## 立ち回り\n先発よりも2~3ターン目のスイッチインで着地させ、相手の1~2匹を処理した後に下がる運用が標準だ。[close-combat]はスイープ最終ターン以外は温存し、[pin-missile]と[rock-blast]で防御低下負担なくダメージを蓄積させる。テラスタルは[ひこう]弱点技のラインが確定した瞬間に即発動し、その1ターンで試合を買い取る判断が鉄則となる。",
+  "tags": [
+    "johto",
+    "bug",
+    "fighting",
+    "mega",
+    "physical-attacker"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

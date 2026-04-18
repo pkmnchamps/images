@@ -1,0 +1,77 @@
+{
+  "pokemonId": 405,
+  "nameKo": "렌트라",
+  "nameEn": "luxray",
+  "formKey": null,
+  "types": [
+    "electric"
+  ],
+  "roles": [
+    "physical-attacker",
+    "pivot"
+  ],
+  "recommendedAbility": "intimidate",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "electric",
+    "ground"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[レントラー] バトル運用ガイド",
+  "summary": "[intimidate]で序盤の物理被害を削り、[wild-charge]・[crunch]の二段構えで突き込む[でんき]物理ピボット。素早さ70ながら[volt-switch]の離脱が強み。",
+  "strengths": [
+    "攻撃120の物理[でんき]アタッカーでは稀少な[intimidate]持ち",
+    "[wild-charge]+[crunch]+[ice-fang]で大半のピボットを2発圏内に収める",
+    "[volt-switch]で不利対面から即離脱しチームの主導権を保持"
+  ],
+  "weaknesses": [
+    "[じめん]2倍弱点と素早さ70で先制権争いに敗れがち",
+    "上位物理[でんき]枠(ボルトロス等)との役割競合",
+    "[wild-charge]反動の累積で長期戦のHP管理が難しい"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "wild-charge",
+      "reason": "反動を承知で最大火力を確保するSTAB物理主力"
+    },
+    {
+      "move": "crunch",
+      "reason": "[ゴースト]・[エスパー]牽制と[でんき]半減タイプへの刺し技"
+    },
+    {
+      "move": "ice-fang",
+      "reason": "4倍弱点の[ドラゴン]・[じめん]・[ひこう]を撃ち抜く必須サブ"
+    },
+    {
+      "move": "volt-switch",
+      "reason": "不利対面の離脱とチームピボット維持の軸"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "sitrus-berry",
+      "reason": "反動を一度回収してもう一段階の行動余地を確保"
+    },
+    {
+      "item": "focus-sash",
+      "reason": "[じめん]先制技やスカーフ勢の前で1ターン生存を担保"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[レントラー]は特性[intimidate]を内蔵した物理[でんき]アタッカーという点が最大の個性だ。物理[でんき]ポジションは競合が少ないうえ、登場と同時に相手物理火力を1段階削る札は[レントラー]以外にほぼ存在しない。攻撃120・素早さ70という中途半端なスタッツを、ピボット運用と[intimidate]サポートに回して真価を発揮させる一枚である。\n\n## 強み\nSTAB [wild-charge]は攻撃120+[jolly]補正でメタ上位の物理[でんき]火力帯に届き、[crunch]が[ゴースト]・[エスパー]を押さえて[でんき]半減タイプへの突破口を作る。何より[ice-fang]が[じめん]・[ドラゴン]・[ひこう]を一手で牽制できるため、4倍弱点構図を簡単に描ける。[intimidate]着地で物理相手の先手火力を一段階削り、[volt-switch]で有利側へターンを渡せる柔軟性も大きい。\n\n## 弱点と対策\n[じめん]2倍弱点が致命的で、素早さ70はスカーフがなければほぼ全てのアタッカーに先手を許す。[mach-punch]・[bullet-punch]等の[かくとう]・[はがね]先制技にも同様に脆く、ガブリアスやランドロスを始めとする上位[じめん]使いが残っている間は迂闊に着地できない。[wild-charge]反動の累積も実戦で最大の消耗源で、試合後半で押し負ける要因になる。\n\n## 推奨技構成\n[wild-charge]を主力に据え、確定KO圏でのみ押すなど反動管理を徹底する。[crunch]は[ゴースト]・[エスパー]牽制に加え、[でんき]半減の[くさ]・[でんき]タイプを削る副次カードとしても優秀だ。[ice-fang]は固定枠として[ドラゴン]・[じめん]・[ひこう]対応を一手に担い、最後は[volt-switch]で交代権を握り続ける。代替として[superpower]を採用すれば[ノーマル]・[はがね]・[いわ]を同時に牽制できる。\n\n## 道具・特性・テラスタル\n道具は[sitrus-berry]が基本で、[wild-charge]反動1回を帳消しにしつつHPラインを跨いで行動余地を作る。よりアグレッシブに使うなら[focus-sash]で1ターン確定生存を確保し、[volt-switch]の交代札を残す。特性は[intimidate]以外に選択肢はなく、テラスタルは[でんき]固定が基本だが、[じめん]弱点を消す[じめん]テラスタル防御プランも上位卓で頻繁に見られる。\n\n## 相性の良いパートナー\n[じめん]弱点を受け止める[くさ]・[ひこう]タイプのピボットが最優先パートナーだ。[レントラー]の[volt-switch]とスロウピボット(フシギバナやマンムー等)のU-turnを絡めて対面勝ち構図を強制できる。後続に特殊エースを据えれば、[intimidate]の物理緩衝+特殊ディーラーの理想的な組み合わせになる。\n\n## 立ち回り\n1ターン目は交代読みか[intimidate]着地に集中し、有利対面が確定した瞬間に[wild-charge]で切り開く。HPが1/3以下に落ちたらこれ以上反動を重ねず、[volt-switch]で離脱して後続の交代戦へ繋ぐのが鉄則だ。",
+  "tags": [
+    "sinnoh",
+    "electric",
+    "physical-attacker",
+    "pivot",
+    "intimidate"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

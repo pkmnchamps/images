@@ -1,0 +1,80 @@
+{
+  "pokemonId": 310,
+  "nameKo": "썬더볼트",
+  "nameEn": "manectric",
+  "formKey": null,
+  "types": [
+    "electric"
+  ],
+  "roles": [
+    "special-attacker",
+    "pivot"
+  ],
+  "recommendedAbility": "lightning-rod",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "electric",
+    "grass"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "spa": 32,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[ライボルト] バトル運用ガイド",
+  "summary": "[lightning-rod]で[でんき]技を封じ[volt-switch]でテンポを回す[でんき]特殊ピボット。",
+  "strengths": [
+    "[lightning-rod]で味方の[でんき]技まで吸収",
+    "[volt-switch]で安全な交代と牽制を同時に両立",
+    "素早さ105でメタ中間層を抜き去る"
+  ],
+  "weaknesses": [
+    "単[でんき]タイプゆえ地面技完全無効対象",
+    "HP70・特防60の薄い特殊耐久",
+    "メガ型より決定力が低い"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "thunderbolt",
+      "reason": "[でんき] STABの基本決定打"
+    },
+    {
+      "move": "volt-switch",
+      "reason": "安全な交代とダメージを同時に得る核技"
+    },
+    {
+      "move": "flamethrower",
+      "reason": "[くさ]・[はがね]・[こおり]牽制を担うサブウェポン"
+    },
+    {
+      "move": "thunder-wave",
+      "reason": "先制まひで素早さ軸を撹乱"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "先制技一発を耐えて反撃する保険"
+    },
+    {
+      "item": "magnet",
+      "reason": "[でんき] STAB火力を一段引き上げる選択肢"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "ループの体力管理用回復アイテム"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ライボルト]は単[でんき]タイプの特殊ピボットだ。特攻105・素早さ105という鋭い配分のおかげで僅差の速度競争で優位を取り、特性[lightning-rod]を選択すれば味方が放つ[でんき]技まで吸収してダブル構成でも安定したアタッカー役を果たす。原種の本質は決定力よりテンポ——[volt-switch]一発で盤面を動かすことだ。\n\n## 強み\n[lightning-rod]は相手の[でんき]技を無効化しながら特攻を一段階上げてくれるため、[でんき]ミラーでは文字通り相性をひっくり返すカードとなる。素早さ105はメタ中間層のアタッカーを全て抜き去り、[volt-switch]でダメージを与えながら安全に交代することで交代読み損失をほぼゼロに収束させる。[thunderbolt]と[flamethrower]で[でんき]・[くさ]・[はがね]・[こおり]の組み合わせを牽制し、[thunder-wave]で高速積みスイーパーまで縛る。\n\n## 弱点と対策\n単[でんき]は地面技に完全無効される構造のため、[じめん]タイプ相手にはすぐ[volt-switch]で退くのが基本行動となる。HP70・特防60の特殊耐久は薄く、choice-specsアタッカー一撃で半分以上飛ぶことも多いうえ、メガフォームと比較すれば純粋な決定力は不足するため、真正面から殴るよりテンポゲームを志向すべきだ。\n\n## 推奨技構成\n[thunderbolt]を[でんき] STAB決定打として固定し、[volt-switch]で交代ゲームを主導する。[flamethrower]は[くさ]・[はがね]・[こおり]を手早く処理するサブウェポンで、特にボルトチェンジ封じに出てくる地面・[くさ]タンクへ直接ダメージを入れる役割を担う。最後の枠は[thunder-wave]で相手の積み・素早さ軸を崩すユーティリティを担当する。\n\n## 道具・特性・テラスタル\n道具は[focus-sash]で一発の安全ラインを確保するか、[magnet]で[でんき]技の決定力を直接上げる選択が実戦的だ。[sitrus-berry]は長期ピボット構造で自然回復量を補強する。特性は[lightning-rod]が最上位選択で、テラスタルは[でんき]でSTAB火力を増幅するか、[くさ]で地面・[くさ]攻撃を逆に吸収する二択が核となる。\n\n## 相性の良いパートナー\n地面カバーができる[ひこう]・浮遊特性パートナーが必須だ。[volt-switch]後に入る[じめん]技を吸ってくれる[ひこう]タイプ、あるいは[levitate]持ちが最も相性が良い。積みスイーパーの後ろに置いて[thunder-wave]で道を開き、強い[みず]タイプ相手には[くさ]タイプパートナーを併用して[でんき]無効相手を切り崩す。\n\n## 立ち回り\n基本プランは先発に出て[volt-switch]で相手タンクの読み違い交代を誘うことだ。[じめん]タイプが顔を出したら即座にスイッチアウトし、[lightning-rod]の特攻上昇を得たターンは[thunderbolt]または[flamethrower]で最大利益を刈り取る。体力が50%以下に落ちれば[focus-sash]依存度が消えるので、潔く退いて再突入を準備する。",
+  "tags": [
+    "hoenn",
+    "electric",
+    "pivot",
+    "lightning-rod"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

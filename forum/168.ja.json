@@ -1,0 +1,78 @@
+{
+  "pokemonId": 168,
+  "nameKo": "아리아도스",
+  "nameEn": "ariados",
+  "formKey": null,
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "roles": [
+    "lead",
+    "support"
+  ],
+  "recommendedAbility": "insomnia",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "dark",
+    "steel"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 0
+  },
+  "locale": "ja",
+  "title": "[アリアドス] バトル運用ガイド",
+  "summary": "[sticky-web]展開と[toxic-spikes]二重設置で相手チーム全体に継続ダメージを与える[むし]・[どく]サポーターリード。",
+  "strengths": [
+    "[sticky-web]+[toxic-spikes]の二重設置",
+    "[insomnia]で相手の[sleep-powder]を完全阻止",
+    "[sucker-punch]で先制技カウンターを確保"
+  ],
+  "weaknesses": [
+    "低い素早さと薄い耐久でリード戦に脆い",
+    "[ほのお]・[ひこう]・[いわ]・[エスパー]弱点が多い",
+    "攻撃90では決定力が足りない"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "sticky-web",
+      "reason": "相手チーム全体の素早さを1段階下げる設置技"
+    },
+    {
+      "move": "toxic-spikes",
+      "reason": "相手交代ごとに[どく]状態異常を蓄積"
+    },
+    {
+      "move": "sucker-punch",
+      "reason": "相手の攻撃ターンを返す先制技"
+    },
+    {
+      "move": "poison-jab",
+      "reason": "[フェアリー]・[くさ]を牽制する[どく] STAB"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "リード構図で1回の設置を保障"
+    },
+    {
+      "item": "mental-herb",
+      "reason": "相手の[taunt]を1回無効化して設置を確保"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[アリアドス]は[むし]・[どく]複合タイプのサポーターリードポケモンで、[sticky-web]と[toxic-spikes]の二重設置を軸にしたサポートプランが核だ。スタット自体は低いが、相手チーム全体の素早さを1段階下げる[sticky-web]と、交代ごとに[どく]状態異常を蓄積させる[toxic-spikes]の両方を1枠の枠で運用できる稀有なポケモンという点で、チャンピオンズメタでも有効な居場所を占める。\n\n## 強み\n[アリアドス]の真価は[sticky-web]による素早さ軸崩壊効果だ。相手チーム全体の素早さが1段階下がれば、後列の中低速物理アタッカーが素早さ軸を強制的に奪う構図が生まれる。さらに[toxic-spikes]を二重設置すれば、相手の交代ごとに[どく]ダメージが蓄積して長期戦を有利にできる。[insomnia]は相手の[sleep-powder]・[spore]類の眠り技を完全封殺する強力なリード特性である。\n\n## 弱点と対策\n素早さ40の低さと耐久70/70/70の薄さで、そもそもリード戦が不安定だ。[ほのお]・[ひこう]・[いわ]・[エスパー]の4種弱点はいずれも頻出攻撃タイプで、相手リードの即時攻撃一発で落とされる場面も多い。攻撃90も決定力が足りず、サポート役以外では活躍しづらい構造的限界がある。\n\n## 推奨技構成\n[sticky-web]はサポートの核技に固定し、[toxic-spikes]は二重設置で[どく]状態異常重ねを狙う必須スロットだ。[sucker-punch]は[アリアドス]の低い素早さを補う先制技で、相手の攻撃ターンを返せる唯一の対応カード。最後の枠は[poison-jab]で[フェアリー]・[くさ]牽制スロットを確保する。\n\n## 道具・特性・テラスタル\n道具は[focus-sash]がリード戦で1回の設置を必ず保障する最も安定した選択だ。[mental-herb]は相手の[taunt]使い対応として、一度無効化して設置を完了できるようにする。特性は[insomnia]が現メタで最も活用度が高く、[swarm]・sniperは汎用性が低い。テラスタルは[あく]で[エスパー]牽制と[かくとう]対応を得るか、[はがね]で多数の弱点を反転させる方向が実戦的。\n\n## 相性の良いパートナー\n[アリアドス]の[sticky-web]を活かすには、後列に中低速物理アタッカーを置くのが必須だ。[sticky-web]展開後に相手の素早さが落ちれば、タウロス・カビゴンのような中低速アタッカーが素早さ軸を奪う構図が生まれる。[toxic-spikes]の効率を高めるため、相手の[どく]免疫解除役を排除できるアタッカーを追加すると良い。\n\n## 立ち回り\n1ターン目[sticky-web]、2ターン目[toxic-spikes]の二重設置順が基本プランだ。相手の[taunt]使いが予想される場合は[mental-herb]で対応し、[sucker-punch]はHPが一桁まで削れた相手への最後の一撃カードとして使う。テラスタルは弱点攻撃を確定で踏む瞬間のために温存しよう。",
+  "tags": [
+    "johto",
+    "bug",
+    "poison",
+    "sticky-web",
+    "lead"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

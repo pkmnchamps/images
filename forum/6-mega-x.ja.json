@@ -1,0 +1,76 @@
+{
+  "pokemonId": 6,
+  "nameKo": "메가리자몽X",
+  "nameEn": "charizard-mega-x",
+  "formKey": "mega-x",
+  "types": [
+    "fire",
+    "dragon"
+  ],
+  "roles": [
+    "physical-attacker",
+    "setup-sweeper",
+    "sweeper"
+  ],
+  "recommendedAbility": "tough-claws",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "fire",
+    "dragon"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[メガリザードンX] バトル運用ガイド",
+  "summary": "[tough-claws]で接触技の火力を30%増幅する[ほのお]・[ドラゴン]物理積みスイーパー。[dragon-dance]一発でスイープに入る。",
+  "strengths": [
+    "[tough-claws]+攻撃130の接触技最高火力",
+    "[ほのお]・[ドラゴン] STABの高い牽制範囲",
+    "[dragon-dance]1段階後に全メタを抜ける素早さ"
+  ],
+  "weaknesses": [
+    "[いわ]・[じめん]・[ドラゴン]の2倍弱点",
+    "[いわ]先制技持ちには依然脆弱",
+    "積み1ターンを許されないと決定力不足"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "dragon-claw",
+      "reason": "[tough-claws]補正を受ける[ドラゴン] STABの主力技"
+    },
+    {
+      "move": "flare-blitz",
+      "reason": "[tough-claws]+[ほのお] STABの最大火力フィニッシャー"
+    },
+    {
+      "move": "earthquake",
+      "reason": "[いわ]・[はがね]・[でんき]牽制用の必須サブ"
+    },
+    {
+      "move": "dragon-dance",
+      "reason": "攻撃・素早さ同時ブーストでスイープへ突入"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "charizardite-x",
+      "reason": "メガシンカのための必須アイテム (charizardite-x)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガリザードンX]は[ほのお]・[ドラゴン]タイプとして再誕した物理積みスイーパーだ。特性[tough-claws]が全ての接触技の威力を1.3倍に増幅し、攻撃130と[dragon-dance]を組み合わせれば、たった1ターンのセットアップだけで相手全チームを抜き去って薙ぎ払うスノーボールプランが完成する。原種リザードンが特殊・[solar-power]軸ならXはその真逆方向の物理フィニッシャーだ。\n\n## 強み\n[tough-claws]補正を受ける[flare-blitz]と[dragon-claw]はメタ最上位クラスの物理火力だ。[ほのお]・[ドラゴン] STABの組み合わせは[くさ]・[むし]・[フェアリー]を半減・無効で奪われることがほとんどなく牽制範囲が広い。[dragon-dance]1段階後の実質素早さは150台に達し、スピード軸をそのまま持ち去る。メガシンカ後の防御111とHP78の組み合わせは、弱めの攻撃1発程度は受け流しながら積みの余地を作ってくれる。\n\n## 弱点と対策\n[いわ]・[じめん]・[ドラゴン]が2倍弱点で、特に[stone-edge]の使い手を前にしての[dragon-dance]ターンは非常にリスキーだ。先制技持ちが登場していれば積み自体が不可能になる。[flare-blitz]の反動被害(最大HPの1/3)のため長期戦のHP管理が厳しく、メガシンカ前1ターン目に弱点技を受ければスイープ前に沈みかねない。\n\n## 推奨技構成\n[dragon-claw]を主力STABとして固定し、反動なしで安定したダメージを出す。[flare-blitz]は[tough-claws]+STAB+Adamantの三段階補正でメタ最上級の物理一撃火力を出すフィニッシャーだ。[earthquake]は[いわ]・[はがね]・[でんき]タイプを牽制する必須サブで、[ドラゴン]・[ほのお]組み合わせでは通せない[はがね]壁を貫通する。最後は[dragon-dance]で攻撃・素早さを同時に積み、積みスイーパーのアイデンティティを完成させる。\n\n## 道具・特性・テラスタル\n道具は[charizardite-x]固定で代替はない。特性はメガシンカ後に自動で[tough-claws]へ変換されるため選択の余地がない。テラスタルは[flare-blitz]の火力を引き上げる[ほのお]タイプが基本で、[ドラゴン]タイプで[dragon-claw]の火力を上げる選択も有効だ。[かくとう]テラで[いわ]弱点を消す防御型選択肢も、上位大会でよく見られる注目候補となっている。\n\n## 相性の良いパートナー\n[メガリザードンX]は[stealth-rock]を除去してくれる味方なしには登場コストが重すぎるので、[defog]・[rapid-spin]使いとほぼセットだ。[dragon-dance]の積みターンを稼いでくれる[fake-out]・先制交代型サポーターと相性が良く、後続クリーナー1体が控えていれば[tough-claws]+[dragon-dance]のコンボが終わった後の締めも綺麗になる。相手の[フェアリー]カウンターを先んじて処理する[あく]タイプの味方がいれば理想的だ。\n\n## 立ち回り\n必ず[stealth-rock]が除去された状態で登場させ、積める相手が出た瞬間に即座に[dragon-dance]を1回積む。反動の累積を避けるため[dragon-claw]中心で削り、[flare-blitz]はキル確定の場面でのみ使う。",
+  "tags": [
+    "kanto",
+    "fire",
+    "dragon",
+    "mega",
+    "physical-sweeper",
+    "setup"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

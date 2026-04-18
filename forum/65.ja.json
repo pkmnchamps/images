@@ -1,0 +1,80 @@
+{
+  "pokemonId": 65,
+  "nameKo": "후딘",
+  "nameEn": "alakazam",
+  "formKey": null,
+  "types": [
+    "psychic"
+  ],
+  "roles": [
+    "special-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "magic-guard",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "psychic",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[フーディン] バトル運用ガイド",
+  "summary": "[magic-guard]+素早さ120+特攻135の古典[エスパー]スイーパー。間接ダメージ無効で積み行動の安定性が極めて高い。",
+  "strengths": [
+    "[magic-guard]で[どく]・やけど・フィールドダメージを完全無効化",
+    "素早さ120でメタの大半を抜き去る",
+    "特攻135+[nasty-plot]で2ターンスイープが可能"
+  ],
+  "weaknesses": [
+    "55/45/95の紙耐久",
+    "[あく]・[ゴースト]・[むし]の2倍弱点",
+    "先制技使いに対して極めて脆弱"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "psychic",
+      "reason": "主力の[エスパー] STAB"
+    },
+    {
+      "move": "focus-blast",
+      "reason": "[あく]・[はがね]・[ノーマル]を牽制する[かくとう]サブ"
+    },
+    {
+      "move": "shadow-ball",
+      "reason": "[ゴースト]・[エスパー]を牽制する[ゴースト]サブ"
+    },
+    {
+      "move": "nasty-plot",
+      "reason": "特攻1回積みでスイープ進入"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "focus-sash",
+      "reason": "先制技の一発を耐える保険"
+    },
+    {
+      "item": "life-orb",
+      "reason": "攻撃1.3倍の火力確保"
+    },
+    {
+      "item": "choice-scarf",
+      "reason": "スカーフで素早さ軸を押さえる変形"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[フーディン]は[エスパー]単タイプの古典特殊スイーパーで、特攻135と素早さ120の組合せによりメタ上位で安定した実戦性を維持する。隠れ特性[magic-guard]は間接ダメージを完全無効化し、紙耐久という構造的欠点を根本から解決する。[focus-sash]と組み合わせれば実質1ターン確定積み保険が完成する強力な設計だ。\n\n## 強み\n[magic-guard]は[フーディン]のアイデンティティである。[どく]・やけど・[stealth-rock]・[life-orb]反動など、あらゆる間接ダメージが無効化されるため、55/45/95の紙耐久でも安定した着地が可能となる。素早さ120はメタの大半を抜き去り、[nasty-plot]1回で特攻が2倍に跳ね上がる。その結果、[psychic]・[focus-blast]・[shadow-ball]でメタ全域を溶かす圏内に入る。\n\n## 弱点と対策\n55/45の極端な低耐久は、直接攻撃一発で即気絶するリスクを意味する。[あく]・[ゴースト]・[むし]の2倍弱点は構造的なもので、特に先制技使い(メガガルーラ、ウインディ等)に対しては[focus-sash]なしでは積み行動自体が不可能となる。スカーフ素早さ上位圏にも抜かれる可能性があるため、状況判断が必須だ。\n\n## 推奨技構成\n[psychic]を主力[エスパー] STABとして固定し、[focus-blast]で[あく]・[はがね]・[ノーマル]の牽制を賄う。[shadow-ball]は[ゴースト]・[エスパー]牽制用であり、[エスパー]同士の自己牽制問題を回避する必須枠となる。最後の枠は[nasty-plot]で積み、スイーパーフィニッシャーへの変換を完成させる。3攻撃変形なら[psyshock]を採用する例もあるが、[magic-guard]積み型には[psychic]の方が自然である。\n\n## 道具・特性・テラスタル\n道具は[focus-sash]が基本で、紙耐久+[magic-guard]の組合せと完璧にシナジーする。[life-orb]は[magic-guard]のおかげで反動ダメージを受けずに1.3倍補正をそのまま得られる強力な選択で、[choice-scarf]は積みを捨てて素早さ軸を丸ごと押さえる変形だ。特性は[magic-guard]固定。テラスタルは[エスパー]でSTAB火力を伸ばすか、[フェアリー]で[あく]・[ドラゴン]弱点をひっくり返す。\n\n## 相性の良いパートナー\n[フーディン]はスイーパーフィニッシャーなので、積み1ターンを作ってくれる[fake-out]リードやピボットラインとの組合せが望ましい。[あく]・[ゴースト]弱点カウンターとして[フェアリー]・[はがね]パートナーを配置し、相手の先制技対策として[prankster]防御手段を用意する。[stealth-rock]は[magic-guard]で無効化できるため、チーム全体の着地制限が大幅に軽減される点もメリットだ。\n\n## 立ち回り\n[focus-sash]の保険を信頼し安全ターンに[nasty-plot]を1回、その後[psychic]・[focus-blast]で確定キル狙いに移行する。[shadow-ball]は相手[エスパー]・[ゴースト]が出てきた時のみ使用し、テラスタルは[あく]・[ゴースト]弱点技が確定で入るタイミングで即発動する。",
+  "tags": [
+    "kanto",
+    "psychic",
+    "special-sweeper",
+    "magic-guard"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

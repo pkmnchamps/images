@@ -1,0 +1,83 @@
+{
+  "pokemonId": 59,
+  "nameKo": "히스이윈디",
+  "nameEn": "arcanine-hisui",
+  "formKey": "hisui",
+  "types": [
+    "fire",
+    "rock"
+  ],
+  "roles": [
+    "physical-attacker",
+    "bulky-attacker"
+  ],
+  "recommendedAbility": "intimidate",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "fire",
+    "rock"
+  ],
+  "recommendedEv": {
+    "hp": 20,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 12
+  },
+  "locale": "ja",
+  "title": "[ヒスイウインディ] バトル運用ガイド",
+  "summary": "[intimidate]サポート+[rock-slide]・[flare-blitz]の物理火力を結合した[ほのお]・[いわ]耐久アタッカー。ダブルでの[rock-slide]全体ひるみが強力。",
+  "strengths": [
+    "[intimidate]で相手の攻撃を1段階下げる支援",
+    "[ほのお]・[いわ]複合で[ほのお]自属性+広範な[いわ]牽制",
+    "攻撃115+HP95の耐久アタッカープロファイル"
+  ],
+  "weaknesses": [
+    "[みず]・[じめん]・[かくとう]・[いわ]の4種弱点",
+    "[いわ]追加で[みず]4倍弱点が生成される",
+    "素早さ90は中間圏"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "rock-slide",
+      "reason": "[いわ]自属性の全体技+ひるみの追加効果"
+    },
+    {
+      "move": "flare-blitz",
+      "reason": "[ほのお]自属性で最大威力の物理"
+    },
+    {
+      "move": "extreme-speed",
+      "reason": "シグネチャー+2優先度の先制技"
+    },
+    {
+      "move": "protect",
+      "reason": "安全ターンを確保"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "life-orb",
+      "reason": "物理火力への追加補正"
+    },
+    {
+      "item": "assault-vest",
+      "reason": "特殊耐久を補助"
+    },
+    {
+      "item": "safety-goggles",
+      "reason": "きのこのほうし・粉系を無効化"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[ヒスイウインディ]は[ほのお]・[いわ]複合タイプの耐久物理アタッカーで、[intimidate]のサポート特性と[rock-slide]の全体ひるみを結合したダブルVGCで効果的な運用が可能だ。攻撃115+HP95の安定した数値で交代出し運用と中速物理火力を両立できる。\n\n## 強み\n[intimidate]は登場時に相手物理攻撃者2体の攻撃を1段階下げる最強クラスのサポート特性。[rock-slide]はダブルで両側の相手を同時に攻撃し、30%のひるみ確率でターンテンポを掌握する。[flare-blitz]は[ほのお]自属性+攻撃115で主力火力を担い、[extreme-speed]は[ヒスイウインディ]のシグネチャー技として+2優先度の先制技を提供する。シングル環境でも[intimidate]+[extreme-speed]の組み合わせが機能する点は覚えておきたい。\n\n## 弱点と対策\n[rock]タイプ追加によって[みず]4倍弱点が生成され、[hydro-pump]・[surf]一発での即死の可能性がある。[かくとう]・[じめん]・[いわ]弱点もあるため耐性プロファイルは薄い。素早さ90はメタの高速圏に後手を踏むため、[extreme-speed]先制技と[intimidate]デバフに依存する設計が前提となる。\n\n## 推奨技構成\n[rock-slide]はダブル全体ひるみの核心だ。[flare-blitz]は[ほのお]自属性で最大威力の物理として主力を張り、[extreme-speed]はシグネチャー+2優先度の先制技でクリーニングに活躍する。[protect]は安全ターンの確保+パートナー積みの機会創出に重要な一枠で、ダブル運用では特に外せない。\n\n## 道具・特性・テラスタル\n道具は[life-orb]が物理火力補正のメイン選択肢。[assault-vest]は特殊耐久を補助する変形で、特殊弱点対応を厚くしたい時に選びたい。[safety-goggles]は粉系技のメタ運用に有効だ。特性は[intimidate]固定。テラスタルは[ほのお]で[flare-blitz]自属性を重ねるか、[いわ]で[rock-slide]自属性を重ね[みず]4倍弱点を緩和する選択が核心となる。\n\n## 相性の良いパートナー\n[みず]弱点カウンターとして[でんき]・[くさ]パートナーは必須だ。[かくとう]弱点のため[ひこう]・[fairy]パートナーも併置し、[tailwind]セッターで素早さ90を補助、[follow-me]使いで1ターン目の保護構成を組むと[ヒスイウインディ]の稼働率が大きく上がる。ダブル特化のチーム設計が性能を最大化する。\n\n## 立ち回り\n先発に据えて[intimidate]を誘発した後、[rock-slide]全体ひるみでテンポを掌握する。[ほのお]自属性の[flare-blitz]で主力ダメージを叩き、素早さ圏で抜かれる状況は[extreme-speed]先制技のフィニッシャーとして活用する。[みず]タイプが見えた瞬間は即交代が必須で、テラスタルは[みず]・[かくとう]技を確定で受ける瞬間にのみ切るのが最効率だ。",
+  "tags": [
+    "hisui",
+    "fire",
+    "rock",
+    "regional-form",
+    "intimidate",
+    "physical-attacker"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

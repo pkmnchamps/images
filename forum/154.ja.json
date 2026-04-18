@@ -1,0 +1,78 @@
+{
+  "pokemonId": 154,
+  "nameKo": "메가니움",
+  "nameEn": "meganium",
+  "formKey": null,
+  "types": [
+    "grass"
+  ],
+  "roles": [
+    "wall",
+    "support",
+    "tank"
+  ],
+  "recommendedAbility": "overgrow",
+  "recommendedNature": "bold",
+  "recommendedTera": [
+    "steel",
+    "water"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 0,
+    "def": 32,
+    "spa": 0,
+    "spd": 2,
+    "spe": 0
+  },
+  "locale": "ja",
+  "title": "[メガニウム] バトル運用ガイド",
+  "summary": "物理防御と両耐久を備えた[くさ]単サポーター。[light-screen]・[reflect]・[synthesis]でチーム全体の受け軸を底上げする。",
+  "strengths": [
+    "防御100+特防100の両耐久サポーター",
+    "[light-screen]・[reflect]でチーム全体の耐久支援",
+    "[synthesis]で自己回復ループを維持"
+  ],
+  "weaknesses": [
+    "[ほのお]・[こおり]・[ひこう]・[どく]・[むし]弱点",
+    "攻撃値が低く反撃の選択肢が不足",
+    "特殊[でんき]アタッカーの中立攻撃にも押し負け"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "giga-drain",
+      "reason": "HP回復しながら攻撃する[くさ] STAB"
+    },
+    {
+      "move": "light-screen",
+      "reason": "チーム全体の特殊耐久を補助"
+    },
+    {
+      "move": "reflect",
+      "reason": "チーム全体の物理耐久を補助"
+    },
+    {
+      "move": "synthesis",
+      "reason": "自己HP回復のループ技"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "leftovers",
+      "reason": "ループと組み合わせて長期生存を支える"
+    },
+    {
+      "item": "miracle-seed",
+      "reason": "[くさ] STAB火力増幅で回復量も向上"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガニウム]は[くさ]単タイプの両耐久サポーターで、100/82/100/83/100/80というバランスの取れたスタットラインを背景にチーム全体の受け軸を担う。火力は低いが、[light-screen]と[reflect]を両方とも覚えられる希少な支援系ポケモンという点が、チャンピオンズメタで依然として価値を持つ。[synthesis]で自己回復ループも確保でき、長期戦で粘る能力が高い。\n\n## 強み\n[メガニウム]の真の強みはサポートの幅だ。[light-screen]と[reflect]を同時に運用でき、[synthesis]で自己回復まで可能なので、スクリーンサイクル中に粘り続ける力が強い。[くさ] STABは[giga-drain]一本だけでもHP回復と攻撃を同時にこなし、相手の[みず]・[じめん]・[いわ]系を牽制できる。特防100のおかげで特殊アタッカー相手にも中立攻撃を耐えきれる場面が多い。\n\n## 弱点と対策\n[くさ]単タイプは[ほのお]・[こおり]・[ひこう]・[どく]・[むし]の5タイプに弱点が重なっており、相手の攻撃選択肢が非常に広い。攻撃値が低く反撃の選択肢が不足するうえ、相手の[taunt]持ちの前ではサポート役が完全に封じられて無力化する。高速特殊アタッカーの連続攻撃にも長く耐えられないため、長期ストール構図以外の役には不向き。\n\n## 推奨技構成\n[giga-drain]は[くさ] STAB+HP回復の主力に固定する。[light-screen]と[reflect]はチーム全体の耐久支援必須技として必ず含め、最後の枠は[synthesis]で自己HP回復ループを完成させる。[aromatherapy]は代替カードで、チーム全体の状態異常解除役を担える。\n\n## 道具・特性・テラスタル\n道具は[leftovers]が最も安定で、[synthesis]ループと組み合わせて長期生存力を極大化する。[miracle-seed]は[くさ] STAB火力増幅で[giga-drain]回復量も上昇する実戦オプション。特性は[overgrow]が基本で、[leaf-guard]は晴れチーム専用となり汎用性が低い。テラスタルは[はがね]で弱点を一気に反転させるか、[みず]で[ほのお]弱点を無効化する方向が実戦的だ。\n\n## 相性の良いパートナー\n[メガニウム]のスクリーン支援を活かすには、後列にセットアップスイーパーを配置するのが鉄則だ。[light-screen]ターンに[dragon-dance]・[swords-dance]の積みを強制的に成功させる構築が理想形。[ほのお]・[こおり]対策に[みず]・[じめん]パートナーを編成し、高速ピボット要員で[メガニウム]の交代タイミングを安定させる。\n\n## 立ち回り\n基本プランは[light-screen]→[reflect]の順に設置し、[synthesis]で自己HPを維持しつつ後列のセットアップスイーパーの着地を支援することだ。HPが半分以下に落ちたら即座に交代して[overgrow]発動構図を作り、テラスタルは弱点攻撃を確定で踏む瞬間のために温存しよう。",
+  "tags": [
+    "johto",
+    "grass",
+    "wall",
+    "support",
+    "screens"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

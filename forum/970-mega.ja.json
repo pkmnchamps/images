@@ -1,0 +1,75 @@
+{
+  "pokemonId": 970,
+  "nameKo": "메가킬라플로르",
+  "nameEn": "glimmora-mega",
+  "formKey": "mega",
+  "types": [
+    "rock",
+    "poison"
+  ],
+  "roles": [
+    "special-attacker",
+    "hazard-setter"
+  ],
+  "recommendedAbility": "adaptability",
+  "recommendedNature": "timid",
+  "recommendedTera": [
+    "poison",
+    "rock"
+  ],
+  "recommendedEv": {
+    "hp": 2,
+    "atk": 0,
+    "def": 0,
+    "spa": 32,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[メガキラフロル] バトル運用ガイド",
+  "summary": "[adaptability]で一致補正が2倍となる[いわ]・[どく]特殊アタッカー兼設置技展開役。特攻150+[power-gem]・[sludge-bomb]の火力が爆発する。",
+  "strengths": [
+    "[adaptability]によって一致補正が2倍",
+    "特攻150の最上級特殊火力",
+    "[stealth-rock]+[toxic-spikes]設置役も兼務"
+  ],
+  "weaknesses": [
+    "[じめん]・[みず]・[エスパー]・[はがね]の4重弱点",
+    "[いわ]タイプでも[かくとう]・[じめん]の4倍弱点は無し",
+    "耐久83/105/96は平均レベル"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "power-gem",
+      "reason": "[adaptability]2倍の[いわ]一致主力技"
+    },
+    {
+      "move": "sludge-bomb",
+      "reason": "[adaptability]2倍の[どく]一致+毒付与"
+    },
+    {
+      "move": "stealth-rock",
+      "reason": "設置技展開の核となる汎用ユーティリティ"
+    },
+    {
+      "move": "earth-power",
+      "reason": "[はがね]を抜く特殊サブ"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "glimmorite",
+      "reason": "メガシンカのための必須アイテム (glimmorite)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガキラフロル]は[adaptability]特性によって一致補正が1.5倍から2倍へ上昇する[いわ]・[どく]特殊アタッカー兼設置技展開役の複合ロールを担う。特攻150の最上級特殊火力+一致2倍補正により[power-gem]・[sludge-bomb]がメタ最上位の特殊アタッカー級に化ける性能を持つ。\n\n## 強み\n[adaptability]補正で[power-gem]の威力80+一致2倍=実効威力160の爆発的な[いわ]特殊アタッカーとなる。[sludge-bomb]も同じ補正を共有し、[フェアリー]・[くさ]牽制が可能だ。特攻150+素早さ101の組み合わせはメタ高速圏で安定した先制アタッカーとして機能する。設置技展開役として[stealth-rock]・[toxic-spikes]の展開能力も兼ね備えている。\n\n## 弱点と対策\n[じめん]・[みず]・[エスパー]・[はがね]の4重弱点を抱え、特に[じめん]2倍弱点は[earthquake]使いに致命的となる。耐久83/105/96は平均レベルで、弱点攻撃を受けると一撃KOのリスクがある。[unaware]特性で無視されない打点しか持たないため、積みスイーパーへの対応は制限的となる。\n\n## 推奨技構成\n[power-gem]は[adaptability]2倍[いわ]一致の主力技。[sludge-bomb]は[adaptability]2倍[どく]一致+30%毒付与で相手特殊アタッカーを機能停止にする。[stealth-rock]は設置技展開の核となる必須ユーティリティで、[earth-power]は[はがね]牽制の特殊サブとしてヒードラン・ナットレイ対策になる。\n\n## 道具・特性・テラスタル\n道具は[glimmorite]固定で代替は存在しない。特性はメガシンカ後に[adaptability]へ切り替わる。テラスタルは[どく]で[sludge-bomb]一致重ね+[じめん]無効獲得、あるいは[いわ]で[power-gem]一致重ねを極大化する選択が基本だ。対面構築なら[どく]テラで[じめん]弱点消去を優先するのが実戦的となる。\n\n## 相性の良いパートナー\n[じめん]・[みず]弱点カウンターに[くさ]・[ひこう]パートナーを配置する。[エスパー]弱点対策に[あく]・[むし]パートナーを同居させ、[tailwind]で素早さ101超えを確保する支援役も視野に入れたい。設置技展開後の交代サイクル運用を前提とするため、ピボットライン([u-turn]・[volt-switch])との組み合わせが噛み合う。\n\n## 立ち回り\n交代イン1ターン目に[stealth-rock]を撒き、次ターン以降は[power-gem]・[sludge-bomb]の高速特殊火力を連打する。[はがね]タイプが出てきたら[earth-power]に切り替え、[じめん]タイプが登場した瞬間に即座に交代する。設置技展開+攻撃アタッカーの複合ロールを前提に、ターン毎に次の一手を読んで判断するのが核心だ。相手のサイクル交代を読めた時は[toxic-spikes]をもう一枚差し込んで長期戦を有利に運び、テラスタルは[じめん]技が確定するタイミングで即[どく]に切り無効化の利点を最大化する。",
+  "tags": [
+    "paldea",
+    "rock",
+    "poison",
+    "mega",
+    "adaptability",
+    "hazard-setter"
+  ],
+  "updatedAt": "2026-04-14T00:00:00+09:00"
+}

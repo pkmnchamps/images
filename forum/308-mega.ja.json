@@ -1,0 +1,74 @@
+{
+  "pokemonId": 308,
+  "nameKo": "메가요가램",
+  "nameEn": "medicham-mega",
+  "formKey": "mega",
+  "types": [
+    "fighting",
+    "psychic"
+  ],
+  "roles": [
+    "physical-attacker",
+    "sweeper"
+  ],
+  "recommendedAbility": "pure-power",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "fighting",
+    "fairy"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 2,
+    "spa": 0,
+    "spd": 0,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[メガチャーレム] バトル運用ガイド",
+  "summary": "[pure-power]で実効攻撃400台に達する[かくとう]・[エスパー]物理ワイルドカードスイーパー。",
+  "strengths": [
+    "[pure-power]で実効攻撃400台の爆発的火力",
+    "[かくとう]・[エスパー] STABがメタの大半を等倍以上で貫通",
+    "[high-jump-kick]一撃でタンクすら溶かす"
+  ],
+  "weaknesses": [
+    "60/85/85のガラス細工両耐久",
+    "[ひこう]・[ゴースト]・[フェアリー]・[あく]耐性が厄介",
+    "先制技・choice-scarfへの対応が難しい"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "high-jump-kick",
+      "reason": "[pure-power]を活かした[かくとう] STAB決定打"
+    },
+    {
+      "move": "zen-headbutt",
+      "reason": "[どく]・[かくとう]・[フェアリー]牽制の[エスパー] STAB"
+    },
+    {
+      "move": "ice-punch",
+      "reason": "[ひこう]・[ドラゴン]・地面を突く必須牽制"
+    },
+    {
+      "move": "thunder-punch",
+      "reason": "[みず]・[ひこう]の後出しを狙撃する四枠目"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "medichamite",
+      "reason": "メガシンカのための必須アイテム (medichamite)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガチャーレム]は[pure-power]で攻撃ステータスが2倍になる[かくとう]・[エスパー]物理ワイルドカードだ。種族攻撃100に[pure-power]が乗ると実効攻撃は約400まで跳ね上がり、素早さ100まで兼ね備えたチャンピオンズメタでも最上位クラスの打撃力を維持する。プランは単純明快—メガシンカ後1~2ターン以内に相手タンクを砕いて引くことだ。\n\n## 強み\nメガシンカ後の実効攻撃力はchoice-bandなしで最上位水準に達し、[high-jump-kick]単発決定打でメタの[はがね]・[ノーマル]・[かくとう]タンクを一掃する。[zen-headbutt]は[どく]・[フェアリー]・[かくとう]の壁を裂く二つ目のSTABで、[ice-punch]と[thunder-punch]で[ひこう]・[ドラゴン]・[みず]への後出しを即座に罰する。素早さ100は平凡だがメタ中間速度帯のアタッカーを先制で仕留められる数値だ。\n\n## 弱点と対策\n耐久は60/85/85水準と薄く、先制技やchoice-scarf使いには一度の反撃さえ許されない。[かくとう]・[エスパー]の組み合わせは[ゴースト]・[フェアリー]・[あく]タイプ全般に無効・半減されるため、着地前の交代読みが必須だ。[high-jump-kick]ミス1回でHP半分が飛ぶリスクも常に計算に入れ、メガシンカ前の1ターンは原種特性のため想定外の被害を受けうる点も意識したい。\n\n## 推奨技構成\n[high-jump-kick]を主決定打に固定し、全てのタンクマッチアップで最大火力を叩き出す。[zen-headbutt]は[エスパー] STABとして[どく]・[かくとう]耐性を割り、[ice-punch]は[ひこう]・[ドラゴン]・地面交代を即座に罰する必須牽制となる。最後の枠は[thunder-punch]で[みず]・[ひこう]交代を狙撃するか、チーム構成によっては[psycho-cut]や[drain-punch]で安定感を上げることもできる。\n\n## 道具・特性・テラスタル\n道具は[medichamite]固定で、メガシンカ後の特性は自動的に[pure-power]となる。テラスタルは[かくとう]タイプで[high-jump-kick]の決定力をさらに引き上げるか、[フェアリー]タイプで[あく]・[ドラゴン]耐性に転換し先制技の一部を無力化する選択が核となる。[jolly]性格で素早さ最大値を確保し、同速勝負でも前に出る形を取る。\n\n## 相性の良いパートナー\n[tailwind]要員や[sticky-web]先発と組ませると[メガチャーレム]が全相手を抜ける状態へ移行する。[ゴースト]・[フェアリー]対策として[あく]・[はがね]パートナーを必ず1枚用意し、体力管理が脆い特性上[healing-wish]サポーターで2回目の着地を保証する構築が理想的だ。[fake-out]先発で1ターンの安全着地を作ってくれるパートナーも相性が良い。\n\n## 立ち回り\nメガシンカは着地と同時に発動して[pure-power]を活かすのが基本だ。[high-jump-kick]は相手[ゴースト]交代を読むターンでは必ず回避し、[protect]読みとテラスタルのタイミングを1セットで計算する。HP50%以下では[healing-wish]交代や捨て身プランを事前に準備し、最大火力を2回目のラウンドまで温存する。",
+  "tags": [
+    "hoenn",
+    "mega",
+    "fighting",
+    "psychic",
+    "pure-power"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

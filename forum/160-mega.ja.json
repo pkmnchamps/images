@@ -1,0 +1,75 @@
+{
+  "pokemonId": 160,
+  "nameKo": "메가장크로다일",
+  "nameEn": "feraligatr-mega",
+  "formKey": "mega",
+  "types": [
+    "water",
+    "dragon"
+  ],
+  "roles": [
+    "physical-attacker",
+    "setup-sweeper",
+    "sweeper"
+  ],
+  "recommendedAbility": "dragonize",
+  "recommendedNature": "jolly",
+  "recommendedTera": [
+    "dragon",
+    "water"
+  ],
+  "recommendedEv": {
+    "hp": 0,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 32
+  },
+  "locale": "ja",
+  "title": "[メガオーダイル] バトル運用ガイド",
+  "summary": "[dragonize]で[ノーマル]技を[ドラゴン] STABへ変換する[みず]・[ドラゴン]複合物理ブレイカー。[return]が[ドラゴン] STAB+1.2倍変換。",
+  "strengths": [
+    "[dragonize]で[return]が[ドラゴン] STAB1.2倍変換",
+    "攻撃160の圧倒的決定力",
+    "防御125で積みターンの安定性が向上"
+  ],
+  "weaknesses": [
+    "[フェアリー]2倍弱点が新規発生",
+    "素早さ78で依然として遅い",
+    "1ターン目は原種特性で変数"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "return",
+      "reason": "[dragonize]で[ドラゴン] STAB1.2倍変換の主力"
+    },
+    {
+      "move": "waterfall",
+      "reason": "[みず] STAB補助の決定打"
+    },
+    {
+      "move": "earthquake",
+      "reason": "[はがね]・[でんき]・[フェアリー]牽制必須"
+    },
+    {
+      "move": "dragon-dance",
+      "reason": "素早さ補完と攻撃ブーストの積み技"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "feraligatrite",
+      "reason": "メガシンカのための必須アイテム (feraligatrite)"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[メガオーダイル]は[みず]・[ドラゴン]複合タイプの物理ブレイカーで、特性[dragonize]を得て[ノーマル]技がすべて[ドラゴン] STABへ変換されるのが核だ。攻撃160と防御125は決定力と耐久の両面で上位級に入り、[return]一本だけでも[ドラゴン]タイプ中最強級の単一決定打になる。[dragon-dance]で素早さ78の弱点を補完すれば、前線全体を切り裂く終結者役を担える。\n\n## 強み\n[dragonize]はメガカイロスの[aerilate]と同じ方式で、[return]の威力を102(STAB)×1.2(特性補正)=実質威力122水準の[ドラゴン] STABへと変換する。攻撃160と結び付けば相手の受け駒でさえ2発圏内に入る決定力になる。防御125は物理アタッカーを相手にした積みターンの安定性を大きく引き上げ、90台の特防も薄くはないので中立攻撃一発なら余裕で受けきれる。\n\n## 弱点と対策\n複合変更の代償として[フェアリー]弱点が新規発生し、特に[moonblast]・[play-rough]系の攻撃は致命的だ。素早さ78は依然として低い数値なので、積み前はほぼ全ての状況で後攻を強制される。1ターン目は原種特性である[sheer-force]・[torrent]状態であり、着地ターンの攻撃は予想と微妙に違う挙動になる可能性がある。\n\n## 推奨技構成\n[return]は[dragonize]で[ドラゴン] STAB1.2倍変換の主力に固定し、[waterfall]は[みず] STAB補助の決定打として必須だ。[earthquake]は[はがね]・[でんき]・[フェアリー]牽制の汎用カバレッジで、最後の枠は[dragon-dance]で素早さ補完と攻撃ブーストを同時に解決する。[ice-punch]で[ドラゴン]牽制を強化する派生も可能。\n\n## 道具・特性・テラスタル\n道具はメガストーンの[feraligatrite]固定だ。特性は進化後に[dragonize]へ自動切替されるため、1ターン目の原種特性は戦略的に無視する。テラスタルは[ドラゴン]で[return]威力をさらに極大化するか、[みず]で[フェアリー]弱点対応と[waterfall]火力を底上げする2方向が実戦的だ。\n\n## 相性の良いパートナー\n[フェアリー]対応のために[どく]・[はがね]パートナーを必ず編成する。素早さ弱点を埋めるために[tailwind]使いやピボットアタッカーとの組み合わせも実戦的で、相手[でんき]対策に[じめん]タイプパートナーを追加する。[stealth-rock]除去役で着地安定性を確保したい。\n\n## 立ち回り\nメガシンカは安全な交代ターンに行い、[dragon-dance]は相手受け駒の着地瞬間を狙って積む。積み後は[return]で広範囲整理、[earthquake]と[waterfall]で相手受け駒への対応を選択する。[フェアリー]タイプが控えに見えている場合は[earthquake]を先置きして威圧をかけ、安全が確保されてから[return]に戻す段取りが実戦的だ。テラスタルは[フェアリー]攻撃が確定する瞬間のために温存しよう。",
+  "tags": [
+    "johto",
+    "water",
+    "dragon",
+    "mega",
+    "dragonize"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

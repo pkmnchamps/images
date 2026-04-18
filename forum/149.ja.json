@@ -1,0 +1,79 @@
+{
+  "pokemonId": 149,
+  "nameKo": "망나뇽",
+  "nameEn": "dragonite",
+  "formKey": null,
+  "types": [
+    "dragon",
+    "flying"
+  ],
+  "roles": [
+    "physical-attacker",
+    "setup-sweeper",
+    "tank"
+  ],
+  "recommendedAbility": "multiscale",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "normal",
+    "steel"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 0
+  },
+  "locale": "ja",
+  "title": "[カイリュー] バトル運用ガイド",
+  "summary": "[multiscale]で満タンHP時の被ダメージを半減する[ドラゴン]・[ひこう]積みスイーパー。[extreme-speed]+[dragon-dance]が決め手。",
+  "strengths": [
+    "[multiscale]で満タンHP着地時の被ダメ半減",
+    "[extreme-speed]の先制でクリナー役も兼任",
+    "[dragon-dance]+攻撃134の爆発的決定力"
+  ],
+  "weaknesses": [
+    "[こおり]4倍弱点が致命的",
+    "[multiscale]解除後は耐久が体感で低下",
+    "[stealth-rock]で着地ごとに25%消失"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "dragon-dance",
+      "reason": "攻撃・素早さを同時にブーストする積み技"
+    },
+    {
+      "move": "extreme-speed",
+      "reason": "優先度+2の貴重な先制クリナー技"
+    },
+    {
+      "move": "earthquake",
+      "reason": "[はがね]・[いわ]・[でんき]を牽制する必須"
+    },
+    {
+      "move": "outrage",
+      "reason": "[ドラゴン] STABの決定打"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "lum-berry",
+      "reason": "状態異常を1回無効化して積みを保障"
+    },
+    {
+      "item": "leftovers",
+      "reason": "耐久維持と長期積みを支援"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[カイリュー]は[ドラゴン]・[ひこう]複合タイプの積みスイーパー兼フィニッシャーで、隠れ特性[multiscale]を活用した満タンHP着地ベースの立ち回りが核となる。攻撃134とHP91/防御95/特防100の両耐久ラインは受け駒とアタッカーのハイブリッドを可能にし、[extreme-speed]の先制技と[dragon-dance]積みの組み合わせでフィニッシャー役も担える。チャンピオンズメタでも依然として上位級の枠を占める古典エース。\n\n## 強み\n[multiscale]は[カイリュー]が満タンHPで着地した際の被ダメージを半減する特性で、事実上もう一撃耐える効果を生み出す。さらに[dragon-dance]を1回積めば実質素早さ120台・実質攻撃200台水準の爆発的決定力が確保される。[extreme-speed]は優先度+2という珍しい先制技で、積みなしでもクリナーの役を果たせる核のスロットだ。\n\n## 弱点と対策\n[カイリュー]の最も致命的な弱点は[こおり]4倍だ。[ice-beam]・[ice-shard]・[icicle-crash]の一撃があれば[multiscale]があっても危険で、先制[こおり]技にはほぼ即死する。[stealth-rock]で着地ごとにHPの25%を失うため[multiscale]維持が崩れる負担も大きく、ハザード除去パートナーを必ず編成したい。積み前に相手の特殊アタッカーに交代を強要される構造的限界もある。\n\n## 推奨技構成\n[dragon-dance]は積みの基本で、1回積むだけで勝負が決まりうる。[extreme-speed]は優先度+2の先制技でクリナー役を担い、[earthquake]は[はがね]・[いわ]・[でんき]アタッカーへの牽制で必須だ。最後の枠は[outrage]で[ドラゴン] STABの決定打を確保するか、[dragon-claw]でロックインなしの安定STABを選べる。\n\n## 道具・特性・テラスタル\n道具は[lum-berry]で相手の[thunder-wave]・[will-o-wisp]を1回無効化し、積みターンを保障するのが最優先。[leftovers]は[multiscale]維持と長期積みプランを支える代替。特性は[multiscale]固定で、[inner-focus]は活用度が低い。テラスタルは[ノーマル]で[こおり]弱点を消しつつ[extreme-speed]の威力を極大化するか、[はがね]で[こおり]・[ドラゴン]弱点を同時に反転させる方向が実戦的だ。\n\n## 相性の良いパートナー\n[こおり]対策に[はがね]・[ほのお]パートナーを必ず編成し、[stealth-rock]除去役として[rapid-spin]または[defog]使いを加える。[multiscale]維持が重要なので、残存HP回復支援に[wish]使いを後列に置けば安定性が大幅に上がる。相手物理受けへの対策に特殊ブレイカーもチームに入れ、両面攻撃の構えを作る。\n\n## 立ち回り\n基本プランはハザード除去→[multiscale]状態で着地→[dragon-dance]→クリナー化だ。[extreme-speed]は一桁HPまで削られた相手の先制クリナーを潰す最後のカードとして温存し、テラスタルは[こおり]攻撃が来る角度が確定する瞬間のために必ず保存する。",
+  "tags": [
+    "kanto",
+    "dragon",
+    "flying",
+    "multiscale",
+    "dragon-dance"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}

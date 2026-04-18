@@ -1,0 +1,78 @@
+{
+  "pokemonId": 899,
+  "nameKo": "신비록",
+  "nameEn": "wyrdeer",
+  "formKey": null,
+  "types": [
+    "normal",
+    "psychic"
+  ],
+  "roles": [
+    "physical-attacker",
+    "tank"
+  ],
+  "recommendedAbility": "sap-sipper",
+  "recommendedNature": "adamant",
+  "recommendedTera": [
+    "fairy",
+    "normal"
+  ],
+  "recommendedEv": {
+    "hp": 32,
+    "atk": 32,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 0
+  },
+  "locale": "ja",
+  "title": "[アヤシシ] バトル運用ガイド",
+  "summary": "[intimidate]または[sap-sipper]でサポートしつつ[megahorn]・[psyshield-bash]で物理打点を通す堅牢な[ノーマル]・[エスパー]タンク。",
+  "strengths": [
+    "HP103で中盤の耐久を確保",
+    "[sap-sipper]で[くさ]技完全無効+攻撃1段階上昇",
+    "[megahorn]・[psyshield-bash]で[くさ]・[エスパー]代替打点"
+  ],
+  "weaknesses": [
+    "[あく]・[ゴースト]・[むし]2倍が刺さりやすい",
+    "素早さ65で後手を踏む場面が多い",
+    "特殊アタッカー相手に特防75が心許ない"
+  ],
+  "recommendedMoves": [
+    {
+      "move": "psyshield-bash",
+      "reason": "STAB+防御上昇効果を持つ物理[エスパー]の主力"
+    },
+    {
+      "move": "megahorn",
+      "reason": "[ゴースト]・[あく]・[エスパー]を抜く[むし]の打点"
+    },
+    {
+      "move": "earthquake",
+      "reason": "[はがね]・[どく]・[いわ]を牽制する定番打点"
+    },
+    {
+      "move": "body-slam",
+      "reason": "まひ誘発の[ノーマル] STABで後続の起点を作る"
+    }
+  ],
+  "recommendedItems": [
+    {
+      "item": "leftovers",
+      "reason": "HP103タンクプランの持続回復源として定番"
+    },
+    {
+      "item": "sitrus-berry",
+      "reason": "1回だけHPを大きく戻す緊急ボタン"
+    }
+  ],
+  "bodyMarkdown": "## 概要\n[アヤシシ]は種族値103/105/72/105/75/65の[ノーマル]・[エスパー]物理タンクで、チャンピオンズMAではHP103と特性[sap-sipper]の組み合わせで[くさ]タイプを完全にシャットダウンする準耐久アタッカー枠を担う。基本攻撃105に[psyshield-bash]という専用技級の物理STABを備えるのが構造的な強みだ。\n\n## 強み\n[sap-sipper]は相手が[くさ]技([powder]含む)を押した瞬間に攻撃が1段階上昇し、ダメージを完全に無視する。[spore]・[sleep-powder]・[leech-seed]を使うチームを構造的にカウンターする効果を持つ。[psyshield-bash]は使用のたびに防御が上昇する積み兼用の物理STABで、[megahorn]は[エスパー]ミラーで[ゴースト]・[あく]ラインを直接砕くサブウェポンとなる。HP103+防御72は[leftovers]と合わせて中盤の交代プランを成立させる。\n\n## 弱点と対策\n[あく]・[ゴースト]・[むし]2倍が痛い。マスカーニャの[knock-off]、ドラパルトの[phantom-force]、ドドゲザンの[sucker-punch]一発で崩れる可能性がある。素早さ65は上位スイーパーより大幅に遅く、特防75では特殊アタッカー相手の安定性が乏しい。対面読みの精度がそのまま生存率に直結する。\n\n## 推奨技構成\n[psyshield-bash]は必ず採用する。防御上昇効果でターンごとに実質耐久が膨張していくため、積み型として振る舞える。[megahorn]は[ゴースト]・[あく]・[エスパー]牽制の必須サブで、[earthquake]は[はがね]・[いわ]・[どく]牽制と完璧に噛み合う。最終枠は[body-slam]でまひ誘発役を加え、後続のテラスタル・積みプランの起点を作る。[body-slam]の代わりに[throat-chop]で[あく]ミラー技を入れる選択もある。\n\n## 道具・特性・テラスタル\n道具は[leftovers]が第一候補で、HP103と合わせて毎ターン持続回復を取りに行く。[sitrus-berry]は1ターンの奇襲的回復を好む攻撃型セットと相性が良い。特性は[sap-sipper]固定で、[intimidate]はダブルのサポート型で検討可能だがシングルでは[くさ]対策価値が上回る。テラスタルは[あく]・[ゴースト]弱点を消す[フェアリー]、あるいはSTAB強化と弱点整理を兼ねる[ノーマル]テラが主力だ。\n\n## 相性の良いパートナー\n[アヤシシ]は遅いタンクなので、先発で対面を取りに行く速いピボット([u-turn]ユーザー)が必要となる。[あく]・[ゴースト]弱点を補完する[フェアリー]・[かくとう]パートナーと、特殊アタッカーを受け止める特殊タンクを同居させたい。[くさ]対策という役割を活かすなら、相手[くさ]スイーパー(キノガッサ・フシギバナ系)の着地に合わせてスイッチインするプランを組む必要がある。\n\n## 立ち回り\n[くさ]技が確定するターンにスイッチインすれば[sap-sipper]で攻撃上昇と攻撃ターンをおまけで得られる。[psyshield-bash]は相手物理アタッカーの前でできる限り連打して防御スタックを積み上げ、HPが50%を切ったら[megahorn]/[earthquake]で最後の一撃を狙う。テラスタルは[sucker-punch]・[shadow-sneak]が飛んでくることが確定したターンに即[フェアリー]へ発動する。",
+  "tags": [
+    "hisui",
+    "normal",
+    "psychic",
+    "tank",
+    "sap-sipper"
+  ],
+  "updatedAt": "2026-04-11T00:00:00+09:00"
+}
