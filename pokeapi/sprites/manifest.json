@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2026-06-25T12:20:48.644Z",
+  "source": "https://github.com/PokeAPI/sprites (via pokeapi.co)",
+  "baseUrl": "",
+  "note": "정적 호스팅 깃에 이 폴더들을 그대로 올린 뒤, baseUrl을 그 raw 베이스로 설정. 앱은 baseUrl + \"/\" + 상대경로로 이미지 로드.",
+  "license": "Pokémon 이미지 © Nintendo / Game Freak / The Pokémon Company. 비공식 팬/비상업 용도 가정. 배포 시 라이선스·고지 확인.",
+  "structure": {
+    "official-artwork/<pokemonId>.png": "공식 아트워크(상세 화면). 파일명 = PokeAPI pokemon id(폼 포함, 예 445, 10033)",
+    "default/<pokemonId>.png": "게임 도트 스프라이트(목록·아바타). 파일명 = pokemon id",
+    "items/<itemName>.png": "도구 스프라이트. 파일명 = PokeAPI item name(예 choice-band)"
+  },
+  "counts": {
+    "official-artwork": 1337,
+    "default": 1339,
+    "items": 388
+  },
+  "sizes": {
+    "official-artwork": "162.2MB",
+    "default": "1.4MB",
+    "items": "0.1MB"
+  }
+}

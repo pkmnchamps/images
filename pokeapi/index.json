@@ -1,0 +1,1 @@
+{"source":"pokeapi.co/api/v2","generatedAt":"2026-06-25T12:19:21.215Z","scope":"national-dex","counts":{"pokemon":1351,"species":1025,"moves":833,"abilities":312,"types":18,"evolutionChains":541,"items":450},"note":"PokeAPI 구조 유지(lean). pokemon.moves의 version_group_details, 전세대 스프라이트 트리 제거. 원본 전체는 data/pokeapi/cache/."}
